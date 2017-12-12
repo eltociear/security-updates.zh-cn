@@ -29,6 +29,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新以及与�
 
 有关受影响软件的详细信息，请参阅下一节**受影响的软件**。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -186,6 +187,8 @@ Adobe Flash Player</p></td>
 </table>
 <p> </p>
 
+
+
 利用指数
 --------
 
@@ -199,6 +202,7 @@ Adobe Flash Player</p></td>
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -1304,7 +1308,6 @@ Internet Explorer 信息泄漏漏洞
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -1319,6 +1322,7 @@ Internet Explorer 信息泄漏漏洞
 ### Windows 操作系统和组件（表 2-1）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -1458,7 +1462,7 @@ Windows Vista x64 版本 Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1616,7 +1620,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1814,7 +1818,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2000,7 +2004,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2198,7 +2202,7 @@ Windows 8.1（用于基于 x64 的系统）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2388,7 +2392,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2481,7 +2485,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2755,7 +2759,7 @@ Windows 10 版本 1607（用于基于 x64 的系统）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3063,10 +3067,11 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -3076,7 +3081,7 @@ Windows Server 2012 R2（服务器核心安装）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3194,7 +3199,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3342,7 +3347,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3524,7 +3529,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3706,7 +3711,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3888,7 +3893,7 @@ Windows 8.1（用于基于 x64 的系统）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -4070,7 +4075,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -4161,7 +4166,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -4423,7 +4428,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -4711,12 +4716,13 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft .NET Framework – 仅安全版本
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5283,12 +5289,13 @@ Microsoft .NET Framework 3.5
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft .NET Framework – 每月汇总版本
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5855,12 +5862,13 @@ Microsoft .NET Framework 3.5
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft 通信平台和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6135,12 +6143,13 @@ Microsoft Live Meeting 2007 Console
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft 开发人员工具和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6241,12 +6250,13 @@ Microsoft Silverlight 5 Developer Runtime（安装在所有受支持的 Microsof
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office 套件和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -6727,12 +6737,13 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office Services 和 Web Apps
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -6899,7 +6910,7 @@ Office Online Server
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 检测和部署工具及指导
