@@ -13,7 +13,7 @@ Microsoft 安全公告摘要（2016 年 8 月）
 
 发布日期：2016 年 8 月 9 日 | 更新时间：2017 年 6 月 13 日
 
-**版本：**2.0
+**版本：**3.0
 
 本公告摘要列出了 2016 年 8 月发布的安全公告。
 
@@ -29,6 +29,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 
 有关受影响软件的详细信息，请参阅**受影响的软件**部分。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -53,7 +54,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=821136">MS16-095</a></p></td>
 <td style="border:1px solid black;"><p><strong>Internet Explorer 累积安全更新 (3177356)<br />
 </strong>此安全更新修复了 Internet Explorer 中的多个漏洞。如果用户使用 Internet Explorer 查看经特殊设计的网页，那么其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。如果当前用户使用管理用户权限登录，那么攻击者便可控制受影响的系统。攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3176492">3176492</a><br />
@@ -66,7 +67,7 @@ Internet Explorer</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=821137">MS16-096</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Edge 累积安全更新 (3177358)<br />
 </strong>此安全更新修复了 Microsoft Edge 中的多个漏洞。如果用户使用 Microsoft Edge 查看经特殊设计的网页，那么其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3176492">3176492</a><br />
@@ -79,7 +80,7 @@ Microsoft Edge</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=821146">MS16-097</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft 图形组件安全更新 (3177393)<br />
 </strong>此安全更新修复了 Microsoft Windows、Microsoft Office、Skype for Business 和 Microsoft Lync 中的多个漏洞。如果用户访问经特殊设计的网站或打开经特殊设计的文档，则此漏洞可能允许远程执行代码。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>可能需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3176492">3176492</a><br />
@@ -106,7 +107,7 @@ Microsoft Communications 平台和软件</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=821165">MS16-099</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Office 安全更新程序 (3177451)<br />
 </strong>此安全更新程序修复了 Microsoft Office 中的漏洞。如果用户打开经特殊设计的 Microsoft Office 文件，那么这些漏洞中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以在当前用户的上下文中运行任意代码。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响较小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>可能要求重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -117,7 +118,7 @@ Microsoft Communications 平台和软件</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=822552">MS16-100</a></p></td>
 <td style="border:1px solid black;"><p><strong>安全启动的安全更新 (3179577)<br />
 </strong>此安全更新修复了 Microsoft Windows 中的一个漏洞。如果攻击者安装了一个受影响的引导管理器并绕过 Windows 安全功能，则此漏洞可能允许绕过安全功能。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 安全功能绕过</p></td>
 <td style="border:1px solid black;"><p>无需重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3179577">3179577</a><br />
@@ -128,7 +129,7 @@ Microsoft Communications 平台和软件</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=821576">MS16-101</a></p></td>
 <td style="border:1px solid black;"><p><strong>Windows 身份验证方法安全更新程序 (3178465)<br />
 </strong>此安全更新程序修复了 Microsoft Windows 中的多个漏洞。如果攻击者在已加入域的系统上运行经特殊设计的应用程序，其中更为严重的漏洞可能允许特权提升。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3176492">3176492</a><br />
@@ -140,7 +141,7 @@ Microsoft Communications 平台和软件</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=823207">MS16-102</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Windows PDF 库安全更新 (3182248)</strong><br />
 此安全更新修复了 Microsoft Windows 中的一个漏洞。如果用户在线查看经特殊设计的 PDF 内容或打开经特殊设计的 PDF 文档，则该漏洞可能允许远程执行代码。成功利用该漏洞的攻击者可以获得与当前用户相同的用户权限。如果当前用户使用管理用户权限登录，那么攻击者便可控制受影响的系统。攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>可能需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3176492">3176492</a><br />
@@ -152,7 +153,7 @@ Microsoft Communications 平台和软件</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=823241">MS16-103</a></p></td>
 <td style="border:1px solid black;"><p><strong>ActiveSyncProvider 安全更新 (3182332)<br />
 </strong>此安全更新修复了 Microsoft Windows 中的一个漏洞。Universal Outlook 未能建立安全连接时，此漏洞可能导致信息泄漏。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 信息泄漏</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3176492">3176492</a><br />
@@ -161,6 +162,7 @@ Microsoft Communications 平台和软件</p></td>
 </tr>  
 </tbody>  
 </table>
+
   
 利用指数  
 --------
@@ -178,7 +180,7 @@ Microsoft Communications 平台和软件</p></td>
 <table style="border:1px solid black;">  
 <tr>
 <td style="border:1px solid black;">
-**CVE ID**                    
+**CVE ID**                    
 
 </td>
 <td style="border:1px solid black;">
@@ -1004,7 +1006,6 @@ Universal Outlook 信息泄漏漏洞
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -1016,7 +1017,7 @@ Universal Outlook 信息泄漏漏洞
 
 **注意** 你可能必须为单个漏洞安装几个安全更新程序。查看列出的每个公告标识符的整列，核实必须安装的更新程序（基于系统上已安装的程序或组件）。
 
- 
+ 
 
 ### Windows 操作系统和组件（表 2-1）
 
@@ -1078,7 +1079,7 @@ Windows Vista Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 9   
+Internet Explorer 9   
 (3175443)  
 （严重）
 
@@ -1106,7 +1107,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 9   
+Internet Explorer 9   
 (3175443)  
 （严重）
 
@@ -1184,7 +1185,7 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 9   
+Internet Explorer 9   
 (3175443)  
 （中等）
 
@@ -1212,7 +1213,7 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 9   
+Internet Explorer 9   
 (3175443)  
 （中等）
 
@@ -1316,13 +1317,13 @@ Windows 7（用于 32 位系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 11               
+Internet Explorer 11               
 (4021558)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
-不适用                   
+不适用                   
 
 </td>
 <td style="border:1px solid black;">
@@ -2175,9 +2176,7 @@ Windows Server 2012 R2（服务器核心安装）
 
 </td>
 </tr>
-</table>
-<p> </p>
- 
+</table> 
 
 ### Windows 操作系统和组件（表 2-2）
 
@@ -3301,9 +3300,7 @@ Windows Server 2012 R2（服务器核心安装）
 
 </td>
 </tr>
-</table>
-<p> </p>
- 
+</table> 
 
 ### Microsoft Office 套件和软件
 
@@ -3711,7 +3708,7 @@ Microsoft Word 2016（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-**无 **
+**无 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3761,7 +3758,7 @@ Microsoft Word for Mac 2011
 
 </td>
 <td style="border:1px solid black;">
-**无 **
+**无 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3844,12 +3841,12 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-097 须知**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
 
- 
+ 
 
 ### Microsoft 通信平台和软件
 
@@ -4128,7 +4125,7 @@ Microsoft Live Meeting 2007 Console
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-097 须知**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
@@ -4145,7 +4142,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 
 Application Compatibility Toolkit 随附的更新兼容性评估程序组件针对安装的应用程序协助简化 Windows 更新的测试和验证。
 
-有关的这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](http://technet.microsoft.com/zh-cn/security/cc297183)。 
+有关的这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](http://technet.microsoft.com/zh-cn/security/cc297183)。 
 
 鸣谢
 ----
