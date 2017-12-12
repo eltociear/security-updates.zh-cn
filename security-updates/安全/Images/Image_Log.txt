@@ -1,6 +1,0 @@
-08_24_2017_17_24_02	30511427	https://technet.microsoft.com/zh-cn/ff629023.1.jpg
-08_24_2017_17_24_02	30511427	https://technet.microsoft.com/zh-cn/ff629023.2.jpg
-08_24_2017_17_24_02	30511427	https://technet.microsoft.com/zh-cn/ff629023.3.jpg
-08_24_2017_17_24_02	30511427	https://technet.microsoft.com/zh-cn/ff629023.4.jpg
-08_24_2017_17_24_02	15480185	https://technet.microsoft.com/zh-cn/Bb821241.arrow_px_down(zh-cn,TechNet.10).gif
-08_24_2017_17_24_02	15480185	https://technet.microsoft.com/zh-cn/Bb821241.arrow_px_up(zh-cn,TechNet.10).gif
