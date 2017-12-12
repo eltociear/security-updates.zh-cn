@@ -29,6 +29,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 
 有关受影响软件的详细信息，请参阅下一节“**受影响的软件**”。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -190,7 +191,6 @@ Adobe Flash Player</p></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
 
 利用指数
 --------
@@ -198,7 +198,7 @@ Adobe Flash Player</p></td>
 <span id="sectionToggle1"></span>
 下表提供了本月解决的各个漏洞的利用评估。这些漏洞按公告 ID、CVE ID 的顺序列出。仅包括公告中严重等级为“严重”或“重要”的漏洞。
 
-**如何使用该表？**
+**如何使用该表？**  
 
 对于您可能需要安装的每个安全更新，使用该表了解安全公告发布 30 天内发生代码执行和拒绝服务漏洞的可能性。根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/zh-cn/security/cc998259)。
 
@@ -1234,7 +1234,6 @@ Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -1251,6 +1250,7 @@ Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
 ### Windows 操作系统和组件（表 2-1）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -1414,7 +1414,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1608,7 +1608,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1756,7 +1756,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1900,7 +1900,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2064,7 +2064,7 @@ Windows 8.1（用于基于 x64 的系统）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2222,7 +2222,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2330,7 +2330,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2560,7 +2560,7 @@ Windows 10 版本 1511（用于基于 x64 的系统）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2811,12 +2811,13 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -4499,12 +4500,13 @@ Windows Server 2012 R2
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office 套件和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -4887,7 +4889,7 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-015 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
@@ -4897,6 +4899,7 @@ Microsoft Word Viewer
 ### Microsoft Office Services 和 Web Apps
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5104,7 +5107,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-015 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
@@ -5114,6 +5117,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 ### Microsoft Server 软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5192,7 +5196,7 @@ Microsoft SharePoint Foundation 2013 Service Pack 1
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-015 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
