@@ -13,7 +13,7 @@ Microsoft 安全公告摘要（2016 年 7 月）
 
 发布日期：2016年7月12日
 
-**版本：** 1.0
+**版本：** 2.0
 
 本公告摘要列出了 2016 年 7 月发布的安全公告。
 
@@ -29,6 +29,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 
 有关受影响软件的详细信息，请参阅**受影响的软件**部分。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -165,8 +166,9 @@ Adobe Flash Player</p></td>
 <td style="border:1px solid black;"><p>Microsoft Windows</p></td>
 </tr>  
 </tbody>  
-</table>
-  
+</table>  
+
+
 利用指数  
 --------
   
@@ -180,6 +182,7 @@ Adobe Flash Player</p></td>
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
 <p> </p>
+
 <table style="border:1px solid black;">  
 <tr>
 <td style="border:1px solid black;">
@@ -1373,7 +1376,8 @@ Windows 内核信息泄漏漏洞
 </td>
 </tr>
 </table>
-<p> </p>
+
+
 
 受影响的软件
 ------------
@@ -1390,6 +1394,7 @@ Windows 内核信息泄漏漏洞
 ### Windows 操作系统和组件（表 2-1）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -2627,12 +2632,13 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -4030,12 +4036,13 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office 套件和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -4507,7 +4514,7 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-088 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
@@ -4515,6 +4522,7 @@ Microsoft Word Viewer
 ### Microsoft Office Services 和 Web Apps
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -4745,7 +4753,7 @@ Office Online Server
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-088 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
