@@ -31,6 +31,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新以及与�
 
 有关受影响软件的详细信息，请参阅下一节**受影响的软件**。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -177,6 +178,7 @@ Adobe Flash Player</p></td>
 </tr>  
 </tbody>  
 </table>
+
   
 利用指数  
 --------
@@ -1346,7 +1348,6 @@ Windows 通用日志文件系统驱动程序信息泄漏漏洞
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -3313,7 +3314,7 @@ Windows Server 2016（用于基于 x64 的系统）
 </td>
 </tr>
 </table>
-<p> </p>
+
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
@@ -5124,9 +5125,7 @@ Windows Server 2016（用于基于 x64 的系统）
 
 </td>
 </tr>
-</table>
-<p> </p>
- 
+</table> 
 
 ### Microsoft .NET Framework – 仅安全版本
 
@@ -5502,7 +5501,7 @@ Microsoft .NET Framework 4.6.2
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-155 须知**
 
 此公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
@@ -5881,7 +5880,7 @@ Microsoft .NET Framework 4.6.2
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-155 须知**
 
 此公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
@@ -6326,7 +6325,6 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
 <sup>[1]</sup>此条目仅适用于即点即用 (C2R) 版本。
 
 **MS16-148 须知**
@@ -6478,7 +6476,7 @@ Microsoft Office Web Apps 2010 Service Pack 2
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-148 须知**
 
 此公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
