@@ -29,6 +29,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新以及与�
 
 有关受影响软件的详细信息，请参阅**受影响的软件**部分。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -198,6 +199,8 @@ Adobe Flash Player</p></td>
 </table>
 <p> </p>
 
+
+
 利用指数
 --------
 
@@ -211,6 +214,7 @@ Adobe Flash Player</p></td>
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -1642,7 +1646,6 @@ PDF 库信息泄漏漏洞
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -1659,6 +1662,7 @@ PDF 库信息泄漏漏洞
 ### Windows 操作系统和组件（表 2-1）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -3299,12 +3303,13 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="6">
@@ -4688,12 +4693,13 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office 套件和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5166,7 +5172,7 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
+
 <sup>[1]</sup>此条目仅适用于即点即用 (C2R) 版本。
 
  
@@ -5174,6 +5180,7 @@ Microsoft Word Viewer
 ### Microsoft Office Services 和 Web Apps
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5425,12 +5432,13 @@ Office Online Server
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Server 软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5621,10 +5629,11 @@ Microsoft Exchange Server 2016 累积更新程序 2
 </td>
 </tr>
 </table>
-<p> </p>
+
 ### Microsoft 开发人员工具和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -5634,7 +5643,7 @@ Microsoft Exchange Server 2016 累积更新程序 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符             **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -5677,7 +5686,7 @@ Microsoft Silverlight 5 在 Microsoft Windows 服务器所有支持版本上安�
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 检测和部署工具及指导

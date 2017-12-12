@@ -1,21 +1,21 @@
 ---
-TOCTitle: 'MS16-FEB'
-Title: 'Microsoft 安全公告摘要（2016 年 2 月）'
-ms:assetid: 'ms16-feb'
-ms:contentKeyID: 72239020
-ms:mtpsurl: 'https://technet.microsoft.com/zh-CN/library/ms16-feb(v=Security.10)'
+TOCTitle: 'MS16-MAY'
+Title: 'Microsoft 安全公告摘要（2016 年 5 月）'
+ms:assetid: 'ms16-may'
+ms:contentKeyID: 72963875
+ms:mtpsurl: 'https://technet.microsoft.com/zh-CN/library/ms16-may(v=Security.10)'
 ---
 
 MSRC ppDocument 模板
 
-Microsoft 安全公告摘要（2016 年 2 月）
+Microsoft 安全公告摘要（2016 年 5 月）
 ======================================
 
-发布日期：2016 年 2 月 9 日 | 更新时间：2016 年 2 月 24 日
+发布日期：2016 年 5 月 10 日 | 更新时间：2016 年 5 月 25 日
 
-**版本：** 3.1
+**版本：** 2.1
 
-本公告摘要列出了 2016 年 2 月发布的安全公告。
+本公告摘要列出了 2016 年 5 月发布的安全公告。
 
 有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://technet.microsoft.com/zh-cn/security/dd252948.aspx)。
 
@@ -29,6 +29,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 
 有关受影响软件的详细信息，请参阅下一节“**受影响的软件**”。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -44,26 +45,26 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 <td style="border:1px solid black;"><p><strong>公告标题和执行摘要</strong></p></td>
 <td style="border:1px solid black;"><p><strong>最高严重等级<br />
 和漏洞影响</strong></p></td>
-<td style="border:1px solid black;"><p><strong>重启要求</strong></p></td>
+<td style="border:1px solid black;"><p><strong>重新启动要求</strong></p></td>
 <td style="border:1px solid black;"><p><strong>已知<br />
 问题</strong></p></td>
 <td style="border:1px solid black;"><p><strong>受影响的软件</strong></p></td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-009">MS16-009</a></p></td>
-<td style="border:1px solid black;"><p><strong>Internet Explorer 的累积安全更新程序 (3134220)</strong> <br />
-此安全更新程序修复了 Internet Explorer 中的多个漏洞。如果用户使用 Internet Explorer 查看经特殊设计的网页，那么其中最严重的漏洞可能允许远程执行代码。成功利用此漏洞的攻击者可以获得与当前用户相同的用户权限。如果当前用户使用管理用户权限登录，则成功利用此漏洞的攻击者可以控制受影响的系统。攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。</p></td>
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-051">MS16-051</a></p></td>
+<td style="border:1px solid black;"><p><strong>Internet Explorer 累积安全更新 (3155533)<br />
+</strong>此安全更新程序修复了 Internet Explorer 中的多个漏洞。如果用户使用 Internet Explorer 查看经特殊设计的网页，那么其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。如果当前用户使用管理用户权限登录，那么攻击者便可控制受影响的系统。攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。</p></td>
 <td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
-<td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3134814">3134814</a></p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
 <td style="border:1px solid black;"><p>Microsoft Windows、<br />
 Internet Explorer</p></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-011">MS16-011</a></p></td>
-<td style="border:1px solid black;"><p><strong>Microsoft Edge 的累积安全更新 (3134225)<br />
-</strong>此安全更新可修复 Microsoft Edge 中的漏洞。如果用户使用 Microsoft Edge 查看经特殊设计的网页，那么其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-052">MS16-052</a></p></td>
+<td style="border:1px solid black;"><p><strong>Microsoft Edge 的累积安全更新 (3155538)<br />
+</strong>此安全更新程序可修复 Microsoft Edge 中的漏洞。如果用户使用 Microsoft Edge 查看经特殊设计的网页，那么其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
 <td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
@@ -72,9 +73,9 @@ Internet Explorer</p></td>
 Microsoft Edge</p></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-012">MS16-012</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复远程执行代码漏洞的 Microsoft Windows PDF 库安全更新程序 (3138938)<br />
-</strong>此安全更新可修复 Microsoft Windows 中的漏洞。如果 Microsoft Windows PDF 库处理应用程序编程接口 (API) 调用不当，那么其中较为严重的漏洞可能允许远程执行代码，允许攻击者在用户系统上运行任意代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。不过，攻击者无法强迫用户下载或打开恶意 PDF 文档。</p></td>
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-053">MS16-053</a></p></td>
+<td style="border:1px solid black;"><p><strong>JScript 和 VBScript 的累积安全更新 (3156764)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 的 JScript 和 VBScript 脚本引擎中的多个漏洞。如果用户访问经特殊设计的网站，那么这些漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。如果当前用户使用管理用户权限登录，则成功利用这些漏洞的攻击者可以控制受影响的系统。攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。</p></td>
 <td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
@@ -82,130 +83,159 @@ Microsoft Edge</p></td>
 <td style="border:1px solid black;"><p>Microsoft Windows</p></td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-013">MS16-013</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复远程执行代码漏洞的 Windows 日记本安全更新程序 (3134811)</strong><br />
-此安全更新程序修复了 Microsoft Windows 中的一个漏洞。如果用户打开经特殊设计的日记文件，那么此漏洞可能允许远程执行代码。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
-远程执行代码</p></td>
-<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
-<td style="border:1px solid black;"><p>---------</p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
-</tr>  
-<tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-014">MS16-014</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复远程执行代码漏洞的 Microsoft Windows 安全更新程序 (3134228)</strong><br />
-此安全更新程序修复了 Microsoft Windows 中的多个漏洞。如果攻击者可以登录目标系统并运行经特殊设计的应用程序，那么这些漏洞中最严重的漏洞可能允许远程执行代码。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
-远程执行代码</p></td>
-<td style="border:1px solid black;"><p>需要重启</p></td>
-<td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3126041">3126041</a><br />
-<a href="https://support.microsoft.com/zh-cn/kb/3126587">3126587</a><br />
-<a href="https://support.microsoft.com/zh-cn/kb/3126593">3126593</a></p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
-</tr>  
-<tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-015">MS16-015</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复远程执行代码漏洞的 Microsoft Office 安全更新程序 (3134226)</strong><br />
-此安全更新程序修复了 Microsoft Office 中的多个漏洞。如果用户打开经特殊设计的 Microsoft Office 文件，那么这些漏洞中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以在当前用户的上下文中运行任意代码。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-054">MS16-054</a></p></td>
+<td style="border:1px solid black;"><p><strong>Microsoft Office 的安全更新程序 (3155544)<br />
+</strong>此安全更新程序可修复 Microsoft Office 中的多个漏洞。如果用户打开经特殊设计的 Microsoft Office 文件，那么这些漏洞可能会允许远程执行代码。成功利用这些漏洞的攻击者可以在当前用户的上下文中运行任意代码。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
 <td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
 <td style="border:1px solid black;"><p>Microsoft Office、<br />
-Microsoft Office Services 和 Web Apps、<br />
-Microsoft Server 软件</p></td>
+Microsoft Office Services 和 Web Apps</p></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-016">MS16-016</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复特权提升漏洞的 WebDAV 安全更新程序 (3136041)</strong><br />
-此安全更新程序修复了 Microsoft Windows 中的一个漏洞。如果攻击者使用 Microsoft Web 分布式创作和版本管理 (WebDAV) 客户端向服务器发送经特殊设计的输入，那么此漏洞可能允许特权提升。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
-特权提升</p></td>
-<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
-<td style="border:1px solid black;"><p>---------</p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
-</tr>  
-<tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-017">MS16-017</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复特权提升漏洞的远程桌面显示驱动程序安全更新程序 (3134700)</strong><br />
-此安全更新程序修复了 Microsoft Windows 中的一个漏洞。如果已经过身份验证的攻击者使用 RDP 登录目标系统并通过连接发送经特殊设计的数据，那么此漏洞可能允许特权提升。默认情况下，在所有 Windows 操作系统上，RDP 均处于未启用状态。未启用 RDP 的系统均不存在这一风险。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
-特权提升</p></td>
-<td style="border:1px solid black;"><p>需要重启</p></td>
-<td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3134700">3134700</a><br />
-<a href="https://support.microsoft.com/zh-cn/kb/3126446">3126446</a></p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
-</tr>  
-<tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-018">MS16-018</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复特权提升漏洞的 Windows 内核模式驱动程序安全更新程序 (3136082)</strong><br />
-此安全更新程序修复了 Microsoft Windows 中的一个漏洞。如果攻击者登录受影响的系统并运行特制应用程序，此漏洞可能允许特权提升。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
-特权提升</p></td>
-<td style="border:1px solid black;"><p>需要重启</p></td>
-<td style="border:1px solid black;"><p>---------</p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
-</tr>  
-<tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-019">MS16-019</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复拒绝服务漏洞的 .NET Framework 安全更新程序 (3137893)<br />
-</strong>此安全更新可解决 Microsoft .NET Framework 中的漏洞。如果攻击者向客户端 XML Web 部件植入特定的 XSLT，这些漏洞更严重的可能会使服务器递归编译 XSLT 转换，导致服务器拒绝服务。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
-拒绝服务</p></td>
-<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
-<td style="border:1px solid black;"><p>---------</p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows、<br />
-Microsoft .NET Framework</p></td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-020">MS16-020</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复拒绝服务漏洞的 Active Directory 联合身份验证服务的安全更新程序 (3134222)<br />
-</strong>此安全更新可解决 Active Directory 联合身份验证服务 (ADFS) 中的一个漏洞。如果攻击者在基于窗体的身份验证时发送特定的输入数据到 ADFS 服务器，此漏洞可能会引起拒绝服务，导致服务器无法响应。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
-拒绝服务</p></td>
-<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
-<td style="border:1px solid black;"><p>---------</p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
-</tr>  
-<tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-021">MS16-021</a></p></td>
-<td style="border:1px solid black;"><p><strong>用于修复拒绝服务漏洞的 NPS RADIUS 服务器安全更新程序 (3133043)<br />
-</strong>此安全更新可修复 Microsoft Windows 中的漏洞。如果攻击者将经特殊设计的用户名字符串发送到 NPS，则该漏洞可能会导致网络策略服务器 (NPS) 拒绝服务，进而拒绝 NPS 上的 RADIUS 身份验证。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
-拒绝服务</p></td>
-<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
-<td style="border:1px solid black;"><p>---------</p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
-</tr>  
-<tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-022">MS16-022</a></p></td>
-<td style="border:1px solid black;"><p><strong>Adobe Flash Player 的安全更新 (3135782)<br />
-</strong>此安全更新可修复安装在所有受支持版本的 Windows Server 2012、Windows 8.1、Windows Server 2012 R2、 Windows RT 8.1 以及 Windows 10 上的 Adobe Flash Player 漏洞。</p></td>
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-055">MS16-055</a></p></td>
+<td style="border:1px solid black;"><p><strong>Microsoft 图形组件的安全更新程序 (3156754)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的多个漏洞。如果用户打开经特殊设计的文档或访问经特殊设计的网站，最严重的漏洞可能允许远程执行代码。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
 <td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
-<td style="border:1px solid black;"><p>Microsoft Windows<br />
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-056">MS16-056</a></p></td>
+<td style="border:1px solid black;"><p><strong>Windows 日记本安全更新程序 (3156761)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果用户打开经特殊设计的日记文件，那么此漏洞可能允许远程执行代码。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+远程执行代码</p></td>
+<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-057">MS16-057</a></p></td>
+<td style="border:1px solid black;"><p><strong>Windows Shell 安全更新程序 (3156987)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果攻击者成功诱使用户浏览可接受用户提供的在线内容的经特殊设计的网站，或诱使用户打开经特殊设计的内容，则漏洞可能会允许远程执行代码。成功利用此漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+远程执行代码</p></td>
+<td style="border:1px solid black;"><p>需要重启</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-058">MS16-058</a></p></td>
+<td style="border:1px solid black;"><p><strong>Windows IIS 安全更新程序 (3141083)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果拥有本地系统访问权限的攻击者执行恶意应用程序，则此漏洞可能允许远程执行代码。成功利用此漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+远程执行代码</p></td>
+<td style="border:1px solid black;"><p>需要重启</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-059">MS16-059</a></p></td>
+<td style="border:1px solid black;"><p><strong>Windows Media Center 安全更新程序 (3150220)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果 Windows Media Center 打开引用了恶意代码的经特殊设计的 Media Center 链接 (.mcl) 文件，则此漏洞可能允许远程执行代码。成功利用此漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+远程执行代码</p></td>
+<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-060">MS16-060</a></p></td>
+<td style="border:1px solid black;"><p><strong>Windows 内核安全更新程序 (3154846)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果攻击者登录受影响的系统并运行经特殊设计的应用程序，此漏洞可能允许特权提升。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+特权提升</p></td>
+<td style="border:1px solid black;"><p>需要重启</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-061">MS16-061</a></p></td>
+<td style="border:1px solid black;"><p><strong>Microsoft RPC 安全更新程序 (3155520)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果未经身份验证的攻击者向受影响的主机发起格式不正确的远程过程调用 (RPC) 请求，此漏洞可能允许远程执行代码。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+远程执行代码</p></td>
+<td style="border:1px solid black;"><p>需要重启</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-062">MS16-062</a></p></td>
+<td style="border:1px solid black;"><p><strong>Windows 内核模式驱动程序的安全更新程序 (3158222)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的多个漏洞。如果攻击者登录受影响的系统并运行经特殊设计的应用程序，最严重的漏洞可能允许特权提升。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+特权提升</p></td>
+<td style="border:1px solid black;"><p>需要重启</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-064">MS16-064</a></p></td>
+<td style="border:1px solid black;"><p><strong>Adobe Flash Player 安全更新程序 (3157993)</strong><br />
+此安全更新可修复安装在所有受支持版本的 Windows 8.1、Windows Server 2012、Windows Server 2012 R2、Windows RT 8.1 以及 Windows 10 上的 Adobe Flash Player 漏洞。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+远程执行代码</p></td>
+<td style="border:1px solid black;"><p>需要重启</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows、<br />
 Adobe Flash Player</p></td>
 </tr>
-</tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-065">MS16-065</a></p></td>
+<td style="border:1px solid black;"><p><strong>.NET Framework 的安全更新程序 (3156757)<br />
+</strong>此安全更新程序可修复 Microsoft .NET Framework 中的一个漏洞。如果攻击者将未加密的数据插入目标安全通道，然后在目标客户端和合法的服务器之间执行中间人 (MiTM) 攻击，该漏洞可能导致信息泄漏。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+信息泄漏</p></td>
+<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
+<td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3156757">3156757</a></p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows、<br />
+Microsoft .NET Framework</p></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-066">MS16-066</a></p></td>
+<td style="border:1px solid black;"><p><strong>虚拟安全模式的安全更新程序 (3155451)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果攻击者运行经特殊设计的应用程序以绕过 Windows 中的代码完整性保护，该漏洞可能允许绕过安全功能。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+绕过安全功能</p></td>
+<td style="border:1px solid black;"><p>需要重启</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms16-067">MS16-067</a></p></td>
+<td style="border:1px solid black;"><p><strong>卷管理器驱动程序的安全更新程序 (3155784)<br />
+</strong>此安全更新程序可修复 Microsoft Windows 中的一个漏洞。如果通过 Microsoft RemoteFX 使用远程桌面协议 (RDP) 装载的 USB 磁盘未正确关联装载用户会话，该漏洞可能允许信息泄漏。</p></td>
+<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+信息泄漏</p></td>
+<td style="border:1px solid black;"><p>可能要求重新启动</p></td>
+<td style="border:1px solid black;"><p>---------</p></td>
+<td style="border:1px solid black;"><p>Microsoft Windows</p></td>
+</tr>  
+</tbody>  
 </table>
 <p> </p>
+
+
 
 利用指数
 --------
 
-<span id="sectionToggle1"></span>
+<span id="sectionToggle1"></span>  
 下表提供了本月解决的各个漏洞的利用评估。这些漏洞按公告 ID、CVE ID 的顺序列出。仅包括公告中严重等级为“严重”或“重要”的漏洞。
-
+  
 **如何使用该表？**
-
+  
 对于您可能需要安装的每个安全更新，使用该表了解安全公告发布 30 天内发生代码执行和拒绝服务漏洞的可能性。根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/zh-cn/security/cc998259)。
-
+  
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
 <p> </p>
-<table style="border:1px solid black;">
+
+<table style="border:1px solid black;">  
 <tr>
 <td style="border:1px solid black;">
 **CVE ID**                    
@@ -215,8 +245,8 @@ Adobe Flash Player</p></td>
 **漏洞标题**
 
 </td>
-<td style="border:1px solid black;" colspan="2">
-**最新软件版本的  
+<td style="border:1px solid black;">
+**较旧软件版本的  
 利用评估**
 
 </td>
@@ -232,21 +262,21 @@ Adobe Flash Player</p></td>
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-009：Internet Explorer 累积安全更新 (3134220)**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+<td style="border:1px solid black;" colspan="5">
+[**MS16-051：Internet Explorer 累积安全更新 (3155533)**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0041](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0041)
+[CVE-2016-0187](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0187)
 
 </td>
 <td style="border:1px solid black;">
-DLL 加载远程执行代码漏洞
+脚本引擎内存损坏漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
 1 - 可能被利用
 
 </td>
@@ -261,14 +291,252 @@ DLL 加载远程执行代码漏洞
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0059](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0059)
+[CVE-2016-0188](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0188)
+
+</td>
+<td style="border:1px solid black;">
+Internet Explorer 安全功能绕过
+
+</td>
+<td style="border:1px solid black;">
+3 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+4 - 不受影响
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0189](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0189)
+
+</td>
+<td style="border:1px solid black;">
+脚本引擎内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+0 - 检测到利用情形
+
+</td>
+<td style="border:1px solid black;">
+0 - 检测到利用情形
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0192](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0192)
+
+</td>
+<td style="border:1px solid black;">
+Microsoft 浏览器内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0194](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0194)
 
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 信息泄漏漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-052：Microsoft Edge 累积安全更新程序 (3155538)**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0186](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0186)
+
+</td>
+<td style="border:1px solid black;">
+脚本引擎内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+4 - 不受影响
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0191](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0191)
+
+</td>
+<td style="border:1px solid black;">
+脚本引擎内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+4 - 不受影响
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0192](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0192)
+
+</td>
+<td style="border:1px solid black;">
+Microsoft 浏览器内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+4 - 不受影响
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0193](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0193)
+
+</td>
+<td style="border:1px solid black;">
+脚本引擎内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+4 - 不受影响
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-053：JScript 和 VBScript 的累积安全更新 (3156764)**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0187](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0187)
+
+</td>
+<td style="border:1px solid black;">
+脚本引擎内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0189](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0189)
+
+</td>
+<td style="border:1px solid black;">
+脚本引擎内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+0 - 检测利用情形
+
+</td>
+<td style="border:1px solid black;">
+0 - 检测利用情形
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-054：Microsoft Office 的安全更新程序 (3155544)**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0126](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0126)
+
+</td>
+<td style="border:1px solid black;">
+Microsoft Office 内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
 2 - 不太可能利用
 
 </td>
@@ -283,102 +551,14 @@ Internet Explorer 信息泄漏漏洞
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0060](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0060)
+[CVE-2016-0140](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0140)
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
+Microsoft Office 内存损坏漏洞
 
 </td>
 <td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0061](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0061)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft 浏览器内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0062](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0062)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft 浏览器内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0063](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0063)
-
-</td>
-<td style="border:1px solid black;">
-Internet Explorer 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0064](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0064)
-
-</td>
-<td style="border:1px solid black;">
-Internet Explorer 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
 4 - 不受影响
 
 </td>
@@ -393,14 +573,130 @@ Internet Explorer 内存损坏漏洞
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0067](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0067)
+[CVE-2016-0183](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0183)
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 内存损坏漏洞
+Microsoft Office 图形 RCE 漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
+4 - 不受影响
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0198](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0198)
+
+</td>
+<td style="border:1px solid black;">
+Microsoft Office 内存损坏漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+1 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-055：Microsoft 图形组件的安全更新程序 (3156754)**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0168](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0168)
+
+</td>
+<td style="border:1px solid black;">
+Windows Graphics 组件信息泄漏漏洞
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+临时
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0169](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0169)
+
+</td>
+<td style="border:1px solid black;">
+Windows Graphics 组件信息泄漏漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+临时
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0170](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0170)
+
+</td>
+<td style="border:1px solid black;">
+Windows 图形组件 RCE 漏洞
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0184](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0184)
+
+</td>
+<td style="border:1px solid black;">
+Direct3D 释放后使用漏洞
+
+</td>
+<td style="border:1px solid black;">
 1 - 可能被利用
 
 </td>
@@ -415,19 +711,19 @@ Internet Explorer 内存损坏漏洞
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0068](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0068)
+[CVE-2016-0195](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0195)
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 特权提升漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
+Windows 图像处理组件内存损坏漏洞
 
 </td>
 <td style="border:1px solid black;">
-1 - 可能被利用
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
 
 </td>
 <td style="border:1px solid black;">
@@ -436,15 +732,21 @@ Internet Explorer 特权提升漏洞
 </td>
 </tr>
 <tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-056：Windows 日记本安全更新程序 (3156761)**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
+
+</td>
+</tr>
+<tr>
 <td style="border:1px solid black;">
-[CVE-2016-0069](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0069)
+[CVE-2016-0182](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0182)
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 特权提升漏洞
+日记本内存损坏漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
 3 - 不太可能利用
 
 </td>
@@ -458,275 +760,21 @@ Internet Explorer 特权提升漏洞
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;">
-[CVE-2016-0071](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0071)
-
-</td>
-<td style="border:1px solid black;">
-Internet Explorer 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
+<td style="border:1px solid black;" colspan="5">
+[**MS16-057：Windows Shell 安全更新程序 (3156987)**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0072](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0072)
+[CVE-2016-0179](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0179)
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
+Windows Shell 远程执行代码漏洞
 
 </td>
 <td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0077](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0077)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft 浏览器欺骗漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-3 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-3 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-011：Microsoft Edge 累积安全更新程序 (3134225)**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0060](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0060)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft 浏览器内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0061](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0061)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft 浏览器内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0062](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0062)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft 浏览器内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0077](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0077)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft 浏览器欺骗漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-3 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0080](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0080)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Edge ASLR 规避
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0084](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0084)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Edge 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-012：用于修复远程执行代码漏洞的 Microsoft Windows PDF 库安全更新程序 (3138938)**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0046](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0046)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Windows 阅读器漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-2 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0058](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0058)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft PDF 库缓冲区溢出漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-013：用于修复远程执行代码漏洞的 Windows 日记本安全更新程序 (3134811)**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0038](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0038)
-
-</td>
-<td style="border:1px solid black;">
-Windows 日记本内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
 2 - 不太可能利用
 
 </td>
@@ -740,110 +788,22 @@ Windows 日记本内存损坏漏洞
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-014：用于修复远程执行代码漏洞的 Microsoft Windows 安全更新程序 (3134228)**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+<td style="border:1px solid black;" colspan="5">
+[**MS16-058：Windows IIS 安全更新程序 (3141083)**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0040](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0040)
-
-</td>
-<td style="border:1px solid black;">
-Windows 特权提升漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-2 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0041](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0041)
-
-</td>
-<td style="border:1px solid black;">
-DLL 加载远程执行代码漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-2 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-2 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0042](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0042)
+[CVE-2016-0152](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0152)
 
 </td>
 <td style="border:1px solid black;">
 Windows DLL 加载远程执行代码漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
 <td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0044](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0044)
-
-</td>
-<td style="border:1px solid black;">
-Windows DLL 加载拒绝服务漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
 4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-3 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-永久
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0049](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0049)
-
-</td>
-<td style="border:1px solid black;">
-Windows Kerberos 绕过安全功能
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-2 - 不太可能利用
 
 </td>
 <td style="border:1px solid black;">
@@ -856,184 +816,24 @@ Windows Kerberos 绕过安全功能
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-015：用于修复远程执行代码漏洞的 Microsoft Office 安全更新程序 (3134226)**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+<td style="border:1px solid black;" colspan="5">
+[**MS16-059：Windows Media Center 安全更新程序 (3150220)**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0022](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0022)
+[CVE-2016-0185](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0185)
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Office 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0039](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0039)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft SharePoint XSS 漏洞
-
-</td>
-<td style="border:1px solid black;">
-3 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-4 - 不受影响
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0052](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0052)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Office 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0053](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0053)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Office 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0054](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0054)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Office 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0055](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0055)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Office 内存损坏漏洞
+Windows Media Center 远程执行代码漏洞
 
 </td>
 <td style="border:1px solid black;">
 4 - 不受影响
 
 </td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0056](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0056)
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Office 内存损坏漏洞
-
-</td>
-<td style="border:1px solid black;">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-1 - 可能被利用
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-016：用于修复特权提升漏洞的 WebDAV 安全更新程序 (3136041)**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0051](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0051)
-
-</td>
-<td style="border:1px solid black;">
-WebDAV 特权提升漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-3 - 不太可能利用
-
-</td>
 <td style="border:1px solid black;">
 2 - 不太可能利用
 
@@ -1044,21 +844,21 @@ WebDAV 特权提升漏洞
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-017：用于修复特权提升漏洞的远程桌面显示驱动程序安全更新程序 (3134700)**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+<td style="border:1px solid black;" colspan="5">
+[**MS16-060：Windows 内核安全更新程序 (3154846)**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0036](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0036)
+[CVE-2016-0180](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0180)
 
 </td>
 <td style="border:1px solid black;">
-远程桌面协议 (RDP) 特权提升漏洞
+Windows 内核特权提升漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
 2 - 不太可能利用
 
 </td>
@@ -1072,21 +872,49 @@ WebDAV 特权提升漏洞
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-018：用于修复特权提升漏洞的 Windows 内核模式驱动程序安全更新程序 (3136082)**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+<td style="border:1px solid black;" colspan="5">
+[**MS16-061：Microsoft RPC 安全更新程序 (3155520)**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0048](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0048)
+[CVE-2016-0178](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0178)
+
+</td>
+<td style="border:1px solid black;">
+RPC 网络数据表示引擎远程执行代码漏洞
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+2 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-062：Windows 内核模式驱动程序的安全更新程序 (3158222)**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0171](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0171)
 
 </td>
 <td style="border:1px solid black;">
 Win32k 特权提升漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
 1 - 可能被利用
 
 </td>
@@ -1100,26 +928,42 @@ Win32k 特权提升漏洞
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-019：用于修复拒绝服务漏洞的 .NET Framework 安全更新程序 (3137893)**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+<td style="border:1px solid black;">
+[CVE-2016-0173](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0173)
+
+</td>
+<td style="border:1px solid black;">
+Win32k 特权提升漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0033](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0033)
+[CVE-2016-0174](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0174)
 
 </td>
 <td style="border:1px solid black;">
-.NET Framework 堆栈溢出拒绝服务漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-3 - 不太可能利用
+Win32k 特权提升漏洞
 
 </td>
 <td style="border:1px solid black;">
-3 - 不太可能利用
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
 
 </td>
 <td style="border:1px solid black;">
@@ -1129,14 +973,14 @@ Win32k 特权提升漏洞
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0047](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0047)
+[CVE-2016-0175](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0175)
 
 </td>
 <td style="border:1px solid black;">
-Windows 窗体信息泄露漏洞
+Win32k 信息泄漏漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
 2 - 不太可能利用
 
 </td>
@@ -1150,22 +994,168 @@ Windows 窗体信息泄露漏洞
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-020：用于修复拒绝服务漏洞的 Active Directory 联合身份验证服务的安全更新程序 (3134222)**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+<td style="border:1px solid black;">
+[CVE-2016-0176](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0176)
+
+</td>
+<td style="border:1px solid black;">
+Microsoft DirectX 图形内核子系统特权提升漏洞
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-[CVE-2016-0037](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0037)
+[CVE-2016-0196](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0196)
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
+Win32k 特权提升漏洞
 
 </td>
-<td style="border:1px solid black;" colspan="2">
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+1 - 可能被利用
+
+</td>
+<td style="border:1px solid black;">
+永久
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0197](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0197)
+
+</td>
+<td style="border:1px solid black;">
+Microsoft DirectX 图形内核子系统特权提升漏洞
+
+</td>
+<td style="border:1px solid black;">
 3 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+3 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-064：Adobe Flash Player 安全更新程序 (3157993)**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[APSB16-15](https://helpx.adobe.com/cn/security/products/flash-player/apsb16-15.html)
+
+</td>
+<td style="border:1px solid black;">
+请参阅 [Adobe 安全公告 APSB16-15](https://helpx.adobe.com/cn/security/products/flash-player/apsb16-15.html)，了解漏洞严重性级别和更新优先级级别。
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-065：.NET Framework 的安全更新程序 (3156757)**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0149](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0149)
+
+</td>
+<td style="border:1px solid black;">
+TLS/SSL 信息泄漏漏洞
+
+</td>
+<td style="border:1px solid black;">
+3 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+3 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-066：虚拟安全模式的安全更新程序 (3155451)**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0181](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0181)
+
+</td>
+<td style="border:1px solid black;">
+虚拟机监控程序代码完整性安全功能绕过
+
+</td>
+<td style="border:1px solid black;">
+3 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+3 - 不太可能利用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="5">
+[**MS16-067：卷管理器驱动程序的安全更新程序 (3155784)**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+[CVE-2016-0190](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0190)
+
+</td>
+<td style="border:1px solid black;">
+远程桌面协议驱动器重定向信息泄漏漏洞
 
 </td>
 <td style="border:1px solid black;">
@@ -1173,59 +1163,7 @@ Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
 
 </td>
 <td style="border:1px solid black;">
-永久
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-021：用于修复拒绝服务漏洞的 NPS RADIUS 服务器安全更新程序 (3133043)**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[CVE-2016-0050](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2016-0050)
-
-</td>
-<td style="border:1px solid black;">
-网络策略服务器 RADIUS 实施拒绝服务漏洞
-
-</td>
-<td style="border:1px solid black;" colspan="2">
 3 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-3 - 不太可能利用
-
-</td>
-<td style="border:1px solid black;">
-永久
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="6">
-[**MS16-022：Adobe Flash Player 安全更新程序 (3135782)**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-[APSB16-04](https://helpx.adobe.com/cn/security/products/flash-player/apsb16-04.html)
-
-</td>
-<td style="border:1px solid black;">
-参阅 [Adobe 安全公告 APSB16-04](https://helpx.adobe.com/cn/security/products/flash-player/apsb16-04.html)，了解漏洞严重性级别和更新优先级级别。
-
-</td>
-<td style="border:1px solid black;" colspan="2">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -1234,7 +1172,6 @@ Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -1248,12 +1185,13 @@ Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
 
  
 
-### Windows 操作系统和组件（表 2-1）
+### Windows 操作系统和组件（表 1-2）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows Vista**
 
 </td>
@@ -1264,27 +1202,35 @@ Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -1302,11 +1248,19 @@ Microsoft Active Directory 联合身份验证服务拒绝服务漏洞
 
 </td>
 <td style="border:1px solid black;">
-**无**
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 <td style="border:1px solid black;">
@@ -1325,7 +1279,7 @@ Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 9  
-(3134814)  
+(3154070)  
 （严重）
 
 </td>
@@ -1334,30 +1288,42 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-Windows Vista Service Pack 2  
-(3115858)  
+VBScript 5.7  
+(3158991)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows Vista Service Pack 2  
-(3126587)  
-（重要）  
+(3156013)  
+（严重）  
 Windows Vista Service Pack 2  
-(3126593)  
-（重要）  
+(3156016)  
+（严重）  
 Windows Vista Service Pack 2  
-(3126041)  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows Vista Service Pack 2  
+(3155178)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows Vista Service Pack 2  
+(3141083)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Vista Service Pack 2  
-(3124280)  
+(3150220)  
 （重要）
 
 </td>
@@ -1369,7 +1335,7 @@ Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 9  
-(3134814)  
+(3154070)  
 （严重）
 
 </td>
@@ -1378,67 +1344,87 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-Windows Vista x64 Edition Service Pack 2  
-(3115858)  
+VBScript 5.7  
+(3158991)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows Vista x64 Edition Service Pack 2  
-(3126587)  
-（重要）  
+(3156013)  
+（严重）  
 Windows Vista x64 Edition Service Pack 2  
-(3126593)  
-（重要）  
+(3156016)  
+（严重）  
 Windows Vista x64 Edition Service Pack 2  
-(3126041)  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows Vista x64 Edition Service Pack 2  
+(3155178)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows Vista x64 Edition Service Pack 2  
+(3141083)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Vista x64 Edition Service Pack 2  
-(3124280)  
+(3150220)  
 （重要）
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows Server 2008**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -1456,7 +1442,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-**无**
+[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1464,11 +1450,19 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 <td style="border:1px solid black;">
 [**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 </tr>
@@ -1479,7 +1473,7 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 9  
-(3134814)  
+(3154070)  
 （中等）
 
 </td>
@@ -1488,31 +1482,39 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
+VBScript 5.7  
+(3158991)  
+（中等）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+(3156013)  
+（严重）  
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+(3156016)  
+（严重）  
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 不适用
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008（用于 32 位系统）Service Pack 2  
-(3115858)  
-（严重）
-
-</td>
-<td style="border:1px solid black;">
-Windows Server 2008（用于 32 位系统）Service Pack 2  
-(3126587)  
-（重要）  
-Windows Server 2008（用于 32 位系统）Service Pack 2  
-(3126593)  
-（重要）  
-Windows Server 2008（用于 32 位系统）Service Pack 2  
-(3126041)  
+(3141083)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008（用于 32 位系统）Service Pack 2  
-(3124280)  
-（重要）
+不适用
 
 </td>
 </tr>
@@ -1523,7 +1525,7 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 9  
-(3134814)  
+(3154070)  
 （中等）
 
 </td>
@@ -1532,31 +1534,39 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
+VBScript 5.7  
+(3158991)  
+（中等）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+(3156013)  
+（严重）  
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+(3156016)  
+（严重）  
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 不适用
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-(3115858)  
-（严重）
-
-</td>
-<td style="border:1px solid black;">
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-(3126587)  
-（重要）  
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-(3126593)  
-（重要）  
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-(3126041)  
+(3141083)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-(3124280)  
-（重要）
+不适用
 
 </td>
 </tr>
@@ -1566,13 +1576,26 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 9  
-(3134814)  
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+VBScript 5.7  
+(3158991)  
 （中等）
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
+(3156013)  
+（严重）  
+Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
+(3156019)  
+（严重）
 
 </td>
 <td style="border:1px solid black;">
@@ -1585,13 +1608,7 @@ Internet Explorer 9
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
-(3126587)  
-（重要）  
-Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
-(3126593)  
-（重要）  
-Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
-(3126041)  
+(3141083)  
 （重要）
 
 </td>
@@ -1601,38 +1618,46 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows 7**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -1658,7 +1683,15 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 <td style="border:1px solid black;">
@@ -1673,7 +1706,7 @@ Windows 7（用于 32 位系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3134814)  
+(3154070)  
 （严重）
 
 </td>
@@ -1687,22 +1720,33 @@ Internet Explorer 11
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于 32 位系统）Service Pack 1  
-(3115858)  
+(3156013)  
+（严重）  
+Windows 7（用于 32 位系统）Service Pack 1  
+(3156016)  
+（严重）  
+Windows 7（用于 32 位系统）Service Pack 1  
+(3156019)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于 32 位系统）Service Pack 1  
-(3126587)  
-（重要）  
-Windows 7（用于 32 位系统）Service Pack 1  
-(3126593)  
-（重要）
+(3155178)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于 32 位系统）Service Pack 1  
-(3124280)  
+(3150220)  
 （重要）
 
 </td>
@@ -1714,7 +1758,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3134814)  
+(3154070)  
 （严重）
 
 </td>
@@ -1728,59 +1772,78 @@ Internet Explorer 11
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于基于 x64 的系统）Service Pack 1  
-(3115858)  
+(3156013)  
+（严重）  
+Windows 7（用于基于 x64 的系统）Service Pack 1  
+(3156016)  
+（严重）  
+Windows 7（用于基于 x64 的系统）Service Pack 1  
+(3156019)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于基于 x64 的系统）Service Pack 1  
-(3126587)  
-（重要）  
-Windows 7（用于基于 x64 的系统）Service Pack 1  
-(3126593)  
-（重要）
+(3155178)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于基于 x64 的系统）Service Pack 1  
-(3124280)  
+(3150220)  
 （重要）
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows Server 2008 R2**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -1806,11 +1869,19 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
+
+</td>
+<td style="border:1px solid black;">
+**无**
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 </tr>
@@ -1821,7 +1892,7 @@ Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3134814)  
+(3154070)  
 （中等）
 
 </td>
@@ -1835,23 +1906,30 @@ Internet Explorer 11
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
-(3115858)  
+(3156013)  
+（严重）  
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+(3156016)  
+（严重）  
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+(3156019)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
-(3126587)  
-（重要）  
-Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
-(3126593)  
-（重要）
+不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
-(3124280)  
-（重要）
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
@@ -1861,12 +1939,6 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-Internet Explorer 11  
-(3134814)  
-（中等）
-
-</td>
-<td style="border:1px solid black;">
 不适用
 
 </td>
@@ -1880,11 +1952,26 @@ Internet Explorer 11
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1  
-(3126587)  
-（重要）  
+(3156013)  
+（严重）  
 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1  
-(3126593)  
-（重要）
+(3156016)  
+（严重）  
+Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -1893,38 +1980,46 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows 8.1**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -1942,19 +2037,27 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
+**无**
+
+</td>
+<td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 <td style="border:1px solid black;">
 [**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1965,7 +2068,39 @@ Windows 8.1（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3134814)  
+(3154070)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows 8.1（用于 32 位系统）  
+(3156013)  
+（严重）  
+Windows 8.1（用于 32 位系统）  
+(3156016)  
+（严重）  
+Windows 8.1（用于 32 位系统）  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows 8.1（用于 32 位系统）  
+(3155178)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows 8.1（用于 32 位系统）  
+(3156059)  
 （严重）
 
 </td>
@@ -1975,35 +2110,8 @@ Internet Explorer 11
 </td>
 <td style="border:1px solid black;">
 Windows 8.1（用于 32 位系统）  
-(3123294)  
-（严重）
-
-</td>
-<td style="border:1px solid black;">
-Windows 8.1（用于 32 位系统）  
-(3115858)  
-（严重）
-
-</td>
-<td style="border:1px solid black;">
-Windows 8.1（用于 32 位系统）  
-(3126587)  
-（重要）  
-Windows 8.1（用于 32 位系统）  
-(3126593)  
-（重要）  
-Windows 8.1（用于 32 位系统）  
-(3126041)  
-（重要）  
-Windows 8.1（用于 32 位系统）  
-(3126434)  
+(3150220)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-Windows 8.1（用于 32 位系统）  
-(3124280)  
-（中等）
 
 </td>
 </tr>
@@ -2014,7 +2122,39 @@ Windows 8.1（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3134814)  
+(3154070)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows 8.1（用于基于 x64 的系统）  
+(3156013)  
+（严重）  
+Windows 8.1（用于基于 x64 的系统）  
+(3156016)  
+（严重）  
+Windows 8.1（用于基于 x64 的系统）  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows 8.1（用于基于 x64 的系统）  
+(3155178)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows 8.1（用于基于 x64 的系统）  
+(3156059)  
 （严重）
 
 </td>
@@ -2024,71 +2164,52 @@ Internet Explorer 11
 </td>
 <td style="border:1px solid black;">
 Windows 8.1（用于基于 x64 的系统）  
-(3123294)  
-（严重）
-
-</td>
-<td style="border:1px solid black;">
-Windows 8.1（用于基于 x64 的系统）  
-(3115858)  
-（严重）
-
-</td>
-<td style="border:1px solid black;">
-Windows 8.1（用于基于 x64 的系统）  
-(3126587)  
-（重要）  
-Windows 8.1（用于基于 x64 的系统）  
-(3126593)  
-（重要）  
-Windows 8.1（用于基于 x64 的系统）  
-(3126041)  
-（重要）  
-Windows 8.1（用于基于 x64 的系统）  
-(3126434)  
+(3150220)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-Windows 8.1（用于基于 x64 的系统）  
-(3124280)  
-（中等）
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows Server 2012 和 Windows Server 2012 R2**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -2106,7 +2227,7 @@ Windows 8.1（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
 
 </td>
 <td style="border:1px solid black;">
@@ -2114,11 +2235,19 @@ Windows 8.1（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 </tr>
@@ -2129,7 +2258,7 @@ Windows Server 2012
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 10  
-(3134814)  
+(3154070)  
 （中等）
 
 </td>
@@ -2138,30 +2267,35 @@ Internet Explorer 10
 
 </td>
 <td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 Windows Server 2012  
-(3123294)  
+(3156013)  
+（严重）  
+Windows Server 2012  
+(3156016)  
+（严重）  
+Windows Server 2012  
+(3156019)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012  
-(3115858)  
-（严重）
+不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012  
-(3126587)  
-（重要）  
-Windows Server 2012  
-(3126593)  
-（重要）
+不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012  
-(3124280)  
-（中等）
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
@@ -2172,7 +2306,7 @@ Windows Server 2012 R2
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3134814)  
+(3154070)  
 （中等）
 
 </td>
@@ -2181,72 +2315,81 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 Windows Server 2012 R2  
-(3123294)  
+(3156013)  
+（严重）  
+Windows Server 2012 R2  
+(3156016)  
+（严重）  
+Windows Server 2012 R2  
+(3156019)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 Windows Server 2012 R2  
-(3115858)  
+(3156059)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012 R2  
-(3126587)  
-（重要）  
-Windows Server 2012 R2  
-(3126593)  
-（重要）  
-Windows Server 2012 R2  
-(3126041)  
-（重要）  
-Windows Server 2012 R2  
-(3126434)  
-（重要）
+不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012 R2  
-(3124280)  
-（中等）
+不适用
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows RT 8.1**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -2268,15 +2411,23 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
 **无**
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
 
 </td>
 </tr>
@@ -2287,7 +2438,7 @@ Windows RT 8.1
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3134814)  
+(3154070)  
 （严重）
 
 </td>
@@ -2300,61 +2451,79 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
+Windows RT 8.1  
+(3156013)  
+（严重）  
+Windows RT 8.1  
+(3156016)  
+（严重）  
+Windows RT 8.1  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows RT 8.1  
+(3155178)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+Windows RT 8.1  
+(3156059)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
 不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows RT 8.1  
-(3126587)  
-（重要）  
-Windows RT 8.1  
-(3126593)  
-（重要）  
-Windows RT 8.1  
-(3126434)  
-（重要）
-
-</td>
-<td style="border:1px solid black;">
-Windows RT 8.1  
-(3124280)  
-（中等）
+不适用
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **Windows 10**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -2372,6 +2541,14 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
+**无**
+
+</td>
+<td style="border:1px solid black;">
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
@@ -2380,11 +2557,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
 
 </td>
 </tr>
@@ -2395,38 +2572,44 @@ Windows 10（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3135174)  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Microsoft Edge  
-(3135174)  
+(3156387)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows 10（用于 32 位系统）  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于 32 位系统）  
-(3135174)  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于 32 位系统）  
-(3135174)  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
-Windows 10（用于 32 位系统）  
-(3135174)  
-（重要）
+不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows 10（用于 32 位系统）  
-(3135174)  
-（中等）
+不适用
 
 </td>
 </tr>
@@ -2437,38 +2620,44 @@ Windows 10（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3135174)  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Microsoft Edge  
-(3135174)  
+(3156387)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows 10（用于基于 x64 的系统）  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于基于 x64 的系统）  
-(3135174)  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于基于 x64 的系统）  
-(3135174)  
+(3156387)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
-Windows 10（用于基于 x64 的系统）  
-(3135174)  
-（重要）
+不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows 10（用于基于 x64 的系统）  
-(3135174)  
-（中等）
+不适用
 
 </td>
 </tr>
@@ -2479,13 +2668,13 @@ Windows 10 版本 1511（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3135173)  
+(3156421)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Microsoft Edge  
-(3135173)  
+(3156421)  
 （严重）
 
 </td>
@@ -2495,20 +2684,28 @@ Microsoft Edge
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于 32 位系统）  
-(3135173)  
+(3156421)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于 32 位系统）  
-(3135173)  
-（重要）
+(3156421)  
+（严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于 32 位系统）  
-(3135173)  
-（中等）
+(3156421)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
@@ -2519,13 +2716,13 @@ Windows 10 版本 1511（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
 Internet Explorer 11  
-(3135173)  
+(3156421)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Microsoft Edge  
-(3135173)  
+(3156421)  
 （严重）
 
 </td>
@@ -2535,56 +2732,72 @@ Microsoft Edge
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于基于 x64 的系统）  
-(3135173)  
+(3156421)  
 （严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于基于 x64 的系统）  
-(3135173)  
-（重要）
+(3156421)  
+（严重）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于基于 x64 的系统）  
-(3135173)  
-（中等）
+(3156421)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="9">
 **服务器核心安装选项**
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-009**](https://technet.microsoft.com/zh-cn/library/security/ms16-009)
+[**MS16-051**](https://technet.microsoft.com/zh-cn/library/security/ms16-051)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-011**](https://technet.microsoft.com/zh-cn/library/security/ms16-011)
+[**MS16-052**](https://technet.microsoft.com/zh-cn/library/security/ms16-052)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-012**](https://technet.microsoft.com/zh-cn/library/security/ms16-012)
+[**MS16-053**](https://technet.microsoft.com/zh-cn/library/security/ms16-053)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-013**](https://technet.microsoft.com/zh-cn/library/security/ms16-013)
+[**MS16-055**](https://technet.microsoft.com/zh-cn/library/security/ms16-055)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-014**](https://technet.microsoft.com/zh-cn/library/security/ms16-014)
+[**MS16-056**](https://technet.microsoft.com/zh-cn/library/security/ms16-056)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-016**](https://technet.microsoft.com/zh-cn/library/security/ms16-016)
+[**MS16-057**](https://technet.microsoft.com/zh-cn/library/security/ms16-057)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-058**](https://technet.microsoft.com/zh-cn/library/security/ms16-058)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-059**](https://technet.microsoft.com/zh-cn/library/security/ms16-059)
 
 </td>
 </tr>
@@ -2602,7 +2815,15 @@ Windows 10 版本 1511（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
+[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 <td style="border:1px solid black;">
@@ -2633,7 +2854,21 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
+VBScript 5.7  
+(3158991)  
+（中等）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于 32 位系统）Service Pack 2（服务器核心安装）  
+(3156013)  
+（严重）  
+Windows Server 2008（用于 32 位系统）Service Pack 2（服务器核心安装）  
+(3156016)  
+（严重）  
+Windows Server 2008（用于 32 位系统）Service Pack 2（服务器核心安装）  
+(3156019)  
+（严重）
 
 </td>
 <td style="border:1px solid black;">
@@ -2641,14 +2876,12 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 Windows Server 2008（用于 32 位系统）Service Pack 2（服务器核心安装）  
-(3126587)  
-（重要）  
-Windows Server 2008（用于 32 位系统）Service Pack 2（服务器核心安装）  
-(3126593)  
-（重要）  
-Windows Server 2008（用于 32 位系统）Service Pack 2（服务器核心安装）  
-(3126041)  
+(3141083)  
 （重要）
 
 </td>
@@ -2672,7 +2905,21 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
+VBScript 5.7  
+(3158991)  
+（中等）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2（服务器核心安装）  
+(3156013)  
+（严重）  
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2（服务器核心安装）  
+(3156016)  
+（严重）  
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2（服务器核心安装）  
+(3156019)  
+（严重）
 
 </td>
 <td style="border:1px solid black;">
@@ -2680,14 +2927,12 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 Windows Server 2008（用于基于 x64 的系统）Service Pack 2（服务器核心安装）  
-(3126587)  
-（重要）  
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2（服务器核心安装）  
-(3126593)  
-（重要）  
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2（服务器核心安装）  
-(3126041)  
+(3141083)  
 （重要）
 
 </td>
@@ -2711,7 +2956,21 @@ Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-不适用
+JScript 5.8 和 VBScript 5.8  
+(3155413)  
+（中等）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1（服务器核心安装）  
+(3156013)  
+（严重）  
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1（服务器核心安装）  
+(3156016)  
+（严重）  
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1（服务器核心安装）  
+(3156019)  
+（严重）
 
 </td>
 <td style="border:1px solid black;">
@@ -2719,12 +2978,11 @@ Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1（服务器核心安装）  
-(3126587)  
-（重要）  
-Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1（服务器核心安装）  
-(3126593)  
-（重要）
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -2751,16 +3009,27 @@ Windows Server 2012
 
 </td>
 <td style="border:1px solid black;">
+Windows Server 2012（服务器核心安装）  
+(3156013)  
+（严重）  
+Windows Server 2012（服务器核心安装）  
+(3156016)  
+（严重）  
+Windows Server 2012（服务器核心安装）  
+(3156019)  
+（严重）
+
+</td>
+<td style="border:1px solid black;">
 不适用
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012（服务器核心安装）  
-(3126587)  
-（重要）  
-Windows Server 2012（服务器核心安装）  
-(3126593)  
-（重要）
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -2783,9 +3052,18 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012 R2  
-（服务器核心安装）  
-(3123294)  
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2012 R2（服务器核心安装）  
+(3156013)  
+（严重）  
+Windows Server 2012 R2（服务器核心安装）  
+(3156016)  
+（严重）  
+Windows Server 2012 R2（服务器核心安装）  
+(3156019)  
 （严重）
 
 </td>
@@ -2794,15 +3072,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012 R2（服务器核心安装）  
-(3126587)  
-（重要）  
-Windows Server 2012 R2（服务器核心安装）  
-(3126593)  
-（重要）  
-Windows Server 2012 R2（服务器核心安装）  
-(3126041)  
-（重要）
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -2811,15 +3085,16 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows Vista**
 
 </td>
@@ -2830,27 +3105,31 @@ Windows Server 2012 R2（服务器核心安装）
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -2860,10 +3139,6 @@ Windows Server 2012 R2（服务器核心安装）
 
 </td>
 <td style="border:1px solid black;">
-**无**
-
-</td>
-<td style="border:1px solid black;">
 [**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
@@ -2872,7 +3147,15 @@ Windows Server 2012 R2（服务器核心安装）
 
 </td>
 <td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
 **无**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2890,38 +3173,40 @@ Windows Vista Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Vista Service Pack 2  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Vista Service Pack 2  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3122646)  
+Windows Vista Service Pack 2  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3127219)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122656)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3122661)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3127233)  
+Windows Vista Service Pack 2  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 2.0 Service Pack 2  
+(3142023)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142033)  
+（重要）  
+Microsoft .NET Framework 4.6  
+(3142037)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
@@ -2939,38 +3224,40 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Vista x64 Edition Service Pack 2  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Vista x64 Edition Service Pack 2  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3122646)  
+Windows Vista x64 Edition Service Pack 2  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3127219)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122656)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3122661)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3127233)  
+Windows Vista x64 Edition Service Pack 2  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 2.0 Service Pack 2  
+(3142023)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142033)  
+（重要）  
+Microsoft .NET Framework 4.6  
+(3142037)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
@@ -2983,7 +3270,7 @@ Microsoft .NET Framework 4.6
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows Server 2008**
 
 </td>
@@ -2994,27 +3281,31 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -3024,6 +3315,18 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
 **无**
 
 </td>
@@ -3032,15 +3335,7 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
 **无**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3054,33 +3349,23 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
 Windows Server 2008（用于 32 位系统）Service Pack 2  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3122646)  
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+(3153171)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3127219)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122656)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3122661)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3127233)  
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+(3156017)  
 （重要）
 
 </td>
@@ -3089,9 +3374,19 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008（用于 32 位系统）Service Pack 2  
-(3133043)  
+Microsoft .NET Framework 2.0 Service Pack 2  
+(3142023)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142033)  
+（重要）  
+Microsoft .NET Framework 4.6  
+(3142037)  
 （重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -3105,33 +3400,23 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
 Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3122646)  
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+(3153171)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3127219)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122656)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3122661)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3127233)  
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+(3156017)  
 （重要）
 
 </td>
@@ -3140,9 +3425,19 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-(3133043)  
+Microsoft .NET Framework 2.0 Service Pack 2  
+(3142023)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142033)  
+（重要）  
+Microsoft .NET Framework 4.6  
+(3142037)  
 （重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -3156,26 +3451,34 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3122646)  
+Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 2.0 Service Pack 2  
-(3127219)  
+Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 2.0 Service Pack 2  
+(3142023)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
@@ -3188,7 +3491,7 @@ Microsoft .NET Framework 2.0 Service Pack 2
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows 7**
 
 </td>
@@ -3199,27 +3502,31 @@ Microsoft .NET Framework 2.0 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -3242,6 +3549,10 @@ Microsoft .NET Framework 2.0 Service Pack 2
 </td>
 <td style="border:1px solid black;">
 **无**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3260,39 +3571,39 @@ Windows 7（用于 32 位系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于 32 位系统）Service Pack 1  
-(3126446)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于 32 位系统）Service Pack 1  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5.1  
-(3122648)  
+Windows 7（用于 32 位系统）Service Pack 1  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 3.5.1  
-(3127220)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122656)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122661)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127233)  
+Windows 7（用于 32 位系统）Service Pack 1  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5.1  
+(3142024)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142033)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142037)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
@@ -3311,39 +3622,39 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于基于 x64 的系统）Service Pack 1  
-(3126446)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 7（用于基于 x64 的系统）Service Pack 1  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5.1  
-(3122648)  
+Windows 7（用于基于 x64 的系统）Service Pack 1  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 3.5.1  
-(3127220)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122656)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122661)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127233)  
+Windows 7（用于基于 x64 的系统）Service Pack 1  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5.1  
+(3142024)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142033)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142037)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
@@ -3356,7 +3667,7 @@ Microsoft .NET Framework 4.6/4.6.1
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows Server 2008 R2**
 
 </td>
@@ -3367,27 +3678,31 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -3397,6 +3712,18 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
 **无**
 
 </td>
@@ -3405,15 +3732,7 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
 **无**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3427,33 +3746,23 @@ Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5.1  
-(3122648)  
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+(3153171)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 3.5.1  
-(3127220)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122656)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122661)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127233)  
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+(3156017)  
 （重要）
 
 </td>
@@ -3462,9 +3771,19 @@ Microsoft .NET Framework 4.6/4.6.1
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
-(3133043)  
+Microsoft .NET Framework 3.5.1  
+(3142024)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142033)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142037)  
 （重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -3478,26 +3797,34 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1  
-(3134214)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5.1  
-(3122648)  
+Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 3.5.1  
-(3127220)  
+Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5.1  
+(3142024)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
@@ -3510,7 +3837,7 @@ Microsoft .NET Framework 3.5.1
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows 8.1**
 
 </td>
@@ -3521,27 +3848,31 @@ Microsoft .NET Framework 3.5.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -3563,15 +3894,19 @@ Microsoft .NET Framework 3.5.1
 
 </td>
 <td style="border:1px solid black;">
-**无**
-
-</td>
-<td style="border:1px solid black;">
-**无**
-
-</td>
-<td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 </tr>
@@ -3582,49 +3917,49 @@ Windows 8.1（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
 Windows 8.1（用于 32 位系统）  
-(3126446)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 8.1（用于 32 位系统）  
-(3134214)  
+(3153704)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3122651)  
+Windows 8.1（用于 32 位系统）  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 3.5  
-(3127222)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122654)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127226)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122660)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127231)  
+Windows 8.1（用于 32 位系统）  
+(3156017)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
+(3163207)  
 （严重）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3142026)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142030)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142036)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
@@ -3635,54 +3970,54 @@ Windows 8.1（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
 Windows 8.1（用于基于 x64 的系统）  
-(3126446)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 8.1（用于基于 x64 的系统）  
-(3134214)  
+(3153704)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3122651)  
+Windows 8.1（用于基于 x64 的系统）  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 3.5  
-(3127222)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122654)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127226)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122660)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127231)  
+Windows 8.1（用于基于 x64 的系统）  
+(3156017)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
+(3163207)  
 （严重）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3142026)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142030)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142036)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows Server 2012 和 Windows Server 2012 R2**
 
 </td>
@@ -3693,27 +4028,31 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -3735,7 +4074,7 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3743,7 +4082,11 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3754,34 +4097,40 @@ Windows Server 2012
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012  
-(3126446)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012  
-(3134214)  
+(3153704)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3122649)  
+Windows Server 2012  
+(3153199)  
 （重要）  
+Windows Server 2012  
+(3156017)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Adobe Flash Player  
+(3163207)  
+（中等）
+
+</td>
+<td style="border:1px solid black;">
 Microsoft .NET Framework 3.5  
-(3127221)  
+(3142025)  
 （重要）  
 Microsoft .NET Framework 4.5.2  
-(3122655)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127227)  
+(3142032)  
 （重要）  
 Microsoft .NET Framework 4.6/4.6.1  
-(3122658)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127230)  
+(3142035)  
 （重要）
 
 </td>
@@ -3791,14 +4140,8 @@ Microsoft .NET Framework 4.6/4.6.1
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012  
-(3133043)  
+(3155784)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-Adobe Flash Player  
-(3135782)  
-（严重）
 
 </td>
 </tr>
@@ -3809,58 +4152,56 @@ Windows Server 2012 R2
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012 R2  
-(3126446)  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012 R2  
-(3134214)  
-（重要）
-
-</td>
-<td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3122651)  
-（重要）  
-Microsoft .NET Framework 3.5  
-(3127222)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122654)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127226)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122660)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127231)  
-（重要）
-
-</td>
-<td style="border:1px solid black;">
-Active Directory 联合身份验证服务 3.0  
-(3134222)  
+(3153704)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012 R2  
-(3133043)  
+(3153199)  
+（重要）  
+Windows Server 2012 R2  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
-（严重）
+(3163207)  
+（中等）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3142026)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142030)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142036)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2012 R2  
+(3155784)  
+（重要）
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows RT 8.1**
 
 </td>
@@ -3871,27 +4212,31 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -3901,10 +4246,6 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-**无**
-
-</td>
-<td style="border:1px solid black;">
 [**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
@@ -3913,15 +4254,23 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-**无**
-
-</td>
-<td style="border:1px solid black;">
-**无**
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 </tr>
@@ -3931,47 +4280,52 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows RT 8.1  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows RT 8.1  
-(3134214)  
+(3153704)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 4.5.2  
-(3122654)  
+Windows RT 8.1  
+(3153199)  
 （重要）  
-Microsoft .NET Framework 4.5.2  
-(3127226)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122660)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127231)  
+Windows RT 8.1  
+(3156017)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
+(3163207)  
 （严重）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 4.5.2  
+(3142030)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142036)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **Windows 10**
 
 </td>
@@ -3982,27 +4336,31 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -4024,15 +4382,19 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-**无**
-
-</td>
-<td style="border:1px solid black;">
-**无**
-
-</td>
-<td style="border:1px solid black;">
 [**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
+<td style="border:1px solid black;">
+**无**
 
 </td>
 </tr>
@@ -4043,37 +4405,45 @@ Windows 10（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于 32 位系统）  
-(3135174)  
+(3156387)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于 32 位系统）  
-(3135174)  
+(3156387)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3135174)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3135174)  
+Windows 10（用于 32 位系统）  
+(3156387)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
+(3163207)  
 （严重）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3156387)  
+（重要）  
+Microsoft .NET Framework 4.6  
+(3156387)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows 10（用于 32 位系统）  
+(3156387)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
@@ -4084,37 +4454,45 @@ Windows 10（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于基于 x64 的系统）  
-(3135174)  
+(3156387)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10（用于基于 x64 的系统）  
-(3135174)  
+(3156387)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3135174)  
-（重要）  
-Microsoft .NET Framework 4.6  
-(3135174)  
+Windows 10（用于基于 x64 的系统）  
+(3156387)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
+(3163207)  
 （严重）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3156387)  
+（重要）  
+Microsoft .NET Framework 4.6  
+(3156387)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows 10（用于基于 x64 的系统）  
+(3156387)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
@@ -4124,36 +4502,46 @@ Windows 10 版本 1511（用于 32 位系统）
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows 10 版本 1511（用于 32 位系统）  
+(3156421)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于 32 位系统）  
-(3135173)  
+(3156421)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3135173)  
-（重要）  
-Microsoft .NET Framework 4.6.1  
-(3135173)  
+Windows 10 版本 1511（用于 32 位系统）  
+(3156421)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
+(3163207)  
 （严重）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3156421)  
+（重要）  
+Microsoft .NET Framework 4.6.1  
+(3156421)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows 10 版本 1511（用于 32 位系统）  
+(3156421)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
@@ -4163,41 +4551,51 @@ Windows 10 版本 1511（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows 10 版本 1511（用于基于 x64 的系统）  
+(3156421)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows 10 版本 1511（用于基于 x64 的系统）  
-(3135173)  
+(3156421)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3135173)  
-（重要）  
-Microsoft .NET Framework 4.6.1  
-(3135173)  
+Windows 10 版本 1511（用于基于 x64 的系统）  
+(3156421)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 <td style="border:1px solid black;">
 Adobe Flash Player  
-(3135782)  
+(3163207)  
 （严重）
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3156421)  
+（重要）  
+Microsoft .NET Framework 4.6.1  
+(3156421)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows 10 版本 1511（用于基于 x64 的系统）  
+(3156421)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 </tr>
 <tr>
-<td style="border:1px solid black;" colspan="7">
+<td style="border:1px solid black;" colspan="8">
 **服务器核心安装选项**
 
 </td>
@@ -4208,27 +4606,31 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-017**](https://technet.microsoft.com/zh-cn/library/security/ms16-017)
+[**MS16-060**](https://technet.microsoft.com/zh-cn/library/security/ms16-060)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-018**](https://technet.microsoft.com/zh-cn/library/security/ms16-018)
+[**MS16-061**](https://technet.microsoft.com/zh-cn/library/security/ms16-061)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-019**](https://technet.microsoft.com/zh-cn/library/security/ms16-019)
+[**MS16-062**](https://technet.microsoft.com/zh-cn/library/security/ms16-062)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-020**](https://technet.microsoft.com/zh-cn/library/security/ms16-020)
+[**MS16-064**](https://technet.microsoft.com/zh-cn/library/security/ms16-064)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-021**](https://technet.microsoft.com/zh-cn/library/security/ms16-021)
+[**MS16-065**](https://technet.microsoft.com/zh-cn/library/security/ms16-065)
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-022**](https://technet.microsoft.com/zh-cn/library/security/ms16-022)
+[**MS16-066**](https://technet.microsoft.com/zh-cn/library/security/ms16-066)
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-067**](https://technet.microsoft.com/zh-cn/library/security/ms16-067)
 
 </td>
 </tr>
@@ -4250,7 +4652,7 @@ Adobe Flash Player
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
 
 </td>
 <td style="border:1px solid black;">
@@ -4261,6 +4663,10 @@ Adobe Flash Player
 **无**
 
 </td>
+<td style="border:1px solid black;">
+[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+
+</td>
 </tr>
 <tr>
 <td style="border:1px solid black;">
@@ -4269,13 +4675,27 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+（服务器核心安装）  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008（用于 32 位系统）Service Pack 2  
 （服务器核心安装）  
-(3134214)  
+(3153171)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+（服务器核心安装）  
+(3153199)  
+（重要）  
+Windows Server 2008（用于 32 位系统）Service Pack 2  
+（服务器核心安装）  
+(3156017)  
 （重要）
 
 </td>
@@ -4288,10 +4708,7 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008（用于 32 位系统）Service Pack 2  
-（服务器核心安装）  
-(3133043)  
-（重要）
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -4306,13 +4723,27 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+（服务器核心安装）  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
 （服务器核心安装）  
-(3134214)  
+(3153171)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+（服务器核心安装）  
+(3153199)  
+（重要）  
+Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
+（服务器核心安装）  
+(3156017)  
 （重要）
 
 </td>
@@ -4325,10 +4756,7 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008（用于基于 x64 的系统）Service Pack 2  
-（服务器核心安装）  
-(3133043)  
-（重要）
+不适用
 
 </td>
 <td style="border:1px solid black;">
@@ -4343,40 +4771,48 @@ Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-不适用
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+（服务器核心安装）  
+(3153171)  
+（重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
 （服务器核心安装）  
-(3134214)  
+(3153171)  
 （重要）
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+（服务器核心安装）  
+(3153199)  
+（重要）  
+Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
+（服务器核心安装）  
+(3156017)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
 
 </td>
 <td style="border:1px solid black;">
 Microsoft .NET Framework 3.5.1  
-(3122648)  
-（重要）  
-Microsoft .NET Framework 3.5.1  
-(3127220)  
+(3142024)  
 （重要）  
 Microsoft .NET Framework 4.5.2  
-(3122656)  
+(3142033)  
 （重要）  
-Microsoft .NET Framework 4.5.2  
-(3127229)  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142037)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
-
-</td>
-<td style="border:1px solid black;">
-Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1  
-（服务器核心安装）  
-(3133043)  
-（重要）
 
 </td>
 <td style="border:1px solid black;">
@@ -4391,36 +4827,43 @@ Windows Server 2012
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012（服务器核心安装）  
-(3126446)  
+Windows Server 2012  
+（服务器核心安装）  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012  
 （服务器核心安装）  
-(3134214)  
+(3153704)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3122649)  
+Windows Server 2012  
+（服务器核心安装）  
+(3153199)  
 （重要）  
+Windows Server 2012  
+（服务器核心安装）  
+(3156017)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
 Microsoft .NET Framework 3.5  
-(3127221)  
+(3142025)  
 （重要）  
 Microsoft .NET Framework 4.5.2  
-(3122655)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127227)  
+(3142032)  
 （重要）  
 Microsoft .NET Framework 4.6/4.6.1  
-(3122658)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127230)  
+(3142035)  
 （重要）
 
 </td>
@@ -4431,12 +4874,8 @@ Microsoft .NET Framework 4.6/4.6.1
 <td style="border:1px solid black;">
 Windows Server 2012  
 （服务器核心安装）  
-(3133043)  
+(3155784)  
 （重要）
-
-</td>
-<td style="border:1px solid black;">
-不适用
 
 </td>
 </tr>
@@ -4447,64 +4886,66 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-Windows Server 2012 R2（服务器核心安装）  
-(3126446)  
+Windows Server 2012 R2  
+（服务器核心安装）  
+(3153171)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012 R2  
 （服务器核心安装）  
-(3134214)  
-（重要）
-
-</td>
-<td style="border:1px solid black;">
-Microsoft .NET Framework 3.5  
-(3122651)  
-（重要）  
-Microsoft .NET Framework 3.5  
-(3127222)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3122654)  
-（重要）  
-Microsoft .NET Framework 4.5.2  
-(3127226)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3122660)  
-（重要）  
-Microsoft .NET Framework 4.6/4.6.1  
-(3127231)  
-（重要）
-
-</td>
-<td style="border:1px solid black;">
-Active Directory 联合身份验证服务 3.0  
-(3134222)  
+(3153704)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 Windows Server 2012 R2  
 （服务器核心安装）  
-(3133043)  
+(3153199)  
+（重要）  
+Windows Server 2012 R2  
+（服务器核心安装）  
+(3156017)  
 （重要）
 
 </td>
 <td style="border:1px solid black;">
 不适用
+
+</td>
+<td style="border:1px solid black;">
+Microsoft .NET Framework 3.5  
+(3142026)  
+（重要）  
+Microsoft .NET Framework 4.5.2  
+(3142030)  
+（重要）  
+Microsoft .NET Framework 4.6/4.6.1  
+(3142036)  
+（重要）
+
+</td>
+<td style="border:1px solid black;">
+不适用
+
+</td>
+<td style="border:1px solid black;">
+Windows Server 2012 R2  
+（服务器核心安装）  
+(3155784)  
+（重要）
 
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office 套件和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -4518,7 +4959,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4539,13 +4980,13 @@ Microsoft Office 2007 Service Pack 3
 </td>
 <td style="border:1px solid black;">
 Microsoft Office 2007 Service Pack 3  
-(3114742)  
+(2984938)  
 （重要）  
-Microsoft Excel 2007 Service Pack 3  
-(3114741)  
+Microsoft Office 2007 Service Pack 3  
+(2984943)  
 （重要）  
 Microsoft Word 2007 Service Pack 3  
-(3114748)  
+(3115116)  
 （严重）
 
 </td>
@@ -4562,7 +5003,7 @@ Microsoft Word 2007 Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4583,13 +5024,16 @@ Microsoft Office 2010 Service Pack 2（32 位版本）
 </td>
 <td style="border:1px solid black;">
 Microsoft Office 2010 Service Pack 2（32 位版本）  
-(3114752)  
+(3115121)  
+（严重）  
+Microsoft Office 2010 Service Pack 2（32 位版本）  
+(3054984)  
 （重要）  
-Microsoft Excel 2010 Service Pack 2（32 位版本）  
-(3114759)  
+Microsoft Office 2010 Service Pack 2（32 位版本）  
+(3101520)  
 （重要）  
 Microsoft Word 2010 Service Pack 2（32 位版本）  
-(3114755)  
+(3115123)  
 （严重）
 
 </td>
@@ -4601,13 +5045,16 @@ Microsoft Office 2010 Service Pack 2（64 位版本）
 </td>
 <td style="border:1px solid black;">
 Microsoft Office 2010 Service Pack 2（64 位版本）  
-(3114752)  
+(3115121)  
+（严重）  
+Microsoft Office 2010 Service Pack 2（64 位版本）  
+(3054984)  
 （重要）  
-Microsoft Excel 2010 Service Pack 2（64 位版本）  
-(3114759)  
+Microsoft Office 2010 Service Pack 2（64 位版本）  
+(3101520)  
 （重要）  
 Microsoft Word 2010 Service Pack 2（64 位版本）  
-(3114755)  
+(3115123)  
 （严重）
 
 </td>
@@ -4624,7 +5071,7 @@ Microsoft Word 2010 Service Pack 2（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4644,11 +5091,11 @@ Microsoft Office 2013 Service Pack 1（32 位版本）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Excel 2013 Service Pack 1（32 位版本）  
-(3114734)  
+Microsoft Office 2013 Service Pack 1（32 位版本）  
+(3115016)  
 （重要）  
 Microsoft Word 2013 Service Pack 1（32 位版本）  
-(3114724)  
+(3115025)  
 （严重）
 
 </td>
@@ -4659,11 +5106,11 @@ Microsoft Office 2013 Service Pack 1（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Excel 2013 Service Pack 1（64 位版本）  
-(3114734)  
+Microsoft Office 2013 Service Pack 1（64 位版本）  
+(3115016)  
 （重要）  
 Microsoft Word 2013 Service Pack 1（64 位版本）  
-(3114724)  
+(3115025)  
 （严重）
 
 </td>
@@ -4680,7 +5127,7 @@ Microsoft Word 2013 Service Pack 1（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4700,11 +5147,11 @@ Microsoft Office 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Excel 2013 RT Service Pack 1  
-(3114734)  
+Microsoft Office 2013 RT Service Pack 1  
+(3115016)  
 （重要）  
 Microsoft Word 2013 RT Service Pack 1  
-(3114724)  
+(3115025)  
 （严重）
 
 </td>
@@ -4721,7 +5168,7 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4741,11 +5188,11 @@ Microsoft Office 2016（32 位版本）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Excel 2016（32 位版本）  
-(3114698)  
+Microsoft Office 2016（32 位版本）  
+(3115103)  
 （重要）  
 Microsoft Word 2016（32 位版本）  
-(3114702)  
+(3115094)  
 （严重）
 
 </td>
@@ -4756,18 +5203,18 @@ Microsoft Office 2016（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Excel 2016（64 位版本）  
-(3114698)  
+Microsoft Office 2016（64 位版本）  
+(3115103)  
 （重要）  
 Microsoft Word 2016（64 位版本）  
-(3114702)  
+(3115094)  
 （严重）
 
 </td>
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**Microsoft Office for Mac**
+**Microsoft Office for Mac 2011**
 
 </td>
 </tr>
@@ -4777,7 +5224,7 @@ Microsoft Word 2016（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4797,12 +5244,35 @@ Microsoft Office for Mac 2011
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Excel for Mac 2011  
-(3137721)  
-（重要）  
 Microsoft Word for Mac 2011  
-(3137721)  
+(3155776)  
 （严重）
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;" colspan="2">
+**Microsoft Office 2016 for Mac**
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**公告标识符**
+
+</td>
+<td style="border:1px solid black;">
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
+
+</td>
+</tr>
+<tr>
+<td style="border:1px solid black;">
+**综合严重等级**
+
+</td>
+<td style="border:1px solid black;">
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4812,11 +5282,8 @@ Microsoft Office 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-Microsoft Excel 2016 for Mac  
-(3134241)  
-（重要）  
 Microsoft Word 2016 for Mac  
-(3134241)  
+(3155777)  
 （严重）
 
 </td>
@@ -4833,7 +5300,7 @@ Microsoft Word 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4843,7 +5310,7 @@ Microsoft Word 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4854,23 +5321,8 @@ Microsoft Office 兼容包 Service Pack 3
 </td>
 <td style="border:1px solid black;">
 Microsoft Office 兼容包 Service Pack 3  
-(3114548)  
-（重要）  
-Microsoft Office 兼容包 Service Pack 3  
-(3114745)  
-（重要）
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-Microsoft Excel Viewer
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Excel Viewer  
-(3114747)  
-（重要）
+(3115115)  
+（严重）
 
 </td>
 </tr>
@@ -4881,73 +5333,22 @@ Microsoft Word Viewer
 </td>
 <td style="border:1px solid black;">
 Microsoft Word Viewer  
-(3114773)  
-（重要）
+(3115132)  
+（严重）
 
 </td>
 </tr>
 </table>
-<p> </p>
-**MS16-015 注释**
+
+**MS16-054 的注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
-
- 
 
 ### Microsoft Office Services 和 Web Apps
 
 <p> </p>
+
 <table style="border:1px solid black;">
-<tr>
-<td style="border:1px solid black;" colspan="2">
-**Microsoft SharePoint Server 2007**
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**公告标识符**
-
-</td>
-<td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**综合严重等级**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-Microsoft SharePoint Server 2007 Service Pack 3（32 位版本）
-
-</td>
-<td style="border:1px solid black;">
-Excel Services  
-(3114432)  
-（重要）
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-Microsoft SharePoint Server 2007 Service Pack 3（64 位版本）
-
-</td>
-<td style="border:1px solid black;">
-Excel Services  
-(3114432)  
-（重要）
-
-</td>
-</tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
 **Microsoft SharePoint Server 2010**
@@ -4960,7 +5361,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -4970,7 +5371,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4980,50 +5381,9 @@ Microsoft SharePoint Server 2010 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-Excel Services  
-(3114401)  
-（重要）
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="2">
-**Microsoft SharePoint Server 2013**
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**公告标识符**
-
-</td>
-<td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**综合严重等级**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-Microsoft SharePoint Server 2013 Service Pack 1
-
-</td>
-<td style="border:1px solid black;">
-Excel Services  
-(3114335)  
-（重要）  
 Word Automation Services  
-(3114481)  
-（重要）
+(3115117)  
+（严重）
 
 </td>
 </tr>
@@ -5039,7 +5399,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
+[**MS16-054**](https://technet.microsoft.com/zh-cn/library/security/ms16-054)
 
 </td>
 </tr>
@@ -5049,7 +5409,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5060,140 +5420,14 @@ Microsoft Office Web Apps 2010 Service Pack 2
 </td>
 <td style="border:1px solid black;">
 Microsoft Office Web Apps 2010 Service Pack 2  
-(3114407)  
-（重要）
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="2">
-**Microsoft Office Web Apps 2013**
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**公告标识符**
-
-</td>
-<td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**综合严重等级**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-Microsoft Office Web Apps 2013 Service Pack 1
-
-</td>
-<td style="border:1px solid black;">
-Microsoft Office Web Apps Server 2013 Service Pack 1  
-(3114338)  
-（重要）
+(3115124)  
+（严重）
 
 </td>
 </tr>
 </table>
-<p> </p>
-**MS16-015 注释**
 
-此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
-
- 
-
-### Microsoft Server 软件
-
-<p> </p>
-<table style="border:1px solid black;">
-<tr>
-<td style="border:1px solid black;" colspan="2">
-**Microsoft SharePoint Server 2013**
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**公告标识符**
-
-</td>
-<td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**综合严重等级**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-Microsoft SharePoint Server 2013 Service Pack 1
-
-</td>
-<td style="border:1px solid black;">
-Microsoft SharePoint Server 2013 Service Pack 1  
-(3039768)  
-（重要）
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;" colspan="2">
-**Microsoft SharePoint Foundation 2013**
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**公告标识符**
-
-</td>
-<td style="border:1px solid black;">
-[**MS16-015**](https://technet.microsoft.com/zh-cn/library/security/ms16-015)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-**综合严重等级**
-
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-</tr>
-<tr>
-<td style="border:1px solid black;">
-Microsoft SharePoint Foundation 2013 Service Pack 1
-
-</td>
-<td style="border:1px solid black;">
-Microsoft SharePoint Foundation 2013 Service Pack 1  
-(3114733)  
-（重要）
-
-</td>
-</tr>
-</table>
-<p> </p>
-**MS16-015 注释**
+**MS16-054 的注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
 
@@ -5215,7 +5449,7 @@ Application Compatibility Toolkit 随附的更新兼容性评估程序组件针�
 ----
 
 <span id="sectionToggle4"></span>
-Microsoft 通过可靠的漏洞披露渠道认可在安全社区中帮助我们对客户进行保护的人们所做出的努力。有关详细信息，请参阅[鸣谢](https://technet.microsoft.com/zh-cn/library/security/dn903755.aspx)部分。
+Microsoft 通过可靠的漏洞披露渠道认可在安全社区中帮助我们对客户进行保护的人们所做出的努力。有关详细信息，请参阅[鸣谢](https://technet.microsoft.com/zh-cn/library/security/mt674627.aspx)部分。
 
 其他信息
 --------
@@ -5242,13 +5476,13 @@ Microsoft 通过可靠的漏洞披露渠道认可在安全社区中帮助我们�
 
 [更新管理安全指导](http://technet.microsoft.com/zh-cn/library/bb466251.aspx)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
-**获取其他安全更新**
+**获取其他安全更新程序**
 
-可从以下位置获得针对其他安全问题的更新：
+可从以下位置获得针对其他安全问题的更新程序：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-cn) 提供了消费者平台的更新。
--   您可以从下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows 更新上提供的安全更新。有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/zh-cn/kb/913086)。
+-   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新程序。通过输入关键字“安全更新”可以非常方便地找到这些更新程序。
+-   [Microsoft 更新](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-cn)提供了消费者平台的更新。
+-   您可以从下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows 更新上提供的安全更新程序。有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/zh-cn/kb/913086)。
 
 **IT 专业人员安全社区**
 
@@ -5258,7 +5492,7 @@ Microsoft 通过可靠的漏洞披露渠道认可在安全社区中帮助我们�
 
 已对列出的受影响的软件进行测试，以确定受到影响的版本。其他版本的支持生命周期已结束。要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://support.microsoft.com/zh-cn/lifecycle)。
 
-面向 IT 专业人员的安全解决方案：[TechNet 安全疑难解答和支持](http://technet.microsoft.com/zh-cn/security/bb980617)
+面向 IT 专业人员的安全解决方案：[TechNet 安全故障排除和支持](http://technet.microsoft.com/zh-cn/security/bb980617)
 
 帮助保护您运行 Windows 的计算机不受病毒和恶意软件危害：[病毒解决方案和安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-cn)
 
@@ -5270,9 +5504,10 @@ Microsoft 知识库中的信息“按原样”提供，没有任何形式的担�
 
 ### 修订版本
 
--   V1.0（2016 年 2 月 9 日）：已发布公告摘要。
--   V2.0（2016 年 2 月 10 日）：对于 MS16-014，公告经过修订，宣布发布适用于 Microsoft Windows Vista、Windows Server 2008、Windows Server 2008（用于基于 Itanium 的系统）、Windows 8.1 和 Windows Server 2012 R2 的更新 3126041。客户应应用适用的更新以免受此公告中讨论的漏洞攻击。大多数客户均启用了“自动更新”，他们不必采取任何操作，因为更新将自动下载并安装。对于 MS16-021，更正了 CVE-2016-0050 的利用评估。
--   V3.0（2016 年 2 月 16 日）：对于 MS16-015，截止到 2016 年 2 月 16 日，已推出适用于 Microsoft Office 2016 for Mac 的 3134241 更新以及适用于 Microsoft Office for Mac 2011 的 3137721 更新。有关详细信息，请参阅 [Microsoft 知识库文章 3134241](https://support.microsoft.com/zh-cn/kb/3134241) 和 [Microsoft 知识库文章 3137721](https://support.microsoft.com/zh-cn/kb/3137721)。
--   V3.1（2016 年 2 月 24 日）：向 MS16-014 的“执行摘要”表添加了已知问题的引用。有关详细信息，请参阅 [Microsoft 知识库文章 3126041](https://support.microsoft.com/zh-cn/kb/3126041)。另请注意,已向 [Microsoft 知识库文章 3126587](https://support.microsoft.com/zh-cn/kb/3126587) 添加了包含变通办法的第二个已知问题。
+-   V1.0（2016 年 5 月 10 日）：已发布公告摘要。
+-   V1.1（2016 年 5 月 11 日）：公告摘要经过修订，将 MS16-061 的漏洞影响从特权提升更改为远程执行代码，并将 CVE 2016-0178 的标题更改为 RPC 网络数据表示引擎远程执行代码漏洞。此仅为信息变更。
+-   V1.2（2016 年 5 月 13 日）：公告摘要已针对 MS16-067 进行修订，将 Windows 8.1 和 Windows RT 8.1 的漏洞严重等级更改为“不适用”，因为这些操作系统不受公告中描述的漏洞的影响。已经应用了安全更新程序 3155784 的客户不需要执行任何进一步操作。此仅为信息变更。
+-   V2.0（2016 年 5 月 13 日）：公告摘要已针对 MS16-064 进行修订，以宣布将发布可修复 Adobe 安全公告 APSB16-15 中漏洞的更新 3163207。请注意，更新 3163207 将替代 MS16-064 公告中以前发布的更新（更新 3157993）。Microsoft 强烈建议客户安装更新 3163207，以帮助避免 Adobe 安全公告 APSB16-15 中描述的漏洞。
+-   V2.1（2016 年 5 月 25 日）：对于 MS16-065，向“执行摘要”表添加了已知问题。在适用于 Lync Server 2010、Lync Server 2013 或 Skype for Business Server 2015 的前端服务器或 Standard Edition 服务器上安装包括在 MS16-065 中的任意安全更新程序之后，几种会议方式不再适用于内部用户。有关此已知问题的解决方案的信息，请参阅 [Microsoft 知识库文章 3165438](https://support.microsoft.com/zh-cn/kb/3165438)。
 
-*页面生成时间：2016-02-24 13:45-08:00。*
+*页面生成时间：2016-05-25 12:52-07:00。*
