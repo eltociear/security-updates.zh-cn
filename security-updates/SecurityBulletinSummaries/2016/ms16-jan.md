@@ -145,9 +145,7 @@ Visual Basic</p></td>
 <td style="border:1px solid black;"><p>Microsoft Exchange Server</p></td>
 </tr>  
 </tbody>  
-</table>
-
-
+</table>  
 
 
 利用指数  
@@ -175,13 +173,11 @@ Visual Basic</p></td>
 
 </td>
 <td style="border:1px solid black;">
-**较旧软件版本的利用评估  
-**
+**较旧软件版本的利用评估**
 
 </td>
 <td style="border:1px solid black;">
-**较旧软件版本的利用评估  
-**
+**较旧软件版本的利用评估**
 
 </td>
 <td style="border:1px solid black;">
