@@ -13,7 +13,7 @@ MSRC ppDocument 模板
 
 发布日期：2016 年 4 月 12 日 | 更新时间：2017 年 4 月 11 日
 
-**版本：**3.0
+**版本：**4.0
 
 本公告摘要列出了 2016 年 4 月发布的安全公告。
 
@@ -29,6 +29,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 
 有关受影响软件的详细信息，请参阅下一节“**受影响的软件**”。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -53,7 +54,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746891">MS16-037</a></p></td>
 <td style="border:1px solid black;"><p><strong>Internet Explorer 累积安全更新 (3148531)<br />
 </strong>此安全更新修复了 Internet Explorer 中的多个漏洞。如果用户使用 Internet Explorer 查看经特殊设计的网页，则其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。如果当前用户使用管理用户权限登录，则攻击者可完全控制受影响的系统。攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -64,7 +65,7 @@ Internet Explorer</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746894">MS16-038</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Edge 累积安全更新 (3148532)<br />
 </strong>此安全更新修复了 Microsoft Edge 中的多个漏洞。如果用户使用 Microsoft Edge 查看经特殊设计的网页，则其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。帐户被配置为拥有较少用户权限的用户比具有管理用户权限的用户受到的影响要小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -75,7 +76,7 @@ Microsoft Edge</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746883">MS16-039</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft 图形组件安全更新 (3148522)</strong><br />
 此安全更新修复了 Microsoft Windows、Microsoft .NET Framework、Microsoft Office、Skype for Business 和 Microsoft Lync 中的多个漏洞。如果用户打开经特殊设计的文档或访问包含经特殊设计的嵌入字体的网页，则其中最严重的漏洞可能允许远程执行代码。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="http://support.microsoft.com/zh-cn/kb/3148522">3148522</a></p></td>
@@ -87,7 +88,7 @@ Microsoft Lync。</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746897">MS16-040</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft XML Core Services 安全更新 (3148541)</strong><br />
 此安全更新修复了 Microsoft Windows 中的一个漏洞。如果用户单击经特殊设计的链接，该链接可能允许攻击者远程运行恶意代码来控制用户系统，则该漏洞可能允许远程执行代码。但是，在所有情况下，攻击者无法强制用户单击经特殊设计的链接。攻击者必须说服用户单击此链接，通常通过电子邮件或 Instant Messenger 消息的方式。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>可能需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -97,7 +98,7 @@ Microsoft Lync。</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746929">MS16-041</a></p></td>
 <td style="border:1px solid black;"><p><strong>.NET Framework 安全更新 (3148789)</strong><br />
 此安全更新修复了 Microsoft .Net Framework 中的一个漏洞。如果具有本地系统访问权限的攻击者执行恶意应用程序，则该漏洞可能允许远程代码执行。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>可能需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -108,7 +109,7 @@ Microsoft .NET Framework</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746928">MS16-042</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Office 安全更新 (3148775)</strong><br />
 此安全更新修复了 Microsoft Office 中的多个漏洞。如果用户打开经特殊设计的 Microsoft Office 文件，则其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以在当前用户的上下文中运行任意代码。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响较小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>可能需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="http://support.microsoft.com/zh-cn/kb/3148775">3148775</a></p></td>
@@ -119,7 +120,7 @@ Microsoft Office Services 和 Web 应用</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=747040">MS16-044</a></p></td>
 <td style="border:1px solid black;"><p><strong>Windows OLE 安全更新 (3146706)</strong><br />
 此安全更新修复了 Microsoft Windows 中的一个漏洞。如果 Windows OLE 无法正确验证用户输入，则漏洞可能允许远程执行代码。攻击者可能利用漏洞执行恶意代码。但是，攻击者必须先说服用户打开经特殊设计的文件或者网页或电子邮件中的程序。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="http://support.microsoft.com/zh-cn/kb/3146706">3146706</a></p></td>
@@ -129,7 +130,7 @@ Microsoft Office Services 和 Web 应用</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=733440">MS16-045</a></p></td>
 <td style="border:1px solid black;"><p><strong>Windows Hyper-V 安全更新 (3143118)</strong><br />
 此安全更新修复了 Microsoft Windows 中的多个漏洞。如果来宾操作系统上的经身份验证的攻击者运行经特殊设计的应用程序，该应用程序可导致 Hyper-V 主机操作系统执行任意代码，则其中最严重的漏洞可能允许远程执行代码。尚未启用 Hyper-V 角色的客户不会受到影响。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -139,7 +140,7 @@ Microsoft Office Services 和 Web 应用</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746896">MS16-046</a></p></td>
 <td style="border:1px solid black;"><p><strong>辅助登录安全更新 (3148538)</strong><br />
 此安全更新修复了 Microsoft Windows 中的一个漏洞。成功利用此漏洞的攻击者可以以管理员身份运行任意代码。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -149,7 +150,7 @@ Microsoft Office Services 和 Web 应用</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746885">MS16-047</a></p></td>
 <td style="border:1px solid black;"><p><strong>SAM 和 LSAD 远程协议安全更新 (3148527)<br />
 </strong>此安全更新修复了 Microsoft Windows 中的一个漏洞。如果攻击者启动中间人 (MiTM) 攻击，则该漏洞可能允许特权提升。然后，攻击者可以强制降低 SAM 和 LSAD 通道的身份验证级别，并模拟经身份验证的用户。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -159,7 +160,7 @@ Microsoft Office Services 和 Web 应用</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746886">MS16-048</a></p></td>
 <td style="border:1px solid black;"><p><strong>CSRSS 安全更新 (3148528)<br />
 </strong>此安全更新修复了 Microsoft Windows 中的一个漏洞。如果攻击者登录目标系统并运行经特殊设计的应用程序，则此漏洞可能允许绕过安全功能。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 安全功能绕过</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="http://support.microsoft.com/zh-cn/kb/3146723">3146723</a></p></td>
@@ -169,7 +170,7 @@ Microsoft Office Services 和 Web 应用</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=746932">MS16-049</a></p></td>
 <td style="border:1px solid black;"><p><strong>HTTP.sys 安全更新 (3148795)<br />
 </strong>此安全更新修复了 Microsoft Windows 中的一个漏洞。如果攻击者向目标系统发送特制 HTTP 数据包，则该漏洞可能允许拒绝服务。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 拒绝服务</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -179,7 +180,7 @@ Microsoft Office Services 和 Web 应用</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=785154">MS16-050</a></p></td>
 <td style="border:1px solid black;"><p><strong>Adobe Flash Player 安全更新 (3154132)</strong><br />
 此安全更新修复了 Adobe Flash Player 在 Windows 8.1、Windows Server 2012、Windows Server 2012 R2、Windows RT 8.1 和 Windows 10 所有支持版本上安装时的漏洞。</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a> <br />
 远程代码执行</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -203,10 +204,11 @@ Adobe Flash Player</p></td>
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
 <p> </p>
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
-**CVE ID**                    
+**CVE ID**                    
 
 </td>
 <td style="border:1px solid black;">
@@ -1002,10 +1004,11 @@ HTTP.sys 拒绝服务漏洞
 
 **注意** 您可能必须为单个漏洞安装几个安全更新。查看列出的每个公告标识符的整列，核实必须安装的更新（基于系统上已安装的程序或组件）。
 
- 
+ 
 
 ### Windows 操作系统和组件（表 1-2）
 
+<p> </p>
 <p> </p>
 <table style="border:1px solid black;">
 <tr>
@@ -1168,7 +1171,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -1356,7 +1359,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -1508,7 +1511,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -1653,7 +1656,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -1801,7 +1804,7 @@ Windows 8.1（用于基于 x64 的系统）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -1949,7 +1952,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -2053,7 +2056,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -2283,7 +2286,7 @@ Microsoft XML Core Services 3.0
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -2546,6 +2549,7 @@ Windows Server 2012 R2（服务器核心安装）
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -2555,7 +2559,7 @@ Windows Server 2012 R2（服务器核心安装）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -2685,7 +2689,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -2847,7 +2851,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -2977,7 +2981,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3107,7 +3111,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3247,7 +3251,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3389,7 +3393,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3491,7 +3495,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3719,7 +3723,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符                                                 **
 
 </td>
 <td style="border:1px solid black;">
@@ -3961,10 +3965,11 @@ Windows Server 2012 R2
 </tr>
 </table>
 <p> </p>
- 
+ 
 
 ### Microsoft Office 套件和软件
 
+<p> </p>
 <p> </p>
 <table style="border:1px solid black;">
 <tr>
@@ -4491,6 +4496,7 @@ Microsoft Word Viewer
 ### Microsoft Office Services 和 Web Apps
 
 <p> </p>
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -4705,6 +4711,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 
 ### Microsoft 通信平台和软件
 
+<p> </p>
 <p> </p>
 <table style="border:1px solid black;">
 <tr>
@@ -4997,7 +5004,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 
 Application Compatibility Toolkit 随附的更新兼容性评估程序组件针对安装的应用程序协助简化 Windows 更新的测试和验证。
 
-有关的这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](http://technet.microsoft.com/zh-cn/security/cc297183)。 
+有关的这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](http://technet.microsoft.com/zh-cn/security/cc297183)。 
 
 鸣谢
 ----
