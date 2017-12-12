@@ -31,6 +31,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新以及与�
 
 有关受影响软件的详细信息，请参阅下一节**受影响的软件**。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -243,7 +244,6 @@ Adobe Flash Player</p></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
 
 利用指数
 --------
@@ -258,6 +258,7 @@ Adobe Flash Player</p></td>
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -3473,7 +3474,6 @@ Microsoft XML Core Services 信息泄漏漏洞
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -3488,6 +3488,7 @@ Microsoft XML Core Services 信息泄漏漏洞
 ### Windows 操作系统和组件（表 2-1）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="9">
@@ -6381,7 +6382,7 @@ Windows Server 2016（用于基于 x64 的系统）
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS17-013 注释**
 
 本公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
@@ -6391,6 +6392,7 @@ Windows Server 2016（用于基于 x64 的系统）
 ### Windows 操作系统和组件（表 2-2）
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="9">
@@ -9201,12 +9203,13 @@ Microsoft XML Core Services 3.0
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office 套件和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -9749,7 +9752,7 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS17-013 和 MS17-014 注释**
 
 本公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
@@ -9759,6 +9762,7 @@ Microsoft Word Viewer
 ### Microsoft Office Services 和 Web Apps
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -9966,7 +9970,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS17-014 注释**
 
 本公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
@@ -9976,6 +9980,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 ### Microsoft Server 软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -10144,7 +10149,7 @@ Microsoft Exchange Server 2016 累积更新 3
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS17-014 和 MS17-015 注释**
 
 本公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
@@ -10154,6 +10159,7 @@ Microsoft Exchange Server 2016 累积更新 3
 ### Microsoft 通信平台和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -10612,7 +10618,7 @@ Microsoft Lync for Mac 2011
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS17-013 和 MS17-014 注释**
 
 本公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
@@ -10622,6 +10628,7 @@ Microsoft Lync for Mac 2011
 ### Microsoft 开发工具和软件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -10657,7 +10664,7 @@ Microsoft Silverlight 5（安装在所有受支持的 Microsoft Windows 客户�
 <td style="border:1px solid black;">
 Microsoft Silverlight 5（安装在所有受支持的 Microsoft Windows 客户端版本上）  
 (4013867)  
-****（严重）
+（严重）
 
 </td>
 </tr>
@@ -10669,7 +10676,7 @@ Microsoft Silverlight 5 Developer Runtime（安装在所有受支持的 Microsof
 <td style="border:1px solid black;">
 Microsoft Silverlight 5 Developer Runtime（安装在所有受支持的 Microsoft Windows 客户端版本上）  
 (4013867)  
-****（严重）
+（严重）
 
 </td>
 </tr>
@@ -10681,7 +10688,7 @@ Microsoft Silverlight 5（安装在所有受支持的 Microsoft Windows 服务�
 <td style="border:1px solid black;">
 Microsoft Silverlight 5（安装在所有受支持的 Microsoft Windows 服务器版本上）  
 (4013867)  
-****（严重）
+（严重）
 
 </td>
 </tr>
@@ -10693,12 +10700,12 @@ Microsoft Silverlight 5 Developer Runtime（安装在所有受支持的 Microsof
 <td style="border:1px solid black;">
 Microsoft Silverlight 5 Developer Runtime（安装在所有受支持的 Microsoft Windows 服务器版本上）  
 (4013867)  
-****（严重）
+（严重）
 
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS17-013 注释**
 
 本公告涉及多个软件类别。如需了解其他受影响软件，请参阅本节中的其他表格。
