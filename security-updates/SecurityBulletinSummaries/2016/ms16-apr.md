@@ -1171,7 +1171,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1359,7 +1359,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1511,7 +1511,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1656,7 +1656,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1804,7 +1804,7 @@ Windows 8.1（用于基于 x64 的系统）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -1952,7 +1952,7 @@ Windows Server 2012 R2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2056,7 +2056,7 @@ Windows RT 8.1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2286,7 +2286,7 @@ Microsoft XML Core Services 3.0
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2559,7 +2559,7 @@ Windows Server 2012 R2（服务器核心安装）
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2689,7 +2689,7 @@ Windows Vista x64 Edition Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2851,7 +2851,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -2981,7 +2981,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3111,7 +3111,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3251,7 +3251,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3393,7 +3393,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3495,7 +3495,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
@@ -3723,7 +3723,7 @@ Adobe Flash Player
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**公告标识符                                                 **
+**公告标识符**
 
 </td>
 <td style="border:1px solid black;">
