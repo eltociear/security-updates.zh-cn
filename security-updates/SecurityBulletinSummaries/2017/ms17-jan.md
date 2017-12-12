@@ -102,10 +102,9 @@ Adobe Flash Player</p></td>
 <p> </p>
 
 
-
-利用指数  
+利用指数
 --------
-  
+
 <span id="sectionToggle1"></span>  
 下表提供了本月解决的各个漏洞的利用评估。按公告 ID（而非 CVE ID）顺序列出了漏洞。公告中仅包含严重等级为“严重”或“重要”的漏洞。
   
