@@ -31,6 +31,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新以及与�
 
 有关受影响软件的详细信息，请参阅下一节**受影响的软件**。
 
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="16%" />
@@ -66,6 +67,7 @@ Adobe Flash Player</p></td>
 </table>
 <p> </p>
 
+
 利用指数
 --------
 
@@ -79,6 +81,7 @@ Adobe Flash Player</p></td>
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;">
@@ -134,7 +137,6 @@ Adobe Flash Player</p></td>
 </td>
 </tr>
 </table>
-<p> </p>
 
 受影响的软件
 ------------
@@ -149,6 +151,7 @@ Adobe Flash Player</p></td>
 ### Windows 操作系统和组件
 
 <p> </p>
+
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -474,7 +477,6 @@ Adobe Flash Player
 </td>
 </tr>
 </table>
-<p> </p>
 
 检测和部署工具及指导
 --------------------
