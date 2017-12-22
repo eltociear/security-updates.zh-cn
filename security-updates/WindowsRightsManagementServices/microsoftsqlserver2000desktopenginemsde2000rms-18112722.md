@@ -26,9 +26,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747667(v=WS.10)'
 
     **Setup.exe /i setup\\sqlrun10.msi INSTANCENAME=RMS DISABLEAGENTSTARTUP=1 SAPWD=***password*
 
-    | ![](images/Cc747667.Important(WS.10).gif)要点                                                                           |
-    |------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | 安装 MSDE 服务后，必须启动它。您可以从“**控制面板**”的“**服务**”中启动该服务。建议将此服务配置为自动启动，以确保在 RMS 运行时，MSDE 数据库始终可用。 |
+    > [!IMPORTANT]
+    > 安装 MSDE 服务后，必须启动它。您可以从“**控制面板**”的“**服务**”中启动该服务。建议将此服务配置为自动启动，以确保在 RMS 运行时，MSDE 数据库始终可用。 
 
 在安装支持 RMS 配置数据库的数据库之前，不要在服务器上设置 RMS。
 

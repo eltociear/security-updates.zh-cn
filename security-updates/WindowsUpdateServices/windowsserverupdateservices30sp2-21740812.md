@@ -128,22 +128,8 @@ WSUS 3.0 SP2 服务器安装的系统要求
 -   存储内容的卷上至少有 20 GB 的可用空间，建议可用空间为 30 GB。
 
  
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />重要事项</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">WSUS 3.0 SP2 不能安装在压缩的驱动器上。
-</td>
-</tr>
-</tbody>
-</table>
+> [!IMPORTANT]
+> WSUS 3.0 SP2 不能安装在压缩的驱动器上。
  
 
 WSUS 服务器的配置先决条件和最佳实践建议
@@ -440,22 +426,8 @@ WSUS 操作指南：[http://go.microsoft.com/fwlink/?LinkId=139838](http://go.mi
 WSUSSetup.exe /q DEFAULT\_WEBSITE=0（使用端口 8530 在安静模式下安装） WSUSSetup.exe /q /u（卸载 WSUS）  
 ```
  
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />重要事项</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">如果在安静模式下安装 WSUS 3.0 SP2 (/q)，并且计算机没有安装所有必备组件，安装将生成一个名为 WSUSPreReqCheck.xml 的文件，并将其保存在 %TEMP% 目录中。
-</td>
-</tr>
-</tbody>
-</table>
+> [!IMPORTANT]
+> 如果在安静模式下安装 WSUS 3.0 SP2 (/q)，并且计算机没有安装所有必备组件，安装将生成一个名为 WSUSPreReqCheck.xml 的文件，并将其保存在 %TEMP% 目录中。
  
 
 <span id="BKMK_KnownIssues"></span>
