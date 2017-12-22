@@ -38,8 +38,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747689(v=WS.10)'
 
 6.  出现“**安装完成**”对话框时，单击“**关闭**”。
 
-    | ![](images/Cc747689.note(WS.10).gif)注意                                 |
-    |-------------------------------------------------------------------------------------------------------|
-    | 如果出现“应用程序正在重新启动”的错误消息，请在 Microsoft Internet Explorer 中刷新“**全局管理**”页面。 |
+    > [!NOTE]
+    > 如果出现“应用程序正在重新启动”的错误消息，请在 Microsoft Internet Explorer 中刷新“**全局管理**”页面。 
 
 此外，还可以从命令提示符窗口安装 RMS。有关操作说明，请参阅本主题中稍后的“[从命令提示符窗口安装 RMS 服务器](https://technet.microsoft.com/b55b1e2a-dd14-4168-a37f-9cdedbec660b)”。
