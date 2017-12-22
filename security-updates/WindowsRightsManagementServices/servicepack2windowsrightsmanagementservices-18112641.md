@@ -23,6 +23,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747637(v=WS.10)'
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -49,6 +51,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747637(v=WS.10)'
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 | ![](images/Cc747637.note(WS.10).gif)注意                |  
 |--------------------------------------------------------------------------------------|  
@@ -59,6 +64,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747637(v=WS.10)'
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -99,6 +106,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747637(v=WS.10)'
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
 | ![](images/Cc747637.note(WS.10).gif)注意                                             |
@@ -110,6 +120,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747637(v=WS.10)'
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -132,6 +144,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747637(v=WS.10)'
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 RMS 设计用于运行 Microsoft SQL Server 2000 和 Microsoft SQL Server 2005 的数据库服务器，并且经过测试。如果它们符合下列条件，则 RMS 可以在其他数据库服务器上运行：
   
@@ -149,6 +164,8 @@ RMS 设计用于运行 Microsoft SQL Server 2000 和 Microsoft SQL Server 2005
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -187,6 +204,9 @@ RMS 设计用于运行 Microsoft SQL Server 2000 和 Microsoft SQL Server 2005
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 | ![](images/Cc747637.note(WS.10).gif)注意                                                                                                                                                                    |  
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
@@ -197,6 +217,8 @@ RMS 设计用于运行 Microsoft SQL Server 2000 和 Microsoft SQL Server 2005
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -223,6 +245,9 @@ RMS 设计用于运行 Microsoft SQL Server 2000 和 Microsoft SQL Server 2005
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 | ![](images/Cc747637.Important(WS.10).gif)要点                                                                                                                                                                                                          |  
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
@@ -246,7 +271,7 @@ RMS SP2 中有许多新功能：
 -   [更大的服务器批处理大小](#bkmk_cif3)  
 -   [与 Microsoft SQL Server 2005 兼容](#bkmk_cif4)
   
-<span id="BKMK_CIF1"></span>
+ 
 #### 增强的跨林组扩展
   
 #### 此功能有何用途？
@@ -279,7 +304,7 @@ RMS SP2 中有许多新功能：
   
 添加到 RMS SP2 的新事件将通知您没有提交到消息队列服务的错误消息。这些新的事件日志包括在消息无法进行数字签名或者消息无法进行验证时向您发送通知的事件。验证问题的一些示例包括格式不正确消息、缺少哈希或签名，或者不正确的哈希或签名。
   
-<span id="BKMK_CIF2"></span>
+ 
 #### 数据库日志记录更改
   
 #### 此功能有何用途？
@@ -302,7 +327,7 @@ RMS 使用日志记录侦听程序服务，该服务通过使用消息队列将�
   
 添加到 RMS SP2 的新事件旨在指明何时问题消息没有提交到“消息队列”队列。这些新事件被写入到应用程序日志，并且包括无法进行数字签署的消息或者无法验证消息上的数字签名。验证问题的一些示例包括格式不正确消息、缺少哈希或签名，或者不正确的哈希或签名。
   
-<span id="BKMK_CIF3"></span>
+ 
 #### 更大的服务器批处理大小
   
 #### 此功能有何用途？
@@ -327,7 +352,7 @@ RMS 批处理允许向 AcquireLicense RMS 管道发出单个请求，以便根�
   
 在 RMS SP2 中，错误报告已得到增强，将批处理请求考虑在内。例如，如果您发送一批 10 个请求，且第二个和第三个请求失败，则将针对每个失败在事件日志中写入一个事件。
   
-<span id="BKMK_CIF4"></span>
+ 
 #### 与 Microsoft SQL Server 2005 兼容
   
 #### 此功能有何用途？

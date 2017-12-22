@@ -24,6 +24,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747586(v=WS.10)'
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -78,6 +80,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747586(v=WS.10)'
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 | ![](images/Cc747586.Caution(WS.10).gif)警告         |  
 |----------------------------------------------------------------------------------|  
