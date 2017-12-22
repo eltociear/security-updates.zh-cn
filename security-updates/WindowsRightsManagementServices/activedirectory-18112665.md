@@ -44,6 +44,8 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -70,6 +72,9 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 替代用于发布的客户端服务发现  
 ----------------------------
@@ -99,6 +104,8 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
 ###  
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -130,6 +137,9 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 我们建议您使用 Systems Management Server 或组策略来实施这些注册表项，以确保您企业中的所有客户端均使用正确的发布服务器。
   
