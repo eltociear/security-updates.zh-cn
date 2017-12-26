@@ -14,9 +14,7 @@ RMS：DirectoryServices 性能计数器
 ###  
 
  
-<p></p>
-
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -118,6 +116,3 @@ RMS：DirectoryServices 性能计数器
 </tr>
 </tbody>
 </table>
-
-<p></p>
-
