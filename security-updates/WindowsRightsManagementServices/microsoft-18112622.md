@@ -1,0 +1,12 @@
+---
+TOCTitle: 发布 Microsoft 主持的服务
+Title: 发布 Microsoft 主持的服务
+ms:assetid: '7ee8cb4d-1b46-48be-8a4c-5ff6a458231a'
+ms:contentKeyID: 18112622
+ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747576(v=WS.10)'
+---
+
+发布 Microsoft 主持的服务
+=========================
+
+将 Microsoft 主持的注册、激活和密码箱服务的 URL 发布到 UDDI Business Registry (UBR) 中，UBR 是公开实现统一发现、描述和集成 (UDDI) 规范以加快 Web 服务发现进程的标准。Microsoft 在 [Microsoft UDDI 网站](http://go.microsoft.com/fwlink/?linkid=14794) http://go.microsoft.com/fwlink/?LinkId=14794 上维护其 UDDI 注册表。要将请求提交给其中一种服务，根认证服务器需在该注册表中查询服务位置。

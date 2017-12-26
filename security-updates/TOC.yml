@@ -1,7 +1,7 @@
 - name: セキュリティと更新
   href: index.md
   items:
-- name: 보안 권고
+- name: 安全通报
   href: ./SecurityAdvisories/securityadvisories
   items:
   - name: 2017
