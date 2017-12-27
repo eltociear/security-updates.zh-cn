@@ -188,7 +188,7 @@ Adobe Flash Player</p></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+
 
 利用指数
 --------
@@ -990,7 +990,7 @@ HTTP.sys 拒绝服务漏洞
 </td>
 </tr>
 </table>
-<p> </p>
+
 
 受影响的软件
 ------------
@@ -2538,7 +2538,7 @@ Windows Server 2012 R2（服务器核心安装）
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-039 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
@@ -3961,7 +3961,7 @@ Windows Server 2012 R2
 </td>
 </tr>
 </table>
-<p> </p>
+
  
 
 ### Microsoft Office 套件和软件
@@ -4485,7 +4485,7 @@ Microsoft Word Viewer
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-039 和 MS16-042 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
@@ -4701,7 +4701,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-042 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
@@ -4984,7 +4984,7 @@ Microsoft Live Meeting 2007 Console
 </td>
 </tr>
 </table>
-<p> </p>
+
 **MS16-039 注释**
 
 此公告涉及多个软件类别。请参阅本节中的其他表，了解其他受影响的软件。
