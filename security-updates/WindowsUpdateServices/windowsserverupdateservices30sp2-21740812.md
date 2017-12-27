@@ -44,7 +44,6 @@ Windows Server Update Services 3.0 SP2 发行说明
     2.  版本 7.2.6001.788 的 Windows Update Agent 解决的问题。本更新解决了以下问题：当您尝试同时从 Windows Update 网页或 Microsoft Update 网页安装 80 个（或以上）更新时，您可能会收到错误代码 0x80070057。
     3.  Windows Update Agent 的 7.2.6001.784 版本做出的改进和解决的问题。本更新包含以下改进：改进了 Windows Update 的扫描次数和签名更新的传输速度、提供了对 Windows Installer 重新安装功能的支持，并改进了错误消息。
 
-<span id="BKMK_SysReqWSUS30SP2"></span>
 WSUS 3.0 SP2 服务器安装的系统要求
 ---------------------------------
 
@@ -430,7 +429,6 @@ WSUSSetup.exe /q DEFAULT\_WEBSITE=0（使用端口 8530 在安静模式下安装
 > 如果在安静模式下安装 WSUS 3.0 SP2 (/q)，并且计算机没有安装所有必备组件，安装将生成一个名为 WSUSPreReqCheck.xml 的文件，并将其保存在 %TEMP% 目录中。
  
 
-<span id="BKMK_KnownIssues"></span>
 已知问题
 --------
 

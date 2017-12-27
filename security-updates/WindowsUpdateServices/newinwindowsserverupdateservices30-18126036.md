@@ -17,7 +17,6 @@ Windows Server Update Services (WSUS) 3.0 provides a number of new features, mak
 -   [Better performance and bandwidth optimization](#bkmk_performance)
 -   [Extend WSUS 3.0 using improved APIs](#bkmk_extend)
 
-<span id="BKMK_EaseOfUse"></span>
 Ease of use
 -----------
 
@@ -61,7 +60,6 @@ The cleanup wizard allows you to remove old computers, updates, and update files
 
 WSUS 3.0 can be installed on a server that already has WSUS 2.0 installed. The installation process will perform an in-place upgrade that preserves all the previous settings and approvals. The process of upgrading a server hierarchy should start from the central server and continue down the hierarchy. A WSUS 2.0 server can synchronize from a WSUS 3.0 server, but a WSUS 3.0 server cannot synchronize from a WSUS 2.0 server. Upgrading from WSUS 2.0 to WSUS 3.0 is a one-way process; going back to WSUS 2.0 requires that you first remove WSUS 3.0, then reinstall WSUS 2.0.
 
-<span id="BKMK_ImprovedDeployment"></span>
 Improved deployment options
 ---------------------------
 
@@ -77,7 +75,6 @@ WSUS 3.0 auto-approval rules allow you to specify different products and update 
 
 Members of the “WSUS Reporters” security group will have read-only access to the server. Members can generate reports but not approve updates or configure the server.
 
-<span id="BKMK_ServerHierarchies"></span>
 Better support for complex server hierarchies
 ---------------------------------------------
 
@@ -101,7 +98,6 @@ You can now move a child server between replica mode and autonomous mode without
 
 In WSUS 3.0 a computer can belong to multiple target groups (for example, both a “Desktops” group and a “Test” group). In addition, you can create hierarchical groups (for example, a “Servers” target group with the child groups “Critical Servers” and “Non-Critical Servers”). You can specify approvals for the parent target group that will automatically be inherited by computers in the child groups.
 
-<span id="BKMK_Performance"></span>
 Better performance and bandwidth optimization
 ---------------------------------------------
 
@@ -117,7 +113,6 @@ To save disk space and network load, you can now configure a branch office to do
 
 Branch offices with narrowband connections to the central server but broadband connections to the Internet can now be configured to get metadata from the central server and update content from Microsoft Update.
 
-<span id="BKMK_Extend"></span>
 Extend WSUS 3.0 using improved APIs
 -----------------------------------
 
