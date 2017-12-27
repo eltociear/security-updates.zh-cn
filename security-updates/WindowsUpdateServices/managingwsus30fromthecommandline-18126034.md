@@ -149,10 +149,10 @@ This command sets and gets the different parameters for WSUS health monitoring.
  
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th colspan="2" style="border:1px solid black;">
 Parameter  
 </th>
-<th colspan="2">
+<th colspan="2" style="border:1px solid black;">
 Description  
 </th>
 </tr>

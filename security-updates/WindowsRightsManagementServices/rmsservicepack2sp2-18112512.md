@@ -25,7 +25,6 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc720225(v=WS.10)'
 -   [与 RMS 1.0 版的互操作性](#bkmk_interop)
 -   [删除 RMS SP2](#bkmk_removingrms)
 
-<span id="bkmk_PreparingForSP2Update"></span>
 准备 RMS SP2 更新
 -----------------
 
@@ -37,13 +36,11 @@ RMS SP2 更新旨在允许您持续运行 RMS，不会造成中断。但是，�
 -   如果您要保留先前记录的统计信息，请备份记录数据库。
 -   确保在您的客户端和服务器上为操作系统安装了最新的关键更新和安全更新。要验证您是否拥有所有关键更新和安全更新，请单击“开始”，单击“Windows Update”，然后按照出现在屏幕上的说明操作。
 
-<span id="bkmk_PerformingSP2Update"></span>
 执行 RMS SP2 更新
 -----------------
 
 当 Windows Rights Management Services Service Pack 2 安装向导检测到您的 RMS 安装时，它会查看您当前的 RMS SP1 安装，并只添加新文件或替换需要针对 RMS SP2 进行更改的文件。如果您已经成功运行 RMS，则在安装 RMS SP2 后，您不需要重新设置任何其他配置即可继续运行 RMS。
 
-<span id="bkmk_UpdateClusters"></span>
 更新群集
 --------
 
@@ -56,7 +53,6 @@ RMS SP2 更新旨在允许您持续运行 RMS，不会造成中断。但是，�
 -   如果 RMS SP2、RMS SP1 和 RMS 1.0 版服务器在不同的 Active Directory 林中，则可以共存并具有互操作性。建议不要在同一群集中安装不同的 RMS 服务器版本。
 -   RMS SP2 安装程序包也可以用于在服务器上安装 RMS SP2 的新部署；它不需要安装 RMS SP1。
 
-<span id="bkmk_UpdateClients"></span>
 更新 RMS 客户端
 ---------------
 
@@ -64,7 +60,6 @@ RMS SP2 更新旨在允许您持续运行 RMS，不会造成中断。但是，�
 
 有关更新和安装 RMS 客户端的详细信息，请参阅“分发 RMS 客户端”([http://go.microsoft.com/fwlink/?LinkId=75070](http://go.microsoft.com/fwlink/?linkid=75070))（页面可能为英文）。
 
-<span id="bkmk_InterOp"></span>
 与 RMS 1.0 版的互操作性
 -----------------------
 
@@ -126,7 +121,6 @@ Microsoft SQL Server™ 2005 支持开箱即用。</td>
 </table>
  
 
-<span id="bkmk_RemovingRMS"></span>
 删除 RMS SP2
 ------------
 
