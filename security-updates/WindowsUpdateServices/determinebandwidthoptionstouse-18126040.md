@@ -11,7 +11,6 @@ Determine Bandwidth Options to Use
 
 WSUS allows you to shape the deployment to fit your organization's bandwidth needs. The decisions you make about how to synchronize with Microsoft Update have a dramatic effect on the efficient use of bandwidth. Read the following sections to understand WSUS features for managing bandwidth.
 
-<span id="WSUS_DeferringDownloadOfUpdates"></span>
 Deferring the download of updates
 ---------------------------------
 
