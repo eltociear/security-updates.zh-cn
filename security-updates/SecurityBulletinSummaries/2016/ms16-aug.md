@@ -24,7 +24,6 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 执行摘要
 --------
 
-<span id="sectionToggle0"></span>
 下表概述了本月的安全公告（按严重性排序）。
 
 有关受影响软件的详细信息，请参阅**受影响的软件**部分。
@@ -1010,7 +1009,6 @@ Universal Outlook 信息泄漏漏洞
 受影响的软件
 ------------
 
-<span id="sectionToggle2"></span>
 下表按主要软件类别和严重性的排序列出了公告。
 
 通过这些表，您可以了解可能需要安装的安全更新程序。您应该查看列出的每个软件程序或组件，了解是否需要安装任何安全更新程序。如果列出了软件程序或组件，则也会列出软件更新程序的严重等级。
@@ -4133,7 +4131,6 @@ Microsoft Live Meeting 2007 Console
 检测和部署工具及指导
 --------------------
 
-<span id="sectionToggle3"></span>
 许多资源可帮助管理员部署安全更新。
 
 Microsoft Baseline Security Analyzer (MBSA) 支持管理员扫描本地和远程系统中缺少的安全更新和常见的安全错误配置。
@@ -4147,13 +4144,11 @@ Application Compatibility Toolkit 随附的更新兼容性评估程序组件针�
 鸣谢
 ----
 
-<span id="sectionToggle4"></span>
 Microsoft 通过可靠的漏洞披露渠道认可在安全社区中帮助我们对客户进行保护的人们所做出的努力。有关详细信息，请参阅[鸣谢](https://technet.microsoft.com/zh-cn/library/security/mt674627.aspx)。
 
 其他信息
 --------
 
-<span id="sectionToggle5"></span>
 ### Microsoft Windows 恶意软件删除工具
 
 在每个月的第二个星期二发布的公告中，Microsoft 已在 Windows 更新、Microsoft 更新、Windows Server Update Services 和下载中心上发布了 Microsoft Windows 恶意软件删除工具的更新版本。带外发布的安全公告中不提供 Microsoft Windows 恶意软件删除工具的更新版本。
