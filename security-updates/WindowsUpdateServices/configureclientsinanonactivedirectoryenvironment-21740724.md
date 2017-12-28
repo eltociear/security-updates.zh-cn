@@ -366,13 +366,13 @@ The following table shows the difference in behavior with **NoAutoRebootWithLogg
  
 <table style="border:1px solid black;">
 <tr>
-<th colspan="2">
+<th colspan="2" style="border:1px solid black;">
 Scenario following a scheduled installation  
 </th>
-<th colspan="2">
+<th colspan="2" style="border:1px solid black;">
 With NoAutoRebootWithLoggedOnUsers enabled  
 </th>
-<th colspan="2">
+<th colspan="2" style="border:1px solid black;">
 With NoAutoRebootWithLoggedOnUsers disabled or not configured  
 </th>
 </tr>
