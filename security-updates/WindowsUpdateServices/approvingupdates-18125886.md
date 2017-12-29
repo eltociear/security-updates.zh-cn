@@ -39,11 +39,11 @@ Approving Updates for Installation
 You can select one or multiple updates; if you select multiple updates, you can approve them for installation at once; you can also approve installation by computer group. This would be the **Install approval** option in the **Approve Updates** dialog box. In addition, when you specify this approval action, you can do one of the following:
 
 -   Use the settings on the client computers to determine when to install updates. When you select this option, users in the targeted computer group will receive a notification dialog box and an **Automatic Updates** icon on their taskbar when updates are ready to be installed on their computers. They can then install the updates immediately, or at a later time, by clicking the **Automatic Updates** icon. If you have configured Automatic Updates, either by Group Policy or locally, to notify the user before installation, these notifications will be offered to any non-administrator who logs onto the computer in the targeted computer group.
+
 -   Set a deadline for automatic installation. When you select this option, you set specific times and dates to install updates, overriding any settings on the client computers. In addition, you can specify a past date for the deadline if you want to run an approval action immediately (that is, when the client computers next contact the WSUS server).
 
-| ![](images/Cc708458.Important(WS.10).gif)要点                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| You cannot set a deadline for automatic installation for an update if user input is required (for example, accepting a license agreement or specifying a setting relevant to the update). If you set a deadline for such an installation synchronization will fail. To determine whether an update will require user input, look at the **May request user input** field in the update properties for an update displayed on the **Updates** page. Also check for a message in the **Approve Updates** box which says "**The selected update requires user input and does not support and installation deadline**." |
+> [!IMPORTANT]  
+> You cannot set a deadline for automatic installation for an update if user input is required (for example, accepting a license agreement or specifying a setting relevant to the update). If you set a deadline for such an installation synchronization will fail. To determine whether an update will require user input, look at the **May request user input** field in the update properties for an update displayed on the **Updates** page. Also check for a message in the **Approve Updates** box which says "**The selected update requires user input and does not support and installation deadline**."
 
 **To approve updates for installation**
 1.  On the WSUS console toolbar, click **Updates**.
@@ -61,9 +61,8 @@ You can select one or multiple updates; if you select multiple updates, you can 
 
 6.  If you want to set a different default approval setting for one or more groups, under **Group approval settings for the selected updates**, find the group(s) for which you want to set the special approval setting, and then, in the **Approval** column, click an approval setting.
 
-| ![](images/Cc708458.note(WS.10).gif)注意                                                                                                                        |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| For more information about downloading and installing updates, see [Best Practices with Windows Server Update Services](https://technet.microsoft.com/b4ff7f56-45b5-4f2b-82e7-283903d23c26). |
+> [!NOTE]  
+> For more information about downloading and installing updates, see [Best Practices with Windows Server Update Services](https://technet.microsoft.com/b4ff7f56-45b5-4f2b-82e7-283903d23c26).
 
 Declining Updates
 -----------------
@@ -170,7 +169,9 @@ Approving Superseding or Superseded Updates
 Typically, an update that *supersedes* other updates does one or more of the following:
 
 -   Enhances, improves, and/or adds to the fix provided by one or more previously released updates.
+
 -   Improves the efficiency of its update file package, which is installed on client computers if the update is approved for installation. For example, the superseded update might contain files that are no longer relevant to the fix, or to the operating systems now supported by the new update, so those files are not included in the superseding update's file package.
+
 -   Updates newer versions of operating systems. It is also important to note that the superseding update might not support earlier versions of operating systems.
 
 Conversely, an update that is *superseded* by another update does the following:
@@ -183,7 +184,9 @@ In the list of updates on the **Updates** page, an icon next to the update indic
 WSUS does not automatically decline superseded updates, and it is recommended that you do not assume that superseded updates should be declined in favor of the new, superseding update. Before declining a superseded update, make sure that it is no longer needed by any of your client computers. Following are examples of scenarios where you might need to install a superseded update:
 
 -   If a superseding update supports only newer versions of an operating system, and some of your client computers run earlier versions of the operating system.
+
 -   If a superseding update has more restricted applicability than the update it supersedes, which would make it inappropriate for some client computers.
+
 -   If an update no longer supersedes a previously released update due to new changes. It is possible that through changes at each release, an update no longer supersedes an update it previously superseded in an earlier version. In this scenario, you will still see a message on the **Details** tab for the superseded update that it has been superseded, even though the update that supersedes it has been replaced by an update that does not.
 
 #### Recommended Process for Approving a Superseding Update
