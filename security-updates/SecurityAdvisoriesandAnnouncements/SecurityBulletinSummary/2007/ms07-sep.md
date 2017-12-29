@@ -572,9 +572,9 @@ Windows XP Service Pack 2、Windows XP Professional x64 Edition、Windows XP Pro
 
 **备注**
 
-**<sup>[1]</sup>** 此操作系统有一个可用的安全更新。 有关详细信息，请参阅本表中的受影响的软件或组件和相应的安全公告。** **
+**<sup>[1]</sup>** 此操作系统有一个可用的安全更新。 有关详细信息，请参阅本表中的受影响的软件或组件和相应的安全公告。
 
-**<sup>[2]</sup>** 并非 Visual Studio 的所有版本均受影响。 有关具体的受影响版本列表，请参阅适当的安全公告。** **
+**<sup>[2]</sup>** 并非 Visual Studio 的所有版本均受影响。 有关具体的受影响版本列表，请参阅适当的安全公告。
 
 **<sup>[3]</sup>** 还有一个可用于此软件的选项，用于通过 MSN Messenger 或 Windows Live Messenger 服务执行联机升级。 有关详细信息，请参阅相应的安全公告。
 
@@ -591,7 +591,7 @@ Windows XP Service Pack 2、Windows XP Professional x64 Edition、Windows XP Pro
 
 Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft 基准安全分析器 (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS)、扩展安全更新清单工具以及企业更新扫描工具 (EST)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](http://support.microsoft.com/kb/910723)。
 
-**Microsoft 基准安全分析器和企业** **更新扫描工具**
+**Microsoft 基准安全分析器和企业 更新扫描工具**
 
 管理员可使用 Microsoft 基准安全分析器 (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft 基准安全分析器](http://go.microsoft.com/fwlink/?linkid=21134)。
 
