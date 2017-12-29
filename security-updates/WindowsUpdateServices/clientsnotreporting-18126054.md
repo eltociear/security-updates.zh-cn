@@ -37,9 +37,10 @@ Ensure that the client connection to the WSUS server is working properly.
 
 5.  If the WSUS server is functioning properly, you should see a **File Download** window asking you whether to open or save the file. Close the window.
 
-| ![](images/Cc708627.note(WS.10).gif)注意                                                                                                                                                                                    |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| If you do not see the **File Download** window, make sure that the client self-update tree has been configured properly. For more information, see [Issues with Client Self-Update](https://technet.microsoft.com/0cfbb910-fa13-4d9d-9d53-24e85c8835d2). |
+
+> [!NOTE]
+> If you do not see the **File Download** window, make sure that the client self-update tree has been configured properly. For more information, see [Issues with Client Self-Update](https://technet.microsoft.com/0cfbb910-fa13-4d9d-9d53-24e85c8835d2).
+
 
 #### Troubleshoot the Automatic Update client
 
@@ -52,12 +53,20 @@ Ensure that the Automatic Update client has been configured correctly.
 
     You should see output like the following if the client has been configured to get its updates from a WSUS server:
 
-    
-        ```
+  ```
+    HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate
+    WUServer    REG_SZ  http://WSUSServerName
+    WUStatusServer      REG_SZ  http://WSUSServerName
+    HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU
+  ```
+
     You should see output similar to the following if Automatic Update is functioning, but the client has not been configured to get its updates from a WSUS server:
 
-    
-        ```
+  ```
+    HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate
+    HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU
+  ```
+
     If the query returns the error, "The system was unable to find the specified registry key or value," Automatic Update has not been configured on this computer.
 
     If the output from step 2 above contains values for WUServer and WUStatusServer, try to contact the WSUS server listed in these values.
