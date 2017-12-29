@@ -18,7 +18,7 @@ The WSUS database stores the following types of information:
 -   Information about client computers, updates, and client interaction with updates
 
  
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > You should not attempt to manage WSUS by accessing data directly in the database. Manage WSUS by using the WSUS console, or programmatically by calling WSUS APIs.
  
 
@@ -37,8 +37,11 @@ Use the following information to determine what database software is right for y
 Microsoft does not recommend using Windows Internal Database (WID) over SQL. The choice of database is up to you. Some facts to consider are:
 
 -   SQL and WID provide the same performance characteristics for a singer server configuration (where the database and the front-end server are on the same computer. This configuration scales to support several thousand clients. There is no advantage to using SQL rather than WID in this configuration.
+
 -   Full SQL can be deployed remotely and is required for Network Load Balancing (NLB) in a multi-server configuration. NLB provides performance improvements for a multi-server configuration. Therefore, if you want to scale-up a single node, you would need to use Full SQL.
+
 -   WID does not ship with management tools. If you already have Full SQL installed and processes in place for backing up and defragmenting the database, then you should consider using Full SQL for WSUS.
+
 -   If you have many WSUS servers (for example, in branch offices) then you should consider using WID on the secondary servers. Because each WSUS server needs a separate instance of SQL, if you only have one SQL server, you will quickly run into database performance issues when multiple WSUS servers use difference instances of the single SQL server.
 
 Database authentication, instance, and database name
