@@ -16,7 +16,7 @@ Versioning in SUS 1.0
 
 Check for the install state of the following Windows Installer product key:
 
-`{AFF0D9D3-6F0D-437E-9327-98108B4A8644}'
+`{AFF0D9D3-6F0D-437E-9327-98108B4A8644}`
 
 > [!NOTE]  
 > SUS 1.0 must be removed before installing WSUS 3.0.Upgrade between these two versions is not supported.
