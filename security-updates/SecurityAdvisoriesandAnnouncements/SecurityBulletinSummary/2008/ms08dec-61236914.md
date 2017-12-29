@@ -144,7 +144,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 利用指数  
 --------
   
-<span></span>  
+  
 **我如何使用该表呢？**
   
 使用该表了解安全公告发布 30 天内为您可能需要安装的每个安全更新发布有效漏洞检测代码的可能性。 您应该根据您的特定配置，检查下面的每个评估，从而确定部署的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
@@ -371,7 +371,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 受影响的软件和下载位置  
 ----------------------
   
-<span></span>  
+  
 **我如何使用该表呢？**
   
 可使用该表了解可能需要安装的安全更新。 您应该查看列出的每个软件程序或组件，了解是否需要安装任何安全更新。 如果某个软件程序或者组件被列出，则可用的软件更新会被加上超链接，软件更新的严重等级也会被列出。
@@ -1472,22 +1472,22 @@ Microsoft Office SharePoint Server 2007
 </tr>
 </table>
 
-**MS08-070 注释**
+**MS08-070 注释**  
 另请参阅下一节 **Microsoft 开发工具和软件**，了解更多更新文件。 此公告涵盖 Microsoft Office 和 Microsoft 开发工具和软件。
 
-**MS08-077 注释**
+**MS08-077 注释**  
 另请参阅 **Microsoft 服务器软件**一节，了解更多更新文件。 此公告涵盖 Microsoft Office 套件和软件以及 Microsoft 服务器软件。
 
-**MS08-070 中有关 Microsoft Office FrontPage 的注释**
+**MS08-070 中有关 Microsoft Office FrontPage 的注释**  
 \*此更新仅适用于 FrontPage 2002 Service Pack 3 的 Chinese Simplified (China)、Chinese Pan (Hong Kong)、Chinese Traditional (Taiwan) 和 Korean 版本。
 
-**MS08-072 和 MS08-074 中有关 Microsoft Office for Mac 的注释**
+**MS08-072 和 MS08-074 中有关 Microsoft Office for Mac 的注释**  
 \*\*MS08-072 和 MS08-074 中的相应更新是相同的，由于漏洞位于相同的文件中，因此这两个公告的更新是相同的。
 
-**MS08-072 中的 Works 8 注释**
+**MS08-072 中的 Works 8 注释**  
 \*\*\*为收到此安全更新，运行 Microsoft Works 8.0 的客户必须首先按照 [Microsoft Works Update](http://www.microsoft.com/products/works/international/update_1001.mspx) 中所述更新到 Works 8.5。 这包括使用 Microsoft Works 8.0、Works Suite 2004 和 Works Suite 2005 的所有客户。对于运行 Works Suite 2006 的客户，Works 8.5 已包括。
 
-**MS08-074 中关于 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1 的注释**
+**MS08-074 中关于 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1 的注释**  
 \*\*\*\*对于 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1，除了安全更新程序包 KB958437 之外，客户还需要安装针对[用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包](http://www.microsoft.com/downloads/details.aspx?familyid=99cca4ed-f1f9-4cfd-a986-edbec82ced4f)的安全更新 (KB958439)，以免受 MS08-074 中所描述的漏洞影响。已成功安装 KB958437 和 KB958439 更新程序包的客户不需要重新安装。
 
 #### Microsoft 开发工具和软件
