@@ -11,7 +11,7 @@ Step 3 Import and Export: Copying Metadata from Database
 
 Export update metadata from the database on the export server, and import it into the database on the import server. The WSUS Setup program copies WSUSutil.exe to the file system of the WSUS server during installation. You must be a member of the local Administrators group on the WSUS server to export or import metadata; both operations can only be run from the WSUS server itself.
 
-> [!POINT]  
+> [!IMPORTANT]  
 > Never import exported data from a source that you do not trust. Importing content from a source you do not trust might compromise the security of your WSUS server.
 
 > [!NOTE]  
