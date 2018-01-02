@@ -108,7 +108,7 @@ The following command updates the host headers, if any:
 The following command updates the server certificateName:
   
 
-**wsusutil configuressl **ServerCertificateName**//sets the server certificate name**
+**wsusutil configuressl ServerCertificateName** //sets the server certificate name
   
 ###  
 
@@ -165,7 +165,7 @@ Description
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**IntervalsInMinutes** \[DetectInterval\] \[RefreshInterval\]*
+**IntervalsInMinutes** *\[DetectInterval\] \[RefreshInterval\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -175,7 +175,7 @@ Sets the values for detect and refresh intervals. If the detect interval is 0, t
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**DiskSpaceInMegabytes **\[ErrorLevel\] \[WarningLevel\]*
+**DiskSpaceInMegabytes** *\[ErrorLevel\] \[WarningLevel\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -185,7 +185,7 @@ Sets the amount of available disk space (in megabytes) at which a low disk space
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**CatalogSyncIntervalInDays** \[Days\]*
+**CatalogSyncIntervalInDays** *\[Days\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -195,7 +195,7 @@ Sets the number of days that should have passed after synchronization before a w
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**InstallUpdatesInPercent** \[WarningPercent\]\[ErrorPercent\]*
+**InstallUpdatesInPercent** *\[WarningPercent\]\[ErrorPercent\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -205,7 +205,7 @@ Sets the percentage of update installation failures at which a warning or error 
 </tr>
 <tr>
 <td style="border:1px solid black;">
-**InventoryInPercen**\[WarningPercent\]\[ErrorPercent\]*
+**InventoryInPercen** *\[WarningPercent\]\[ErrorPercent\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -215,7 +215,7 @@ Sets the percentage of inventory reporting failures at which a warning or error 
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**SilentClientsInPercent** \[WarningPercent\]\[ErrorPercent\]*
+**SilentClientsInPercent** *\[WarningPercent\]\[ErrorPercent\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -225,7 +225,7 @@ Sets the percentage of clients not reporting to the server at which a warning or
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**SilentClientsInDays** \[Days\]*
+**SilentClientsInDays** *\[Days\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -235,7 +235,7 @@ Sets the number of days clients can fail to report before an error should be giv
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**TargetComputersInPercent**\[WarningPercent\]\[ErrorPercent\]*
+**TargetComputersInPercent** *\[WarningPercent\]\[ErrorPercent\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">

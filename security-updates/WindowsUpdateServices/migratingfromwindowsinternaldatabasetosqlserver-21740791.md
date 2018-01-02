@@ -50,9 +50,7 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 
 5.  Run the following SQL command to detach the WSUS database (SUSDB) from the Windows Internal Database instance, by using the **sqlcmd** utility. For more information about the **sqlcmd** utility, see [sqlcmd Utility](http://go.microsoft.com/fwlink/?linkid=81183) (http://go.microsoft.com/fwlink/?LinkId=81183).
 
-    
     ```
-
     sqlcmd -S np:\\.\pipe\MSSQL$MICROSOFT##SSEE\sql\query
     use master
     alter database SUSDB set single_user with rollback immediate
@@ -85,24 +83,10 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 
 13. Verify that the database migration was successful by opening the WSUS administrative console. (Click **Start**, click **Administrative Tools**, and then click **Microsoft Windows Server Update Services 3.0**.)
 
- 
-    <p> </p> 
-<table style="border:1px solid black;">
-    <colgroup>
-    <col width="100%" />
-    </colgroup>
-    <thead>
-    <tr class="header">
-    <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />备注</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td style="border:1px solid black;">You might have to restart the server for these settings to take effect.
-    </td>
-    </tr>
-    </tbody>
-    </table>
+
+
+> [!NOTE]   
+> You might have to restart the server for these settings to take effect.    
  
 
 ### Migrating the WSUS Database and Moving to a Remote SQL Server
@@ -157,23 +141,9 @@ Back end server starting configuration:
     1.  Click **Start**, click **Run**, type **regedit**, and then click **OK**.
     2.  Find the following key: **HKLM\\SOFTWARE\\Microsoft\\UpdateServices\\Server\\Setup\\SqlServerName**. In the **Value** data box, type **\[BEName\]\\\[InstanceName\]**, and then click **OK**. If the instance name is the default instance, type **\[BEName\]**.
  
-        <p> </p> 
-<table style="border:1px solid black;">
-        <colgroup>
-        <col width="100%" />
-        </colgroup>
-        <thead>
-        <tr class="header">
-        <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />备注</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td style="border:1px solid black;">When typing [BEName], do not add the domain name before the name.
-        </td>
-        </tr>
-        </tbody>
-        </table>
+> [!NOTE]   
+>  When typing [BEName], do not add the domain name before the name.
+        
  
  
 3.  Find the following key: **HKLM\\Software\\Microsoft\\Update Services\\Server\\Setup\\wYukonInstalled**. In the **Value** box, type **0**, and then click **OK**. This indicates that Windows Internal Database is not used.
@@ -184,23 +154,8 @@ Back end server starting configuration:
     3.  Right-click **Update Services**, and then click **Start**.
 9.  On the front end server: Verify that the database migration was successful by opening the WSUS administrative console. (Click **Start**, click **Administrative Tools**, and then click **Microsoft Windows Server Update Services 3.0**).
  
-    <p> </p> 
-<table style="border:1px solid black;">
-    <colgroup>
-    <col width="100%" />
-    </colgroup>
-    <thead>
-    <tr class="header">
-    <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />备注</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td style="border:1px solid black;">You might have to restart the front end server in order for these settings to take effect.
-    </td>
-    </tr>
-    </tbody>
-    </table>
+> [!NOTE]   
+> You might have to restart the front end server in order for these settings to take effect.
  
 
 For more information about the databases that you can use with WSUS, see the following:
