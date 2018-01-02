@@ -85,22 +85,8 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 
 
 
-<table style="border:1px solid black;">
-    <colgroup>
-    <col width="100%" />
-    </colgroup>
-    <thead>
-    <tr class="header">
-    <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />备注</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td style="border:1px solid black;">You might have to restart the server for these settings to take effect.
-    </td>
-    </tr>
-    </tbody>
-    </table>
+> [!NOTE]   
+> You might have to restart the server for these settings to take effect.    
  
 
 ### Migrating the WSUS Database and Moving to a Remote SQL Server
@@ -183,23 +169,8 @@ Back end server starting configuration:
     3.  Right-click **Update Services**, and then click **Start**.
 9.  On the front end server: Verify that the database migration was successful by opening the WSUS administrative console. (Click **Start**, click **Administrative Tools**, and then click **Microsoft Windows Server Update Services 3.0**).
  
-    <p> </p> 
-    <table style="border:1px solid black;">
-    <colgroup>
-    <col width="100%" />
-    </colgroup>
-    <thead>
-    <tr class="header">
-    <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />备注</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td style="border:1px solid black;">You might have to restart the front end server in order for these settings to take effect.
-    </td>
-    </tr>
-    </tbody>
-    </table>
+> [!NOTE]   
+> You might have to restart the front end server in order for these settings to take effect.
  
 
 For more information about the databases that you can use with WSUS, see the following:
