@@ -19,7 +19,7 @@ You can generate three main reports from the **Reports** page, as described in t
 ### Reports Available on Reports Page
 
  
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -79,7 +79,7 @@ The columns displayed in the update summary view are described in the following 
 ### Description of Columns Displayed in Update Summary View
 
  
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -127,7 +127,7 @@ The columns displayed in the computer group view are described in the following 
 ### Description of Columns Displayed in Computer Group View
 
  
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -175,7 +175,7 @@ The columns displayed in this view are described in the following table.
 ### Description of Columns Displayed in Computer View
 
  
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -238,7 +238,7 @@ The Status of Computers report provides both a cumulative and individual update 
 ### Description of Status Displayed in Status of Computers Report
 
  
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -313,7 +313,7 @@ The report has four components, which are described in the following table.
 ### Components of Synchronization Results Report
 
  
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -360,7 +360,7 @@ The following table describes the components of the **Settings Summary** report.
 ### Components of Settings Summary Report
 
  
-<table style="border:1px solid black;">
+<p> </p> <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
