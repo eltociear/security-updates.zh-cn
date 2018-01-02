@@ -83,7 +83,7 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 
 13. Verify that the database migration was successful by opening the WSUS administrative console. (Click **Start**, click **Administrative Tools**, and then click **Microsoft Windows Server Update Services 3.0**.)
 
-<p> </p> 
+
 
 <table style="border:1px solid black;">
     <colgroup>
