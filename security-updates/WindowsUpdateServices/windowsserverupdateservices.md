@@ -11,9 +11,8 @@ Windows Server Update Services 自述文件
 
 本文档描述了影响 Windows Server Update Services (WSUS) 的已知问题。它包括安装 WSUS 的建议和要求。
 
-| ![](images/Cc720505.note(WS.10).gif)注意                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Microsoft 下载中心 ([http://go.microsoft.com/fwlink/?LinkId=48126](http://go.microsoft.com/fwlink/?linkid=48126))（页面可能为英文）提供了本文档的可下载副本。 |
+> [!Note]  
+> Microsoft 下载中心 ([http://go.microsoft.com/fwlink/?LinkId=48126](http://go.microsoft.com/fwlink/?linkid=48126))（页面可能为英文）提供了本文档的可下载副本。 
 
 开始之前
 --------
@@ -200,10 +199,9 @@ WSUS 安装程序启用 RECURSIVE\_TRIGGERS 选项，这是数据库特定的选
 
 如果您在运行 Windows 2000 Server 的计算机上运行 Internet Information Services (IIS)，请从 Microsoft TechNet 上的“IIS 锁定工具”页面中安装 IIS 锁定向导的最新版本（包括 URLScan）。Microsoft 强烈建议您安装此工具，以帮助确保您的 IIS 服务器的安全。IIS 锁定向导的工作原理是禁用 IIS 中不必要的功能，从而降低安全风险。
 
-| ![](images/Cc720505.note(WS.10).gif)注意                                                                 |
-|---------------------------------------------------------------------------------------------------------------------------------------|
-| WSUS 安装程序不安装这些组件。您必须手动安装这些组件。您不需要在运行 Windows Server 2003 的计算机上安装 IIS 锁定，因为此功能是内置的。 |
-
+> [!Note]  
+> WSUS 安装程序不安装这些组件。您必须手动安装这些组件。您不需要在运行 Windows Server 2003 的计算机上安装 IIS 锁定，因为此功能是内置的。 
+ 
 #### 问题 2：不支持直接在数据库中更改 WSUS 配置
 
 Windows Server Update Services 在数据库（MSDE 或 SQL Server）中存储其配置数据。但是，不支持通过直接访问数据库更改配置数据。管理员不得以此方式尝试修改 WSUS 配置。支持的更改 WSUS 配置的方式是使用 WSUS 控制台或调用 WSUS API。
