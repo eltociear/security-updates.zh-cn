@@ -14,7 +14,7 @@ If you use WSUS to update Microsoft Office on your network computers, consider t
 -   You must use an original baseline source for Microsoft Office Administrative Install Points (AIP) to use WSUS to update Office XP and Office 2003 on client computers. If you are applying updates to the AIP, you cannot use WSUS. The two methods of applying updates are mutually exclusive. If you have applied an update to an AIP and want to roll back the AIP to an original baseline source, use the instructions found at the [Microsoft Support Web site](http://go.microsoft.com/fwlink/?linkid=63962) (http://go.microsoft.com/fwlink/?LinkId=63962).
 
  
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > Administrative Install Points are relevant only to Office XP and Office 2003. They are not used with Office 2007.
  
 
@@ -23,6 +23,7 @@ If you use WSUS to update Microsoft Office on your network computers, consider t
 
 For more information and troubleshooting advice, see the following Knowledge Base articles.
 
--   [Office 2003 updates are offered to a user even if that user has installed those updates when you use WSUS to deploy software updates and hotfixes to computers that are in your organization](http://go.microsoft.com/fwlink/?linkid=78874) (http://go.microsoft.com/fwlink/?LinkId=78874)
+-   [Office 2003 updates are offered to a user even if that user has installed those updates when you use WSUS to deploy software updates and hotfixes to computers that are in your organization](http://go.microsoft.com/fwlink/?linkid=78874) 
+(http://go.microsoft.com/fwlink/?LinkId=78874)
 -   [No appropriate Microsoft Office updates are displayed when you use Microsoft Update or Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=78871) (http://go.microsoft.com/fwlink/?LinkId=78871)
 -   [How to change the source for a client computer from an updated administrative installation point to an Office 2003 original baseline source or Service Pack 2](http://go.microsoft.com/fwlink/?linkid=78872) (http://go.microsoft.com/fwlink/?LinkId=78872)

@@ -14,8 +14,11 @@ The way you detect the version of a WSUS installation has changed in WSUS 3.0 SP
 Versioning in WSUS 2.0
 ----------------------
 
-        ```
+Check for the install state of the following Windows Installer product key:
+
 In WSUS 2.0, the WSUS registry key:
+
+`{A0D46DC6-8950-451A-8990-53C86E17666E}`
 
 **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Update Services\\Server\\Setup**
 

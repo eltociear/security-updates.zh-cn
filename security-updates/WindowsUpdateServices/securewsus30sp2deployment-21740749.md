@@ -42,7 +42,19 @@ WSUS setup creates a configuration file that enables you to add an explicit list
 
 Use the `<authorization>` element to define an authentication list. You must add the `<authorization>` element below the `<configuration>` and `<system.web>` elements.
 
-        ```
+Consider the example below:
+
+```
+<configuration>
+    <system.web>
+        <authorization>
+           <allow users="domain\computer_name,domain\computer_name" />
+           <deny users="domain\computer_name,domain\computer_name" />
+        </authorization>
+     </system.web>
+</configuration>
+```
+
 Within the opening and closing `<authorization>` tags, you specify a list of computers that are allowed a connection to the Web service. You must enter these computers as `domain\computer_name`. If you want multiple computers, use a comma to separate the names. You can also specify an explicit list of computers that are denied access. Order in this list is important, as the evaluation stops with the first item that applies to the user. If the `<allow users>` element is absent or empty, all servers are allowed.
 
 The XML schema for this list can be found on the [MSDN Web site](http://go.microsoft.com/fwlink/?linkid=47691) at http://go.microsoft.com/fwlink/?LinkId=47691.
@@ -66,7 +78,6 @@ The next step is to configure IIS to disable anonymous access to the ServerSyncW
 
 7.  Click **OK** twice.
 
-<span id="BKMK_SecureSSL"></span>
 Securing WSUS with the Secure Sockets Layer Protocol
 ----------------------------------------------------
 
@@ -103,8 +114,10 @@ The most important thing to remember when configuring the WSUS server to use SSL
     -   ReportingWebService
     -   SelfUpdate
 
--   On the WSUS server, run the command:
-    **wsusutil configuressl** *certificateName*
+-   On the WSUS server, run the command:  
+
+    **wsusutil configuressl** *certificateName*  
+    
     where *certificateName* is the DNS name of the WSUS server. For example, if clients will connect to https://myWSUSServer, then *certificateName* should be myWSUSServer. If clients will connect to https://myWSUSServer.myDomain.com, then *certificateName* should be myWSUSServer.myDomain.com.
 -   The certificate of the certification authority must be imported into either the local computer's Trusted Root CA store or the Windows Server Update Service's Trusted Root CA store on downstream WSUS servers. If the certificate is imported only to the Local User's Trusted Root CA store, the downstream WSUS server will not be authenticated on the upstream server. For more information about SSL certificates, see [How to implement SSL in IIS (KB 299875)](http://go.microsoft.com/fwlink/?linkid=86176) (http://go.microsoft.com/fwlink/?LinkId=86176).
 -   You must import the certificate to all the computers that will communicate with the server, including all clients, downstream servers, and computers running the administration console remotely. Again, the certificate should be imported into the local computer's Trusted Root CA store or the Windows Server Update Service's Trusted Root CA store.
