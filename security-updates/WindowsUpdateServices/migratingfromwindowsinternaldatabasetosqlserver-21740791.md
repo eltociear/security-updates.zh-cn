@@ -52,7 +52,6 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 
     
     ```
-
     sqlcmd -S np:\\.\pipe\MSSQL$MICROSOFT##SSEE\sql\query
     use master
     alter database SUSDB set single_user with rollback immediate
@@ -158,7 +157,8 @@ Back end server starting configuration:
     2.  Find the following key: **HKLM\\SOFTWARE\\Microsoft\\UpdateServices\\Server\\Setup\\SqlServerName**. In the **Value** data box, type **\[BEName\]\\\[InstanceName\]**, and then click **OK**. If the instance name is the default instance, type **\[BEName\]**.
  
         <p> </p> 
-<table style="border:1px solid black;">
+
+        <table style="border:1px solid black;">
         <colgroup>
         <col width="100%" />
         </colgroup>
@@ -185,7 +185,7 @@ Back end server starting configuration:
 9.  On the front end server: Verify that the database migration was successful by opening the WSUS administrative console. (Click **Start**, click **Administrative Tools**, and then click **Microsoft Windows Server Update Services 3.0**).
  
     <p> </p> 
-<table style="border:1px solid black;">
+    <table style="border:1px solid black;">
     <colgroup>
     <col width="100%" />
     </colgroup>
