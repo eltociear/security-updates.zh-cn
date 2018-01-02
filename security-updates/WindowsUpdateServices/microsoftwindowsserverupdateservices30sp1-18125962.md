@@ -67,9 +67,8 @@ WSUS 3.0 SP1 要求安装 Internet Information Services (IIS)，默认情况下 
 
 安装 WSUS 3.0 SP1 时，可能需要先禁用防病毒程序，然后才能成功执行安装。禁用防病毒程序后，请在安装 WSUS 前重新启动计算机。重新启动计算机可在安装过程需要访问文件时防止文件被锁定。安装完成后，请务必重新启用防病毒程序。请访问防病毒程序供应商的网站，以了解禁用和重新启用防病毒程序和版本的确切步骤。
 
-| ![](images/Cc708525.Caution(WS.10).gif)警告                                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 此解决方法可能会使您的计算机或网络更容易受到恶意用户或恶意软件（如病毒）的攻击。不建议使用此解决方法，提供此信息的目的是使您可以自己决定是否执行此解决方案。使用此解决方案的风险由您自行承担。 |
+> [!caution]  
+> 此解决方法可能会使您的计算机或网络更容易受到恶意用户或恶意软件（如病毒）的攻击。不建议使用此解决方法，提供此信息的目的是使您可以自己决定是否执行此解决方案。使用此解决方案的风险由您自行承担。 
 
 | ![](images/Cc708525.note(WS.10).gif)注意                                                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -142,6 +141,7 @@ WSUS 3.0 SP1 服务器安装的软件要求
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -177,9 +177,8 @@ WSUS 3.0 SP1 服务器安装的软件要求
 </tbody>
 </table>
   
-| ![](images/Cc708525.note(WS.10).gif)注意                                                                                                                                                                                                            |  
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 如果之前已安装了 WSUS 2.0 并且它使用的是 SQL Server 2000、SQL Server Desktop Engine 2000 或任何早于 SQL Server 2005 SP1 的 SQL Server 数据库（或 Windows Server 2008 上的 SQL Server 2005 SP2），WSUS 3.0 SP1 安装程序将安装 Windows® Internal Database 并将该数据库迁移至其中。 |
+> [!NOTE]     
+> 如果之前已安装了 WSUS 2.0 并且它使用的是 SQL Server 2000、SQL Server Desktop Engine 2000 或任何早于 SQL Server 2005 SP1 的 SQL Server 数据库（或 Windows Server 2008 上的 SQL Server 2005 SP2），WSUS 3.0 SP1 安装程序将安装 Windows® Internal Database 并将该数据库迁移至其中。 
   
 WSUS 3.0 SP1 服务器安装的最小磁盘空间要求  
 -----------------------------------------
@@ -190,9 +189,8 @@ WSUS 3.0 SP1 服务器安装的最小磁盘空间要求
 -   存储数据库文件的卷上有 2 GB 的磁盘空间  
 -   存储内容的卷上有 20 GB 的磁盘空间
   
-| ![](images/Cc708525.Important(WS.10).gif)要点 |  
-|----------------------------------------------------------------------------|  
-| 不能在压缩驱动器上安装 WSUS 3.0 SP1。请检查您选择的驱动器是否未经压缩。    |
+> [!caution]   
+> 不能在压缩驱动器上安装 WSUS 3.0 SP1。请检查您选择的驱动器是否未经压缩。    
   
 WSUS 3.0 SP1 升级要求  
 ---------------------
@@ -230,6 +228,7 @@ WSUS 3.0 SP1 升级要求
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -270,6 +269,7 @@ WSUS 3.0 SP1 升级要求
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -350,9 +350,9 @@ WSUS 3.0 SP1 升级要求
 ```  
 WSUSSetup.exe /q DEFAULT\_WEBSITE=0 (install in quiet mode using port 8530) WSUSSetup.exe /q /u (uninstall WSUS)  
 ```  
-| ![](images/Cc708525.Important(WS.10).gif)要点                                                                       |  
-|--------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 如果以安静模式 (/q) 安装 WSUS 3.0 SP1，并且计算机未安装所有必备组件，安装将生成一个名为 WSUSPreReqCheck.xml 的文件，并将其保存在 %TEMP% 目录中。 |
+
+> [!IMPORTANT]    
+> 如果以安静模式 (/q) 安装 WSUS 3.0 SP1，并且计算机未安装所有必备组件，安装将生成一个名为 WSUSPreReqCheck.xml 的文件，并将其保存在 %TEMP% 目录中。 
   
 安装问题  
 --------
@@ -398,7 +398,13 @@ WSUS 3.0 SP1 安装程序将在不发出通知的情况下重新启动 IIS，这
 您将需要用安装数据库所在的文件夹替换 *&lt;DBLocation&gt;*，用本地存储文件夹替换 *&lt;ContentDirectory&gt;*。
   
 ```  
-sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=name from sysusers WHERE name like '%ASPNET' EXEC sp\_revokedbaccess @asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=name from sysusers WHERE name like '%WSUS Administrators' EXEC sp\_revokedbaccess @wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=HOST\_NAME()+'\\ASPNET' EXEC sp\_grantlogin @asplogin EXEC sp\_grantdbaccess @asplogin EXEC sp\_addrolemember webService,@asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=HOST\_NAME()+'\\WSUS Administrators' EXEC sp\_grantlogin @wsusadminslogin EXEC sp\_grantdbaccess @wsusadminslogin EXEC sp\_addrolemember webService,@wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "backup database SUSDB to disk=N'*&lt;ContentDirectory&gt;*\\SUSDB.Dat' with init"  
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=name from sysusers WHERE name like '%ASPNET' EXEC sp_revokedbaccess @asplogin"
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=name from sysusers WHERE name like '%WSUS Administrators' EXEC sp_revokedbaccess @wsusadminslogin"
+ 
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=HOST_NAME()+'\ASPNET' EXEC sp_grantlogin @asplogin EXEC sp_grantdbaccess @asplogin EXEC sp_addrolemember webService,@asplogin"
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=HOST_NAME()+'\WSUS Administrators' EXEC sp_grantlogin @wsusadminslogin EXEC sp_grantdbaccess @wsusadminslogin EXEC sp_addrolemember webService,@wsusadminslogin"
+ 
+sqlcmd.exe -S <DBLocation> -E -Q "backup database SUSDB to disk=N'<ContentDirectory>\SUSDB.Dat' with init"
 ```
   
 #### 安装程序将覆盖以前的数据库备份
@@ -522,6 +528,7 @@ WSUS 3.0 SP1 支持 32 位和 64 位版本的 Windows Server 2008。
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -576,8 +583,8 @@ WSUS 3.0 SP1 支持 32 位和 64 位版本的 Windows Server 2008。
   
 以下是有关同时使用 SCW 和 WSUS 角色的已知问题：
   
--   **即使 WSUS 可能不会使用 Windows Internal Database 服务，也会启用该服务。**配置 WSUS 以使用数据库，无论是 Windows Internal Database 还是 SQL Server 数据库都可以。如果同时安装了 WSUS 和 SQL Server，并且您在 SCW 中选择了 WSUS 角色，安装在计算机上的 Windows Internal Database 服务将处于启用状态，但 WSUS 并不使用该服务。如果您使用的是 SQL Server 数据库而非 Windows Internal Database，应禁用 Windows Internal Database 服务。  
--   **默认情况下，不会选择自定义网站中用于 WSUS 的防火墙规则。**如果您在自定义网站（端口 8530 或 8531）上安装 WSUS，系统会自动选择所需的防火墙规则，即使您在 SCW 中选择了 WSUS 角色也是如此。您应根据是否为 WSUS 服务器配置了安全套接字层 (SSL) 来对 WSUS 启用相应的防火墙规则。
+-   **即使 WSUS 可能不会使用 Windows Internal Database 服务，也会启用该服务。** 配置 WSUS 以使用数据库，无论是 Windows Internal Database 还是 SQL Server 数据库都可以。如果同时安装了 WSUS 和 SQL Server，并且您在 SCW 中选择了 WSUS 角色，安装在计算机上的 Windows Internal Database 服务将处于启用状态，但 WSUS 并不使用该服务。如果您使用的是 SQL Server 数据库而非 Windows Internal Database，应禁用 Windows Internal Database 服务。  
+-   **默认情况下，不会选择自定义网站中用于 WSUS 的防火墙规则。** 如果您在自定义网站（端口 8530 或 8531）上安装 WSUS，系统会自动选择所需的防火墙规则，即使您在 SCW 中选择了 WSUS 角色也是如此。您应根据是否为 WSUS 服务器配置了安全套接字层 (SSL) 来对 WSUS 启用相应的防火墙规则。
   
 Windows Small Business Server 2003 上的 WSUS 3.0 SP1  
 ----------------------------------------------------
