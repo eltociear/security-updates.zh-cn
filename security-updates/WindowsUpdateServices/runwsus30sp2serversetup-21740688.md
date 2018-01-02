@@ -14,7 +14,7 @@ This section describes installing WSUS by using the installer file or Server Man
 If you want to do an unattended installation, see [Appendix A: Unattended Installations](https://technet.microsoft.com/2443408e-5bd2-4b1f-b0a5-7ee1452fe5bc) later in this guide.
 
  
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > As a best practice, review the Release Notes for WSUS 3.0 SP2. Release notes contain important information about the release. Look for the WSUS Release Notes on the <a href="http://go.microsoft.com/fwlink/?linkid=139840">Windows Server Update Services</a> Web site (http://go.microsoft.com/fwlink/?LinkId=139840).
  
 
