@@ -141,24 +141,9 @@ Back end server starting configuration:
     1.  Click **Start**, click **Run**, type **regedit**, and then click **OK**.
     2.  Find the following key: **HKLM\\SOFTWARE\\Microsoft\\UpdateServices\\Server\\Setup\\SqlServerName**. In the **Value** data box, type **\[BEName\]\\\[InstanceName\]**, and then click **OK**. If the instance name is the default instance, type **\[BEName\]**.
  
-        <p> </p> 
-
-        <table style="border:1px solid black;">
-        <colgroup>
-        <col width="100%" />
-        </colgroup>
-        <thead>
-        <tr class="header">
-        <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />备注</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td style="border:1px solid black;">When typing [BEName], do not add the domain name before the name.
-        </td>
-        </tr>
-        </tbody>
-        </table>
+> [!NOTE]   
+>  When typing [BEName], do not add the domain name before the name.
+        
  
  
 3.  Find the following key: **HKLM\\Software\\Microsoft\\Update Services\\Server\\Setup\\wYukonInstalled**. In the **Value** box, type **0**, and then click **OK**. This indicates that Windows Internal Database is not used.
