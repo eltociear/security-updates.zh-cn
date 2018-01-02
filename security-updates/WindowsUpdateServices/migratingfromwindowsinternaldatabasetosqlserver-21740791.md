@@ -31,7 +31,7 @@ The topic presents the following scenarios:
 -   Migrating the Windows Internal Database database to an instance of SQL Server 2008 or SQL Server 2005 SP2 that is running on another server (remote SQL)
 
  
-> [!WARNING]
+> [!WARNING]  
 > The procedures in this document use Registry Editor. Serious problems might occur if you modify the registry incorrectly by using Registry Editor or by using another method. These problems might require you to reinstall the operating system. Microsoft cannot guarantee that these problems can be resolved. Modify the registry at your own risk. Before you edit the registry, export the keys in the registry that you plan to edit, or back up the whole registry. If a problem occurs, you can then restore the registry to its previous state.
  
 
@@ -51,7 +51,16 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 5.  Run the following SQL command to detach the WSUS database (SUSDB) from the Windows Internal Database instance, by using the **sqlcmd** utility. For more information about the **sqlcmd** utility, see [sqlcmd Utility](http://go.microsoft.com/fwlink/?linkid=81183) (http://go.microsoft.com/fwlink/?LinkId=81183).
 
     
-        ```
+    ```
+
+    sqlcmd -S np:\\.\pipe\MSSQL$MICROSOFT##SSEE\sql\query
+    use master
+    alter database SUSDB set single_user with rollback immediate
+    go
+    sp_detach_db SUSDB
+    go
+    ```
+
 6.  In SQL Server Management Studio, under the instance node, right-click **Databases**, select **Properties**, and then click **Attach**.
 
 7.  In this step, you will verify that NT AUTHORITY\\NETWORK SERVICE has login permissions to the instance of SQL Server and to the WSUS database. If it does not, you will have to add it to both locations. This account should also be a member of the webService role on the WSUS database.
@@ -77,7 +86,8 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 13. Verify that the database migration was successful by opening the WSUS administrative console. (Click **Start**, click **Administrative Tools**, and then click **Microsoft Windows Server Update Services 3.0**.)
 
  
-    <table style="border:1px solid black;">
+    <p> </p> 
+<table style="border:1px solid black;">
     <colgroup>
     <col width="100%" />
     </colgroup>
@@ -127,7 +137,15 @@ Back end server starting configuration:
     3.  Right-click **Update Services**, and then click **Stop**.
 3.  On the front end server: Run the following SQL command to detach the WSUS database by using the **sqlcmd** utility. For more information about the **sqlcmd** utility, see [sqlcmd Utility](http://go.microsoft.com/fwlink/?linkid=81183) (http://go.microsoft.com/fwlink/?LinkId=81183).
     
-        ```
+    ```
+    sqlcmd -S np:\\.\pipe\MSSQL$MICROSOFT##SSEE\sql\query 
+    use master
+    alter database SUSDB set single_user with rollback immediate
+    go
+    sp_detach_db ‘SUSDB’
+    go
+    ```
+
 5.  On the back end server:
     1.  To attach **SUSDB** to the destination instance of SQL server, under the instance node, right-click **Databases**, select **Properties**, and then click **Attach**.
     2.  In the **Attach Databases** box, under **Databases to attach**, locate the susdb.mdf file (by default this is **C:\\WSUS\\UpdateServicesDbFiles** if you installed Windows Internal Database), and then click **OK**.
@@ -139,7 +157,8 @@ Back end server starting configuration:
     1.  Click **Start**, click **Run**, type **regedit**, and then click **OK**.
     2.  Find the following key: **HKLM\\SOFTWARE\\Microsoft\\UpdateServices\\Server\\Setup\\SqlServerName**. In the **Value** data box, type **\[BEName\]\\\[InstanceName\]**, and then click **OK**. If the instance name is the default instance, type **\[BEName\]**.
  
-        <table style="border:1px solid black;">
+        <p> </p> 
+<table style="border:1px solid black;">
         <colgroup>
         <col width="100%" />
         </colgroup>
@@ -156,8 +175,8 @@ Back end server starting configuration:
         </tbody>
         </table>
  
-
-    3.  Find the following key: **HKLM\\Software\\Microsoft\\Update Services\\Server\\Setup\\wYukonInstalled**. In the **Value** box, type **0**, and then click **OK**. This indicates that Windows Internal Database is not used.
+ 
+3.  Find the following key: **HKLM\\Software\\Microsoft\\Update Services\\Server\\Setup\\wYukonInstalled**. In the **Value** box, type **0**, and then click **OK**. This indicates that Windows Internal Database is not used.
     4.  Find the following key: **HKLM\\SOFTWARE\\Microsoft\\UpdateServices\\Server\\Setup\\SqlInstanceIsRemote**. In the **Value** box, change the value to **1**, and then click **OK**.
 8.  On the front end server:
     1.  Click **Start**, point to **Programs**, point to **Administrative Tools**, and then click **Services**.
@@ -165,7 +184,8 @@ Back end server starting configuration:
     3.  Right-click **Update Services**, and then click **Start**.
 9.  On the front end server: Verify that the database migration was successful by opening the WSUS administrative console. (Click **Start**, click **Administrative Tools**, and then click **Microsoft Windows Server Update Services 3.0**).
  
-    <table style="border:1px solid black;">
+    <p> </p> 
+<table style="border:1px solid black;">
     <colgroup>
     <col width="100%" />
     </colgroup>
@@ -183,7 +203,8 @@ Back end server starting configuration:
     </table>
  
 
-    For more information about the databases that you can use with WSUS, see the following:
-    -   In this guide, see [Managing the Databases](https://technet.microsoft.com/d99cdd74-fbf4-4706-b2a2-a58728beef22).
-    -   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Choose the Database Used for WSUS 3.0."
-    -   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Appendix B: Configure Remote SQL" for general information about how to set up WSUS by using a remote SQL server to host the WSUS database.
+For more information about the databases that you can use with WSUS, see the following:
+
+-   In this guide, see [Managing the Databases](https://technet.microsoft.com/d99cdd74-fbf4-4706-b2a2-a58728beef22).
+-   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Choose the Database Used for WSUS 3.0."
+-   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Appendix B: Configure Remote SQL" for general information about how to set up WSUS by using a remote SQL server to host the WSUS database.
