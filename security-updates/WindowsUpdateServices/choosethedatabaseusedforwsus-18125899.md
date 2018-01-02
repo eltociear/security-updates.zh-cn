@@ -14,7 +14,9 @@ You do not need to be a database administrator or purchase database software to 
 The WSUS database stores the following types of information:
 
 -   WSUS server configuration information
+
 -   Metadata that describes what each update is useful for
+
 -   Information about client computers, updates, and client interaction with updates
 
 Managing WSUS by accessing data directly in the database is not supported. You should not attempt to manage WSUS in this way. Manage WSUS manually, by using the WSUS console, or programmatically by calling WSUS APIs.
@@ -27,8 +29,11 @@ Selecting a Database
 Use the following information to determine what database software is right for your organization. Once you have made a selection, see if there are any additional tasks you need to complete to set up the database software to work with WSUS. You can use database software that is 100-percent compatible with Microsoft SQL. There are three options that have been tested extensively for use with WSUS:
 
 -   **Microsoft Windows SQL Server 2000 Desktop Engine (WMSDE)** ships with WSUS. It is available only if you install WSUS on a computer running Windows Server 2003. It is similar to the next option, SQL Server 2000 Desktop Engine (MSDE), but without limitations for database size or connections. Neither WMSDE nor MSDE have a user interface or tools. Administrators are meant to interact with these products through WSUS.
+
 -   **Microsoft SQL Server 2000 Desktop Engine (MSDE)** is available from Microsoft as a free download. It is based on SQL Server 2000, but has some built-in limitations that restrict performance and database size to 2 GB. Use MSDE if you are installing WSUS on a computer running Windows 2000. See [Appendix B: Install MSDE on Windows 2000](https://technet.microsoft.com/453401df-9a3a-421c-9857-680902e6a10b) for step-by-step instructions on installing MSDE.
+
 -   **Microsoft SQL Server 2000** is the full-featured database software from Microsoft. WSUS requires SQL Server 2000 with Service Pack 3a. If you use the full version of SQL Server, the SQL Server administrator should enable the *nested triggers* option in SQL Server. Do this before the WSUS administrator installs WSUS and specifies the database during the setup process. WSUS Setup enables the *recursive triggers* option, which is a database-specific option; however, it does not enable the *nested triggers* option, which is a server global option.
+
 -   **Microsoft SQL Server 2005** is also available if you have installed WSUS 2.0 Service Pack 1. If you use the full version of SQL Server, the SQL Server administrator should enable the *nested triggers* option in SQL Server. Do this before the WSUS administrator installs WSUS and specifies the database during the setup process. WSUS Setup enables the *recursive triggers* option, which is a database-specific option; however, it does not enable the *nested triggers* option, which is a server global option.
 
 WSUS does support running database software on a computer separate from WSUS, but there are some restrictions. See [Appendix C: Remote SQL](https://technet.microsoft.com/9e01d057-6b39-4eb7-b151-dff7ad0cd638) for more information.
@@ -36,6 +41,7 @@ WSUS does support running database software on a computer separate from WSUS, bu
 ### Database Software Recommendations by Operating System
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
