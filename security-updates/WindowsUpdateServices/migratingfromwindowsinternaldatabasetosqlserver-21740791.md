@@ -85,7 +85,7 @@ Use the following steps to migrate the WSUS database from a Windows Internal Dat
 
  
     <p> </p> 
-<table style="border:1px solid black;">
+    <table style="border:1px solid black;">
     <colgroup>
     <col width="100%" />
     </colgroup>
