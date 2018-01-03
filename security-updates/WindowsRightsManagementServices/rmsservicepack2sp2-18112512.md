@@ -13,9 +13,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc720225(v=WS.10)'
 
 您可以安装 RMS SP2 而不必删除现有的 RMS SP1 安装。RMS SP2 的安装程序会检测到已安装 RMS SP1，并根据需要添加其他功能和设置。
 
-| ![](images/Cc720225.note(WS.10).gif)注意                                                                                                                                   |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 不支持从没有 Service Pack 的 RMS 服务器升级到 RMS SP2。如果您使用的是没有 Service Pack 的 RMS 服务器，则必须先升级到 RMS SP1，然后再升级到 RMS SP2。RMS 客户端可以从 RMS 客户端的任何先前版本进行升级。 |
+> [!NOTE]   
+> 不支持从没有 Service Pack 的 RMS 服务器升级到 RMS SP2。如果您使用的是没有 Service Pack 的 RMS 服务器，则必须先升级到 RMS SP1，然后再升级到 RMS SP2。RMS 客户端可以从 RMS 客户端的任何先前版本进行升级。 
 
 **在此主题中**
 
@@ -26,36 +25,34 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc720225(v=WS.10)'
 -   [与 RMS 1.0 版的互操作性](#bkmk_interop)
 -   [删除 RMS SP2](#bkmk_removingrms)
 
-<span id="bkmk_PreparingForSP2Update"></span>
 准备 RMS SP2 更新
 -----------------
 
 RMS SP2 更新旨在允许您持续运行 RMS，不会造成中断。但是，在您升级 RMS 群集之前，建议您执行下列操作：
 
 -   备份配置数据库和 RMS 私钥。有关详细信息，请参阅本文档集中的“RMS 的系统备份”([http：//go.microsoft.com/fwlink/?LinkId=75001](http://go.microsoft.com/fwlink/?linkid=75001))（页面可能为英文）。
+
 -   如果您使用的是基于软件的私钥，请确保您拥有 RMS 私钥密码。
 -   如果您要保留先前记录的统计信息，请备份记录数据库。
 -   确保在您的客户端和服务器上为操作系统安装了最新的关键更新和安全更新。要验证您是否拥有所有关键更新和安全更新，请单击“开始”，单击“Windows Update”，然后按照出现在屏幕上的说明操作。
 
-<span id="bkmk_PerformingSP2Update"></span>
 执行 RMS SP2 更新
 -----------------
 
 当 Windows Rights Management Services Service Pack 2 安装向导检测到您的 RMS 安装时，它会查看您当前的 RMS SP1 安装，并只添加新文件或替换需要针对 RMS SP2 进行更改的文件。如果您已经成功运行 RMS，则在安装 RMS SP2 后，您不需要重新设置任何其他配置即可继续运行 RMS。
 
-<span id="bkmk_UpdateClusters"></span>
 更新群集
 --------
 
 如果您已在群集配置中安装了 RMS，则应该计划更新您的群集以降低更新对您的安装的影响。确定如何最佳地在您的组织中实施 RMS SP2 时，请考虑下列建议：
 
 -   最佳方案是，一次性在群集的某个部分上安装 RMS SP2，以便群集的升级可预测性更强，并且在升级期间导致服务降级的可能性最小。
+
 -   如果您有多个 RMS 群集，则应该首先升级根认证群集，然后升级通过注册子过程注册的授权群集。
 -   如果您使用跨林组扩展，则可以在林中单独升级群集，而不会影响 RMS 服务器跨林扩展组成员身份的功能。
 -   如果 RMS SP2、RMS SP1 和 RMS 1.0 版服务器在不同的 Active Directory 林中，则可以共存并具有互操作性。建议不要在同一群集中安装不同的 RMS 服务器版本。
 -   RMS SP2 安装程序包也可以用于在服务器上安装 RMS SP2 的新部署；它不需要安装 RMS SP1。
 
-<span id="bkmk_UpdateClients"></span>
 更新 RMS 客户端
 ---------------
 
@@ -63,19 +60,20 @@ RMS SP2 更新旨在允许您持续运行 RMS，不会造成中断。但是，�
 
 有关更新和安装 RMS 客户端的详细信息，请参阅“分发 RMS 客户端”([http://go.microsoft.com/fwlink/?LinkId=75070](http://go.microsoft.com/fwlink/?linkid=75070))（页面可能为英文）。
 
-<span id="bkmk_InterOp"></span>
 与 RMS 1.0 版的互操作性
 -----------------------
 
 由于 RMS SP2 提供了许多改进和性能增强功能，您应该在下一升级周期期间安装它。虽然运行 RMS SP2 的 RMS 服务器和客户端完全可与不运行 RMS SP2 的 RMS 服务器和客户端互操作，但是应了解它们在混合环境中工作方式的差异：
 
 -   仅运行 RMS SP1 及更高版本的服务器能够脱机注册。
+
 -   仅运行 RMS SP1 及更高版本的客户端能够自激活。
 -   下表描述了混合环境支持的功能：
 
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -123,7 +121,6 @@ Microsoft SQL Server™ 2005 支持开箱即用。</td>
 </table>
  
 
-<span id="bkmk_RemovingRMS"></span>
 删除 RMS SP2
 ------------
 

@@ -25,9 +25,8 @@ Microsoft Windows Server Update Services 3.0 发行说明
 -   Windows Server® 2008 上的 WSUS 3.0
 -   Windows Small Business Server 2003 上的 WSUS 3.0
 
-| ![](images/Cc708491.note(WS.10).gif)注意                                                                                                                                         |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=71220) ([http://go.microsoft.com/fwlink/?LinkId=71220](http://go.microsoft.com/fwlink/?linkid=71220))（页面可能为英文）提供了本文档的可下载副本。 |
+> [!NOTE]   
+> [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=71220) ([http://go.microsoft.com/fwlink/?LinkId=71220](http://go.microsoft.com/fwlink/?linkid=71220))（页面可能为英文）提供了本文档的可下载副本。 
 
 重要配置问题：您必须覆盖配置向导中的代理服务器密码
 --------------------------------------------------
@@ -78,13 +77,11 @@ Microsoft Windows Server Update Services 3.0 需要使用 Internet 信息服务 
 
 在安装 WSUS 3.0 时，您可能需要禁用防病毒程序，然后才能成功执行安装。禁用防病毒程序后，请先重新启动计算机，然后再开始安装 WSUS。重新启动计算机可防止在安装过程中需要访问文件时文件被锁定。安装完成后，一定要重新启用防病毒程序。要了解禁用和重新启用防病毒程序的确切步骤以及了解程序版本，请访问防病毒程序供应商的网站。
 
-| ![](images/Cc708491.Caution(WS.10).gif)警告                                                                                                                           |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 此解决办法可能会使您的计算机或网络更容易受到恶意用户或恶意软件（如病毒）的攻击。我们不建议您使用这种解决办法，而提供此信息是为了使您自行决定是否实施此解决办法。使用此解决办法的风险由您自己承担。 |
+> [!caution]  
+> 此解决办法可能会使您的计算机或网络更容易受到恶意用户或恶意软件（如病毒）的攻击。我们不建议您使用这种解决办法，而提供此信息是为了使您自行决定是否实施此解决办法。使用此解决办法的风险由您自己承担。 
 
-| ![](images/Cc708491.note(WS.10).gif)注意                                                                    |
-|------------------------------------------------------------------------------------------------------------------------------------------|
-| 防病毒程序旨在帮助保护您的计算机以免感染病毒。在禁用防病毒程序后，切勿从不信任的来源下载或打开文件、访问不信任的网站或打开电子邮件附件。 |
+> [!NOTE]   
+> 防病毒程序旨在帮助保护您的计算机以免感染病毒。在禁用防病毒程序后，切勿从不信任的来源下载或打开文件、访问不信任的网站或打开电子邮件附件。 
 
 #### WSUS 3.0 要求在 SQL Server 中打开嵌套触发器选项
 
@@ -164,6 +161,7 @@ WSUS 3.0 服务器安装的软件要求
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -200,9 +198,8 @@ WSUS 3.0 服务器安装的软件要求
 </tbody>
 </table>
   
-| ![](images/Cc708491.note(WS.10).gif)注意                                                                                                                                                                                                         |  
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 如果以前安装了 WSUS 2.0，并且它正在使用 SQL Server 2000、SQL Server Desktop Engine 2000 或者早于 SQL Server 2005 SP1（或 Windows Server 2008 上的 SQL Server 2005 SP2）的任何 SQL Server 数据库，则 WSUS 3.0 安装程序将安装 Windows® Internal Database 并将数据库迁移到其上。 |
+> [!NOTE]    
+> 如果以前安装了 WSUS 2.0，并且它正在使用 SQL Server 2000、SQL Server Desktop Engine 2000 或者早于 SQL Server 2005 SP1（或 Windows Server 2008 上的 SQL Server 2005 SP2）的任何 SQL Server 数据库，则 WSUS 3.0 安装程序将安装 Windows® Internal Database 并将数据库迁移到其上。 
   
 WSUS 3.0 服务器安装的最低磁盘空间要求  
 -------------------------------------
@@ -212,10 +209,10 @@ WSUS 3.0 服务器安装的最低磁盘空间要求
 -   系统分区需要 1 GB  
 -   存储数据库文件的卷需要 2 GB  
 -   存储内容的卷需要 20 GB
+
   
-| ![](images/Cc708491.Important(WS.10).gif)要点 |  
-|----------------------------------------------------------------------------|  
-| WSUS 3.0 不能安装在压缩的驱动器上。请检查所选驱动器，确保它未压缩。        |
+> [!IMPORTANT]   
+> WSUS 3.0 不能安装在压缩的驱动器上。请检查所选驱动器，确保它未压缩。        
   
 WSUS 3.0 升级要求  
 -----------------
@@ -248,6 +245,7 @@ WSUS 3.0 升级要求
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -288,6 +286,7 @@ WSUS 3.0 升级要求
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -368,9 +367,8 @@ WSUS 3.0 升级要求
 ```  
 WSUSSetup.exe /q DEFAULT\_WEBSITE=0 (install in quiet mode using port 8530) WSUSSetup.exe /q /u (uninstall WSUS)  
 ```  
-| ![](images/Cc708491.Important(WS.10).gif)要点                                                                      |  
-|-------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 如果在安静模式下安装 WSUS 3.0 (/q)，并且计算机没有安装所有必备组件，安装将生成一个名为 WSUSPreReqCheck.xml 的文件，并将其保存在 %TEMP% 目录中。 |
+> [!IMPORTANT]    
+> 如果在安静模式下安装 WSUS 3.0 (/q)，并且计算机没有安装所有必备组件，安装将生成一个名为 WSUSPreReqCheck.xml 的文件，并将其保存在 %TEMP% 目录中。 
   
 安装问题  
 --------
@@ -415,7 +413,13 @@ WSUS 3.0 安装程序将在不发出通知的情况下重新启动 IIS，这可�
 您需要将 *&lt;DBLocation&gt;* 替换为安装数据库的文件夹，将 *&lt;ContentDirectory&gt;* 替换为本地存储文件夹。
   
 ```  
-sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=name from sysusers WHERE name like '%ASPNET' EXEC sp\_revokedbaccess @asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=name from sysusers WHERE name like '%WSUS Administrators' EXEC sp\_revokedbaccess @wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=HOST\_NAME()+'\\ASPNET' EXEC sp\_grantlogin @asplogin EXEC sp\_grantdbaccess @asplogin EXEC sp\_addrolemember webService,@asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=HOST\_NAME()+'\\WSUS Administrators' EXEC sp\_grantlogin @wsusadminslogin EXEC sp\_grantdbaccess @wsusadminslogin EXEC sp\_addrolemember webService,@wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "backup database SUSDB to disk=N'*&lt;ContentDirectory&gt;*\\SUSDB.Dat' with init"  
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=name from sysusers WHERE name like '%ASPNET' EXEC sp_revokedbaccess @asplogin"
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=name from sysusers WHERE name like '%WSUS Administrators' EXEC sp_revokedbaccess @wsusadminslogin"
+ 
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=HOST_NAME()+'\ASPNET' EXEC sp_grantlogin @asplogin EXEC sp_grantdbaccess @asplogin EXEC sp_addrolemember webService,@asplogin"
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=HOST_NAME()+'\WSUS Administrators' EXEC sp_grantlogin @wsusadminslogin EXEC sp_grantdbaccess @wsusadminslogin EXEC sp_addrolemember webService,@wsusadminslogin"
+ 
+sqlcmd.exe -S <DBLocation> -E -Q "backup database SUSDB to disk=N'<ContentDirectory>\SUSDB.Dat' with init"
 ```
   
 #### 安装可能覆盖以前的数据库备份
@@ -557,6 +561,7 @@ WSUS 3.0 同时支持 32 位和 64 位版本的 Windows Server 2008。
 ###  
 
  
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -606,7 +611,11 @@ IIS 元数据库兼容性</td>
 生成的标记应如下所示：
   
 ```  
- &lt;System.webServer&gt; &lt;modules&gt; &lt;remove name="CustomErrorMode"&gt; &lt;/modules&gt; &lt;/System.webServer&gt;  
+<System.webServer>
+<modules>
+<remove name="CustomErrorMode">
+</modules>
+</System.webServer>  
 ```
   
 #### 问题 2：如果要在 Windows Server 2008 Beta 3 上并且在自定义端口上安装 WSUS 3.0，您必须预先创建网站

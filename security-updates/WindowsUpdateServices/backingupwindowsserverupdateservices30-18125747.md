@@ -15,9 +15,13 @@ Backing up WSUS involves backing up the following:
 
 -   The WSUS database, which contains:
     -   Update metadata.
+
     -   WSUS server configuration information.
+
     -   Information about client computers, updates, and client interaction with updates.
+
 -   The folder where the update files are stored, if you are storing updates locally and not on Microsoft Update. By default, update files are stored in the \\WSUS\\WSUSContent folder on the largest partition of your WSUS server.
+
 -   The folder containing the WSUS repair path (by default, \\WSUS\\UpdateServicesPackage on the largest partition of your WSUS server). The repair path is the location of any .msi files used to repair locally published packages.
 
 Although WSUS does not provide a built-in backup tool, you can use the Backup Utility that is available on all servers running Windows Server 2003 to back up and restore both the WSUS database and update file storage folder. The Backup Utility is also known as **Ntbackup.exe**. If you are using a full version of Microsoft SQL Server 2005 for your database, you should use SQL Server Enterprise Manager as an alternative to the Backup Utility. For more information about SQL Server Enterprise Manager, refer to your SQL Server documentation. For more information about database options and configurations for WSUS, see [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983) (http://go.microsoft.com/fwlink/?linkid=79983).
@@ -60,9 +64,8 @@ Although WSUS does not provide a built-in backup tool, you can use the Backup Ut
 
 8.  When the message appears that informs you that restoring is complete, click **Close**.
 
-| ![](images/Cc720441.Important(WS.10).gif)要点                                                                                                                                                                                                                                                                                                                                            |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| You should restore the backup file to only one WSUS server. The backed-up information includes the Server ID, so if you restore the same backup file to two or more WSUS servers there will be two or more WSUS servers with the same ID. If you attempt to roll up information from downstream servers with duplicate IDs to an upstream server, you will get information from only one of these downstream servers. |
+> [!IMPORTANT]  
+> You should restore the backup file to only one WSUS server. The backed-up information includes the Server ID, so if you restore the same backup file to two or more WSUS servers there will be two or more WSUS servers with the same ID. If you attempt to roll up information from downstream servers with duplicate IDs to an upstream server, you will get information from only one of these downstream servers.
 
 After restoring the WSUS database you must recycle the WSUS Application Pool in IIS, as described in the next procedure. This will ensure that the restored database will sync up correctly with IIS, through which you manage the WSUS Web site and Web services. For more information about application pools, see IIS Help. For more information about how WSUS is installed, see [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983) (http://go.microsoft.com/fwlink/?linkid=79983).
 

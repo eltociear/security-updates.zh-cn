@@ -27,7 +27,7 @@ The following virtual directories (vroots) are created in IIS (in the Default We
 
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -42,63 +42,63 @@ The following virtual directories (vroots) are created in IIS (in the Default We
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;">ClientWebService</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\ClientWebService
-Application Pool: WsusPool
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update<br/> Services\WebServices\ClientWebService<br/>
+Application Pool: WsusPool<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Content</td>
-<td style="border:1px solid black;">Directory[the location of the WSUS content directory]
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory[the location of the WSUS content directory]<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: None</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">DssAuthWebService</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\DssAuthWebService
-Application Pool: WsusPool
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\DssAuthWebService<br/>
+Application Pool: WsusPool<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Inventory</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\ Inventory
-Application Pool: WsusPool
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\ Inventory<br/>
+Application Pool: WsusPool<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">ReportingWebService</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\ReportingWebService
-Application Pool: WsusPool
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\ReportingWebService<br/>
+Application Pool: WsusPool<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">ServerSyncWebService</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\ServerSyncWebService
-Application Pool: WsusPool
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\ServerSyncWebService<br/>
+Application Pool: WsusPool<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">SimpleAuthWebService</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\SimpleAuthWebService
-Application Pool: WsusPool
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\SimpleAuthWebService<br/>
+Application Pool: WsusPool<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">ApiRemoting30</td>
 <td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\Administration
-Application Pool: WsusPool
-Security: Integrated Windows Authentication, Digest Authentication
+Application Pool: WsusPool<br/>
+Security: Integrated Windows Authentication, Digest Authentication<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">SelfUpdate</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\SelfUpdate
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\SelfUpdate<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 </tbody>
@@ -177,7 +177,7 @@ The properties listed below are a partial list.
 
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -585,7 +585,7 @@ The properties listed below comprise a partial list.
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -654,7 +654,7 @@ Properties of the API Remoting Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -775,7 +775,7 @@ Properties of the Client Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -896,7 +896,7 @@ Properties of the Downstream Server Authentication Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1017,7 +1017,7 @@ Properties of the Inventory Collection Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1138,7 +1138,7 @@ Checking the properties of the Reporting Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1259,7 +1259,7 @@ Properties of the Selfupdate Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1332,7 +1332,7 @@ Properties of the Server Synchronization Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1453,7 +1453,7 @@ Properties of the Simple Authorization Web service
   
 ###  
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

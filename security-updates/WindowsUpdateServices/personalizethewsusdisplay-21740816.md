@@ -19,7 +19,7 @@ You can configure different aspects of the way WSUS server information is displa
 3.  Click **OK**.
 
  
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > Computer and update status will roll up from downstream replica servers only. It is not possible to get rolled-up status from a downstream autonomous server.
  
 
@@ -31,7 +31,7 @@ You can configure different aspects of the way WSUS server information is displa
 3.  Click **OK**.
 
  
-> [!NOTE]
+> [!NOTE]  
 > If you choose this option, errors will appear as pop-up windows and not as links in the UI.
  
 

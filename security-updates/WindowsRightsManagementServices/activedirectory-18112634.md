@@ -21,9 +21,11 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747586(v=WS.10)'
 
 下表列出了用于控制内存缓存行为的注册表项。
 
-###  
+
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -78,11 +80,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747586(v=WS.10)'
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
-| ![](images/Cc747586.Caution(WS.10).gif)警告         |  
-|----------------------------------------------------------------------------------|  
-| 错误编辑注册表可能会严重损坏系统。更改注册表之前，应备份计算机中的所有重要数据。 |
+> [!CAUTION]  
+> 错误编辑注册表可能会严重损坏系统。更改注册表之前，应备份计算机中的所有重要数据。 
   
-| ![](images/Cc747586.note(WS.10).gif)注意                                                                                                                                                                           |  
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| **PrincipalCacheExpireMinutes**、**GroupIDCacheExpireMinutes**、**GroupMembershipCacheExpireMinutes** 和 **ContactMembersofGroupCacheExpireMinutes** 注册表项还控制存储在数据库服务器上的目录服务中的本地 Active Directory 缓存的缓存到期时间。 |
+
+> [!NOTE]  
+> **PrincipalCacheExpireMinutes**、**GroupIDCacheExpireMinutes**、**GroupMembershipCacheExpireMinutes** 和 **ContactMembersofGroupCacheExpireMinutes** 注册表项还控制存储在数据库服务器上的目录服务中的本地 Active Directory 缓存的缓存到期时间。 

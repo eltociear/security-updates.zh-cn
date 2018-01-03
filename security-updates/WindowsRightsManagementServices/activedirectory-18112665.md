@@ -11,9 +11,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/zh-cn/library/Cc747614(v=WS.10)'
 
 RMS 服务和客户端通过先在本地注册表中查找来发现服务位置。如果注册表中的某些项没有值，RMS 服务和客户端会在 Active Directory 中查找服务连接点 (SCP)。这意味着如果您在服务器或客户端注册表中键入特定项，则可以替代默认的 Active Directory 发现设置。
 
-| ![](images/Cc747614.note(WS.10).gif)注意                                              |
-|--------------------------------------------------------------------------------------------------------------------|
-| 如果配置了 RMS 根群集，以便不在 Active Directory 中发布 SCP，则您可以使用这些项来使您的 RMS 客户端指向正确的位置。 |
+> [!NOTE]  
+> 如果配置了 RMS 根群集，以便不在 Active Directory 中发布 SCP，则您可以使用这些项来使您的 RMS 客户端指向正确的位置。 
 
 本节描述了注册表项，并提供有关如何创建这些项的详细信息。
 
@@ -41,9 +40,11 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
 
 下表列出了可以添加以替代服务发现的项。
 
-###  
+
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -70,15 +71,17 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 替代用于发布的客户端服务发现  
 ----------------------------
   
 如果您的用户将发布其计算机中的内容，您可能需要根据在您的企业中使用的拓扑来替代用于发布的服务器的位置。用于发布的服务器的位置通常由客户端使用 Active Directory 来发现。通过在客户端计算机上添加合适的注册表项，客户端将绕过这些方法，改为使用您在注册表项值中指定的 URL。
   
-| ![](images/Cc747614.note(WS.10).gif)注意                              |  
-|----------------------------------------------------------------------------------------------------|  
-| 本节中列出的客户端替代应作为项创建，而不应作为个别条目创建。这些项的值应在每个项的默认条目中创建。 |
+> [!NOTE]  
+> 本节中列出的客户端替代应作为项创建，而不应作为个别条目创建。这些项的值应在每个项的默认条目中创建。 
   
 #### 注册表项描述
   
@@ -96,9 +99,11 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
   
 下表列出了您可以在 RMS 客户端计算机上添加以替代服务发现的注册表项。
   
-###  
+
 
  
+<p></p>
+
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -130,30 +135,34 @@ RMS 服务和客户端通过先在本地注册表中查找来发现服务位置�
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 我们建议您使用 Systems Management Server 或组策略来实施这些注册表项，以确保您企业中的所有客户端均使用正确的发布服务器。
   
-| ![](images/Cc747614.Caution(WS.10).gif)警告                 |  
-|------------------------------------------------------------------------------------------|  
-| 注册表编辑不当可能会严重损坏您的系统。在更改注册表之前，应备份计算机上任何有价值的数据。 |
+> [!CAUTION]    
+> 注册表编辑不当可能会严重损坏您的系统。在更改注册表之前，应备份计算机上任何有价值的数据。 
   
 可以使用示例注册表文件 (.reg) 来在 RMS 群集中的每台服务器上导入正确的注册表项。
   
 **在 RMS 群集中的每台服务器上导入正确的注册表项**  
 1.  将下列示例注册表文件复制到记事本。
-  
-    `Windows Registry Editor Version 5.00`
-  
-    `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSDRM\ServiceLocation]`
-  
-    `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSDRM\ServiceLocation\Activation]`
-  
-    `@="http://<RMS_cluster_name>/_wmcs/certification"`
-  
-    `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSDRM\ServiceLocation\EnterprisePublishing]`
-  
-    `@="http://<RMS_cluster_name>/_wmcs/licensing"`
-  
+
+    ```
+    Windows Registry Editor Version 5.00
+
+    [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSDRM\ServiceLocation]
+
+    [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSDRM\ServiceLocation\Activation]
+
+    @="http://<RMS_cluster_name>/_wmcs/certification"
+
+    [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSDRM\ServiceLocation\EnterprisePublishing]
+
+    @="http://<RMS_cluster_name>/_wmcs/licensing"
+    ```
+
 2.  使用 RMS 群集的名称替换 &lt;RMS 群集名称&gt;。
   
 3.  使用 .reg 文件扩展名保存文件。
