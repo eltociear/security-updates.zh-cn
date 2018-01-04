@@ -54,24 +54,9 @@ WSUS 3.0 SP2 服务器安装的系统要求
 -   您必须安装了下面其中一种受支持的操作系统：
     -   Windows Server 2008 R2
     -   Windows Server 2008 SP1 或更高版本
- 
-        <table style="border:1px solid black;">
-        <colgroup>
-        <col width="100%" />
-        </colgroup>
-        <thead>
-        <tr class="header">
-        <th style="border:1px solid black;" ><img src="images/Dd939886.Warning(WS.10).gif" />警告</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td style="border:1px solid black;">如果在升级到 Windows Server 2008 R2 之前已在 Windows Server 2008 上安装了 WSUS 3.0 SP2，则到 Windows Server 2008 R2 的升级将会失败。请参阅<a href="#bkmk_knownissues">已知问题</a>部分了解详细信息。
-        </td>
-        </tr>
-        </tbody>
-        </table>
- 
+    
+> [!Caution]  
+> 如果在升级到 Windows Server 2008 R2 之前已在 Windows Server 2008 上安装了 WSUS 3.0 SP2，则到 Windows Server 2008 R2 的升级将会失败。请参阅[已知问题](#bkmk_knownissues)部分了解详细信息。 
 
     -   Windows Server 2003 SP1 或更高版本
     -   Windows Small Business Server 2008
@@ -90,25 +75,8 @@ WSUS 3.0 SP2 服务器安装的系统要求
 -   Microsoft Report Viewer Redistributable 2008
 
  
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />重要事项</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">Windows Server 2008 R2 需要 WSUS 3.0 SP2。如果您安装的是 Windows Server 2008 R2，则应该安装 WSUS 3.0 SP2。请不要在 Windows Server 2008 R2 上安装 WSUS 3.0 SP1。
-
-在远程 SQL 配置中的前端服务器上，不支持将 WSUS 3.0 SP2 与终端服务一起使用。
-</td>
-</tr>
-</tbody>
-</table>
- 
+> [!Important]  
+> Windows Server 2008 R2 需要 WSUS 3.0 SP2。如果您安装的是 Windows Server 2008 R2，则应该安装 WSUS 3.0 SP2。请不要在 Windows Server 2008 R2 上安装 WSUS 3.0 SP1。 在远程 SQL 配置中的前端服务器上，不支持将 WSUS 3.0 SP2 与终端服务一起使用。 
 
 ### WSUS 管理控制台软件先决条件
 
@@ -153,26 +121,9 @@ WSUS 3.0 SP2 仅允许代理服务器支持 HTTP。最佳实践为：在从配�
 ### 防病毒程序
 
 在安装 WSUS 3.0 SP2 时，您可能需要禁用防病毒程序，然后才能成功执行安装。禁用防病毒软件后，应先重新启动计算机，然后再安装 WSUS。重新启动计算机可防止在安装过程中必须访问文件时文件被锁定。安装完成后，一定要重新启用防病毒软件。要了解禁用和重新启用防病毒软件的确切步骤以及了解程序版本，请访问防病毒软件供应商的网站。
-
  
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Caution(WS.10).gif" />注意</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">此解决办法可能会使计算机或网络更容易受到恶意用户或恶意软件（如病毒）的攻击。我们不建议您使用这种解决办法，而提供此信息是为了使您自行决定是否实施此解决办法。使用此解决办法的风险由您自己承担。
-
-防病毒软件有助于保护您的计算机免受病毒的攻击。在禁用防病毒程序后，切勿从不信任的来源下载或打开文件、访问不信任的网站或打开电子邮件附件。
-</td>
-</tr>
-</tbody>
-</table>
+> [!Note]  
+> 此解决办法可能会使计算机或网络更容易受到恶意用户或恶意软件（如病毒）的攻击。我们不建议您使用这种解决办法，而提供此信息是为了使您自行决定是否实施此解决办法。使用此解决办法的风险由您自己承担。 防病毒软件有助于保护您的计算机免受病毒的攻击。在禁用防病毒程序后，切勿从不信任的来源下载或打开文件、访问不信任的网站或打开电子邮件附件。
  
 
 ### SQL Server 的嵌套触发器选项
@@ -270,8 +221,6 @@ Windows Server 2008 R2 需要 WSUS 3.0 SP2。如果您安装的是 Windows Serve
 如果在安装 WSUS 2.0 之后而尚未升级到 WSUS 3.0 SP2 时更改计算机名称，升级可能失败。
 
 请使用以下脚本删除并重新添加 ASPNET 和 WSUS Administrators 组。然后重新运行升级。
-
-        ```
 
 ### 如果已从 MSDE 迁移到 WSUS 2.0 上的 SQL Server 2008 或 SQL Server 2005，则必须更改注册表值
 
