@@ -17,7 +17,7 @@ Microsoft 安全公告摘要（2015 年 11 月）
 
 本公告摘要列出了 2015 年 11 月发布的安全公告。
 
-有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://technet.microsoft.com/zh-cn/security/dd252948.aspx)。
+有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](https://technet.microsoft.com/zh-cn/security/dd252948.aspx)。
 
 Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每月安全更新同日发布的任何非安全更新进行优先排序。请参阅**其他信息**部分。
 
@@ -52,7 +52,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p><strong>Internet Explorer 的累积安全更新 (3104517)</strong> <br />
 此安全更新程序修复了 Internet Explorer 中的多个漏洞。如果用户使用 Internet Explorer 查看经特殊设计的网页，那么其中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -63,7 +63,7 @@ Internet Explorer</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-113">MS15-113</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Edge 的累积安全更新 (3104519)<br />
 </strong>此安全更新可解决 Microsoft Edge 中的漏洞。最严重的漏洞可能在用户使用 Microsoft Edge 查看经特殊设计的网页时允许远程执行代码。成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -74,7 +74,7 @@ Microsoft Edge</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-114">MS15-114</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决远程执行代码的 Windows Journal 安全更新 (3100213)<br />
 </strong>此安全更新可解决 Microsoft Windows 中的漏洞。如果用户打开特制日记文件，该漏洞可能允许远程执行代码。与拥有管理用户权限的用户相比，帐户被配置为拥有较少系统用户权限的用户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -84,7 +84,7 @@ Microsoft Edge</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决远程执行代码的 Microsoft Windows 安全更新 (3105864)<br />
 </strong>此安全更新可解决 Microsoft Windows 中的漏洞。如果攻击者诱使用户打开特制文档或访问包含嵌入字体的不受信任的网页，则其中最为严重的漏洞可能允许远程执行代码。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3101746">3101746</a><br />
@@ -95,7 +95,7 @@ Microsoft Edge</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决远程执行代码的 Microsoft Office 安全更新 (3104540)<br />
 </strong>此安全更新可解决 Microsoft Office 中的漏洞。如果用户打开经特殊设计的 Microsoft Office 文件，那么这些漏洞中最严重的漏洞可能允许远程执行代码。成功利用这些漏洞的攻击者可以在当前用户的上下文中运行任意代码。与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3101496">3101496</a></p></td>
@@ -108,7 +108,7 @@ Skype for Business</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-117">MS15-117</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决特权提升的 NDIS 安全更新 (3101722)<br />
 </strong>此安全更新可解决 Microsoft Windows NDIS 中的漏洞。此漏洞在攻击者登录系统并运行经特殊设计的应用程序时允许提升特权。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -118,7 +118,7 @@ Skype for Business</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-118">MS15-118</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决特权提升的 .NET Framework 安全更新 (3104507)<br />
 </strong>此安全更新可解决 Microsoft .NET Framework 中的漏洞。如果攻击者诱使用户导航到受到破坏的网站或者打开用于在用户的浏览器中注入客户端代码的特制电子邮件中的链接，最严重的漏洞可能允许特权提升。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>无需重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -129,7 +129,7 @@ Microsoft .NET Framework</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-119">MS15-119</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决特权提升的 Winsock 安全更新 (3104521)<br />
 </strong>此安全更新可解决 Microsoft Windows 中的漏洞。如果攻击者登录目标系统并运行旨在利用该漏洞的特制代码，该漏洞可能允许特权提升。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -139,7 +139,7 @@ Microsoft .NET Framework</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-120">MS15-120</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决拒绝服务的 IPSec 安全更新 (3102939)<br />
 </strong>此安全更新可解决 Microsoft Windows 中的拒绝服务漏洞。成功利用漏洞的攻击者可能导致服务器变得不再响应。攻击者必须拥有有效的凭据，才能利用该漏洞。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 拒绝服务</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -149,7 +149,7 @@ Microsoft .NET Framework</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-121">MS15-121</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决欺骗的 Schannel 安全更新 (3081320) <br />
 </strong>此安全更新可解决 Microsoft Windows 中的漏洞。如果攻击者在客户端和合法服务器之间执行中间人 (MiTM) 攻击，该漏洞可能会允许欺骗。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 欺骗</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3081320">3081320</a></p></td>
@@ -159,7 +159,7 @@ Microsoft .NET Framework</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-122">MS15-122</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决安全功能绕过的 Kerberos 安全更新 (3105256)<br />
 </strong>此安全更新可解决 Microsoft Windows 中的安全功能绕过。攻击者可以绕过目标计算机上的 Kerberos 身份验证并解密受 BitLocker 保护的驱动器。只有在计算机已加入域，目标系统已启用 BitLocker 且没有 PIN 或 USB 密钥的情况下，才能利用该绕过漏洞。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 安全功能规避</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3101246">3101246</a></p></td>
@@ -169,7 +169,7 @@ Microsoft .NET Framework</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-123">MS15-123</a></p></td>
 <td style="border:1px solid black;"><p><strong>用于解决信息泄漏的针对 Skype for Business 和 Microsoft Lync 的安全更新 (3105872)</strong><br />
 此安全更新可解决 Skype for Business 和 Microsoft Lync 中的一个漏洞。如果攻击者邀请目标用户进入即时消息会话，然后向该用户发送包含特制 JavaScript 内容的消息，此漏洞会导致信息泄露。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 信息泄漏</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3101496">3101496</a><br />
@@ -188,7 +188,7 @@ Skype for Business</p></td>
 
 **如何使用该表？**
 
-对于您可能需要安装的每个安全更新，使用该表了解安全公告发布 30 天内发生代码执行和拒绝服务漏洞的可能性。根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/zh-cn/security/cc998259)。
+对于您可能需要安装的每个安全更新，使用该表了解安全公告发布 30 天内发生代码执行和拒绝服务漏洞的可能性。根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](https://technet.microsoft.com/zh-cn/security/cc998259)。
 
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
@@ -216,7 +216,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2427">CVE-2015-2427</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2427">CVE-2015-2427</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -224,7 +224,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft 浏览器内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6064">CVE-2015-6064</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6064">CVE-2015-6064</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -232,7 +232,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6065">CVE-2015-6065</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6065">CVE-2015-6065</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -240,7 +240,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6066">CVE-2015-6066</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6066">CVE-2015-6066</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -248,7 +248,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6068">CVE-2015-6068</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6068">CVE-2015-6068</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -256,7 +256,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6069">CVE-2015-6069</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6069">CVE-2015-6069</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -264,7 +264,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6070">CVE-2015-6070</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6070">CVE-2015-6070</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -272,7 +272,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6071">CVE-2015-6071</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6071">CVE-2015-6071</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -280,7 +280,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6072">CVE-2015-6072</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6072">CVE-2015-6072</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -288,7 +288,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft 浏览器内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6073">CVE-2015-6073</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6073">CVE-2015-6073</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -296,7 +296,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6074">CVE-2015-6074</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6074">CVE-2015-6074</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -304,7 +304,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6075">CVE-2015-6075</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6075">CVE-2015-6075</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -312,7 +312,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6076">CVE-2015-6076</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6076">CVE-2015-6076</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -320,7 +320,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6077">CVE-2015-6077</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6077">CVE-2015-6077</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -328,7 +328,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft 浏览器内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6078">CVE-2015-6078</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6078">CVE-2015-6078</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -336,7 +336,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6079">CVE-2015-6079</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6079">CVE-2015-6079</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -344,23 +344,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6080">CVE-2015-6080</a></p></td>
-<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
-<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
-<td style="border:1px solid black;"><p>不适用</p></td>
-</tr>  
-<tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
-<td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6081">CVE-2015-6081</a></p></td>
-<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
-<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
-<td style="border:1px solid black;"><p>不适用</p></td>
-</tr>  
-<tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
-<td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6082">CVE-2015-6082</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6080">CVE-2015-6080</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -368,7 +352,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6084">CVE-2015-6084</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6081">CVE-2015-6081</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -376,7 +360,23 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6085">CVE-2015-6085</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6082">CVE-2015-6082</a></p></td>
+<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
+<td style="border:1px solid black;"><p>不适用</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
+<td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6084">CVE-2015-6084</a></p></td>
+<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>不适用</p></td>
+</tr>  
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
+<td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6085">CVE-2015-6085</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -384,7 +384,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 信息泄漏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6086">CVE-2015-6086</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6086">CVE-2015-6086</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -392,7 +392,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>Internet Explorer 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6087">CVE-2015-6087</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6087">CVE-2015-6087</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -400,7 +400,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>微软浏览器 ASLR 绕过</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6088">CVE-2015-6088</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6088">CVE-2015-6088</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -408,7 +408,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-112">MS15-112</a></p></td>
 <td style="border:1px solid black;"><p>脚本引擎内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6089">CVE-2015-6089</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6089">CVE-2015-6089</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -416,7 +416,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-113">MS15-113</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft 浏览器内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6064">CVE-2015-6064</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6064">CVE-2015-6064</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -424,7 +424,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-113">MS15-113</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft 浏览器内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6073">CVE-2015-6073</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6073">CVE-2015-6073</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -432,7 +432,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-113">MS15-113</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft 浏览器内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6078">CVE-2015-6078</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6078">CVE-2015-6078</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -440,7 +440,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-113">MS15-113</a></p></td>
 <td style="border:1px solid black;"><p>微软浏览器 ASLR 绕过</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6088">CVE-2015-6088</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6088">CVE-2015-6088</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -448,7 +448,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-114">MS15-114</a></p></td>
 <td style="border:1px solid black;"><p>Windows Journal 堆溢出漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6097">CVE-2015-6097</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6097">CVE-2015-6097</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -456,7 +456,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p>Windows 内核内存特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6100">CVE-2015-6100</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6100">CVE-2015-6100</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -464,7 +464,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p>Windows 内核内存特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6101">CVE-2015-6101</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6101">CVE-2015-6101</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -472,7 +472,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p>Windows 内核内存信息泄露漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6102">CVE-2015-6102</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6102">CVE-2015-6102</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -480,7 +480,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p>Windows 图形内存远程执行代码漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6103">CVE-2015-6103</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6103">CVE-2015-6103</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -488,7 +488,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p>Windows 图形内存远程执行代码漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6104">CVE-2015-6104</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6104">CVE-2015-6104</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -496,7 +496,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p>Windows 内核内存信息泄露漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6109">CVE-2015-6109</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6109">CVE-2015-6109</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -504,7 +504,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-115">MS15-115</a></p></td>
 <td style="border:1px solid black;"><p>Windows 内核安全功能绕过漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6113">CVE-2015-6113</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6113">CVE-2015-6113</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -512,7 +512,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2503">CVE-2015-2503</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2503">CVE-2015-2503</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -520,7 +520,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6038">CVE-2015-6038</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6038">CVE-2015-6038</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -528,7 +528,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6091">CVE-2015-6091</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6091">CVE-2015-6091</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -536,7 +536,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6092">CVE-2015-6092</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6092">CVE-2015-6092</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -544,7 +544,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6093">CVE-2015-6093</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6093">CVE-2015-6093</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -552,7 +552,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6094">CVE-2015-6094</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6094">CVE-2015-6094</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -560,7 +560,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-116">MS15-116</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Outlook for Mac 欺骗漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6123">CVE-2015-6123</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6123">CVE-2015-6123</a></p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -568,7 +568,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-117">MS15-117</a></p></td>
 <td style="border:1px solid black;"><p>Windows NDIS 特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6098">CVE-2015-6098</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6098">CVE-2015-6098</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -576,7 +576,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-118">MS15-118</a></p></td>
 <td style="border:1px solid black;"><p>.NET 信息泄漏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6096">CVE-2015-6096</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6096">CVE-2015-6096</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -584,7 +584,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-118">MS15-118</a></p></td>
 <td style="border:1px solid black;"><p>.NET 特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6099">CVE-2015-6099</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6099">CVE-2015-6099</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -592,7 +592,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-118">MS15-118</a></p></td>
 <td style="border:1px solid black;"><p>.NET ASLR 绕过</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6115">CVE-2015-6115</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6115">CVE-2015-6115</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -600,7 +600,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-119">MS15-119</a></p></td>
 <td style="border:1px solid black;"><p>Winsock 特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2478">CVE-2015-2478</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2478">CVE-2015-2478</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -608,7 +608,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-120">MS15-120</a></p></td>
 <td style="border:1px solid black;"><p>Windows IPSec 拒绝服务漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6111">CVE-2015-6111</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6111">CVE-2015-6111</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -616,7 +616,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-121">MS15-121</a></p></td>
 <td style="border:1px solid black;"><p>Schannel TLS 三重握手漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6112">CVE-2015-6112</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6112">CVE-2015-6112</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -624,7 +624,7 @@ Skype for Business</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-122">MS15-122</a></p></td>
 <td style="border:1px solid black;"><p>Windows Kerberos 安全功能绕过</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6095">CVE-2015-6095</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6095">CVE-2015-6095</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -632,7 +632,7 @@ Skype for Business</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-123">MS15-123</a></p></td>
 <td style="border:1px solid black;"><p>服务器输入验证信息泄露漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6061">CVE-2015-6061</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-6061">CVE-2015-6061</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -694,7 +694,7 @@ Skype for Business</p></td>
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -702,15 +702,15 @@ Skype for Business</p></td>
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -838,7 +838,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -846,15 +846,15 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1017,7 +1017,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1025,15 +1025,15 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1167,7 +1167,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1175,15 +1175,15 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1306,7 +1306,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1318,7 +1318,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1496,7 +1496,7 @@ Windows 8.1（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1508,7 +1508,7 @@ Windows 8.1（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1620,7 +1620,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1632,7 +1632,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1744,11 +1744,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1756,7 +1756,7 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1942,11 +1942,11 @@ Windows 10 版本 1511（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2175,11 +2175,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2187,11 +2187,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2339,11 +2339,11 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2351,11 +2351,11 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2541,11 +2541,11 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2553,11 +2553,11 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2703,11 +2703,11 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2715,11 +2715,11 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2853,23 +2853,23 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3103,23 +3103,23 @@ Windows 8.1（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3257,19 +3257,19 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3401,15 +3401,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
-
-</td>
-<td style="border:1px solid black;">
-**无**
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3417,7 +3413,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+**无**
+
+</td>
+<td style="border:1px solid black;">
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3589,23 +3589,23 @@ Windows 10 版本 1511（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3873,7 +3873,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3941,7 +3941,7 @@ Microsoft Office 2007 IME（日语）Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4057,7 +4057,7 @@ Microsoft Word 2010 Service Pack 2（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4161,7 +4161,7 @@ Microsoft Word 2013 Service Pack 1（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4211,7 +4211,7 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4315,7 +4315,7 @@ Microsoft Word 2016（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4365,7 +4365,7 @@ Microsoft Excel 2016 for Mac
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4442,7 +4442,7 @@ Microsoft Word Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4492,7 +4492,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4533,7 +4533,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4574,7 +4574,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4612,7 +4612,7 @@ Microsoft Office Web Apps 2010 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4666,11 +4666,11 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4736,11 +4736,11 @@ Microsoft Lync Room System
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4838,11 +4838,11 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4956,11 +4956,11 @@ Microsoft Lync Basic 2013 Service Pack 1（64 位）
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要信息**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要信息**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5053,7 +5053,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 
 Application Compatibility Toolkit 随附的更新兼容性评估程序组件针对安装的应用程序协助简化 Windows 更新的测试和验证。
 
-有关这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](http://technet.microsoft.com/zh-cn/security/cc297183)。
+有关这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](https://technet.microsoft.com/zh-cn/security/cc297183)。
 
 鸣谢
 ----
@@ -5072,39 +5072,39 @@ Microsoft 通过可靠的漏洞披露渠道认可在安全社区中帮助我们�
 有关 Windows 更新和 Microsoft 更新上非安全发布的信息，请参阅：
 
 -   [Microsoft 知识库文章 894199](https://support.microsoft.com/zh-cn/kb/894199)：Software Update Services 和 Windows Server Update Services 的内容更改说明。包括所有 Windows 内容。
--   [过去几个月关于 Windows Server Update Services 的更新](http://technet.microsoft.com/zh-cn/windowsserver/bb332157.aspx)。显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
+-   [过去几个月关于 Windows Server Update Services 的更新](https://technet.microsoft.com/zh-cn/windowsserver/bb332157.aspx)。显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
 
 ### Microsoft Active Protections Program (MAPP)
 
-为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](http://technet.microsoft.com/zh-cn/security/dn467918)中列出）提供的活动保护网站。
+为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](https://technet.microsoft.com/zh-cn/security/dn467918)中列出）提供的活动保护网站。
 
 ### 安全策略和社区
 
 **更新管理策略**
 
-[更新管理安全指导](http://technet.microsoft.com/zh-cn/library/bb466251.aspx)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
+[更新管理安全指导](https://technet.microsoft.com/zh-cn/library/bb466251.aspx)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
 **获取其他安全更新**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-cn) 提供了消费者平台的更新。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。通过输入关键字“安全更新”可以非常方便地找到些更新。
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-cn) 提供了消费者平台的更新。
 -   您可以从下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows 更新上提供的安全更新。有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/zh-cn/kb/913086)。
 
 **IT 专业人员安全社区**
 
-了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](http://technet.microsoft.com/zh-cn/security/cc136632.aspx)中就安全主题与其他 IT 专业人员展开讨论。
+了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](https://technet.microsoft.com/zh-cn/security/cc136632.aspx)中就安全主题与其他 IT 专业人员展开讨论。
 
 ### 支持
 
 已对列出的受影响的软件进行测试，以确定受到影响的版本。其他版本的支持生命周期已结束。要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://support.microsoft.com/zh-cn/lifecycle)。
 
-IT 专业人员的安全解决方案：[TechNet 安全性疑难解答与支持](http://technet.microsoft.com/zh-cn/security/bb980617)
+IT 专业人员的安全解决方案：[TechNet 安全性疑难解答与支持](https://technet.microsoft.com/zh-cn/security/bb980617)
 
-帮助保护您运行 Windows 的计算机不受病毒和恶意软件危害：[病毒解决方案和安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-cn)
+帮助保护您运行 Windows 的计算机不受病毒和恶意软件危害：[病毒解决方案和安全中心](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-cn)
 
-根据国家/地区进行本地支持：[国际化支持](http://support.microsoft.com/common/international.aspx?ln=zh-cn)
+根据国家/地区进行本地支持：[国际化支持](https://support.microsoft.com/common/international.aspx?ln=zh-cn)
 
 ### 免责声明
 
