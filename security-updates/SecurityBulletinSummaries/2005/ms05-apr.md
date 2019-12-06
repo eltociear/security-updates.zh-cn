@@ -18,18 +18,18 @@ Microsoft 安全公告摘要 (2005 年 4 月)
 **发布日期：**2005 年 4 月 12 日
 **版本号：**1.0
 
-可通过访问以下[网站](http://www.microsoft.com/china/security/)，获取此信息的最终用户版本。
+可通过访问以下[网站](https://www.microsoft.com/china/security/)，获取此信息的最终用户版本。
 
 **保护您的 PC：** Microsoft 在以下位置中提供了关于您如何帮助保护 PC 的信息：
 
--   最终用户可以访问[保护您的 PC Web 站点](http://www.microsoft.com/china/security/protect/)。
--   IT 专业人士可以访问[安全指南中心 Web 站点](http://www.microsoft.com/china/technet/security/guidance/)。
+-   最终用户可以访问[保护您的 PC Web 站点](https://www.microsoft.com/china/security/protect/)。
+-   IT 专业人士可以访问[安全指南中心 Web 站点](https://www.microsoft.com/china/technet/security/guidance/)。
 
-**更新管理策略：**[修补程序管理、安全更新和下载](http://www.microsoft.com/china/technet/security/topics/patch/default.mspx)Web 站点提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
+**更新管理策略：**[修补程序管理、安全更新和下载](https://www.microsoft.com/china/technet/security/topics/patch/default.mspx)Web 站点提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
 
-**IT 专业人员安全区域社区：** 了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全区域 Web 站点](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+**IT 专业人员安全区域社区：** 了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全区域 Web 站点](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
-**Microsoft 安全通知服务：** 要在 Microsoft 安全公告发布时即刻接收自动的电子邮件通知，请订阅 [Microsoft 安全通知服务](http://go.microsoft.com/fwlink/?linkid=21163)。
+**Microsoft 安全通知服务：** 要在 Microsoft 安全公告发布时即刻接收自动的电子邮件通知，请订阅 [Microsoft 安全通知服务](https://go.microsoft.com/fwlink/?linkid=21163)。
 
 #### 摘要
 
@@ -40,41 +40,41 @@ Microsoft 安全公告摘要 (2005 年 4 月)
 
 | 公告标识           | Microsoft 安全公告 MS05-019                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [TCP/IP 中的漏洞可能允许远程执行代码和拒绝服务攻击](http://technet.microsoft.com/security/bulletin/ms05-019) |
+| **公告标题**       | [TCP/IP 中的漏洞可能允许远程执行代码和拒绝服务攻击](https://technet.microsoft.com/security/bulletin/ms05-019) |
 | **摘要：**         | Windows 中存在的漏洞能够使攻击者完全控制受影响的系统。                                                       |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                         |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                         |
 | **安全漏洞的影响** | 远程执行代码                                                                                                 |
 | **受影响的软件**   | **Windows**：有关详细信息，请参见“受影响的软件和下载位置”部分。                                              |
 
 | 公告标识           | Microsoft 安全公告 MS05-020                                                                   |
 |--------------------|-----------------------------------------------------------------------------------------------|
-| **公告标题**       | [Internet Explorer 的累积性安全更新](http://technet.microsoft.com/security/bulletin/ms05-020) |
+| **公告标题**       | [Internet Explorer 的累积性安全更新](https://technet.microsoft.com/security/bulletin/ms05-020) |
 | **摘要：**         | Internet Explorer 中存在的漏洞能够使攻击者完全控制受影响的系统。                              |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                          |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                          |
 | **安全漏洞的影响** | 远程执行代码                                                                                  |
 | **受影响的软件**   | **Internet Explorer：**有关详细信息，请参见“受影响的软件和下载位置”部分。                     |
 
 | 公告标识           | Microsoft 安全公告 MS05-021                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [Exchange Server 中的漏洞可能允许远程执行代码](http://technet.microsoft.com/security/bulletin/ms05-021) |
+| **公告标题**       | [Exchange Server 中的漏洞可能允许远程执行代码](https://technet.microsoft.com/security/bulletin/ms05-021) |
 | **摘要：**         | Microsoft Exchange Server 中存在的漏洞能够使攻击者运行任意代码。                                        |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                    |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                    |
 | **安全漏洞的影响** | 远程执行代码                                                                                            |
 | **受影响的软件**   | **Exchange Server：**有关详细信息，请参见“受影响的软件和下载位置”部分。                                 |
 
 | 公告标识           | Microsoft 安全公告 MS05-022                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [MSN Messenger 中的漏洞可能会导致远程代码执行](http://technet.microsoft.com/security/bulletin/ms05-022) |
+| **公告标题**       | [MSN Messenger 中的漏洞可能会导致远程代码执行](https://technet.microsoft.com/security/bulletin/ms05-022) |
 | **摘要：**         | MSN Messenger 中存在的漏洞能够使攻击者运行任意代码。                                                    |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                    |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                    |
 | **安全漏洞的影响** | 远程执行代码                                                                                            |
 | **受影响的软件**   | **MSN Messenger**：有关详细信息，请参见“受影响的软件和下载位置”部分。                                   |
 
 | 公告标识           | Microsoft 安全公告 MS05-23                                                                             |
 |--------------------|--------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [Microsoft Word 中的漏洞可能导致远程执行代码](http://technet.microsoft.com/security/bulletin/ms05-023) |
+| **公告标题**       | [Microsoft Word 中的漏洞可能导致远程执行代码](https://technet.microsoft.com/security/bulletin/ms05-023) |
 | **摘要：**         | Microsoft Word 中存在的漏洞能够使攻击者完全控制受影响的系统。                                          |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                   |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                   |
 | **安全漏洞的影响** | 远程执行代码                                                                                           |
 | **受影响的软件**   | **Office**：有关详细信息，请参见“受影响的软件和下载位置”部分。                                         |
 
@@ -83,25 +83,25 @@ Microsoft 安全公告摘要 (2005 年 4 月)
 
 | 公告标识           | Microsoft 安全公告 MS05-016                                                                           |
 |--------------------|-------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [Windows Shell 中的漏洞可能允许远程执行代码](http://technet.microsoft.com/security/bulletin/ms05-016) |
+| **公告标题**       | [Windows Shell 中的漏洞可能允许远程执行代码](https://technet.microsoft.com/security/bulletin/ms05-016) |
 | **摘要：**         | Windows 中存在一个漏洞能够使攻击者完全控制受影响的系统。                                              |
-| **最高严重等级**   | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                  |
+| **最高严重等级**   | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                  |
 | **安全漏洞的影响** | 远程执行代码                                                                                          |
 | **受影响的软件**   | **Windows：**有关详细信息，请参见“受影响的软件和下载位置”部分。                                       |
 
 | 公告标识           | Microsoft 安全公告 MS05-017                                                                     |
 |--------------------|-------------------------------------------------------------------------------------------------|
-| **公告标题**       | [消息队列服务中的漏洞可能允许执行代码](http://technet.microsoft.com/security/bulletin/ms05-017) |
+| **公告标题**       | [消息队列服务中的漏洞可能允许执行代码](https://technet.microsoft.com/security/bulletin/ms05-017) |
 | **摘要：**         | MSMQ 中存在一个漏洞能够使攻击者完全控制受影响的系统。                                           |
-| **最高严重等级**   | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                            |
+| **最高严重等级**   | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                            |
 | **安全漏洞的影响** | 远程执行代码                                                                                    |
 | **受影响的软件**   | **Windows：**有关详细信息，请参见“受影响的软件和下载位置”部分。                                 |
 
 | 公告标识           | Microsoft 安全公告 MS05-018                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [Windows 内核的漏洞可能允许特权提升和拒绝服务](http://technet.microsoft.com/security/bulletin/ms05-018) |
+| **公告标题**       | [Windows 内核的漏洞可能允许特权提升和拒绝服务](https://technet.microsoft.com/security/bulletin/ms05-018) |
 | **摘要：**         | Windows 中存在的漏洞能够使攻击者完全控制受影响的系统。                                                  |
-| **最高严重等级**   | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                    |
+| **最高严重等级**   | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                    |
 | **安全漏洞的影响** | 特权提升                                                                                                |
 | **受影响的软件**   | **Windows：**有关详细信息，请参见“受影响的软件和下载位置”部分。                                         |
 
@@ -120,8 +120,8 @@ Microsoft 安全公告摘要 (2005 年 4 月)
 
 |                                                                                                                                                             | 详细信息                                                                                                                | 详细信息                                                                                                                | 详细信息                                                                                                                | 详细信息                                                                                                                | 详细信息                                                                                                                | 详细信息                                                                                                                | 详细信息                                                                                                                | 详细信息                                                                                                                |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **公告标识**                                                                                                                                                | [**MS05-016**](http://technet.microsoft.com/security/bulletin/ms05-016)                                                 | [**MS05-017**](http://technet.microsoft.com/security/bulletin/ms05-017)                                                 | [**MS05-018**](http://technet.microsoft.com/security/bulletin/ms05-018)                                                 | [**MS05-019**](http://technet.microsoft.com/security/bulletin/ms05-019)                                                 | [**MS05-020**](http://technet.microsoft.com/security/bulletin/ms05-020)                                                 | [**MS05-021**](http://technet.microsoft.com/security/bulletin/ms05-021)                                                 | [**MS05-022**](http://technet.microsoft.com/security/bulletin/ms05-022)                                                 | [**MS05-023**](http://technet.microsoft.com/security/bulletin/ms05-023)                                                 |
-| **最高严重等级**                                                                                                                                            | [**重要**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**重要**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**重要**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](http://go.microsoft.com/fwlink/?linkid=21140)                                                                |
+| **公告标识**                                                                                                                                                | [**MS05-016**](https://technet.microsoft.com/security/bulletin/ms05-016)                                                 | [**MS05-017**](https://technet.microsoft.com/security/bulletin/ms05-017)                                                 | [**MS05-018**](https://technet.microsoft.com/security/bulletin/ms05-018)                                                 | [**MS05-019**](https://technet.microsoft.com/security/bulletin/ms05-019)                                                 | [**MS05-020**](https://technet.microsoft.com/security/bulletin/ms05-020)                                                 | [**MS05-021**](https://technet.microsoft.com/security/bulletin/ms05-021)                                                 | [**MS05-022**](https://technet.microsoft.com/security/bulletin/ms05-022)                                                 | [**MS05-023**](https://technet.microsoft.com/security/bulletin/ms05-023)                                                 |
+| **最高严重等级**                                                                                                                                            | [**重要**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**重要**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**重要**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                | [**严重**](https://go.microsoft.com/fwlink/?linkid=21140)                                                                |
 | **受影响的 Windows 软件：**                                                                                                                                 |                                                                                                                         |                                                                                                                         |                                                                                                                         |                                                                                                                         |                                                                                                                         |                                                                                                                         |                                                                                                                         |                                                                                                                         |
 | Windows Server™ 2003                                                                                                                                        | [重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=f803f008-5ee8-4bbe-8136-bc21708d1025) |                                                                                                                         | [重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=e66332d4-3952-428f-ac62-ac8124f8942a) | [中等](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=616b5880-4439-4d96-8355-d7fcfe40134b) | **<sup>[1]</sup>**                                                                                                               |                                                                                                                         |                                                                                                                         |                                                                                                                         |
 | Microsoft Windows Server 2003（用于基于 Itanium 的系统）                                                                                                    | [重要](https://www.microsoft.com/download/details.aspx?familyid=32adab00-6ed3-4418-8539-7fa468ad5dbd)                   |                                                                                                                         | [重要](https://www.microsoft.com/download/details.aspx?familyid=c51d6ad5-93ba-4717-a5db-5ce78f70592e)                   | [中等](https://www.microsoft.com/download/details.aspx?familyid=34dc5227-9b9b-4795-a1a0-5fa509b3ad52)                   | **<sup>[1]</sup>**                                                                                                               |                                                                                                                         |                                                                                                                         |                                                                                                                         |
@@ -164,7 +164,7 @@ Microsoft 安全公告摘要 (2005 年 4 月)
 
 **<sup>[1]</sup>** 此操作系统有一个安全更新。 有关详细信息，请参阅该表中的受影响组件 Microsoft Internet Explorer 和相应的安全公告。
 
-**<sup>[2]</sup>** 此操作系统会受到该问题的影响。 但是，操作系统不会受到严重影响。 通常，在此操作系统上不会提供不严重问题的安全更新。 有关针对此操作系统的 Microsoft 技术支持生命周期策略的详细信息，请访问以下 [Web 站点](http://go.microsoft.com/fwlink/?linkid=33327)。 有关更详细信息，请参见相应的安全公告。
+**<sup>[2]</sup>** 此操作系统会受到该问题的影响。 但是，操作系统不会受到严重影响。 通常，在此操作系统上不会提供不严重问题的安全更新。 有关针对此操作系统的 Microsoft 技术支持生命周期策略的详细信息，请访问以下 [Web 站点](https://go.microsoft.com/fwlink/?linkid=33327)。 有关更详细信息，请参见相应的安全公告。
 
 部署
 ----
@@ -173,75 +173,75 @@ Microsoft 安全公告摘要 (2005 年 4 月)
 
 通过使用 Microsoft Software Update Services (SUS)，管理员可以在基于 Windows 2000 和 Windows Server 2003 的服务器以及运行 Windows 2000 Professional 或 Windows XP Professional 的台式机系统上快速而可靠地部署最新的重要更新和安全更新。
 
-有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务网站](http://go.microsoft.com/fwlink/?linkid=21133)。
+有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务网站](https://go.microsoft.com/fwlink/?linkid=21133)。
 
 **Systems Management Server:**
 
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理网站](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用 [Software Updates Service Feature Pack](http://go.microsoft.com/fwlink/?linkid=33340) 帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理网站](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用 [Software Updates Service Feature Pack](https://go.microsoft.com/fwlink/?linkid=33340) 帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](https://go.microsoft.com/fwlink/?linkid=21158)。
 
-**注** SMS 使用 Microsoft Baseline Security Analyzer 和 Microsoft Office Detection Tool 提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请访问以下[网站](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用 Elevated Rights Deployment Tool（在 [SMS 2003 Administration Feature Pack](http://go.microsoft.com/fwlink/?linkid=33387) 和 [SMS 2.0 Administration Feature Pack](http://go.microsoft.com/fwlink/?linkid=21161) 中提供）安装这些更新。
+**注** SMS 使用 Microsoft Baseline Security Analyzer 和 Microsoft Office Detection Tool 提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请访问以下[网站](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用 Elevated Rights Deployment Tool（在 [SMS 2003 Administration Feature Pack](https://go.microsoft.com/fwlink/?linkid=33387) 和 [SMS 2.0 Administration Feature Pack](https://go.microsoft.com/fwlink/?linkid=21161) 中提供）安装这些更新。
 
 **QChain.exe 和 Update.exe：**
 
-Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。 “*链接*”是指您在安装多个更新时，在两个安装之间不需要重新启动。 此通报中描述的更新所使用的 Update.exe 内置了链接功能。 使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。 Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。 有关 Qchain 的详细信息，请访问此[网站](http://go.microsoft.com/fwlink/?linkid=21156)。
+Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。 “*链接*”是指您在安装多个更新时，在两个安装之间不需要重新启动。 此通报中描述的更新所使用的 Update.exe 内置了链接功能。 使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。 Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。 有关 Qchain 的详细信息，请访问此[网站](https://go.microsoft.com/fwlink/?linkid=21156)。
 
 **Microsoft Baseline Security Analyzer:**
 
-管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer 网站](http://go.microsoft.com/fwlink/?linkid=21134)。
+管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer 网站](https://go.microsoft.com/fwlink/?linkid=21134)。
 
 #### 其他信息：
 
 **鸣谢**
 
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
 
--   [ISS](http://www.iss.net/) 的 Abe Mounce，他报告了 Exchange Server 漏洞 (CAN-2005-0560)。
+-   [ISS](https://www.iss.net/) 的 Abe Mounce，他报告了 Exchange Server 漏洞 (CAN-2005-0560)。
 -   [Alex L](mailto:alexli@hush.com)i，他报告了 Word 漏洞 (CAN-2005-0558)。
 -   [Hongzhenzhou](mailto:felix__zhou@hotmail.com)，他报告了 MSN Messenger 漏洞 (CAN-2005-0562)。
--   [ISS X-Force](http://www.iss.net/) 的[Song Liu](https://technet.microsoft.com/zh-CN/mailto:songsong@shaw.ca)、[Hongzhen Zhou](mailto:felix__zhou@hotmail.com) 和 Neel Mehta，报告了 IP 验证漏洞 (CAN-2005-0048)。
--   [Fernando Gont](http://www.gont.com.ar/)，来自阿根廷的 Universidad Tecnologica Nacional/Facultad Regional Haedo，在 ICMP 连接重置漏洞 (CAN-2004-0790) 和 ICMP 路径 MTU 漏洞 (CAN-2004-1060) 方面非常负责任地与我们进行了合作。
--   [Qualsys](http://www.qualys.com/)，报告了 ICMP 路径 MTU 漏洞 (CAN-2004-1060)。
--   [iDEFENSE](http://www.idefense.com) 的 Berend-Wubbe Wever，报告了 DHTML 对象内存损坏漏洞 (CAN-2005-0553)。
--   [iDEFENSE](http://www.idefense.com) 的 3APA3A 和 axle@bytefallfor，报告了 URL 分析内存损坏漏洞 (CAN-2005-0554)。
--   [SIA Group](http://www.siainternational.com/) 的 Andres Tarasco，报告了分级审查内存损坏漏洞 (CAN-2005-0555)。
--   [iDefense](http://www.idefense.com) 报告了 Windows Shell 漏洞 (CAN-2005-0063)。
+-   [ISS X-Force](https://www.iss.net/) 的[Song Liu](https://technet.microsoft.com/zh-CN/mailto:songsong@shaw.ca)、[Hongzhen Zhou](mailto:felix__zhou@hotmail.com) 和 Neel Mehta，报告了 IP 验证漏洞 (CAN-2005-0048)。
+-   [Fernando Gont](https://www.gont.com.ar/)，来自阿根廷的 Universidad Tecnologica Nacional/Facultad Regional Haedo，在 ICMP 连接重置漏洞 (CAN-2004-0790) 和 ICMP 路径 MTU 漏洞 (CAN-2004-1060) 方面非常负责任地与我们进行了合作。
+-   [Qualsys](https://www.qualys.com/)，报告了 ICMP 路径 MTU 漏洞 (CAN-2004-1060)。
+-   [iDEFENSE](https://www.idefense.com) 的 Berend-Wubbe Wever，报告了 DHTML 对象内存损坏漏洞 (CAN-2005-0553)。
+-   [iDEFENSE](https://www.idefense.com) 的 3APA3A 和 axle@bytefallfor，报告了 URL 分析内存损坏漏洞 (CAN-2005-0554)。
+-   [SIA Group](https://www.siainternational.com/) 的 Andres Tarasco，报告了分级审查内存损坏漏洞 (CAN-2005-0555)。
+-   [iDefense](https://www.idefense.com) 报告了 Windows Shell 漏洞 (CAN-2005-0063)。
 -   [Kostya Kortchinsky](https://technet.microsoft.com/zh-CN/mailto:kostya.kortchinsky@renater.fr)（来自 CERT RENATER），报告了消息队列服务漏洞 (CAN-2005-0059)。
--   [Next Generation Security Software Ltd](http://www.ngssoftware.com/). 的 John Heasman 报告了字体漏洞 (CAN-2005-0060)。
--   [GreenBorder Technologies](http://www.greenborder.com/) 的 Sanjeev Radhakrishnan、Amit Joshi 和 Ananta Iyengarfor，报告了 Windows 内核漏洞 (CAN-2005-0061)。
--   [iDEFENSE](http://www.idefense.com) 的 David Fritz，报告了 CSRSS 漏洞 (CAN-2005-0551)。
+-   [Next Generation Security Software Ltd](https://www.ngssoftware.com/). 的 John Heasman 报告了字体漏洞 (CAN-2005-0060)。
+-   [GreenBorder Technologies](https://www.greenborder.com/) 的 Sanjeev Radhakrishnan、Amit Joshi 和 Ananta Iyengarfor，报告了 Windows 内核漏洞 (CAN-2005-0061)。
+-   [iDEFENSE](https://www.idefense.com) 的 David Fritz，报告了 CSRSS 漏洞 (CAN-2005-0551)。
 
 **获取其他安全更新：**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   可以从 [Microsoft 下载中心](http://www.microsoft.com/downloads/search.aspx?displaylang=zh-cn)获得安全更新：通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。
--   可从 [Windows Update Web 站点](http://v4.windowsupdate.microsoft.com/zhcn/default.asp)获得有关用户平台的更新。
+-   可以从 [Microsoft 下载中心](https://www.microsoft.com/downloads/search.aspx?displaylang=zh-cn)获得安全更新：通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。
+-   可从 [Windows Update Web 站点](https://v4.windowsupdate.microsoft.com/zhcn/default.asp)获得有关用户平台的更新。
 
 **支持：**
 
--   美国和加拿大的用户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](http://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。与安全更新有关的电话支持服务是免费的。
--   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。与安全更新有关的支持服务不收取任何费用。有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持 Web 站点](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   美国和加拿大的用户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](https://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。与安全更新有关的电话支持服务是免费的。
+-   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。与安全更新有关的支持服务不收取任何费用。有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持 Web 站点](https://go.microsoft.com/fwlink/?linkid=21155)。
 
 **安全性资源：**
 
--   [Microsoft TechNet 安全性](http://www.microsoft.com/china/technet/security/default.asp)Web 站点提供了有关 Microsoft 产品安全性的详细信息。
--   [Microsoft 软件更新服务](http://go.microsoft.com/fwlink/?linkid=21133)
--   [Microsoft 基准安全分析器](http://www.microsoft.com/china/technet/security/tools/mbsahome.mspx) (MBSA)
--   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)
--   Windows Update 目录：有关 Windows Update 目录的详细信息，请参见 Microsoft 知识库文章 [323166](http://support.microsoft.com/default.aspx?scid=kb;zh-cn;323166)。
--   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+-   [Microsoft TechNet 安全性](https://www.microsoft.com/china/technet/security/default.asp)Web 站点提供了有关 Microsoft 产品安全性的详细信息。
+-   [Microsoft 软件更新服务](https://go.microsoft.com/fwlink/?linkid=21133)
+-   [Microsoft 基准安全分析器](https://www.microsoft.com/china/technet/security/tools/mbsahome.mspx) (MBSA)
+-   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)
+-   Windows Update 目录：有关 Windows Update 目录的详细信息，请参见 Microsoft 知识库文章 [323166](https://support.microsoft.com/default.aspx?scid=kb;zh-cn;323166)。
+-   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
 
 **软件更新服务：**
 
 通过使用 Microsoft 软件更新服务 (SUS)，管理员可以在基于 Windows 2000 和 Windows Server 2003 的服务器以及运行 Windows 2000 Professional 或 Windows XP Professional 的台式机系统上快速而可靠地部署最新的重要更新和安全更新。
 
-有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务 Web 站点](http://go.microsoft.com/fwlink/?linkid=21133)。
+有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务 Web 站点](https://go.microsoft.com/fwlink/?linkid=21133)。
 
 **Systems Management Server：**
 
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。通过使用 SMS，管理员可以确定需要安全更新且基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而只对最终用户造成最低程度的干扰。有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参见 [SMS 2003 安全修补程序管理 Web 站点](http://www.microsoft.com/china/smserver/evaluation/capabilities/patch.asp)。SMS 2.0 用户还可以使用[软件更新服务功能包](http://www.microsoft.com/china/smserver/downloads/20/default.asp)帮助部署安全更新。有关 SMS 的信息，请访问 [SMS Web 站点](http://www.microsoft.com/china/smserver/default.asp)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。通过使用 SMS，管理员可以确定需要安全更新且基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而只对最终用户造成最低程度的干扰。有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参见 [SMS 2003 安全修补程序管理 Web 站点](https://www.microsoft.com/china/smserver/evaluation/capabilities/patch.asp)。SMS 2.0 用户还可以使用[软件更新服务功能包](https://www.microsoft.com/china/smserver/downloads/20/default.asp)帮助部署安全更新。有关 SMS 的信息，请访问 [SMS Web 站点](https://www.microsoft.com/china/smserver/default.asp)。
 
-**注意：**SMS 使用 Microsoft 基准安全分析器和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。这些工具可能检测不到某些软件更新。在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。有关这一过程的详细信息，请参见以下 [Web 站点](http://www.microsoft.com/technet/prodtechnol/sms/sms2003/patchupdate.mspx)。某些安全更新在重新启动系统后可能需要管理权限。管理员可以使用提升权限部署工具（在 [**SMS 2003 管理功能包**](http://www.microsoft.com/china/smserver/downloads/2003/adminpack.asp)和 [**SMS 2.0 管理功能包**](http://www.microsoft.com/smserver/downloads/20/featurepacks/adminpack/)中提供）来安装这些更新。
+**注意：**SMS 使用 Microsoft 基准安全分析器和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。这些工具可能检测不到某些软件更新。在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。有关这一过程的详细信息，请参见以下 [Web 站点](https://www.microsoft.com/technet/prodtechnol/sms/sms2003/patchupdate.mspx)。某些安全更新在重新启动系统后可能需要管理权限。管理员可以使用提升权限部署工具（在 [**SMS 2003 管理功能包**](https://www.microsoft.com/china/smserver/downloads/2003/adminpack.asp)和 [**SMS 2.0 管理功能包**](https://www.microsoft.com/smserver/downloads/20/featurepacks/adminpack/)中提供）来安装这些更新。
 
 **免责声明：**
 

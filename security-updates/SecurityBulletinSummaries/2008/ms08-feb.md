@@ -17,11 +17,11 @@ Microsoft 安全公告摘要 (2008 年 2 月)
 
 本公告摘要列出了 2008 年 2 月发布的安全公告。
 
-对于 2008 年 2 月发布的安全公告，本公告摘要替代 2008 年 2 月 7 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](http://technet.microsoft.com/security/bulletin/advance)。
+对于 2008 年 2 月发布的安全公告，本公告摘要替代 2008 年 2 月 7 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](https://technet.microsoft.com/security/bulletin/advance)。
 
-有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 将在 2008 年 1 月 9 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 2 月份安全公告网络广播](http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032357215&eventcategory=4&culture=en-us&countrycode=us)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](http://technet.microsoft.com/security/bulletin/summary)。
+Microsoft 将在 2008 年 1 月 9 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 2 月份安全公告网络广播](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032357215&eventcategory=4&culture=en-us&countrycode=us)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](https://technet.microsoft.com/security/bulletin/summary)。
 
 Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每月安全更新同日发布的任何高优先级非安全更新进行优先排序。 请参阅**其他信息**部分。
 
@@ -36,54 +36,54 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 
 | 公告标识符       | Microsoft 安全公告 MS08-007                                                                                                                                                                        |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**WebDAV Mini-Redirector 中的漏洞可能允许远程执行代码 (946026)**](http://technet.microsoft.com/security/bulletin/ms08-007)                                                                        |
+| **公告标题**     | [**WebDAV Mini-Redirector 中的漏洞可能允许远程执行代码 (946026)**](https://technet.microsoft.com/security/bulletin/ms08-007)                                                                        |
 | **摘要**         | 此关键安全更新解决了 WebDAV Mini-Redirector 中一个秘密报告的漏洞。 成功利用此漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                               |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                               |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                       |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新将需要重新启动。                                                                                                 |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                   |
 
 | 公告标识符       | Microsoft 安全公告 MS08-008                                                                                                                                                                                                                        |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**OLE 自动化中的漏洞可能允许远程执行代码 (947890)**](http://technet.microsoft.com/security/bulletin/ms08-008)                                                                                                                                     |
+| **公告标题**     | [**OLE 自动化中的漏洞可能允许远程执行代码 (947890)**](https://technet.microsoft.com/security/bulletin/ms08-008)                                                                                                                                     |
 | **摘要**         | 此严重安全更新可消除一个秘密报告的漏洞。 如果用户查看了特制网页，此漏洞可能允许远程执行代码。 攻击者可能通过对对象链接与嵌入 (OLE) 自动化进行攻击来利用该漏洞。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                               |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                               |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                                                                       |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新将需要重新启动。                                                                                                                                                 |
 | **受影响的软件** | **Windows、Office、Visual Basic。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                             |
 
 | 公告标识符       | Microsoft 安全公告 MS08-009                                                                                                                                                                                                                                                                                                             |
 |------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Word 中的漏洞可能允许远程执行代码 (947077)**](http://technet.microsoft.com/security/bulletin/ms08-009)                                                                                                                                                                                                                     |
+| **公告标题**     | [**Microsoft Word 中的漏洞可能允许远程执行代码 (947077)**](https://technet.microsoft.com/security/bulletin/ms08-009)                                                                                                                                                                                                                     |
 | **摘要**         | 此关键安全更新解决了 Microsoft Word 中一个秘密报告的漏洞，如果用户打开特制 Word 文件，则该漏洞可能允许远程执行代码。 成功利用此漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                    |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                    |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                                                                                                                                                            |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新不需要重新启动。                                                                                                                                                                                                                                      |
 | **受影响的软件** | **Office。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                                                                                                                                         |
 
 | 公告标识符       | Microsoft 安全公告 MS08-010                                                                                                                                                                                                     |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Internet Explorer 的累积性安全更新 (944533)**](http://technet.microsoft.com/security/bulletin/ms08-010)                                                                                                                      |
+| **公告标题**     | [**Internet Explorer 的累积性安全更新 (944533)**](https://technet.microsoft.com/security/bulletin/ms08-010)                                                                                                                      |
 | **摘要**         | 此关键安全更新可消除三个秘密报告的漏洞以及一个公开报告的漏洞。 最严重的漏洞可能在用户使用 Internet Explorer 查看特制网页时允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                            |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                            |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                                                    |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新将需要重新启动。                                                                                                                              |
 | **受影响的软件** | **Windows、Internet Explorer。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                             |
 
 | 公告标识符       | Microsoft 安全公告 MS08-012                                                                                                                                                                                                                                                                                                                                  |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Office Publisher 中的漏洞可能允许远程执行代码 (947085)**](http://technet.microsoft.com/security/bulletin/ms08-012)                                                                                                                                                                                                                              |
+| **公告标题**     | [**Microsoft Office Publisher 中的漏洞可能允许远程执行代码 (947085)**](https://technet.microsoft.com/security/bulletin/ms08-012)                                                                                                                                                                                                                              |
 | **摘要**         | 此严重安全更新解决了 Microsoft Office Publisher 中两个秘密报告的漏洞，如果用户打开特制的 Publisher 文件，则该漏洞可能允许远程执行代码。 成功利用这些漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                         |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                         |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                                                                                                                                                                                 |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新不需要重新启动。                                                                                                                                                                                                                                                           |
 | **受影响的软件** | **Office。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                                                                                                                                                              |
 
 | 公告标识符       | Microsoft 安全公告 MS08-013                                                                                                                                                                                                                                                                                                                                                            |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Office 中的漏洞可能允许远程执行代码 (947108)**](http://technet.microsoft.com/security/bulletin/ms08-013)                                                                                                                                                                                                                                                                  |
+| **公告标题**     | [**Microsoft Office 中的漏洞可能允许远程执行代码 (947108)**](https://technet.microsoft.com/security/bulletin/ms08-013)                                                                                                                                                                                                                                                                  |
 | **摘要**         | 此关键安全更新解决了 Microsoft Office 中一个秘密报告的漏洞。 如果用户打开特制的 Microsoft Office 文件，而文档中插入了格式错误的对象，则该漏洞可能允许远程执行代码。 成功利用此漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                                                   |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                                                   |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                                                                                                                                                                                                           |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新不需要重新启动。                                                                                                                                                                                                                                                                                     |
 | **受影响的软件** | **Office。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                                                                                                                                                                                        |
@@ -93,45 +93,45 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 
 | 公告标识符       | Microsoft 安全公告 MS08-003                                                                                                                                                                                                                                                                                                                                                                                                    |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Active Directory 中的漏洞可能允许拒绝服务 (946538)**](http://technet.microsoft.com/security/bulletin/ms08-003)                                                                                                                                                                                                                                                                                                              |
+| **公告标题**     | [**Active Directory 中的漏洞可能允许拒绝服务 (946538)**](https://technet.microsoft.com/security/bulletin/ms08-003)                                                                                                                                                                                                                                                                                                              |
 | **摘要**         | 此严重安全更新解决了 Microsoft Windows 2000 Server 和 Windows Server 2003 上的 Active Directory 的实施以及安装在 Windows XP Professional 和 Windows Server 2003 上的 Active Directory 应用程序模式 (ADAM) 的实施中一个秘密报告的漏洞。该漏洞可能允许拒绝服务情形。 在 Windows Server 2003 和 Windows XP Professional 上，攻击者必须拥有有效的登录凭据才能利用此漏洞。 利用此漏洞的攻击者可能会导致系统停止响应或自动重新启动。 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                                                                                           |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                                                                                           |
 | **漏洞的影响**   | 拒绝服务                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新将需要重新启动。                                                                                                                                                                                                                                                                                                                             |
 | **受影响的软件** | **Windows、Active Directory、ADAM。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                                                                                                                                                                                                       |
 
 | 公告标识符       | Microsoft 安全公告 MS08-004                                                                                                                       |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Windows TCP/IP 中的漏洞可能允许拒绝服务 (946456)**](http://technet.microsoft.com/security/bulletin/ms08-004)                                   |
+| **公告标题**     | [**Windows TCP/IP 中的漏洞可能允许拒绝服务 (946456)**](https://technet.microsoft.com/security/bulletin/ms08-004)                                   |
 | **摘要**         | 此重要更新解决了传输控制协议/Internet 协议 (TCP/IP) 处理中一个秘密报告的漏洞。 成功利用此漏洞的攻击者可能导致受影响的系统停止响应和自动重新启动。 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                              |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                              |
 | **漏洞的影响**   | 拒绝服务                                                                                                                                          |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新将需要重新启动。                                                |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                  |
 
 | 公告标识符       | Microsoft 安全公告 MS08-005                                                                                                                                                                                                                                                      |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Internet Information Services 中的漏洞可能允许特权提升 (942831)**](http://technet.microsoft.com/security/bulletin/ms08-005)                                                                                                                                                   |
+| **公告标题**     | [**Internet Information Services 中的漏洞可能允许特权提升 (942831)**](https://technet.microsoft.com/security/bulletin/ms08-005)                                                                                                                                                   |
 | **摘要**         | 此重要更新解决 Internet Information Services (IIS) 中的一个秘密报告的漏洞。 成功利用此漏洞的本地攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                             |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                             |
 | **漏洞的影响**   | 特权提升                                                                                                                                                                                                                                                                         |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新将需要重新启动。                                                                                                                                                                               |
 | **受影响的软件** | **Windows、IIS。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                                                                            |
 
 | 公告标识符       | Microsoft 安全公告 MS08-006                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Internet Information Services 中的漏洞可能允许远程执行代码 (942830)**](http://technet.microsoft.com/security/bulletin/ms08-006)                                                                                                                                                                                                                                                                                                                                      |
+| **公告标题**     | [**Internet Information Services 中的漏洞可能允许远程执行代码 (942830)**](https://technet.microsoft.com/security/bulletin/ms08-006)                                                                                                                                                                                                                                                                                                                                      |
 | **摘要**         | 此重要更新解决 Internet Information Services (IIS) 中的一个秘密报告的漏洞。 IIS 处理 ASP 网页输入的方式中存在一个远程执行代码漏洞。 成功利用此漏洞的攻击者然后能够使用与工作进程标识 (WPI) 同样的权限在 IIS 服务器上执行任何操作。 默认情况下，WPI 使用网络服务帐户权限进行配置。 如果带有 ASP 页的 IIS 服务器的应用程序池使用 WPI 进行配置，而 WPI 使用具有管理权限的帐户，这些 IIS 服务器与应用程序池使用默认 WPI 设置进行配置的 IIS 服务器相比，受到的影响更为严重。 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新不需要重新启动。                                                                                                                                                                                                                                                                                                                                                                      |
 | **受影响的软件** | **Windows、IIS。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                                                                                                                                                                                                                                                                   |
 
 | 公告标识符       | Microsoft 安全公告 MS08-011                                                                                                                                                                                                                                                                                                                              |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Works 文件转换器中的漏洞可能允许远程执行代码 (947081)**](http://technet.microsoft.com/security/bulletin/ms08-011)                                                                                                                                                                                                                           |
+| **公告标题**     | [**Microsoft Works 文件转换器中的漏洞可能允许远程执行代码 (947081)**](https://technet.microsoft.com/security/bulletin/ms08-011)                                                                                                                                                                                                                           |
 | **摘要**         | 此重要安全更新解决了 Microsoft Works 文件转换器中三个秘密报告的漏洞。 如果用户使用受影响的 Microsoft Office、Microsoft Works 或 Microsoft Works Suite 版本打开特制的 Works (.wps) 文件，则这些漏洞可能允许远程执行代码。 成功利用此漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                     |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                                                                                                                                                                                                                                     |
 | **漏洞的影响**   | 远程执行代码                                                                                                                                                                                                                                                                                                                                             |
 | **检测**         | Microsoft Baseline Security Analyzer 可以检测您的计算机系统是否需要此更新。 此更新不需要重新启动。                                                                                                                                                                                                                                                       |
 | **受影响的软件** | **Office、Works、Works Suite。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                                                                                                                                                                                                                      |
@@ -178,22 +178,22 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-003**](http://technet.microsoft.com/security/bulletin/ms08-003)
+[**MS08-003**](https://technet.microsoft.com/security/bulletin/ms08-003)
 </td>
 <td style="border:1px solid black;">
-[**MS08-004**](http://technet.microsoft.com/security/bulletin/ms08-004)
+[**MS08-004**](https://technet.microsoft.com/security/bulletin/ms08-004)
 </td>
 <td style="border:1px solid black;">
-[**MS08-005**](http://technet.microsoft.com/security/bulletin/ms08-005)
+[**MS08-005**](https://technet.microsoft.com/security/bulletin/ms08-005)
 </td>
 <td style="border:1px solid black;">
-[**MS08-006**](http://technet.microsoft.com/security/bulletin/ms08-006)
+[**MS08-006**](https://technet.microsoft.com/security/bulletin/ms08-006)
 </td>
 <td style="border:1px solid black;">
-[**MS08-007**](http://technet.microsoft.com/security/bulletin/ms08-007)
+[**MS08-007**](https://technet.microsoft.com/security/bulletin/ms08-007)
 </td>
 <td style="border:1px solid black;">
-[**MS08-008**](http://technet.microsoft.com/security/bulletin/ms08-008)
+[**MS08-008**](https://technet.microsoft.com/security/bulletin/ms08-008)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -201,22 +201,22 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 **最高严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -808,19 +808,19 @@ Microsoft Visual Basic 6.0 Service Pack 6
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-009**](http://technet.microsoft.com/security/bulletin/ms08-009)
+[**MS08-009**](https://technet.microsoft.com/security/bulletin/ms08-009)
 </td>
 <td style="border:1px solid black;">
-[**MS08-010**](http://technet.microsoft.com/security/bulletin/ms08-010)
+[**MS08-010**](https://technet.microsoft.com/security/bulletin/ms08-010)
 </td>
 <td style="border:1px solid black;">
-[**MS08-011**](http://technet.microsoft.com/security/bulletin/ms08-011)
+[**MS08-011**](https://technet.microsoft.com/security/bulletin/ms08-011)
 </td>
 <td style="border:1px solid black;">
-[**MS08-012**](http://technet.microsoft.com/security/bulletin/ms08-012)
+[**MS08-012**](https://technet.microsoft.com/security/bulletin/ms08-012)
 </td>
 <td style="border:1px solid black;">
-[**MS08-013**](http://technet.microsoft.com/security/bulletin/ms08-013)
+[**MS08-013**](https://technet.microsoft.com/security/bulletin/ms08-013)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -828,19 +828,19 @@ Microsoft Visual Basic 6.0 Service Pack 6
 **最高严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1466,33 +1466,33 @@ Microsoft Works Suite 2005 上的 Microsoft Works 6 文件转换器
 
 **安全中心**
 
-管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](http://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](http://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](http://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
+管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](https://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](https://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](https://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
 
-安全更新可从 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)、[Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)和 [Office Update](http://go.microsoft.com/fwlink/?linkid=21135) 获得。 [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+安全更新可从 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)、[Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)和 [Office Update](https://go.microsoft.com/fwlink/?linkid=21135) 获得。 [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
 
-最后，可以从 [Microsoft Update 目录](http://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](http://go.microsoft.com/fwlink/?linkid=97900)。
+最后，可以从 [Microsoft Update 目录](https://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](https://go.microsoft.com/fwlink/?linkid=97900)。
 
 **检测和部署指南**
 
-Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS) 和扩展安全更新清单工具 (ESUIT)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](http://support.microsoft.com/kb/910723)。
+Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS) 和扩展安全更新清单工具 (ESUIT)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](https://support.microsoft.com/kb/910723)。
 
 **Microsoft Baseline Security Analyzer**
 
-管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134)。
+管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134)。
 
 **Windows Server Update Services**
 
 通过使用 Windows Server Update Services (WSUS)，管理员可以快速而可靠地将 Windows 2000 操作系统和更高版本、Office XP 和更高版本、Exchange Server 2003 以及 SQL Server 2000 的最新关键更新和安全更新部署到 Windows 2000 和更高版本的操作系统。
 
-System Center Configuration Manager (SCCM) 2007 使用 WSUS 3.0 来检测更新。 有关 SCCM 2007 软件更新管理的详细信息，请访问 [System Center Configuration Manager 2007](http://technet.microsoft.com/en-us/library/bb735860.aspx)。
+System Center Configuration Manager (SCCM) 2007 使用 WSUS 3.0 来检测更新。 有关 SCCM 2007 软件更新管理的详细信息，请访问 [System Center Configuration Manager 2007](https://technet.microsoft.com/en-us/library/bb735860.aspx)。
 
-有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=50120)。
+有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](https://go.microsoft.com/fwlink/?linkid=50120)。
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；另请参阅 [System Center Configuration Manager 2007](http://technet.microsoft.com/en-us/library/bb735860.aspx)。有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用 [Software Updates Service 功能包](http://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；另请参阅 [System Center Configuration Manager 2007](https://technet.microsoft.com/en-us/library/bb735860.aspx)。有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用 [Software Updates Service 功能包](https://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server](https://go.microsoft.com/fwlink/?linkid=21158)。
 
-**注意** SMS 使用 Microsoft Baseline Security Analyzer 和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](http://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](http://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
+**注意** SMS 使用 Microsoft Baseline Security Analyzer 和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](https://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](https://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
 
 ### 其他信息
 
@@ -1513,46 +1513,46 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 **更新管理策略**
 
-[更新管理安全指导](http://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
+[更新管理安全指导](https://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
 **获取其他安全更新**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
--   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](http://support.microsoft.com/kb/913086)。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+-   [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
+-   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/kb/913086)。
 
 **IT 专业人员安全区域社区**
 
-了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
 #### 鸣谢
 
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
 
--   [SkyRecon](http://www.skyrecon.com/) 的 Thomas Garnier 报告了 MS08-003 中描述的问题
--   [Whitestein Technologies](http://www.whitestein.com/) 的 Tomas Potok、Martin Dominik、Martin Luptak 和 Eva Juhasova 报告了 MS08-004 中描述的问题
--   [COSEINC Vulnerability Research Lab](http://www.coseinc.com/) 的 Steven 报告了 MS08-007 中描述的问题
--   [IBM ISS X-Force](http://www.iss.net/) 的 Ryan Smith 和 Alex Wheeler 报告了 MS08-008 中描述的问题
--   [Reversemode.com](http://reversemode.com/) 的 Rubén Santamarta 报告了 MS08-009 中描述的问题
--   [Security Objectives](http://www.security-objectives.com/) 的 Shane Macaulay 和 Riley Hassell 报告了 MS08-010 中描述的问题
--   一名匿名研究员与 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 一起报告了 MS08-010 中描述的问题
--   hyy 和 [VeriSign iDefense VCP](http://idefense.com/) 与 Microsoft 一起努力处理了 MS08-010 中描述的问题
--   [ADLABS](http://www.venustech.com.cn/) 的 Venustech 报告了 MS08-010 中描述的问题
--   [VeriSign iDefense VCP](http://labs.idefense.com/) 报告了 MS08-011 中描述的问题
--   Damian Put 与 [VeriSign iDefense VCP](http://labs.idefense.com/) 一起报告了 MS08-011 中描述的问题
--   [IBM Internet Security Systems X-Force](http://xforce.iss.net/) 报告了 MS08-011 中描述的问题
+-   [SkyRecon](https://www.skyrecon.com/) 的 Thomas Garnier 报告了 MS08-003 中描述的问题
+-   [Whitestein Technologies](https://www.whitestein.com/) 的 Tomas Potok、Martin Dominik、Martin Luptak 和 Eva Juhasova 报告了 MS08-004 中描述的问题
+-   [COSEINC Vulnerability Research Lab](https://www.coseinc.com/) 的 Steven 报告了 MS08-007 中描述的问题
+-   [IBM ISS X-Force](https://www.iss.net/) 的 Ryan Smith 和 Alex Wheeler 报告了 MS08-008 中描述的问题
+-   [Reversemode.com](https://reversemode.com/) 的 Rubén Santamarta 报告了 MS08-009 中描述的问题
+-   [Security Objectives](https://www.security-objectives.com/) 的 Shane Macaulay 和 Riley Hassell 报告了 MS08-010 中描述的问题
+-   一名匿名研究员与 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 一起报告了 MS08-010 中描述的问题
+-   hyy 和 [VeriSign iDefense VCP](https://idefense.com/) 与 Microsoft 一起努力处理了 MS08-010 中描述的问题
+-   [ADLABS](https://www.venustech.com.cn/) 的 Venustech 报告了 MS08-010 中描述的问题
+-   [VeriSign iDefense VCP](https://labs.idefense.com/) 报告了 MS08-011 中描述的问题
+-   Damian Put 与 [VeriSign iDefense VCP](https://labs.idefense.com/) 一起报告了 MS08-011 中描述的问题
+-   [IBM Internet Security Systems X-Force](https://xforce.iss.net/) 报告了 MS08-011 中描述的问题
 -   Piotr Bania 报告了 MS08-012 中描述的问题
--   [Fortinet Security Research](http://www.fortinet.com/) 的 Bing Liu 报告了 MS08-012 中描述的问题
--   [Fortinet Security Research](http://www.fortinet.com/) 的 Bing Liu 报告了 MS08-012 中描述的问题
--   [NGSSoftware](http://www.ngssoftware.com/) 的 Shaun Colley 报告了 MS08-013 中描述的问题
+-   [Fortinet Security Research](https://www.fortinet.com/) 的 Bing Liu 报告了 MS08-012 中描述的问题
+-   [Fortinet Security Research](https://www.fortinet.com/) 的 Bing Liu 报告了 MS08-012 中描述的问题
+-   [NGSSoftware](https://www.ngssoftware.com/) 的 Shaun Colley 报告了 MS08-013 中描述的问题
 
 #### 支持
 
--   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](http://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。
--   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](https://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。
+-   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](https://go.microsoft.com/fwlink/?linkid=21155)。
 
 #### 免责声明
 

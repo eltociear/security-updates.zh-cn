@@ -17,13 +17,13 @@ Microsoft 安全公告摘要 (2008 年 12 月)
 
 本公告摘要列出了 2008 年 12 月发布的安全公告。
 
-对于 2008 年 12 月发布的安全公告，本公告摘要替代 2008 年 12 月 4 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](http://technet.microsoft.com/security/bulletin/advance)。
+对于 2008 年 12 月发布的安全公告，本公告摘要替代 2008 年 12 月 4 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](https://technet.microsoft.com/security/bulletin/advance)。
 
-有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 将在 2008 年 12 月 10 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 12 月份安全公告网络广播](http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032374647)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](http://technet.microsoft.com/security/bulletin/summary)。
+Microsoft 将在 2008 年 12 月 10 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 12 月份安全公告网络广播](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032374647)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](https://technet.microsoft.com/security/bulletin/summary)。
 
-对于添加到此公告摘要 (MS08-078) 的版本 3.0 的额外安全公告，Microsoft 将主持两次网络广播，以解决客户关于这些公告的疑问： 太平洋时间 2008 年 12 月 17 日下午 1:00（美国和加拿大）和太平洋时间 2008 年 12 月 18 日上午 11:00。 立即注册收听 [12 月 17 日的网络广播](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032399448&culture=en-us)和 [12 月 18 日的网络广播](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032399449&culture=en-us)。 然后，这些网络广播以点播方式提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](http://technet.microsoft.com/security/bulletin/summary)。
+对于添加到此公告摘要 (MS08-078) 的版本 3.0 的额外安全公告，Microsoft 将主持两次网络广播，以解决客户关于这些公告的疑问： 太平洋时间 2008 年 12 月 17 日下午 1:00（美国和加拿大）和太平洋时间 2008 年 12 月 18 日上午 11:00。 立即注册收听 [12 月 17 日的网络广播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032399448&culture=en-us)和 [12 月 18 日的网络广播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032399449&culture=en-us)。 然后，这些网络广播以点播方式提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](https://technet.microsoft.com/security/bulletin/summary)。
 
 Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每月安全更新同日发布的任何高优先级非安全更新进行优先排序。 请参阅**其他信息**部分。
 
@@ -49,91 +49,91 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-071">MS08-071</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-071">MS08-071</a></td>
 <td style="border:1px solid black;"><strong>GDI 中的漏洞可能允许远程执行代码 (956802)</strong><br />
 <br />
 此安全更新可解决 GDI 中两个秘密报告的漏洞。 如果用户打开特制的 WMF 图像文件，利用其中任何一个漏洞可能允许远程执行代码。 成功利用这些漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-075">MS08-075</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-075">MS08-075</a></td>
 <td style="border:1px solid black;"><strong>Windows Search 中的漏洞可能允许远程执行代码 (959349)</strong><br />
 <br />
 此安全更新可解决 Windows Search 中两个秘密报告的漏洞。 如果用户在 Windows Explorer 打开和保存特制的保存搜索文件，或者用户单击特制的搜索 URL，这些漏洞可能允许远程执行代码。 成功利用这些漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 的累积性安全更新 (958215)</strong><br />
 <br />
 此安全更新可消除四个秘密报告的漏洞。 如果用户使用 Internet Explorer 查看特制网页，则所有漏洞可能允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows、Internet Explorer</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-078">MS08-078</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-078">MS08-078</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 的安全更新 (960714)</strong><br />
 <br />
 此安全更新解决了一个公开披露的漏洞。 如果用户使用 Internet Explorer 查看特制网页，则该漏洞可能允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows、Internet Explorer</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
 <td style="border:1px solid black;"><strong>Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)</strong><br />
 <br />
 此安全更新解决了 Microsoft Visual Basic 6.0 运行时扩展文件的 ActiveX 控件中的五个秘密报告的漏洞和一个公开披露的漏洞。 如果用户浏览了包含特制内容的网站，这些漏洞可能允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft 开发工具和软件、Microsoft Office</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</strong><br />
 <br />
 此安全更新解决了 Microsoft Office Word 和 Microsoft Office Outlook 中八个秘密报告的漏洞，如果用户打开特制的 Word 或 RTF 文件，这些漏洞可能允许远程执行代码。 成功利用这些漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office Excel 中的漏洞可能允许远程执行代码 (959070)</strong><br />
 <br />
 此安全更新解决了 Microsoft Office Excel 中三个秘密报告的漏洞，如果用户打开特制的 Excel 文件，这些漏洞可能允许远程执行代码。 成功利用这些漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-077">MS08-077</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-077">MS08-077</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office SharePoint Server 中的漏洞可能导致特权提升 (957175)</strong><br />
 <br />
 此安全更新可解决一个秘密报告的漏洞。 如果攻击者通过浏览 SharePoint 站点上的管理 URL 而绕过身份验证，此漏洞可能允许特权提升。 导致特权提升的成功攻击可能会引起拒绝服务或信息泄露的后果。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 特权提升</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Office、Microsoft 服务器软件</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-076">MS08-076</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-076">MS08-076</a></td>
 <td style="border:1px solid black;"><strong>Windows Media 组件中的漏洞可能允许远程执行代码 (959807)</strong><br />
 <br />
 此安全更新可解决下列 Windows Media 组件中两个秘密报告的漏洞： Windows Media Player、Windows Media Format Runtime 和 Windows Media Services。 此最严重的漏洞可能允许远程执行代码。 如果用户使用管理用户权限登录，成功利用此漏洞的攻击者便可完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -147,7 +147,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
   
 **我如何使用该表呢？**
   
-使用该表了解安全公告发布 30 天内为您可能需要安装的每个安全更新发布有效漏洞检测代码的可能性。 您应该根据您的特定配置，检查下面的每个评估，从而确定部署的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
+使用该表了解安全公告发布 30 天内为您可能需要安装的每个安全更新发布有效漏洞检测代码的可能性。 您应该根据您的特定配置，检查下面的每个评估，从而确定部署的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](https://technet.microsoft.com/en-us/security/cc998259.aspx)。
 
 <p> </p>
 <table style="border:1px solid black;">  
@@ -162,206 +162,206 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 </thead>  
 <tbody>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
 <td style="border:1px solid black;">Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3704">CVE-2008-3704</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3704">CVE-2008-3704</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">一致漏洞检测代码公开提供</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
 <td style="border:1px solid black;">Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4252">CVE-2008-4252</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4252">CVE-2008-4252</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
 <td style="border:1px solid black;">Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4256">CVE-2008-4256</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4256">CVE-2008-4256</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
 <td style="border:1px solid black;">Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4253">CVE-2008-4253</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4253">CVE-2008-4253</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
 <td style="border:1px solid black;">Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4254">CVE-2008-4254</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4254">CVE-2008-4254</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-070">MS08-070</a></td>
 <td style="border:1px solid black;">Visual Basic 6.0 运行时扩展文件（ActiveX 控件）中的漏洞可能允许远程执行代码 (932349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4255">CVE-2008-4255</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4255">CVE-2008-4255</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">Windows 2000 系统受到的威胁最大。 Windows XP SP2、Windows Server 2003 SP1 以及更高版本的操作系统由于更强堆保护而不太可能受功能漏洞检测代码的影响。</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-071">MS08-071</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-071">MS08-071</a></td>
 <td style="border:1px solid black;">GDI 中的漏洞可能允许远程执行代码 (956802)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3465">CVE-2008-3465</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3465">CVE-2008-3465</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-071">MS08-071</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-071">MS08-071</a></td>
 <td style="border:1px solid black;">GDI 中的漏洞可能允许远程执行代码 (956802)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-2249">CVE-2008-2249</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> - 不太可能被利用的功能漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-2249">CVE-2008-2249</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> - 不太可能被利用的功能漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4024">CVE-2008-4024</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4024">CVE-2008-4024</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4025">CVE-2008-4025</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4025">CVE-2008-4025</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4026">CVE-2008-4026</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4026">CVE-2008-4026</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4027">CVE-2008-4027</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4027">CVE-2008-4027</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4028">CVE-2008-4028</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4028">CVE-2008-4028</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4030">CVE-2008-4030</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4030">CVE-2008-4030</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4837">CVE-2008-4837</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4837">CVE-2008-4837</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-072">MS08-072</a></td>
 <td style="border:1px solid black;">Microsoft Office Word 中的漏洞可能允许远程执行代码 (957173)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4031">CVE-2008-4031</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> - 不太可能被利用的功能漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4031">CVE-2008-4031</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>3</strong></a> - 不太可能被利用的功能漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
 <td style="border:1px solid black;">Internet Explorer 的累积性安全更新 (958215)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4258">CVE-2008-4258</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4258">CVE-2008-4258</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
 <td style="border:1px solid black;">Internet Explorer 的累积性安全更新 (958215)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4259">CVE-2008-4259</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4259">CVE-2008-4259</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
 <td style="border:1px solid black;">Internet Explorer 的累积性安全更新 (958215)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4261">CVE-2008-4261</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4261">CVE-2008-4261</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-073">MS08-073</a></td>
 <td style="border:1px solid black;">Internet Explorer 的累积性安全更新 (958215)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4260">CVE-2008-4260</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4260">CVE-2008-4260</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
 <td style="border:1px solid black;">Microsoft Office Excel 中的漏洞可能允许远程执行代码 (959070)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4265">CVE-2008-4265</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4265">CVE-2008-4265</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
 <td style="border:1px solid black;">Microsoft Office Excel 中的漏洞可能允许远程执行代码 (959070)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4266">CVE-2008-4266</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4266">CVE-2008-4266</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-074">MS08-074</a></td>
 <td style="border:1px solid black;">Microsoft Office Excel 中的漏洞可能允许远程执行代码 (959070)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4264">CVE-2008-4264</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4264">CVE-2008-4264</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-075">MS08-075</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-075">MS08-075</a></td>
 <td style="border:1px solid black;">Windows Search 中的漏洞可能允许远程执行代码 (959349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4269">CVE-2008-4269</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4269">CVE-2008-4269</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-075">MS08-075</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-075">MS08-075</a></td>
 <td style="border:1px solid black;">Windows Search 中的漏洞可能允许远程执行代码 (959349)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4268">CVE-2008-4268</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4268">CVE-2008-4268</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>2</strong></a> - 可能的不一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-076">MS08-076</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-076">MS08-076</a></td>
 <td style="border:1px solid black;">Windows Media 组件中的漏洞可能允许远程执行代码 (959807)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3009">CVE-2008-3009</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3009">CVE-2008-3009</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">可以创建此问题的一致漏洞检测代码。 但是，攻击情形的有限性意味着实际攻击不太可能。</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-076">MS08-076</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-076">MS08-076</a></td>
 <td style="border:1px solid black;">Windows Media 组件中的漏洞可能允许远程执行代码 (959807)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3010">CVE-2008-3010</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-3010">CVE-2008-3010</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">可以创建此问题的一致漏洞检测代码。 但是，攻击情形的有限性意味着实际攻击不太可能。</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-077">MS08-077</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-077">MS08-077</a></td>
 <td style="border:1px solid black;">Microsoft Office SharePoint Server 中的漏洞可能导致特权提升 (957175)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4032">CVE-2008-4032</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4032">CVE-2008-4032</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">可以创建此问题的一致漏洞检测代码。 但是，利用此漏洞的攻击只可能导致信息泄露，而不会导致远程执行代码。</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms08-078">MS08-078</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms08-078">MS08-078</a></td>
 <td style="border:1px solid black;">Internet Explorer 安全更新 (960714)</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4844">CVE-2008-4844</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码<br />
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2008-4844">CVE-2008-4844</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx"><strong>1</strong></a> - 可能的一致漏洞检测代码<br />
 （发布公告时公开）</td>
 <td style="border:1px solid black;">在主动攻击实例中，发现了一致漏洞检测代码。 但是，对于 Windows Vista 和 Windows Server 2008 的默认安装，Internet Explorer 在保护模式下运行，从而使漏洞利用难以进行。</td>
 </tr>  
@@ -406,19 +406,19 @@ Microsoft Windows 2000
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-071**](http://technet.microsoft.com/security/bulletin/ms08-071)
+[**MS08-071**](https://technet.microsoft.com/security/bulletin/ms08-071)
 </td>
 <td style="border:1px solid black;">
-[**MS08-075**](http://technet.microsoft.com/security/bulletin/ms08-075)
+[**MS08-075**](https://technet.microsoft.com/security/bulletin/ms08-075)
 </td>
 <td style="border:1px solid black;">
-[**MS08-073**](http://technet.microsoft.com/security/bulletin/ms08-073)
+[**MS08-073**](https://technet.microsoft.com/security/bulletin/ms08-073)
 </td>
 <td style="border:1px solid black;">
-[**MS08-078**](http://technet.microsoft.com/security/bulletin/ms08-078)
+[**MS08-078**](https://technet.microsoft.com/security/bulletin/ms08-078)
 </td>
 <td style="border:1px solid black;">
-[**MS08-076**](http://technet.microsoft.com/security/bulletin/ms08-076)
+[**MS08-076**](https://technet.microsoft.com/security/bulletin/ms08-076)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -426,19 +426,19 @@ Microsoft Windows 2000
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -486,19 +486,19 @@ Windows XP
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-071**](http://technet.microsoft.com/security/bulletin/ms08-071)
+[**MS08-071**](https://technet.microsoft.com/security/bulletin/ms08-071)
 </td>
 <td style="border:1px solid black;">
-[**MS08-075**](http://technet.microsoft.com/security/bulletin/ms08-075)
+[**MS08-075**](https://technet.microsoft.com/security/bulletin/ms08-075)
 </td>
 <td style="border:1px solid black;">
-[**MS08-073**](http://technet.microsoft.com/security/bulletin/ms08-073)
+[**MS08-073**](https://technet.microsoft.com/security/bulletin/ms08-073)
 </td>
 <td style="border:1px solid black;">
-[**MS08-078**](http://technet.microsoft.com/security/bulletin/ms08-078)
+[**MS08-078**](https://technet.microsoft.com/security/bulletin/ms08-078)
 </td>
 <td style="border:1px solid black;">
-[**MS08-076**](http://technet.microsoft.com/security/bulletin/ms08-076)
+[**MS08-076**](https://technet.microsoft.com/security/bulletin/ms08-076)
 </td>
 </tr>
 <tr>
@@ -506,19 +506,19 @@ Windows XP
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -606,19 +606,19 @@ Windows Server 2003
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-071**](http://technet.microsoft.com/security/bulletin/ms08-071)
+[**MS08-071**](https://technet.microsoft.com/security/bulletin/ms08-071)
 </td>
 <td style="border:1px solid black;">
-[**MS08-075**](http://technet.microsoft.com/security/bulletin/ms08-075)
+[**MS08-075**](https://technet.microsoft.com/security/bulletin/ms08-075)
 </td>
 <td style="border:1px solid black;">
-[**MS08-073**](http://technet.microsoft.com/security/bulletin/ms08-073)
+[**MS08-073**](https://technet.microsoft.com/security/bulletin/ms08-073)
 </td>
 <td style="border:1px solid black;">
-[**MS08-078**](http://technet.microsoft.com/security/bulletin/ms08-078)
+[**MS08-078**](https://technet.microsoft.com/security/bulletin/ms08-078)
 </td>
 <td style="border:1px solid black;">
-[**MS08-076**](http://technet.microsoft.com/security/bulletin/ms08-076)
+[**MS08-076**](https://technet.microsoft.com/security/bulletin/ms08-076)
 </td>
 </tr>
 <tr>
@@ -626,19 +626,19 @@ Windows Server 2003
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -751,19 +751,19 @@ Windows Vista
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-071**](http://technet.microsoft.com/security/bulletin/ms08-071)
+[**MS08-071**](https://technet.microsoft.com/security/bulletin/ms08-071)
 </td>
 <td style="border:1px solid black;">
-[**MS08-075**](http://technet.microsoft.com/security/bulletin/ms08-075)
+[**MS08-075**](https://technet.microsoft.com/security/bulletin/ms08-075)
 </td>
 <td style="border:1px solid black;">
-[**MS08-073**](http://technet.microsoft.com/security/bulletin/ms08-073)
+[**MS08-073**](https://technet.microsoft.com/security/bulletin/ms08-073)
 </td>
 <td style="border:1px solid black;">
-[**MS08-078**](http://technet.microsoft.com/security/bulletin/ms08-078)
+[**MS08-078**](https://technet.microsoft.com/security/bulletin/ms08-078)
 </td>
 <td style="border:1px solid black;">
-[**MS08-076**](http://technet.microsoft.com/security/bulletin/ms08-076)
+[**MS08-076**](https://technet.microsoft.com/security/bulletin/ms08-076)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -771,19 +771,19 @@ Windows Vista
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -856,19 +856,19 @@ Windows Server 2008
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-071**](http://technet.microsoft.com/security/bulletin/ms08-071)
+[**MS08-071**](https://technet.microsoft.com/security/bulletin/ms08-071)
 </td>
 <td style="border:1px solid black;">
-[**MS08-075**](http://technet.microsoft.com/security/bulletin/ms08-075)
+[**MS08-075**](https://technet.microsoft.com/security/bulletin/ms08-075)
 </td>
 <td style="border:1px solid black;">
-[**MS08-073**](http://technet.microsoft.com/security/bulletin/ms08-073)
+[**MS08-073**](https://technet.microsoft.com/security/bulletin/ms08-073)
 </td>
 <td style="border:1px solid black;">
-[**MS08-078**](http://technet.microsoft.com/security/bulletin/ms08-078)
+[**MS08-078**](https://technet.microsoft.com/security/bulletin/ms08-078)
 </td>
 <td style="border:1px solid black;">
-[**MS08-076**](http://technet.microsoft.com/security/bulletin/ms08-076)
+[**MS08-076**](https://technet.microsoft.com/security/bulletin/ms08-076)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -876,19 +876,19 @@ Windows Server 2008
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -991,15 +991,15 @@ Windows Server 2008（用于基于 Itanium 的系统）
 
 MS08-078 中解决的漏洞是在 Windows Internet Explorer 8 Beta 2 发布之后报告的。鼓励运行 Windows Internet Explorer 8 Beta 2 的客户下载并向其系统应用此更新。
 
-安全更新可从 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 和 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 获得。 [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+安全更新可从 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 和 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) 获得。 [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
 
 **Windows Server 2008 的注释**
 
-**\*Windows Server 2008 服务器核心安装受到影响。** 此更新适用于 Windows Server 2008 的受支持版本，严重等级相同，无论安装 Windows Server 2008 时是否使用“服务器核心”安装选项。 有关该安装选项的详细信息，请参阅[服务器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)。 注意，“服务器核心”安装选项不适用于某些 Windows Server 2008 版本；请参阅[比较“服务器核心”安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*Windows Server 2008 服务器核心安装受到影响。** 此更新适用于 Windows Server 2008 的受支持版本，严重等级相同，无论安装 Windows Server 2008 时是否使用“服务器核心”安装选项。 有关该安装选项的详细信息，请参阅[服务器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)。 注意，“服务器核心”安装选项不适用于某些 Windows Server 2008 版本；请参阅[比较“服务器核心”安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
-**\*\*Windows Server 2008 服务器核心安装不受影响。** 如果安装 Windows Server 2008 时使用“服务器核心”安装选项，则此更新所解决的漏洞不会影响 Windows Server 2008 的受支持版本。 有关该安装选项的详细信息，请参阅[服务器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)。 注意，“服务器核心”安装选项不适用于某些 Windows Server 2008 版本；请参阅[比较“服务器核心”安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*\*Windows Server 2008 服务器核心安装不受影响。** 如果安装 Windows Server 2008 时使用“服务器核心”安装选项，则此更新所解决的漏洞不会影响 Windows Server 2008 的受支持版本。 有关该安装选项的详细信息，请参阅[服务器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)。 注意，“服务器核心”安装选项不适用于某些 Windows Server 2008 版本；请参阅[比较“服务器核心”安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
-**\*\*\*Windows Server 2008 服务器核心安装不受影响。** 如果使用服务器核心安装选项安装了 Windows Server 2008，则这些更新解决的漏洞不会影响 Windows Server 2008 的受支持版本，即使系统上可能存在这些漏洞会影响的文件也是如此。 但是，仍将向具有受影响文件的用户提供此更新，因更新文件比您的系统上的当前文件更新（版本号较高）。 有关该安装选项的详细信息，请参阅[服务器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)。 注意，“服务器核心”安装选项不适用于某些 Windows Server 2008 版本；请参阅[比较“服务器核心”安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*\*\*Windows Server 2008 服务器核心安装不受影响。** 如果使用服务器核心安装选项安装了 Windows Server 2008，则这些更新解决的漏洞不会影响 Windows Server 2008 的受支持版本，即使系统上可能存在这些漏洞会影响的文件也是如此。 但是，仍将向具有受影响文件的用户提供此更新，因更新文件比您的系统上的当前文件更新（版本号较高）。 有关该安装选项的详细信息，请参阅[服务器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)。 注意，“服务器核心”安装选项不适用于某些 Windows Server 2008 版本；请参阅[比较“服务器核心”安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
 #### Microsoft Office 套件和软件
 
@@ -1027,16 +1027,16 @@ Microsoft Office 套件、系统和组件
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-070**](http://technet.microsoft.com/security/bulletin/ms08-070)
+[**MS08-070**](https://technet.microsoft.com/security/bulletin/ms08-070)
 </td>
 <td style="border:1px solid black;">
-[**MS08-072**](http://technet.microsoft.com/security/bulletin/ms08-072)
+[**MS08-072**](https://technet.microsoft.com/security/bulletin/ms08-072)
 </td>
 <td style="border:1px solid black;">
-[**MS08-074**](http://technet.microsoft.com/security/bulletin/ms08-074)
+[**MS08-074**](https://technet.microsoft.com/security/bulletin/ms08-074)
 </td>
 <td style="border:1px solid black;">
-[**MS08-077**](http://technet.microsoft.com/security/bulletin/ms08-077)
+[**MS08-077**](https://technet.microsoft.com/security/bulletin/ms08-077)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1044,13 +1044,13 @@ Microsoft Office 套件、系统和组件
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -1221,16 +1221,16 @@ Microsoft Office for Mac
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-070**](http://technet.microsoft.com/security/bulletin/ms08-070)
+[**MS08-070**](https://technet.microsoft.com/security/bulletin/ms08-070)
 </td>
 <td style="border:1px solid black;">
-[**MS08-072**](http://technet.microsoft.com/security/bulletin/ms08-072)
+[**MS08-072**](https://technet.microsoft.com/security/bulletin/ms08-072)
 </td>
 <td style="border:1px solid black;">
-[**MS08-074**](http://technet.microsoft.com/security/bulletin/ms08-074)
+[**MS08-074**](https://technet.microsoft.com/security/bulletin/ms08-074)
 </td>
 <td style="border:1px solid black;">
-[**MS08-077**](http://technet.microsoft.com/security/bulletin/ms08-077)
+[**MS08-077**](https://technet.microsoft.com/security/bulletin/ms08-077)
 </td>
 </tr>
 <tr>
@@ -1241,10 +1241,10 @@ Microsoft Office for Mac
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -1323,16 +1323,16 @@ Open XML File Format Converter for Mac
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-070**](http://technet.microsoft.com/security/bulletin/ms08-070)
+[**MS08-070**](https://technet.microsoft.com/security/bulletin/ms08-070)
 </td>
 <td style="border:1px solid black;">
-[**MS08-072**](http://technet.microsoft.com/security/bulletin/ms08-072)
+[**MS08-072**](https://technet.microsoft.com/security/bulletin/ms08-072)
 </td>
 <td style="border:1px solid black;">
-[**MS08-074**](http://technet.microsoft.com/security/bulletin/ms08-074)
+[**MS08-074**](https://technet.microsoft.com/security/bulletin/ms08-074)
 </td>
 <td style="border:1px solid black;">
-[**MS08-077**](http://technet.microsoft.com/security/bulletin/ms08-077)
+[**MS08-077**](https://technet.microsoft.com/security/bulletin/ms08-077)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1343,13 +1343,13 @@ Open XML File Format Converter for Mac
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1485,7 +1485,7 @@ Microsoft Office SharePoint Server 2007
 \*\*MS08-072 和 MS08-074 中的相应更新是相同的，由于漏洞位于相同的文件中，因此这两个公告的更新是相同的。
 
 **MS08-072 中的 Works 8 注释**  
-\*\*\*为收到此安全更新，运行 Microsoft Works 8.0 的客户必须首先按照 [Microsoft Works Update](http://www.microsoft.com/products/works/international/update_1001.mspx) 中所述更新到 Works 8.5。 这包括使用 Microsoft Works 8.0、Works Suite 2004 和 Works Suite 2005 的所有客户。对于运行 Works Suite 2006 的客户，Works 8.5 已包括。
+\*\*\*为收到此安全更新，运行 Microsoft Works 8.0 的客户必须首先按照 [Microsoft Works Update](https://www.microsoft.com/products/works/international/update_1001.mspx) 中所述更新到 Works 8.5。 这包括使用 Microsoft Works 8.0、Works Suite 2004 和 Works Suite 2005 的所有客户。对于运行 Works Suite 2006 的客户，Works 8.5 已包括。
 
 **MS08-074 中关于 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1 的注释**  
 \*\*\*\*对于 Microsoft Office Excel 2007 和 Microsoft Office Excel 2007 Service Pack 1，除了安全更新程序包 KB958437 之外，客户还需要安装针对[用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包](https://www.microsoft.com/download/details.aspx?familyid=99cca4ed-f1f9-4cfd-a986-edbec82ced4f)的安全更新 (KB958439)，以免受 MS08-074 中所描述的漏洞影响。已成功安装 KB958437 和 KB958439 更新程序包的客户不需要重新安装。
@@ -1510,7 +1510,7 @@ Visual Studio。
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-070**](http://technet.microsoft.com/security/bulletin/ms08-070)
+[**MS08-070**](https://technet.microsoft.com/security/bulletin/ms08-070)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1518,7 +1518,7 @@ Visual Studio。
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1585,7 +1585,7 @@ Microsoft Visual FoxPro
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS08-077**](http://technet.microsoft.com/security/bulletin/ms08-077)
+[**MS08-077**](https://technet.microsoft.com/security/bulletin/ms08-077)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1593,7 +1593,7 @@ Microsoft Visual FoxPro
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1624,35 +1624,35 @@ Microsoft Search Server
 
 **安全中心**
 
-管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](http://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](http://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](http://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
+管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](https://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](https://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](https://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
 
-安全更新可从 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)、[Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)和 [Office Update](http://go.microsoft.com/fwlink/?linkid=21135) 获得。 [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+安全更新可从 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)、[Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)和 [Office Update](https://go.microsoft.com/fwlink/?linkid=21135) 获得。 [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
 
-最后，可以从 [Microsoft Update 目录](http://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](http://go.microsoft.com/fwlink/?linkid=97900)。
+最后，可以从 [Microsoft Update 目录](https://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](https://go.microsoft.com/fwlink/?linkid=97900)。
 
 **检测和部署指南**
 
-Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS) 和扩展安全更新清单工具 (ESUIT)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](http://support.microsoft.com/kb/910723)。
+Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS) 和扩展安全更新清单工具 (ESUIT)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](https://support.microsoft.com/kb/910723)。
 
 **Microsoft Baseline Security Analyzer**
 
-管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134)。
+管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134)。
 
 **Windows Server Update Services**
 
 通过使用 Windows Server Update Services (WSUS)，管理员可以快速而可靠地将 Windows 2000 操作系统和更高版本、Office XP 和更高版本、Exchange Server 2003 以及 SQL Server 2000 的最新关键更新和安全更新部署到 Windows 2000 和更高版本的操作系统。
 
-有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=50120)。
+有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](https://go.microsoft.com/fwlink/?linkid=50120)。
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；另请参阅 [System Center Configuration Manager 2007](http://technet.microsoft.com/en-us/library/bb735860.aspx)。有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用 [Software Updates Service 功能包](http://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；另请参阅 [System Center Configuration Manager 2007](https://technet.microsoft.com/en-us/library/bb735860.aspx)。有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用 [Software Updates Service 功能包](https://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server](https://go.microsoft.com/fwlink/?linkid=21158)。
 
-**注意** SMS 使用 Microsoft Baseline Security Analyzer 和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](http://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](http://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
+**注意** SMS 使用 Microsoft Baseline Security Analyzer 和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](https://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](https://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 
@@ -1666,68 +1666,68 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 有关 Windows Update 和 Microsoft Update 上非安全发布的信息，请参阅：
 
--   [Microsoft 知识库文章 894199](http://support.microsoft.com/kb/894199)： 2008 年 Software Update Services 和 Windows Server Update Services 内容的更改说明。包括所有 Windows 内容。
--   [Microsoft Windows 之外的其他 Microsoft 产品的新更新、经过修订的更新以及已发布的更新](http://technet.microsoft.com/en-us/wsus/bb466214.aspx)。
+-   [Microsoft 知识库文章 894199](https://support.microsoft.com/kb/894199)： 2008 年 Software Update Services 和 Windows Server Update Services 内容的更改说明。包括所有 Windows 内容。
+-   [Microsoft Windows 之外的其他 Microsoft 产品的新更新、经过修订的更新以及已发布的更新](https://technet.microsoft.com/en-us/wsus/bb466214.aspx)。
 
 #### Microsoft Active Protections Program (MAPP)
 
-为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](http://www.microsoft.com/security/msrc/mapp/partners.mspx)中列出）提供的活动保护网站。
+为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](https://www.microsoft.com/security/msrc/mapp/partners.mspx)中列出）提供的活动保护网站。
 
 #### 安全策略和社区
 
 **更新管理策略**
 
-[更新管理安全指导](http://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
+[更新管理安全指导](https://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
 **获取其他安全更新**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
--   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](http://support.microsoft.com/kb/913086)。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+-   [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
+-   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/kb/913086)。
 
 **IT 专业人员安全区域社区**
 
-了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
 #### 鸣谢
 
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
 
--   [VenusTech](http://www.venustech.com.cn/) 的 ADLab 报告了 MS08-070 中描述的多个问题
--   [Affiliated Computer Services](http://www.acs-inc.com/) 的 Jason Medeiros 报告了 MS08-070 中描述的问题
--   [Secunia Research](http://secunia.com/) 的 Carsten Eiram 报告了 MS08-070 中描述的问题
--   Mark Dowd 与 [McAfee Avert Labs](http://www.avertlabs.com/)一起报告了 MS08-070 中描述的问题
--   [Insomnia Security](http://www.insomniasec.com/) 的 Brett Moore 报告了 MS08-070 中描述的问题
--   CHkr\_D591 与[TippingPoint](http://www.tippingpoint.com/)和[Zero Day Initiative](http://www.zerodayinitiative.com/)一起报告了 MS08-070 中描述的问题
--   Michal Bucko 与 [CERT/CC](http://www.cert.org/)一起报告了 MS08-070 中描述的问题
--   Symantec 的 [Security Intelligence Analysis Team](http://www.symantec.com/) 与我们一起报告了 MS08-070 中描述的问题
--   [Verisign iDefense Labs](http://labs.idefense.com/) 的 Jun Mao 报告了 MS08-071 中描述的问题
--   Juan Caballero 与 [Carnegie Mellon University 的 Bitblaze 小组和 UC Berkeley](http://bitblaze.cs.berkeley.edu/) 一起报告了 MS08-071 中描述的问题
--   [Core Security Technologies](http://www.coresecurity.com/) 的 Ricardo Narvaja 报告了 MS08-072 中描述的问题
--   [Secunia Research](http://secunia.com/) 的 Dyon Balding 报告了 MS08-072 中描述的问题。
--   [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS08-072 中描述的问题
--   Wushi 与 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 一起报告了 MS08-072 中描述的问题
--   [TippingPoint DVLabs](http://dvlabs.tippingpoint.com/)的 Aaron Portnoy 报告了 MS08-072 中描述的问题
--   [team509](http://www.team509.com/) 的 Wushi 与 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作，报告了 MS08-072 中描述的问题
--   Wushi 和 Ling与 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 一起报告了 MS08-072 中描述的问题
+-   [VenusTech](https://www.venustech.com.cn/) 的 ADLab 报告了 MS08-070 中描述的多个问题
+-   [Affiliated Computer Services](https://www.acs-inc.com/) 的 Jason Medeiros 报告了 MS08-070 中描述的问题
+-   [Secunia Research](https://secunia.com/) 的 Carsten Eiram 报告了 MS08-070 中描述的问题
+-   Mark Dowd 与 [McAfee Avert Labs](https://www.avertlabs.com/)一起报告了 MS08-070 中描述的问题
+-   [Insomnia Security](https://www.insomniasec.com/) 的 Brett Moore 报告了 MS08-070 中描述的问题
+-   CHkr\_D591 与[TippingPoint](https://www.tippingpoint.com/)和[Zero Day Initiative](https://www.zerodayinitiative.com/)一起报告了 MS08-070 中描述的问题
+-   Michal Bucko 与 [CERT/CC](https://www.cert.org/)一起报告了 MS08-070 中描述的问题
+-   Symantec 的 [Security Intelligence Analysis Team](https://www.symantec.com/) 与我们一起报告了 MS08-070 中描述的问题
+-   [Verisign iDefense Labs](https://labs.idefense.com/) 的 Jun Mao 报告了 MS08-071 中描述的问题
+-   Juan Caballero 与 [Carnegie Mellon University 的 Bitblaze 小组和 UC Berkeley](https://bitblaze.cs.berkeley.edu/) 一起报告了 MS08-071 中描述的问题
+-   [Core Security Technologies](https://www.coresecurity.com/) 的 Ricardo Narvaja 报告了 MS08-072 中描述的问题
+-   [Secunia Research](https://secunia.com/) 的 Dyon Balding 报告了 MS08-072 中描述的问题。
+-   [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS08-072 中描述的问题
+-   Wushi 与 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 一起报告了 MS08-072 中描述的问题
+-   [TippingPoint DVLabs](https://dvlabs.tippingpoint.com/)的 Aaron Portnoy 报告了 MS08-072 中描述的问题
+-   [team509](https://www.team509.com/) 的 Wushi 与 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作，报告了 MS08-072 中描述的问题
+-   Wushi 和 Ling与 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 一起报告了 MS08-072 中描述的问题
 -   Carlo Di Dato (aka shinnai) 报告了 MS08-073 中描述的问题。
--   Brett Moore 与 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 一起报告了 MS08-073 中描述的问题
--   [Casaba Security](http://www.casabasecurity.com/) 的 Chris Weber 报告了 MS08-073 中描述的问题
--   [Verisign iDefense Labs](http://labs.idefense.com/) 的 Jun Mao 报告了 MS08-073 中描述的问题
--   [Verisign iDefense Labs](http://labs.idefense.com/) 的 Joshua J. Drake 报告了 MS08-074 中描述的问题
--   [signedness.org](http://www.signedness.org/)的 Claes M Nyberg 报告了 MS08-074 中描述的问题
--   [Secunia](http://secunia.com/) 的 Dyon Balding 报告了 MS08-074 中描述的问题
--   [eEye Digital Security](http://www.eeye.com/) 的 Andre Protas 报告了 MS08-075 中描述的问题
+-   Brett Moore 与 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 一起报告了 MS08-073 中描述的问题
+-   [Casaba Security](https://www.casabasecurity.com/) 的 Chris Weber 报告了 MS08-073 中描述的问题
+-   [Verisign iDefense Labs](https://labs.idefense.com/) 的 Jun Mao 报告了 MS08-073 中描述的问题
+-   [Verisign iDefense Labs](https://labs.idefense.com/) 的 Joshua J. Drake 报告了 MS08-074 中描述的问题
+-   [signedness.org](https://www.signedness.org/)的 Claes M Nyberg 报告了 MS08-074 中描述的问题
+-   [Secunia](https://secunia.com/) 的 Dyon Balding 报告了 MS08-074 中描述的问题
+-   [eEye Digital Security](https://www.eeye.com/) 的 Andre Protas 报告了 MS08-075 中描述的问题
 -   Nate McFeters 报告了 MS08-075 中描述的问题
 -   匿名发现者报告了 MS08-077 中描述的问题
 
 #### 支持
 
--   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](http://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。
--   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](https://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。
+-   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](https://go.microsoft.com/fwlink/?linkid=21155)。
 
 #### 免责声明
 

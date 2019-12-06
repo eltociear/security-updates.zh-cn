@@ -19,18 +19,18 @@ Microsoft 安全公告摘要 (2004 年 7 月)
 **更新日期：**2004 年 7 月 30 日
 **版本号：**2.0
 
-可通过访问以下 [Web 站点](http://www.microsoft.com/china/security/default.asp)，获取此信息的最终用户版本。
+可通过访问以下 [Web 站点](https://www.microsoft.com/china/security/default.asp)，获取此信息的最终用户版本。
 
 **保护您的 PC：**Microsoft 在以下位置中提供了关于您如何帮助保护 PC 的信息：
 
--   最终用户可以访问[保护您的 PC Web 站点](http://www.microsoft.com/china/security/protect/)。
--   IT 专业人士可以访问[安全指南中心](http://www.microsoft.com/china/security/guidance/default.mspx) Web 站点。
+-   最终用户可以访问[保护您的 PC Web 站点](https://www.microsoft.com/china/security/protect/)。
+-   IT 专业人士可以访问[安全指南中心](https://www.microsoft.com/china/security/guidance/default.mspx) Web 站点。
 
-**更新管理策略：**[修补程序管理、安全更新和下载](http://www.microsoft.com/china/technet/security/topics/patch/default.mspx) Web 站点提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
+**更新管理策略：**[修补程序管理、安全更新和下载](https://www.microsoft.com/china/technet/security/topics/patch/default.mspx) Web 站点提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
 
-**IT 专业人士安全区域社区：**了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人士安全区域 Web 站点](http://go.microsoft.com/fwlink/?linkid=21164)与其他 IT 专业人士一起就安全话题展开讨论。
+**IT 专业人士安全区域社区：**了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人士安全区域 Web 站点](https://go.microsoft.com/fwlink/?linkid=21164)与其他 IT 专业人士一起就安全话题展开讨论。
 
-**Microsoft 安全性通告服务：**要在发布 Microsoft 安全公告时收到自动电子邮件通知，请订阅 [Microsoft 安全性通告服务](http://www.microsoft.com/china/security/bulletins/notify.asp)。
+**Microsoft 安全性通告服务：**要在发布 Microsoft 安全公告时收到自动电子邮件通知，请订阅 [Microsoft 安全性通告服务](https://www.microsoft.com/china/security/bulletins/notify.asp)。
 
 #### 摘要
 
@@ -41,25 +41,25 @@ Microsoft 安全公告摘要 (2004 年 7 月)
 
 | 公告标识           | Microsoft 安全公告 MS04-025                                                                                |
 |--------------------|------------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [**Internet Explorer 的累积性安全更新 (867801)**](http://technet.microsoft.com/security/bulletin/ms04-025) |
+| **公告标题**       | [**Internet Explorer 的累积性安全更新 (867801)**](https://technet.microsoft.com/security/bulletin/ms04-025) |
 | **摘要**           | 存在于Internet Explorer 中的三个远程执行代码漏洞。                                                         |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                       |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                       |
 | **安全漏洞的影响** | 远程执行代码                                                                                               |
 | **受影响的软件**   | **Windows, Internet Explorer.** 。                                                                         |
 
 | 公告标识           | Microsoft 安全公告 MS04-022                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [**任务计划程序中的漏洞可能允许执行代码 (841873)**](http://technet.microsoft.com/security/bulletin/ms04-022) |
+| **公告标题**       | [**任务计划程序中的漏洞可能允许执行代码 (841873)**](https://technet.microsoft.com/security/bulletin/ms04-022) |
 | **摘要**           | 任务计划程序由于其进行应用程序名称验证的方式而存在一个远程执行代码漏洞。                                     |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                         |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                         |
 | **安全漏洞的影响** | 远程执行代码                                                                                                 |
 | **受影响的软件**   | **Windows**。有关详细信息，请参见“受影响的软件和下载位置”部分。                                              |
 
 | 公告标识           | Microsoft 安全公告 MS04-023                                                                               |
 |--------------------|-----------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [**HTML 帮助中的漏洞可能允许执行代码 (840315)**](http://technet.microsoft.com/security/bulletin/ms04-023) |
+| **公告标题**       | [**HTML 帮助中的漏洞可能允许执行代码 (840315)**](https://technet.microsoft.com/security/bulletin/ms04-023) |
 | **摘要**           | 在对特制 showHelp URL 的处理方式中存在一个远程执行代码漏洞。                                              |
-| **最高严重等级**   | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                      |
+| **最高严重等级**   | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                      |
 | **安全漏洞的影响** | 远程执行代码                                                                                              |
 | **受影响的软件**   | **Windows**。有关详细信息，请参见“受影响的软件和下载位置”部分。                                           |
 
@@ -68,33 +68,33 @@ Microsoft 安全公告摘要 (2004 年 7 月)
 
 | 公告标识           | Microsoft 安全公告 MS04-019                                                                                  |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [**工具管理器中的漏洞可能允许执行代码 (842526)**](http://technet.microsoft.com/security/bulletin/ms04-019)   |
+| **公告标题**       | [**工具管理器中的漏洞可能允许执行代码 (842526)**](https://technet.microsoft.com/security/bulletin/ms04-019)   |
 | **摘要**           | 在工具管理器启动应用程序的方式中存在一个权限提升漏洞。已登录的用户可以强制工具管理器以系统权限启动应用程序。 |
-| **最高严重等级**   | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                         |
+| **最高严重等级**   | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                         |
 | **安全漏洞的影响** | 本地权限提升                                                                                                 |
 | **受影响的软件**   | **Windows**。有关详细信息，请参见“受影响的软件和下载位置”部分。                                              |
 
 | 公告标识           | Microsoft 安全公告 MS04-020                                                                            |
 |--------------------|--------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [**POSIX 中的漏洞可能允许执行代码 (841872)**](http://technet.microsoft.com/security/bulletin/ms04-020) |
+| **公告标题**       | [**POSIX 中的漏洞可能允许执行代码 (841872)**](https://technet.microsoft.com/security/bulletin/ms04-020) |
 | **摘要**           | POSIX 子系统中存在的权限提升漏洞可能允许登录用户完全控制系统。                                         |
-| **最高严重等级**   | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                   |
+| **最高严重等级**   | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                   |
 | **安全漏洞的影响** | 本地权限提升                                                                                           |
 | **受影响的软件**   | **Windows**。有关详细信息，请参见“受影响的软件和下载位置”部分。                                        |
 
 | 公告标识           | Microsoft 安全公告 MS04-021                                                              |
 |--------------------|------------------------------------------------------------------------------------------|
-| **公告标题**       | [**IIS 4.0 安全更新 (841373)**](http://technet.microsoft.com/security/bulletin/ms04-021) |
+| **公告标题**       | [**IIS 4.0 安全更新 (841373)**](https://technet.microsoft.com/security/bulletin/ms04-021) |
 | **摘要**           | Internet Information Server 4.0 中存在一个缓冲区溢出漏洞。                               |
-| **最高严重等级**   | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                     |
+| **最高严重等级**   | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                     |
 | **安全漏洞的影响** | 远程执行代码                                                                             |
 | **受影响的软件**   | **Windows**。有关详细信息，请参见“受影响的软件和下载位置”部分。                          |
 
 | 公告标识           | Microsoft 安全公告 MS04-024                                                                                        |
 |--------------------|--------------------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [**Windows Shell 中的漏洞可能允许远程执行代码 (839645)**](http://technet.microsoft.com/security/bulletin/ms04-024) |
+| **公告标题**       | [**Windows Shell 中的漏洞可能允许远程执行代码 (839645)**](https://technet.microsoft.com/security/bulletin/ms04-024) |
 | **摘要**           | 在 Windows Shell 启动应用程序的方式中存在一个远程执行代码漏洞。要利用此漏洞，需要进行用户交互。                    |
-| **最高严重等级**   | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                               |
+| **最高严重等级**   | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                               |
 | **安全漏洞的影响** | 远程执行代码                                                                                                       |
 | **受影响的软件**   | **Windows**。有关详细信息，请参见“受影响的软件和下载位置”部分。                                                    |
 
@@ -103,9 +103,9 @@ Microsoft 安全公告摘要 (2004 年 7 月)
 
 | 公告标识           | Microsoft 安全公告 MS04-018                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------|
-| **公告标题**       | [**Outlook Express 的累积性安全更新 (823353)**](http://technet.microsoft.com/security/bulletin/ms04-018) |
+| **公告标题**       | [**Outlook Express 的累积性安全更新 (823353)**](https://technet.microsoft.com/security/bulletin/ms04-018) |
 | **摘要**           | 存在的拒绝服务漏洞可能允许攻击者发送特制电子邮件，从而导致 Outlook Express 出现故障。                    |
-| **最高严重等级**   | [中等](http://go.microsoft.com/fwlink/?linkid=21140)                                                     |
+| **最高严重等级**   | [中等](https://go.microsoft.com/fwlink/?linkid=21140)                                                     |
 | **安全漏洞的影响** | 拒绝服务                                                                                                 |
 | **受影响的软件**   | **Windows、Outlook Express**。有关详细信息，请参见“受影响的软件和下载位置”部分。                         |
 
@@ -149,23 +149,23 @@ Microsoft 安全公告摘要 (2004 年 7 月)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>公告标识</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-018"><strong>MS04-018</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-019"><strong>MS04-019</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-020"><strong>MS04-020</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-021"><strong>MS04-021</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-022"><strong>MS04-022</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-023"><strong>MS04-023</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-024"><strong>MS04-024</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-018"><strong>MS04-018</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-019"><strong>MS04-019</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-020"><strong>MS04-020</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-021"><strong>MS04-021</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-022"><strong>MS04-022</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-023"><strong>MS04-023</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-024"><strong>MS04-024</strong></a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;"><strong>最高严重等级</strong></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>中等</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>中等</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>受影响的 Windows 软件：</strong></p></td>
@@ -430,13 +430,13 @@ Microsoft 安全公告摘要 (2004 年 7 月)
 </tbody>  
 </table>
   
-**MS04-025：**请立刻访问 [**Internet Explorer 的累积性安全更新 (867801)**](http://technet.microsoft.com/security/bulletin/ms04-025)查看受影响软件并下载更新。
+**MS04-025：**请立刻访问 [**Internet Explorer 的累积性安全更新 (867801)**](https://technet.microsoft.com/security/bulletin/ms04-025)查看受影响软件并下载更新。
   
 **注意：**
   
 **<sup>[1]</sup>** 默认情况下，此操作系统不会受到该问题的影响。但是，如果安装了其他软件程序或组件，此操作系统可能会容易受到攻击。具体来说，在这种情况下，如果安装了 Internet Explorer 6 Service Pack 1，Windows NT4 就容易受到攻击。有关更详细信息，请参见相应的安全公告。
   
-**<sup>[2]</sup>** 此操作系统会受到该问题的影响。但是，操作系统不会受到严重影响。通常，在此操作系统上不会提供不严重问题的安全更新。有关针对此操作系统的 Microsoft 技术支持生命周期策略的详细信息，请访问以下 [Web 站点](http://support.microsoft.com/default.aspx?pr=lifean1)。有关更详细信息，请参见相应的安全公告。
+**<sup>[2]</sup>** 此操作系统会受到该问题的影响。但是，操作系统不会受到严重影响。通常，在此操作系统上不会提供不严重问题的安全更新。有关针对此操作系统的 Microsoft 技术支持生命周期策略的详细信息，请访问以下 [Web 站点](https://support.microsoft.com/default.aspx?pr=lifean1)。有关更详细信息，请参见相应的安全公告。
   
 **<sup>[3]</sup>** 此操作系统有一个安全更新。有关更详细信息，请参见本表中的受影响组件 Microsoft Outlook Express 和相应的安全公告。
   
@@ -452,17 +452,17 @@ Microsoft 安全公告摘要 (2004 年 7 月)
   
 通过使用 Microsoft 软件更新服务 (SUS)，管理员可以在基于 Windows 2000 和 Windows Server 2003 的服务器以及运行 Windows 2000 Professional 或 Windows XP Professional 的台式机系统上快速而可靠地部署最新的重要更新和安全更新。
   
-有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务 Web 站点](http://go.microsoft.com/fwlink/?linkid=21133)。
+有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务 Web 站点](https://go.microsoft.com/fwlink/?linkid=21133)。
   
 **Systems Management Server：**
   
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。通过使用 SMS，管理员可以确定需要安全更新且基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而只对最终用户造成最低程度的干扰。SMS 2.0 用户还可以使用[软件更新服务功能包](http://www.microsoft.com/china/smserver/downloads/20/default.asp)帮助部署安全更新。有关 SMS 的信息，请访问 [SMS Web 站点](http://www.microsoft.com/china/smserver/default.asp)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。通过使用 SMS，管理员可以确定需要安全更新且基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而只对最终用户造成最低程度的干扰。SMS 2.0 用户还可以使用[软件更新服务功能包](https://www.microsoft.com/china/smserver/downloads/20/default.asp)帮助部署安全更新。有关 SMS 的信息，请访问 [SMS Web 站点](https://www.microsoft.com/china/smserver/default.asp)。
   
 **注意：**SMS 使用 Microsoft 基准安全分析器和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。这些工具可能检测不到某些软件更新。在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。某些安全更新在重新启动系统后可能需要管理权限。管理员可以使用提升权限部署工具（在 **SMS 2003 管理功能包**和 SMS 2.0 管理功能包中提供）来安装这些更新。
   
 **QChain.exe 和 Update.exe：**
   
-Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。“链接”是指您在安装多个更新时，在两个安装之间不需要重新启动。此通报中描述的更新所使用 Update.exe 内置了链接功能。使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。有关 Qchain 的详细信息，请访问此 [Web 站点](http://go.microsoft.com/fwlink/?linkid=21156)。
+Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。“链接”是指您在安装多个更新时，在两个安装之间不需要重新启动。此通报中描述的更新所使用 Update.exe 内置了链接功能。使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。有关 Qchain 的详细信息，请访问此 [Web 站点](https://go.microsoft.com/fwlink/?linkid=21156)。
   
 **Microsoft 基准安全分析器：**
   
@@ -474,32 +474,32 @@ Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理�
   
 Microsoft 感谢下列人员或组织与我们一起致力于保护用户的利益：
   
--   [Application Security Inc.](http://www.appsecinc.com/) 的 Cesar Cerrudo 报告了 [MS04-019](http://technet.microsoft.com/security/bulletin/ms04-019) 中描述的问题。  
--   与 [Network Associates](http://www.nai.com/) 一起工作的 Rafal Wojtczuk 报告了 [MS04-020](http://technet.microsoft.com/security/bulletin/ms04-020) 中描述的问题。  
--   [Security-Assessment.com](http://www.security-assessment.com/) 的 Brett Moore 报告了 [MS04-022](http://technet.microsoft.com/security/bulletin/ms04-022) 中描述的问题。  
--   [Dustin Schneider](https://technet.microsoft.com/zh-CN/mailto://dschn@verizon.net) 报告了 [MS04-022](http://technet.microsoft.com/security/bulletin/ms04-022) 中描述的问题。  
--   [Next Generation Security Software Ltd.](http://www.ngssoftware.com/) 的 Peter Winter-Smith 报告了 [MS04-022](http://technet.microsoft.com/security/bulletin/ms04-022) 中描述的问题。  
--   Security-Assessment.com 的 Brett Moore 报告了 [MS04-023](http://technet.microsoft.com/security/bulletin/ms04-023) 中描述的问题。  
+-   [Application Security Inc.](https://www.appsecinc.com/) 的 Cesar Cerrudo 报告了 [MS04-019](https://technet.microsoft.com/security/bulletin/ms04-019) 中描述的问题。  
+-   与 [Network Associates](https://www.nai.com/) 一起工作的 Rafal Wojtczuk 报告了 [MS04-020](https://technet.microsoft.com/security/bulletin/ms04-020) 中描述的问题。  
+-   [Security-Assessment.com](https://www.security-assessment.com/) 的 Brett Moore 报告了 [MS04-022](https://technet.microsoft.com/security/bulletin/ms04-022) 中描述的问题。  
+-   [Dustin Schneider](https://technet.microsoft.com/zh-CN/mailto://dschn@verizon.net) 报告了 [MS04-022](https://technet.microsoft.com/security/bulletin/ms04-022) 中描述的问题。  
+-   [Next Generation Security Software Ltd.](https://www.ngssoftware.com/) 的 Peter Winter-Smith 报告了 [MS04-022](https://technet.microsoft.com/security/bulletin/ms04-022) 中描述的问题。  
+-   Security-Assessment.com 的 Brett Moore 报告了 [MS04-023](https://technet.microsoft.com/security/bulletin/ms04-023) 中描述的问题。  
 -   **获取其他安全更新：**
   
     可从以下位置获得针对其他安全问题的更新：
   
-    -   [Microsoft 下载中心](http://www.microsoft.com/china/msdownload/default.asp)上提供了安全更新。通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。  
-    -   可从 [Windows Update Web 站点](http://v4.windowsupdate.microsoft.com/zhcn/default.asp)获得有关用户平台的更新。
+    -   [Microsoft 下载中心](https://www.microsoft.com/china/msdownload/default.asp)上提供了安全更新。通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。  
+    -   可从 [Windows Update Web 站点](https://v4.windowsupdate.microsoft.com/zhcn/default.asp)获得有关用户平台的更新。
   
     **支持：**
   
-    -   美国和加拿大的用户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](http://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。与安全更新有关的电话支持服务是免费的。  
-    -   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。与安全更新有关的支持服务不收取任何费用。有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持 Web 站点](http://go.microsoft.com/fwlink/?linkid=21155)。
+    -   美国和加拿大的用户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](https://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。与安全更新有关的电话支持服务是免费的。  
+    -   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。与安全更新有关的支持服务不收取任何费用。有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持 Web 站点](https://go.microsoft.com/fwlink/?linkid=21155)。
   
     **安全性资源：**
   
-    -   [Microsoft TechNet 安全性](http://www.microsoft.com/china/technet/security/default.asp)Web 站点提供了有关 Microsoft 产品安全性的详细信息。  
-    -   [Microsoft 软件更新服务](http://go.microsoft.com/fwlink/?linkid=21133)  
-    -   [Microsoft 基准安全分析器](http://www.microsoft.com/china/technet/security/tools/mbsahome.mspx) (MBSA)  
-    -   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)  
-    -   Windows Update 目录：有关 Windows Update 目录的详细信息，请参见 Microsoft 知识库文章 [323166](http://support.microsoft.com/default.aspx?scid=kb;zh-cn;323166)。  
-    -   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+    -   [Microsoft TechNet 安全性](https://www.microsoft.com/china/technet/security/default.asp)Web 站点提供了有关 Microsoft 产品安全性的详细信息。  
+    -   [Microsoft 软件更新服务](https://go.microsoft.com/fwlink/?linkid=21133)  
+    -   [Microsoft 基准安全分析器](https://www.microsoft.com/china/technet/security/tools/mbsahome.mspx) (MBSA)  
+    -   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)  
+    -   Windows Update 目录：有关 Windows Update 目录的详细信息，请参见 Microsoft 知识库文章 [323166](https://support.microsoft.com/default.aspx?scid=kb;zh-cn;323166)。  
+    -   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
   
     **免责声明：**
   

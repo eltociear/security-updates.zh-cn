@@ -17,11 +17,11 @@ Microsoft 安全公告摘要 (2011 年 2 月)
 
 本公告摘要列出了 2011 年 2 月发布的安全公告。
 
-对于 2011 年 2 月发布的安全公告，本公告摘要替代 2011 年 2 月 3 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](http://technet.microsoft.com/security/bulletin/advance)。
+对于 2011 年 2 月发布的安全公告，本公告摘要替代 2011 年 2 月 3 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](https://technet.microsoft.com/security/bulletin/advance)。
 
-有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 将在 2011 年 2 月 9 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 2 月份安全公告网络广播](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032455047&eventcategory=4)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](http://technet.microsoft.com/security/bulletin/summary)。
+Microsoft 将在 2011 年 2 月 9 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 2 月份安全公告网络广播](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032455047&eventcategory=4)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](https://technet.microsoft.com/security/bulletin/summary)。
 
 Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每月安全更新同日发布的任何非安全更新进行优先排序。 请参阅**其他信息**部分。
 
@@ -47,126 +47,126 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 的累积性安全更新 (2482017)</strong><br />
 <br />
 此安全更新可解决 Internet Explorer 中两个秘密报告的漏洞和两个公开披露的漏洞。 这些漏洞可在用户使用 Internet Explorer 查看特制 Web 页面或者用户打开一个加载特制库文件的合法 HTML 文件时允许远程执行代码。 成功利用这些漏洞的攻击者可以获得与本地用户相同的用户权限。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows，<br />
 Internet Explorer</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-006">MS11-006</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-006">MS11-006</a></td>
 <td style="border:1px solid black;"><strong>Windows Shell 图形处理中的漏洞可能允许远程执行代码 (2483185)</strong><br />
 <br />
 此安全更新解决了 Windows Shell 图形处理器中一个公开披露的漏洞。 如果用户查看特制缩略图，此漏洞可能允许远程执行代码。 成功利用此漏洞的攻击者可以获得与登录用户相同的用户权限。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-007">MS11-007</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-007">MS11-007</a></td>
 <td style="border:1px solid black;"><strong>OpenType Compact 字体格式 (CFF) 驱动程序中的漏洞可能允许远程代码执行 (2485376)</strong><br />
 <br />
 此安全更新解决了 Windows 的 OpenType Compact 字体格式 (CFF) 驱动程序中一个秘密报告的漏洞。 如果用户查看用特制 CFF 字体呈现的内容，则该漏洞可能允许远程代码执行。 在所有情况下，攻击者无法强制用户查看特制内容。 相反，攻击者必须蛊惑用户访问该网站，方法通常是让用户单击电子邮件或 Instant Messenger 消息中的链接以使用户链接到攻击者的网站。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-004">MS11-004</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-004">MS11-004</a></td>
 <td style="border:1px solid black;"><strong>Internet Information Services (IIS) FTP 服务中的漏洞可能允许远程执行代码 (2489256)</strong><br />
 <br />
 此安全更新解决 Microsoft Internet Information Services (IIS) FTP 服务中公开披露的漏洞。 此漏洞允许在 FTP 服务器收到特制 FTP 命令时远程执行代码。 默认情况下不会在 IIS 中安装 FTP 服务。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-005">MS11-005</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-005">MS11-005</a></td>
 <td style="border:1px solid black;"><strong>Active Directory 中的漏洞可能允许拒绝服务 (2478953)</strong><br />
 <br />
 此安全更新可解决 Active Directory 中一个公开披露的漏洞。 此漏洞允许在攻击者向受影响的 Active Directory 服务器发送特制数据包时拒绝服务。 攻击者要利用此漏洞，必须在已加入域的计算机上具有有效的本地管理员特权。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 拒绝服务</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-008">MS11-008</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-008">MS11-008</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Visio 中的漏洞可能允许远程执行代码 (2451879)</strong><br />
 <br />
 此安全更新解决 Microsoft Visio 中两个秘密报告的漏洞。 如果用户打开特制的 Visio 文件，这些漏洞可能允许远程执行代码。 成功利用其中任何一个漏洞的攻击者可以获得与登录用户相同的用户权限。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-009">MS11-009</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-009">MS11-009</a></td>
 <td style="border:1px solid black;"><strong>JScript 和 VBScript 脚本引擎中的漏洞可能允许信息泄露 (2475792)</strong><br />
 <br />
 此安全更新解决 JScript 和 VBScript 脚本引擎中的一个秘密报告的漏洞。 该漏洞可在用户访问特制网站时导致信息泄露。 攻击者无法强迫用户访问这些网站。 相反，攻击者必须诱使用户访问该网站，方法通常是让用户单击电子邮件或 Instant Messenger 消息中的链接以使用户链接到攻击者的网站。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 信息泄露</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-010">MS11-010</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-010">MS11-010</a></td>
 <td style="border:1px solid black;"><strong>Windows 客户端/服务器运行时子系统中的漏洞可能允许特权提升 (2476687)</strong><br />
 <br />  
 此安全更新可解决 Windows XP 和 Windows Server 2003 中的 Microsoft Windows 客户端/服务器运行时子系统 (CSRSS) 中一个秘密报告的漏洞。<br />  
 <br />
 该漏洞允许在攻击者登录用户的系统并启动在攻击者注销以获取后续用户的登录凭据后继续运行的特制应用程序时发生特权提升。 攻击者必须拥有有效的登录凭据并能本地登录才能利用此漏洞。 匿名用户无法利用此漏洞，也无法以远程方式利用此漏洞。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-011">MS11-011</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-011">MS11-011</a></td>
 <td style="border:1px solid black;"><strong>Windows 内核中的漏洞可能允许特权提升 (2393802)</strong><br />
 <br />
 此安全更新解决 Microsoft Windows 中一个公开披露和一个秘密报告的漏洞。 如果攻击者本地登录并运行特制应用程序，这些漏洞可能允许特权提升。 攻击者必须拥有有效的登录凭据并能本地登录才能利用这些漏洞。 匿名用户无法利用这些漏洞，也无法以远程方式利用这些漏洞。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
 <td style="border:1px solid black;"><strong>Windows 内核模式驱动程序中的漏洞可能允许特权提升 (2479628)</strong><br />
 <br />
 此安全更新可解决 Microsoft Windows 中秘密报告的五个漏洞。 如果攻击者本地登录并运行特制应用程序，这些漏洞可能允许特权提升。 攻击者必须拥有有效的登录凭据并能本地登录才能利用这些漏洞。 匿名用户无法利用这些漏洞，也无法以远程方式利用这些漏洞。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-013">MS11-013</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-013">MS11-013</a></td>
 <td style="border:1px solid black;"><strong>Kerberos 中的漏洞可能允许特权提升 (2496930)</strong><br />
 <br />
 此安全更新可解决 Microsoft Windows 中的一个秘密报告的漏洞和一个公开披露的漏洞。 如果通过身份验证的本地攻击者在已加入域的计算机上安装恶意服务，则更加严重的这些漏洞可导致特权提升。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-014">MS11-014</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-014">MS11-014</a></td>
 <td style="border:1px solid black;"><strong>本地安全机构子系统服务中的漏洞可能允许本地特权提升 (2478960)</strong><br />
 <br />  
 此安全更新可解决 Windows XP 和 Windows Server 2003 中的本地安全授权子系统服务 (LSASS) 中一个秘密报告的漏洞。<br />  
 <br />
 此漏洞在攻击者登录系统并运行特制应用程序时允许提升特权。 攻击者必须拥有有效的登录凭据并能本地登录才能利用此漏洞。 匿名用户无法利用此漏洞，也无法以远程方式利用此漏洞。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -182,7 +182,7 @@ Internet Explorer</td>
   
 **如何使用该表？**
   
-使用该表了解安全公告发布 30 天内为您可能需要安装的每个安全更新发布有效漏洞检测代码的可能性。 您应该根据您的特定配置，检查下面的每个评估，从而确定部署的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
+使用该表了解安全公告发布 30 天内为您可能需要安装的每个安全更新发布有效漏洞检测代码的可能性。 您应该根据您的特定配置，检查下面的每个评估，从而确定部署的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](https://technet.microsoft.com/en-us/security/cc998259.aspx)。
 
 <p> </p>
 <table style="border:1px solid black;">  
@@ -197,152 +197,152 @@ Internet Explorer</td>
 </thead>  
 <tbody>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-006">MS11-006</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-006">MS11-006</a></td>
 <td style="border:1px solid black;">Windows Shell 图形处理溢出漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-3970">CVE-2010-3970</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-3970">CVE-2010-3970</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;"><strong>此漏洞已公开披露，可提供漏洞检测代码</strong></td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
 <td style="border:1px solid black;">CSS 内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-3971">CVE-2010-3971</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-3971">CVE-2010-3971</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;"><strong>此漏洞已公开披露，正在 Internet 生态系统中被利用</strong></td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-011">MS11-011</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-011">MS11-011</a></td>
 <td style="border:1px solid black;">驱动程序与 Windows 内核交互不当漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-4398">CVE-2010-4398</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-4398">CVE-2010-4398</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;"><strong>此漏洞已公开披露</strong></td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-010">MS11-010</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-010">MS11-010</a></td>
 <td style="border:1px solid black;">CSRSS 特权提升漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0030">CVE-2011-0030</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0030">CVE-2011-0030</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
 <td style="border:1px solid black;">未初始化的内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0035">CVE-2011-0035</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0035">CVE-2011-0035</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-003">MS11-003</a></td>
 <td style="border:1px solid black;">未初始化的内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0036">CVE-2011-0036</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0036">CVE-2011-0036</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-014">MS11-014</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-014">MS11-014</a></td>
 <td style="border:1px solid black;">LSASS 长度验证漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0039">CVE-2011-0039</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0039">CVE-2011-0039</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-013">MS11-013</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-013">MS11-013</a></td>
 <td style="border:1px solid black;">Kerberos Unkeyed 校验和漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0043">CVE-2011-0043</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0043">CVE-2011-0043</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;"><strong>此漏洞已公开披露</strong></td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-011">MS11-011</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-011">MS11-011</a></td>
 <td style="border:1px solid black;">Windows 内核整数截断漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0045">CVE-2011-0045</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0045">CVE-2011-0045</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
 <td style="border:1px solid black;">Win32k 不正确用户输入验证漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0086">CVE-2011-0086</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0086">CVE-2011-0086</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
 <td style="border:1px solid black;">Win32k 不充分用户输入验证漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0087">CVE-2011-0087</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0087">CVE-2011-0087</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
 <td style="border:1px solid black;">Win32k 窗口类指针混乱漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0088">CVE-2011-0088</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0088">CVE-2011-0088</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
 <td style="border:1px solid black;">Win32k 窗口类不正确指针验证漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0089">CVE-2011-0089</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0089">CVE-2011-0089</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-012">MS11-012</a></td>
 <td style="border:1px solid black;">Win32k 内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0090">CVE-2011-0090</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0090">CVE-2011-0090</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-008">MS11-008</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-008">MS11-008</a></td>
 <td style="border:1px solid black;">Visio 对象内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0092">CVE-2011-0092</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0092">CVE-2011-0092</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-008">MS11-008</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-008">MS11-008</a></td>
 <td style="border:1px solid black;">Visio 数据类型内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0093">CVE-2011-0093</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0093">CVE-2011-0093</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">1</a> - 可能的一致漏洞检测代码</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-004">MS11-004</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-004">MS11-004</a></td>
 <td style="border:1px solid black;">IIS FTP 服务堆缓冲区溢出漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-3972">CVE-2010-3972</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">2</a> - 漏洞检测代码可能不一致</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2010-3972">CVE-2010-3972</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">2</a> - 漏洞检测代码可能不一致</td>
 <td style="border:1px solid black;"><strong>此漏洞已公开被披露，可提供 PoC 代码</strong></td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-007">MS11-007</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-007">MS11-007</a></td>
 <td style="border:1px solid black;">OpenType 字体编码字符漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0033">CVE-2011-0033</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">2</a> - 漏洞检测代码可能不一致</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0033">CVE-2011-0033</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">2</a> - 漏洞检测代码可能不一致</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-009">MS11-009</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-009">MS11-009</a></td>
 <td style="border:1px solid black;">脚本引擎信息泄露漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0031">CVE-2011-0031</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">3</a> – 漏洞检测代码可能不正常</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0031">CVE-2011-0031</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">3</a> – 漏洞检测代码可能不正常</td>
 <td style="border:1px solid black;">这是一个信息泄露漏洞</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-005">MS11-005</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-005">MS11-005</a></td>
 <td style="border:1px solid black;">Active Directory SPN 验证漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0040">CVE-2011-0040</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">3</a> – 漏洞检测代码可能不正常</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0040">CVE-2011-0040</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">3</a> – 漏洞检测代码可能不正常</td>
 <td style="border:1px solid black;"><strong>此漏洞已公开披露</strong><br />
 <br />
 这是一个拒绝服务漏洞</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms11-013">MS11-013</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms11-013">MS11-013</a></td>
 <td style="border:1px solid black;">Kerberos 欺骗漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0091">CVE-2011-0091</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/en-us/security/cc998259.aspx">3</a> – 漏洞检测代码可能不正常</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2011-0091">CVE-2011-0091</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/en-us/security/cc998259.aspx">3</a> – 漏洞检测代码可能不正常</td>
 <td style="border:1px solid black;">这只是一个欺骗漏洞</td>
 </tr>  
 </tbody>  
@@ -400,37 +400,37 @@ Windows XP
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS11-003**](http://technet.microsoft.com/security/bulletin/ms11-003)
+[**MS11-003**](https://technet.microsoft.com/security/bulletin/ms11-003)
 </td>
 <td style="border:1px solid black;">
-[**MS11-006**](http://technet.microsoft.com/security/bulletin/ms11-006)
+[**MS11-006**](https://technet.microsoft.com/security/bulletin/ms11-006)
 </td>
 <td style="border:1px solid black;">
-[**MS11-007**](http://technet.microsoft.com/security/bulletin/ms11-007)
+[**MS11-007**](https://technet.microsoft.com/security/bulletin/ms11-007)
 </td>
 <td style="border:1px solid black;">
-[**MS11-004**](http://technet.microsoft.com/security/bulletin/ms11-004)
+[**MS11-004**](https://technet.microsoft.com/security/bulletin/ms11-004)
 </td>
 <td style="border:1px solid black;">
-[**MS11-005**](http://technet.microsoft.com/security/bulletin/ms11-005)
+[**MS11-005**](https://technet.microsoft.com/security/bulletin/ms11-005)
 </td>
 <td style="border:1px solid black;">
-[**MS11-009**](http://technet.microsoft.com/security/bulletin/ms11-009)
+[**MS11-009**](https://technet.microsoft.com/security/bulletin/ms11-009)
 </td>
 <td style="border:1px solid black;">
-[**MS11-010**](http://technet.microsoft.com/security/bulletin/ms11-010)
+[**MS11-010**](https://technet.microsoft.com/security/bulletin/ms11-010)
 </td>
 <td style="border:1px solid black;">
-[**MS11-011**](http://technet.microsoft.com/security/bulletin/ms11-011)
+[**MS11-011**](https://technet.microsoft.com/security/bulletin/ms11-011)
 </td>
 <td style="border:1px solid black;">
-[**MS11-012**](http://technet.microsoft.com/security/bulletin/ms11-012)
+[**MS11-012**](https://technet.microsoft.com/security/bulletin/ms11-012)
 </td>
 <td style="border:1px solid black;">
-[**MS11-013**](http://technet.microsoft.com/security/bulletin/ms11-013)
+[**MS11-013**](https://technet.microsoft.com/security/bulletin/ms11-013)
 </td>
 <td style="border:1px solid black;">
-[**MS11-014**](http://technet.microsoft.com/security/bulletin/ms11-014)
+[**MS11-014**](https://technet.microsoft.com/security/bulletin/ms11-014)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -438,16 +438,13 @@ Windows XP
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -456,19 +453,22 @@ Windows XP
 无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -583,37 +583,37 @@ Windows Server 2003
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS11-003**](http://technet.microsoft.com/security/bulletin/ms11-003)
+[**MS11-003**](https://technet.microsoft.com/security/bulletin/ms11-003)
 </td>
 <td style="border:1px solid black;">
-[**MS11-006**](http://technet.microsoft.com/security/bulletin/ms11-006)
+[**MS11-006**](https://technet.microsoft.com/security/bulletin/ms11-006)
 </td>
 <td style="border:1px solid black;">
-[**MS11-007**](http://technet.microsoft.com/security/bulletin/ms11-007)
+[**MS11-007**](https://technet.microsoft.com/security/bulletin/ms11-007)
 </td>
 <td style="border:1px solid black;">
-[**MS11-004**](http://technet.microsoft.com/security/bulletin/ms11-004)
+[**MS11-004**](https://technet.microsoft.com/security/bulletin/ms11-004)
 </td>
 <td style="border:1px solid black;">
-[**MS11-005**](http://technet.microsoft.com/security/bulletin/ms11-005)
+[**MS11-005**](https://technet.microsoft.com/security/bulletin/ms11-005)
 </td>
 <td style="border:1px solid black;">
-[**MS11-009**](http://technet.microsoft.com/security/bulletin/ms11-009)
+[**MS11-009**](https://technet.microsoft.com/security/bulletin/ms11-009)
 </td>
 <td style="border:1px solid black;">
-[**MS11-010**](http://technet.microsoft.com/security/bulletin/ms11-010)
+[**MS11-010**](https://technet.microsoft.com/security/bulletin/ms11-010)
 </td>
 <td style="border:1px solid black;">
-[**MS11-011**](http://technet.microsoft.com/security/bulletin/ms11-011)
+[**MS11-011**](https://technet.microsoft.com/security/bulletin/ms11-011)
 </td>
 <td style="border:1px solid black;">
-[**MS11-012**](http://technet.microsoft.com/security/bulletin/ms11-012)
+[**MS11-012**](https://technet.microsoft.com/security/bulletin/ms11-012)
 </td>
 <td style="border:1px solid black;">
-[**MS11-013**](http://technet.microsoft.com/security/bulletin/ms11-013)
+[**MS11-013**](https://technet.microsoft.com/security/bulletin/ms11-013)
 </td>
 <td style="border:1px solid black;">
-[**MS11-014**](http://technet.microsoft.com/security/bulletin/ms11-014)
+[**MS11-014**](https://technet.microsoft.com/security/bulletin/ms11-014)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -621,37 +621,37 @@ Windows Server 2003
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中等**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -818,37 +818,37 @@ Windows Vista
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS11-003**](http://technet.microsoft.com/security/bulletin/ms11-003)
+[**MS11-003**](https://technet.microsoft.com/security/bulletin/ms11-003)
 </td>
 <td style="border:1px solid black;">
-[**MS11-006**](http://technet.microsoft.com/security/bulletin/ms11-006)
+[**MS11-006**](https://technet.microsoft.com/security/bulletin/ms11-006)
 </td>
 <td style="border:1px solid black;">
-[**MS11-007**](http://technet.microsoft.com/security/bulletin/ms11-007)
+[**MS11-007**](https://technet.microsoft.com/security/bulletin/ms11-007)
 </td>
 <td style="border:1px solid black;">
-[**MS11-004**](http://technet.microsoft.com/security/bulletin/ms11-004)
+[**MS11-004**](https://technet.microsoft.com/security/bulletin/ms11-004)
 </td>
 <td style="border:1px solid black;">
-[**MS11-005**](http://technet.microsoft.com/security/bulletin/ms11-005)
+[**MS11-005**](https://technet.microsoft.com/security/bulletin/ms11-005)
 </td>
 <td style="border:1px solid black;">
-[**MS11-009**](http://technet.microsoft.com/security/bulletin/ms11-009)
+[**MS11-009**](https://technet.microsoft.com/security/bulletin/ms11-009)
 </td>
 <td style="border:1px solid black;">
-[**MS11-010**](http://technet.microsoft.com/security/bulletin/ms11-010)
+[**MS11-010**](https://technet.microsoft.com/security/bulletin/ms11-010)
 </td>
 <td style="border:1px solid black;">
-[**MS11-011**](http://technet.microsoft.com/security/bulletin/ms11-011)
+[**MS11-011**](https://technet.microsoft.com/security/bulletin/ms11-011)
 </td>
 <td style="border:1px solid black;">
-[**MS11-012**](http://technet.microsoft.com/security/bulletin/ms11-012)
+[**MS11-012**](https://technet.microsoft.com/security/bulletin/ms11-012)
 </td>
 <td style="border:1px solid black;">
-[**MS11-013**](http://technet.microsoft.com/security/bulletin/ms11-013)
+[**MS11-013**](https://technet.microsoft.com/security/bulletin/ms11-013)
 </td>
 <td style="border:1px solid black;">
-[**MS11-014**](http://technet.microsoft.com/security/bulletin/ms11-014)
+[**MS11-014**](https://technet.microsoft.com/security/bulletin/ms11-014)
 </td>
 </tr>
 <tr>
@@ -856,19 +856,16 @@ Windows Vista
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -877,10 +874,13 @@ Windows Vista
 无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -995,37 +995,37 @@ Windows Server 2008
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS11-003**](http://technet.microsoft.com/security/bulletin/ms11-003)
+[**MS11-003**](https://technet.microsoft.com/security/bulletin/ms11-003)
 </td>
 <td style="border:1px solid black;">
-[**MS11-006**](http://technet.microsoft.com/security/bulletin/ms11-006)
+[**MS11-006**](https://technet.microsoft.com/security/bulletin/ms11-006)
 </td>
 <td style="border:1px solid black;">
-[**MS11-007**](http://technet.microsoft.com/security/bulletin/ms11-007)
+[**MS11-007**](https://technet.microsoft.com/security/bulletin/ms11-007)
 </td>
 <td style="border:1px solid black;">
-[**MS11-004**](http://technet.microsoft.com/security/bulletin/ms11-004)
+[**MS11-004**](https://technet.microsoft.com/security/bulletin/ms11-004)
 </td>
 <td style="border:1px solid black;">
-[**MS11-005**](http://technet.microsoft.com/security/bulletin/ms11-005)
+[**MS11-005**](https://technet.microsoft.com/security/bulletin/ms11-005)
 </td>
 <td style="border:1px solid black;">
-[**MS11-009**](http://technet.microsoft.com/security/bulletin/ms11-009)
+[**MS11-009**](https://technet.microsoft.com/security/bulletin/ms11-009)
 </td>
 <td style="border:1px solid black;">
-[**MS11-010**](http://technet.microsoft.com/security/bulletin/ms11-010)
+[**MS11-010**](https://technet.microsoft.com/security/bulletin/ms11-010)
 </td>
 <td style="border:1px solid black;">
-[**MS11-011**](http://technet.microsoft.com/security/bulletin/ms11-011)
+[**MS11-011**](https://technet.microsoft.com/security/bulletin/ms11-011)
 </td>
 <td style="border:1px solid black;">
-[**MS11-012**](http://technet.microsoft.com/security/bulletin/ms11-012)
+[**MS11-012**](https://technet.microsoft.com/security/bulletin/ms11-012)
 </td>
 <td style="border:1px solid black;">
-[**MS11-013**](http://technet.microsoft.com/security/bulletin/ms11-013)
+[**MS11-013**](https://technet.microsoft.com/security/bulletin/ms11-013)
 </td>
 <td style="border:1px solid black;">
-[**MS11-014**](http://technet.microsoft.com/security/bulletin/ms11-014)
+[**MS11-014**](https://technet.microsoft.com/security/bulletin/ms11-014)
 </td>
 </tr>
 <tr>
@@ -1033,19 +1033,16 @@ Windows Server 2008
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中等**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -1054,10 +1051,13 @@ Windows Server 2008
 无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -1215,37 +1215,37 @@ Windows 7
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS11-003**](http://technet.microsoft.com/security/bulletin/ms11-003)
+[**MS11-003**](https://technet.microsoft.com/security/bulletin/ms11-003)
 </td>
 <td style="border:1px solid black;">
-[**MS11-006**](http://technet.microsoft.com/security/bulletin/ms11-006)
+[**MS11-006**](https://technet.microsoft.com/security/bulletin/ms11-006)
 </td>
 <td style="border:1px solid black;">
-[**MS11-007**](http://technet.microsoft.com/security/bulletin/ms11-007)
+[**MS11-007**](https://technet.microsoft.com/security/bulletin/ms11-007)
 </td>
 <td style="border:1px solid black;">
-[**MS11-004**](http://technet.microsoft.com/security/bulletin/ms11-004)
+[**MS11-004**](https://technet.microsoft.com/security/bulletin/ms11-004)
 </td>
 <td style="border:1px solid black;">
-[**MS11-005**](http://technet.microsoft.com/security/bulletin/ms11-005)
+[**MS11-005**](https://technet.microsoft.com/security/bulletin/ms11-005)
 </td>
 <td style="border:1px solid black;">
-[**MS11-009**](http://technet.microsoft.com/security/bulletin/ms11-009)
+[**MS11-009**](https://technet.microsoft.com/security/bulletin/ms11-009)
 </td>
 <td style="border:1px solid black;">
-[**MS11-010**](http://technet.microsoft.com/security/bulletin/ms11-010)
+[**MS11-010**](https://technet.microsoft.com/security/bulletin/ms11-010)
 </td>
 <td style="border:1px solid black;">
-[**MS11-011**](http://technet.microsoft.com/security/bulletin/ms11-011)
+[**MS11-011**](https://technet.microsoft.com/security/bulletin/ms11-011)
 </td>
 <td style="border:1px solid black;">
-[**MS11-012**](http://technet.microsoft.com/security/bulletin/ms11-012)
+[**MS11-012**](https://technet.microsoft.com/security/bulletin/ms11-012)
 </td>
 <td style="border:1px solid black;">
-[**MS11-013**](http://technet.microsoft.com/security/bulletin/ms11-013)
+[**MS11-013**](https://technet.microsoft.com/security/bulletin/ms11-013)
 </td>
 <td style="border:1px solid black;">
-[**MS11-014**](http://technet.microsoft.com/security/bulletin/ms11-014)
+[**MS11-014**](https://technet.microsoft.com/security/bulletin/ms11-014)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1253,34 +1253,34 @@ Windows 7
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
-</td>
-<td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -1392,37 +1392,37 @@ Windows Server 2008 R2
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS11-003**](http://technet.microsoft.com/security/bulletin/ms11-003)
+[**MS11-003**](https://technet.microsoft.com/security/bulletin/ms11-003)
 </td>
 <td style="border:1px solid black;">
-[**MS11-006**](http://technet.microsoft.com/security/bulletin/ms11-006)
+[**MS11-006**](https://technet.microsoft.com/security/bulletin/ms11-006)
 </td>
 <td style="border:1px solid black;">
-[**MS11-007**](http://technet.microsoft.com/security/bulletin/ms11-007)
+[**MS11-007**](https://technet.microsoft.com/security/bulletin/ms11-007)
 </td>
 <td style="border:1px solid black;">
-[**MS11-004**](http://technet.microsoft.com/security/bulletin/ms11-004)
+[**MS11-004**](https://technet.microsoft.com/security/bulletin/ms11-004)
 </td>
 <td style="border:1px solid black;">
-[**MS11-005**](http://technet.microsoft.com/security/bulletin/ms11-005)
+[**MS11-005**](https://technet.microsoft.com/security/bulletin/ms11-005)
 </td>
 <td style="border:1px solid black;">
-[**MS11-009**](http://technet.microsoft.com/security/bulletin/ms11-009)
+[**MS11-009**](https://technet.microsoft.com/security/bulletin/ms11-009)
 </td>
 <td style="border:1px solid black;">
-[**MS11-010**](http://technet.microsoft.com/security/bulletin/ms11-010)
+[**MS11-010**](https://technet.microsoft.com/security/bulletin/ms11-010)
 </td>
 <td style="border:1px solid black;">
-[**MS11-011**](http://technet.microsoft.com/security/bulletin/ms11-011)
+[**MS11-011**](https://technet.microsoft.com/security/bulletin/ms11-011)
 </td>
 <td style="border:1px solid black;">
-[**MS11-012**](http://technet.microsoft.com/security/bulletin/ms11-012)
+[**MS11-012**](https://technet.microsoft.com/security/bulletin/ms11-012)
 </td>
 <td style="border:1px solid black;">
-[**MS11-013**](http://technet.microsoft.com/security/bulletin/ms11-013)
+[**MS11-013**](https://technet.microsoft.com/security/bulletin/ms11-013)
 </td>
 <td style="border:1px solid black;">
-[**MS11-014**](http://technet.microsoft.com/security/bulletin/ms11-014)
+[**MS11-014**](https://technet.microsoft.com/security/bulletin/ms11-014)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1430,34 +1430,34 @@ Windows Server 2008 R2
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中等**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
-</td>
-<td style="border:1px solid black;">
-[**中等**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中等**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -1563,9 +1563,9 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 200
 
 **Windows Server 2008 和 Windows Server 2008 R2 的注释**
 
-**\*服务器核心安装受到影响。** 此更新适用于 Windows Server 2008 或 Windows Server 2008 R2 的受支持版本，严重等级相同，无论是否使用“服务器核心”安装选项进行了安装。 有关此安装选项的详细信息，请参阅 TechNet 文章[管理服务器核心安装](http://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[服务服务器核心安装](http://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx)。 注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*服务器核心安装受到影响。** 此更新适用于 Windows Server 2008 或 Windows Server 2008 R2 的受支持版本，严重等级相同，无论是否使用“服务器核心”安装选项进行了安装。 有关此安装选项的详细信息，请参阅 TechNet 文章[管理服务器核心安装](https://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[服务服务器核心安装](https://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx)。 注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
-**\*\*服务器核心安装不受影响。** 如果使用服务器核心安装选项安装如上所述的 Windows Server 2008 或 Windows Server 2008 R2，则此更新所解决的漏洞不会影响其的受支持版本。 有关此安装选项的详细信息，请参阅 TechNet 文章[管理服务器核心安装](http://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[服务服务器核心安装](http://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx)。 注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*\*服务器核心安装不受影响。** 如果使用服务器核心安装选项安装如上所述的 Windows Server 2008 或 Windows Server 2008 R2，则此更新所解决的漏洞不会影响其的受支持版本。 有关此安装选项的详细信息，请参阅 TechNet 文章[管理服务器核心安装](https://technet.microsoft.com/en-us/library/ee441255(ws.10).aspx)和[服务服务器核心安装](https://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx)。 注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
 **MS11-004 注释**
 
@@ -1591,7 +1591,7 @@ Microsoft Office 程序
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS11-008**](http://technet.microsoft.com/security/bulletin/ms11-008)
+[**MS11-008**](https://technet.microsoft.com/security/bulletin/ms11-008)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1599,7 +1599,7 @@ Microsoft Office 程序
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1640,47 +1640,47 @@ Microsoft Visio 2007 Service Pack 2
 
 **安全中心**
 
-管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](http://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](http://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](http://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
+管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](https://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](https://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](https://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
 
-安全更新可从 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 和 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 获得。 [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+安全更新可从 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 和 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) 获得。 [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
 
-对于 Microsoft Office for Mac 的客户，Microsoft AutoUpdate for Mac 有助于使 Microsoft 软件保持最新。 有关使用 Microsoft AutoUpdate for Mac 的详细信息，请参阅[自动检查软件更新](http://mac2.microsoft.com/help/office/14/en-us/word/item/ffe35357-8f25-4df8-a0a3-c258526c64ea)。
+对于 Microsoft Office for Mac 的客户，Microsoft AutoUpdate for Mac 有助于使 Microsoft 软件保持最新。 有关使用 Microsoft AutoUpdate for Mac 的详细信息，请参阅[自动检查软件更新](https://mac2.microsoft.com/help/office/14/en-us/word/item/ffe35357-8f25-4df8-a0a3-c258526c64ea)。
 
-最后，可以从 [Microsoft Update 目录](http://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](http://go.microsoft.com/fwlink/?linkid=97900)。
+最后，可以从 [Microsoft Update 目录](https://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](https://go.microsoft.com/fwlink/?linkid=97900)。
 
 **检测和部署指南**
 
-Microsoft 提供安全更新的检测和部署指南。 该指南包含可帮助 IT 专业人员了解如何使用各种工具检测和部署安全更新的建议和信息。 有关详细信息，请参阅 [Microsoft 知识库文章 961747](http://support.microsoft.com/kb/961747)。
+Microsoft 提供安全更新的检测和部署指南。 该指南包含可帮助 IT 专业人员了解如何使用各种工具检测和部署安全更新的建议和信息。 有关详细信息，请参阅 [Microsoft 知识库文章 961747](https://support.microsoft.com/kb/961747)。
 
 **Microsoft Baseline Security Analyzer**
 
-管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134)。
+管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134)。
 
 **Windows Server Update Services**
 
 通过使用 Windows Server Update Services (WSUS)，管理员可以快速可靠地将 Microsoft Windows 2000 操作系统和更高版本、Office XP 和更高版本、Exchange Server 2003 以及 SQL Server 2000 的最新关键更新和安全更新部署到 Microsoft Windows 2000 和更高版本的操作系统。
 
-有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=50120)。
+有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](https://go.microsoft.com/fwlink/?linkid=50120)。
 
 **System Center Configuration Manager 2007**
 
 Configuration Manager 2007 软件更新管理简化了在整个企业中提供和管理 IT 系统更新的复杂任务。 通过 Configuration Manager 2007，IT 管理员可以为包括台式机、便携式计算机、服务器和移动设备在内的各种设备提供 Microsoft 产品更新。
 
-Configuration Manager 2007 中的自动漏洞评估发现需要根据建议的操作进行更新和报告。 Configuration Manager 2007 中的软件更新管理基于 Microsoft Windows Software Update Services (WSUS) 构建，它是全球 IT 管理员所熟悉的经过时间检验的更新基础结构。 有关管理员如何使用 Configuration Manager 2007 部署更新的详细信息，请参阅[软件更新管理](http://www.microsoft.com/systemcenter/en/us/configuration-manager/cm-software-update-management.aspx)。 有关 Configuration Manager 的详细信息，请访问 [System Center Configuration Manager](http://www.microsoft.com/systemcenter/en/us/configuration-manager.aspx)。
+Configuration Manager 2007 中的自动漏洞评估发现需要根据建议的操作进行更新和报告。 Configuration Manager 2007 中的软件更新管理基于 Microsoft Windows Software Update Services (WSUS) 构建，它是全球 IT 管理员所熟悉的经过时间检验的更新基础结构。 有关管理员如何使用 Configuration Manager 2007 部署更新的详细信息，请参阅[软件更新管理](https://www.microsoft.com/systemcenter/en/us/configuration-manager/cm-software-update-management.aspx)。 有关 Configuration Manager 的详细信息，请访问 [System Center Configuration Manager](https://www.microsoft.com/systemcenter/en/us/configuration-manager.aspx)。
 
 **Systems Management Server 2003**
 
 Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。
 
-**注意** System Management Server 2003 自 2010 年 1 月 12 日起不再受主流支持。有关产品生命周期的详细信息，请访问 [Microsoft 技术支持生命周期](http://support.microsoft.com/common/international.aspx?rdpath=dm;en-us;lifecycle)。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；请参阅前面的部分 **System Center Configuration Manager 2007**。
+**注意** System Management Server 2003 自 2010 年 1 月 12 日起不再受主流支持。有关产品生命周期的详细信息，请访问 [Microsoft 技术支持生命周期](https://support.microsoft.com/common/international.aspx?rdpath=dm;en-us;lifecycle)。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；请参阅前面的部分 **System Center Configuration Manager 2007**。
 
-有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [Microsoft Systems Management Server 2003 的方案和过程： 软件分发和修补程序管理](http://www.microsoft.com/downloads/en/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f&displaylang=en)。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server TechCenter](http://technet.microsoft.com/en-us/systemcenter/bb545936.aspx)。
+有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [Microsoft Systems Management Server 2003 的方案和过程： 软件分发和修补程序管理](https://www.microsoft.com/downloads/en/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f&displaylang=en)。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server TechCenter](https://technet.microsoft.com/en-us/systemcenter/bb545936.aspx)。
 
-**注意** SMS 使用 Microsoft 基准安全分析器提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](http://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=en)中提供）安装这些更新。
+**注意** SMS 使用 Microsoft 基准安全分析器提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](https://www.microsoft.com/downloads/en/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=en)中提供）安装这些更新。
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 
@@ -1694,58 +1694,58 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 有关 Windows Update 和 Microsoft Update 上非安全发布的信息，请参阅：
 
--   [Microsoft 知识库文章 894199](http://support.microsoft.com/kb/894199)： Software Update Services 和 Windows Server Update Services 的内容更改说明。 包括所有 Windows 内容。
--   [过去几个月关于 Windows Server Update Services 的更新](http://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
+-   [Microsoft 知识库文章 894199](https://support.microsoft.com/kb/894199)： Software Update Services 和 Windows Server Update Services 的内容更改说明。 包括所有 Windows 内容。
+-   [过去几个月关于 Windows Server Update Services 的更新](https://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
 
 #### Microsoft Active Protections Program (MAPP)
 
-为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](http://www.microsoft.com/security/msrc/mapp/partners.mspx)中列出）提供的活动保护网站。
+为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](https://www.microsoft.com/security/msrc/mapp/partners.mspx)中列出）提供的活动保护网站。
 
 #### 安全策略和社区
 
 **更新管理策略**
 
-[更新管理安全指导](http://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
+[更新管理安全指导](https://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
 **获取其他安全更新**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
--   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](http://support.microsoft.com/kb/913086)。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+-   [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
+-   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/kb/913086)。
 
 **IT 专业人员安全区域社区**
 
-了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
 #### 鸣谢
 
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
 
--   [Trend Micro](http://www.trendmicro.com) 的 Yuki Chen 关于 MS11-003 中所述问题的报告
--   [Google Inc.](http://www.google.com/) 的 SkyLined 关于 MS11-003 中所述问题的报告
--   [Fortinet FortiGuard Labs](http://www.fortiguard.com/) 的 Haifei Li 报告了 MS11-003 中描述的问题
--   Kobi Pariente 和 Yaniv Miron 与 [VeriSign iDefense Labs](http://labs.idefense.com/) 关于 MS11-006 中所述问题的联合报告
--   Procyun 与 [TippingPoint](http://www.tippingpoint.com/) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 关于 MS11-008 中所述问题的联合报告
--   [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Xin Ouyang 关于 MS11-008 中所述两个问题的报告
--   [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 关于 MS11-009 中所述问题的报告
--   [北京大学信息安全部](http://www.ss.pku.edu.cn/en/)的 Sihan Qing（教授）、Weiping Wen（助理教授）、Liang Yin 和 Husheng Zhou（研究生）关于 MS11-010 中所述问题的报告
--   [360safe](http://www.360.cn) 的 Zhengwenbin 关于 MS11-011 中所述问题的报告
+-   [Trend Micro](https://www.trendmicro.com) 的 Yuki Chen 关于 MS11-003 中所述问题的报告
+-   [Google Inc.](https://www.google.com/) 的 SkyLined 关于 MS11-003 中所述问题的报告
+-   [Fortinet FortiGuard Labs](https://www.fortiguard.com/) 的 Haifei Li 报告了 MS11-003 中描述的问题
+-   Kobi Pariente 和 Yaniv Miron 与 [VeriSign iDefense Labs](https://labs.idefense.com/) 关于 MS11-006 中所述问题的联合报告
+-   Procyun 与 [TippingPoint](https://www.tippingpoint.com/) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 关于 MS11-008 中所述问题的联合报告
+-   [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Xin Ouyang 关于 MS11-008 中所述两个问题的报告
+-   [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 关于 MS11-009 中所述问题的报告
+-   [北京大学信息安全部](https://www.ss.pku.edu.cn/en/)的 Sihan Qing（教授）、Weiping Wen（助理教授）、Liang Yin 和 Husheng Zhou（研究生）关于 MS11-010 中所述问题的报告
+-   [360safe](https://www.360.cn) 的 Zhengwenbin 关于 MS11-011 中所述问题的报告
 -   Guo Bojun 关于 MS11-011 中所述问题的报告
 -   Wei Zhang 关于 MS11-011 中所述问题的报告
--   [Prevx](http://www.prevx.com/) 的 Marco Giuliani 与我们关于 MS11-011 中所述问题的联合报告
--   std\_logic 与 [TippingPoint](http://www.tippingpoint.com/) 的 [Zero Day Initiative](http://www.zerodayinitiative.com/) 关于 MS11-011 中所述问题的联合报告
--   [Norman](http://www.norman.com) 的 Tarjei Mandt 关于 MS11-012 中所述五个问题的报告
--   [The MIT Kerberos Team](http://web.mit.edu/kerberos) 关于 MS11-013 中所述问题的报告
--   [iSEC Partners](http://www.isecpartners.com/) 的 Scott Stender 关于 MS11-013 中所述问题的报告
+-   [Prevx](https://www.prevx.com/) 的 Marco Giuliani 与我们关于 MS11-011 中所述问题的联合报告
+-   std\_logic 与 [TippingPoint](https://www.tippingpoint.com/) 的 [Zero Day Initiative](https://www.zerodayinitiative.com/) 关于 MS11-011 中所述问题的联合报告
+-   [Norman](https://www.norman.com) 的 Tarjei Mandt 关于 MS11-012 中所述五个问题的报告
+-   [The MIT Kerberos Team](https://web.mit.edu/kerberos) 关于 MS11-013 中所述问题的报告
+-   [iSEC Partners](https://www.isecpartners.com/) 的 Scott Stender 关于 MS11-013 中所述问题的报告
 -   Primavera BSS 的安全测试员 Jorge Moura 关于 MS11-014 中所述问题的报告
 
 #### 支持
 
--   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美国和加拿大的客户可以通过[安全支持](http://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 获得技术支持。 与安全更新有关的电话支持服务是免费的。 有关可用支持选项的详细信息，请参阅 [Microsoft 帮助和支持](http://support.microsoft.com/)网站。
--   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美国和加拿大的客户可以通过[安全支持](https://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 获得技术支持。 与安全更新有关的电话支持服务是免费的。 有关可用支持选项的详细信息，请参阅 [Microsoft 帮助和支持](https://support.microsoft.com/)网站。
+-   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](https://go.microsoft.com/fwlink/?linkid=21155)。
 
 #### 免责声明
 

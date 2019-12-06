@@ -15,18 +15,18 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 
 **版本:** 1.0
 
-可通过访问以下[网站](http://www.microsoft.com/china/security/default.mspx)，获取此信息的最终用户版本。
+可通过访问以下[网站](https://www.microsoft.com/china/security/default.mspx)，获取此信息的最终用户版本。
 
 **保护您的 PC：** Microsoft 在以下位置中提供了关于您如何帮助保护 PC 的信息：
 
--   最终用户可以访问[保护您的 PC 网站](http://go.microsoft.com/fwlink/?linkid=21169)。
--   IT 专业人士可以访问[安全指南中心](http://go.microsoft.com/fwlink/?linkid=21171)网站。
+-   最终用户可以访问[保护您的 PC 网站](https://go.microsoft.com/fwlink/?linkid=21169)。
+-   IT 专业人士可以访问[安全指南中心](https://go.microsoft.com/fwlink/?linkid=21171)网站。
 
-**更新管理策略：**[修补程序管理、安全更新和下载网站](http://go.microsoft.com/fwlink/?linkid=21168)提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
+**更新管理策略：**[修补程序管理、安全更新和下载网站](https://go.microsoft.com/fwlink/?linkid=21168)提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
 
-**IT 专业人员安全区域社区：** 了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全区域网站](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+**IT 专业人员安全区域社区：** 了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全区域网站](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
-**Microsoft 安全通知服务：** 要在 Microsoft 安全公告发布时即刻接收自动的电子邮件通知，请订阅 [Microsoft 安全通知服务](http://go.microsoft.com/fwlink/?linkid=21163)。
+**Microsoft 安全通知服务：** 要在 Microsoft 安全公告发布时即刻接收自动的电子邮件通知，请订阅 [Microsoft 安全通知服务](https://go.microsoft.com/fwlink/?linkid=21163)。
 
 #### 摘要
 
@@ -38,49 +38,49 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 
 | 公告标识符       | Microsoft 安全公告 MS07-008                                                                                                |
 |------------------|----------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**HTML 帮助 ActiveX 控件中的漏洞能够允许远程执行代码 (928843)**](http://technet.microsoft.com/security/bulletin/ms07-008) |
+| **公告标题**     | [**HTML 帮助 ActiveX 控件中的漏洞能够允许远程执行代码 (928843)**](https://technet.microsoft.com/security/bulletin/ms07-008) |
 | **摘要**         | 此更新解决了 HTML 帮助中的漏洞，该漏洞可能允许远程执行代码。                                                               |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                       |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                       |
 | **漏洞的影响**   | 远程执行代码                                                                                                               |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                           |
 
 | 公告标识符       | Microsoft 安全公告 MS07-009                                                                                                          |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Data Access Components 中的漏洞可能允许远程执行代码(927779)**](http://technet.microsoft.com/security/bulletin/ms07-009) |
+| **公告标题**     | [**Microsoft Data Access Components 中的漏洞可能允许远程执行代码(927779)**](https://technet.microsoft.com/security/bulletin/ms07-009) |
 | **摘要**         | 此更新解决了 Microsoft Data Access Components 核心服务中的漏洞，该漏洞可能允许远程执行代码。                                         |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                 |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                 |
 | **漏洞的影响**   | 远程执行代码                                                                                                                         |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                                     |
 
 | 公告标识符       | Microsoft 安全公告 MS07-010                                                                                                    |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft 恶意软件保护引擎中的漏洞可能允许远程执行代码 (932135)**](http://technet.microsoft.com/security/bulletin/ms07-010) |
+| **公告标题**     | [**Microsoft 恶意软件保护引擎中的漏洞可能允许远程执行代码 (932135)**](https://technet.microsoft.com/security/bulletin/ms07-010) |
 | **摘要**         | 此更新解决了 Microsoft 恶意软件保护引擎中的漏洞，该漏洞可能允许远程执行代码。                                                  |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                           |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                           |
 | **漏洞的影响**   | 远程执行代码                                                                                                                   |
 | **受影响的软件** | **Microsoft Antivirus。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                   |
 
 | 公告标识符       | Microsoft 安全公告 MS07-014                                                                                         |
 |------------------|---------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Word 中的漏洞可能允许远程执行代码 (929434)**](http://technet.microsoft.com/security/bulletin/ms07-014) |
+| **公告标题**     | [**Microsoft Word 中的漏洞可能允许远程执行代码 (929434)**](https://technet.microsoft.com/security/bulletin/ms07-014) |
 | **摘要**         | 此更新解决了 Microsof Word 中的漏洞，该漏洞可能允许远程执行代码。                                                   |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                |
 | **漏洞的影响**   | 远程执行代码                                                                                                        |
 | **受影响的软件** | **Office。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                     |
 
 | 公告标识符       | Microsoft 安全公告 MS07-015                                                                                           |
 |------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Office 中的漏洞可能允许远程执行代码 (932554)**](http://technet.microsoft.com/security/bulletin/ms07-015) |
+| **公告标题**     | [**Microsoft Office 中的漏洞可能允许远程执行代码 (932554)**](https://technet.microsoft.com/security/bulletin/ms07-015) |
 | **摘要**         | 此更新可解决 Microsoft Office 中可能允许远程执行代码的漏洞。                                                          |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                  |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                  |
 | **漏洞的影响**   | 远程执行代码                                                                                                          |
 | **受影响的软件** | **Office。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                       |
 
 | 公告标识符       | Microsoft 安全公告 MS07-016                                                                                |
 |------------------|------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Internet Explorer 的累积性安全更新 (928090)**](http://technet.microsoft.com/security/bulletin/ms07-016) |
+| **公告标题**     | [**Internet Explorer 的累积性安全更新 (928090)**](https://technet.microsoft.com/security/bulletin/ms07-016) |
 | **摘要**         | 此更新解决了 Internet Explorer 中的漏洞，该漏洞可能允许远程执行代码。                                      |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                       |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                       |
 | **漏洞的影响**   | 远程执行代码                                                                                               |
 | **受影响的软件** | **Windows、Internet Explorer。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                        |
 
@@ -90,49 +90,49 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 
 | 公告标识符       | Microsoft 安全公告 MS07-005                                                                                                            |
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Step-by-Step Interactive Training 中的漏洞可能允许远程执行代码 (923723)**](http://technet.microsoft.com/security/bulletin/ms07-005) |
+| **公告标题**     | [**Step-by-Step Interactive Training 中的漏洞可能允许远程执行代码 (923723)**](https://technet.microsoft.com/security/bulletin/ms07-005) |
 | **摘要**         | 此更新解决了 Step-by-Step Interactive Training 中的漏洞，该漏洞可能允许远程执行代码。 要利用此漏洞，需要进行用户交互。                 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                                   |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                                   |
 | **漏洞的影响**   | 远程执行代码                                                                                                                           |
 | **受影响的软件** | **Windows Interactive Training。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                  |
 
 | 公告标识符       | Microsoft 安全公告 MS07-006                                                                                    |
 |------------------|----------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Windows Shell 中的漏洞可能允许特权提升 (928255)**](http://technet.microsoft.com/security/bulletin/ms07-006) |
+| **公告标题**     | [**Windows Shell 中的漏洞可能允许特权提升 (928255)**](https://technet.microsoft.com/security/bulletin/ms07-006) |
 | **摘要**         | 此更新解决了 Windows Shell 中的漏洞，该漏洞可能允许特权提升。                                                  |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                           |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                           |
 | **漏洞的影响**   | 特权提升                                                                                                       |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                               |
 
 | 公告标识符       | Microsoft 安全公告 MS07-007                                                                                          |
 |------------------|----------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Windows 图像捕获服务中的漏洞可能允许特权提升 (927802)**](http://technet.microsoft.com/security/bulletin/ms07-007) |
+| **公告标题**     | [**Windows 图像捕获服务中的漏洞可能允许特权提升 (927802)**](https://technet.microsoft.com/security/bulletin/ms07-007) |
 | **摘要**         | 此更新解决了 Windows 图像获取服务中的漏洞，该漏洞可能允许特权提升。                                                  |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                 |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                 |
 | **漏洞的影响**   | 特权提升                                                                                                             |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                     |
 
 | 公告标识符       | Microsoft 安全公告 MS07-011                                                                                               |
 |------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft OLE Dialog 中的漏洞可能允许远程执行代码 (926436)**](http://technet.microsoft.com/security/bulletin/ms07-011) |
+| **公告标题**     | [**Microsoft OLE Dialog 中的漏洞可能允许远程执行代码 (926436)**](https://technet.microsoft.com/security/bulletin/ms07-011) |
 | **摘要**         | 此更新解决了 Microsoft OLE Dialog 中的漏洞，该漏洞可能允许远程执行代码。 要利用此漏洞，需要进行用户交互。                 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                      |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                      |
 | **漏洞的影响**   | 远程执行代码                                                                                                              |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                          |
 
 | 公告标识符       | Microsoft 安全公告 MS07-012                                                                                        |
 |------------------|--------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft MFC 中的漏洞可能允许远程执行代码 (924667)**](http://technet.microsoft.com/security/bulletin/ms07-012) |
+| **公告标题**     | [**Microsoft MFC 中的漏洞可能允许远程执行代码 (924667)**](https://technet.microsoft.com/security/bulletin/ms07-012) |
 | **摘要**         | 此更新解决了 Microsoft MFC 中的漏洞，该漏洞可能允许远程执行代码。 要利用此漏洞，需要进行用户交互。                 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                               |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                               |
 | **漏洞的影响**   | 远程执行代码                                                                                                       |
 | **受影响的软件** | **Windows Visual Studio。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                     |
 
 | 公告标识符       | Microsoft 安全公告 MS07-013                                                                                             |
 |------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft RichEdit 中的漏洞可能允许远程执行代码 (918118)**](http://technet.microsoft.com/security/bulletin/ms07-013) |
+| **公告标题**     | [**Microsoft RichEdit 中的漏洞可能允许远程执行代码 (918118)**](https://technet.microsoft.com/security/bulletin/ms07-013) |
 | **摘要**         | 此更新解决了 Microsoft RichEdit 中的漏洞，该漏洞可能允许远程执行代码。 要利用此漏洞，需要进行用户交互。                 |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                                    |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                                    |
 | **漏洞的影响**   | 远程执行代码                                                                                                            |
 | **受影响的软件** | **Windows Office。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                 |
 
@@ -147,7 +147,7 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 
 **注意** 您可能必须为单个漏洞安装几个安全更新。 查看列出的每个公告标识符的整列，核实必须安装的更新（基于系统上已安装的程序或组件）。
 
-例如，安全公告 [MS07-061](http://technet.microsoft.com/security/bulletin/ms07-016) 提供几个可能需要安装的安全更新，具体情况取决于安装的受影响软件和受影响组件。
+例如，安全公告 [MS07-061](https://technet.microsoft.com/security/bulletin/ms07-016) 提供几个可能需要安装的安全更新，具体情况取决于安装的受影响软件和受影响组件。
 
 #### 受影响的软件和下载位置（MS07-005 至 MS07-010）
 
@@ -177,21 +177,21 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>公告标识符</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-005"><strong>MS07-005</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-006"><strong>MS07-006</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-007"><strong>MS07-007</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-008"><strong>MS07-008</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-009"><strong>MS07-009</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-010"><strong>MS07-010</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-005"><strong>MS07-005</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-006"><strong>MS07-006</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-007"><strong>MS07-007</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-008"><strong>MS07-008</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-009"><strong>MS07-009</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-010"><strong>MS07-010</strong></a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;"><strong>最高严重等级</strong></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>影响的 Windows 软件：</strong></p></td>
@@ -518,21 +518,21 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 <tbody>  
 <tr class="odd">
 <td style="border:1px solid black;"><strong>公告标识符</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-011"><strong>MS07-011</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-012"><strong>MS07-012</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-013"><strong>MS07-013</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-014"><strong>MS07-014</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-015"><strong>MS07-015</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms07-016"><strong>MS07-016</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-011"><strong>MS07-011</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-012"><strong>MS07-012</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-013"><strong>MS07-013</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-014"><strong>MS07-014</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-015"><strong>MS07-015</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms07-016"><strong>MS07-016</strong></a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;"><strong>最高严重等级</strong></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>影响的 Windows 软件：</strong></p></td>
@@ -881,9 +881,9 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 <td style="border:1px solid black;">Microsoft Office 2004 for Mac</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/mac/">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/mac/">重要</a></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/mac/">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/mac/">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
@@ -891,7 +891,7 @@ Microsoft 安全公告摘要 (2007 年 2 月)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/mac/">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/mac/">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -964,74 +964,74 @@ Microsoft 安全公告摘要 (2007 年 2 月)
   
 通过使用 Microsoft 软件更新服务 (SUS)，管理员可以在基于 Windows 2000 和 Windows Server 2003 的服务器以及运行 Windows 2000 Professional 或 Windows XP Professional 的台式机系统上快速而可靠地部署最新的关键更新和安全更新。
   
-有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务网站](http://go.microsoft.com/fwlink/?linkid=21133)。
+有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务网站](https://go.microsoft.com/fwlink/?linkid=21133)。
   
 **Windows Server 更新服务：**
   
 通过使用 Windows Server 更新服务 (WSUS)，管理员可以快速而可靠地将 Windows 2000 操作系统和更高版本、Office XP 和更高版本、Exchange Server 2003 以及 SQL Server 2000 的最新关键更新和安全更新部署到 Windows 2000 和更高版本的操作系统。
   
-有关如何使用 Windows Server 更新服务部署此安全更新的详细信息，请访问 [Windows Server 更新服务网站](http://go.microsoft.com/fwlink/?linkid=50120)。
+有关如何使用 Windows Server 更新服务部署此安全更新的详细信息，请访问 [Windows Server 更新服务网站](https://go.microsoft.com/fwlink/?linkid=50120)。
   
 **Systems Management Server：**
   
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理网站](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用[软件更新服务功能包](http://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理网站](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用[软件更新服务功能包](https://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](https://go.microsoft.com/fwlink/?linkid=21158)。
   
-**注意** SMS 使用 Microsoft 基准安全分析器和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅以下[网站](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](http://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](http://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
+**注意** SMS 使用 Microsoft 基准安全分析器和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅以下[网站](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](https://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](https://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
   
 **QChain.exe 和 Update.exe：**
   
-Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。 “*链接*”是指您在安装多个更新时，在两个安装之间不需要重新启动。此通报中描述的更新所使用的 Update.exe 内置了链接功能。使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。 有关 Qchain 的详细信息，请访问此[网站](http://go.microsoft.com/fwlink/?linkid=21156)。
+Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。 “*链接*”是指您在安装多个更新时，在两个安装之间不需要重新启动。此通报中描述的更新所使用的 Update.exe 内置了链接功能。使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。 有关 Qchain 的详细信息，请访问此[网站](https://go.microsoft.com/fwlink/?linkid=21156)。
   
 **Microsoft 基准安全分析器：**
   
-管理员可使用 Microsoft 基准安全分析器 (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft 基准安全分析器网站](http://go.microsoft.com/fwlink/?linkid=21134)。
+管理员可使用 Microsoft 基准安全分析器 (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft 基准安全分析器网站](https://go.microsoft.com/fwlink/?linkid=21134)。
   
 **检测和部署指南：**
   
-Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft 基准安全分析器 (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS)、扩展安全更新清单工具以及企业更新扫描工具 (EST)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](http://support.microsoft.com/default.aspx?scid=kb;en-us;910723)。
+Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft 基准安全分析器 (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS)、扩展安全更新清单工具以及企业更新扫描工具 (EST)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](https://support.microsoft.com/default.aspx?scid=kb;en-us;910723)。
   
 #### 其他信息：
   
 **鸣谢**
   
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
   
--   [Security-Assessment.com](http://www.security-assessment.com/) 的 Brett Moore 报告了 [MS007-005](http://technet.microsoft.com/security/bulletin/ms07-005) 中描述的问题  
--   [Metasploit Project](http://www.metasploit.com/) 的 HD Moorefor 与 Microsoft 一起努力处理了 [MS07-008](http://technet.microsoft.com/security/bulletin/ms07-008) 中描述的问题。  
--   [FrSIRT](http://www.frsirt.com/english/security-advisories) 最初报告了 [MS07-009](http://technet.microsoft.com/security/bulletin/ms07-009) 中描述的问题  
--   [ISS X-Force](http://technet.microsoft.com/security/bulletin/ms07-010) 的 Neel Mehta 和 Alex Wheeler 报告了 MS07-010 中描述的问题  
--   [Immunity, Inc](http://www.immunityinc.com/) 的 Kostya Kortchinsky 报告了 [MS07-011](http://technet.microsoft.com/security/bulletin/ms07-011) 中描述的问题  
--   [EADS Common Research Center](http://www.eads.net/) 的 Fabrice Desclaux 报告了 [MS07-012](http://technet.microsoft.com/security/bulletin/ms07-012) 中描述的问题  
--   [Immunity, Inc](http://www.immunityinc.com/) 的 Kostya Kortchinsky 报告了 [MS07-012](http://technet.microsoft.com/security/bulletin/ms07-012) 中描述的问题  
--   [Immunity, Inc](http://www.immunityinc.com/) 的 Kostya Kortchinsky 报告了 [MS07-013](http://technet.microsoft.com/security/bulletin/ms07-013) 中描述的问题  
--   [Information and Communication Security Technology Center](http://www.icst.org.tw/) 的 Shih-hao Weng 报告了 [MS07-014](http://technet.microsoft.com/security/bulletin/ms07-014) 中描述的问题。  
--   USAA 报告了 [MS07-014](http://technet.microsoft.com/security/bulletin/ms07-014) 中描述的问题  
--   [VigilantMinds Inc.](http://www.vigilantminds.com/) 的 Chris Ries 报告了 [MS07-015](http://technet.microsoft.com/security/bulletin/ms07-014) 中描述的问题  
--   [BreakingPoint Systems](http://www.bpointsys.com/) 的 HD Moore 报告了 [MS07-016](http://technet.microsoft.com/security/bulletin/ms07-016) 中描述的问题  
--   [iDEFENSE](http://idefense.com/) 报告了 [MS07-016](http://technet.microsoft.com/security/bulletin/ms07-016) 中描述的问题
+-   [Security-Assessment.com](https://www.security-assessment.com/) 的 Brett Moore 报告了 [MS007-005](https://technet.microsoft.com/security/bulletin/ms07-005) 中描述的问题  
+-   [Metasploit Project](https://www.metasploit.com/) 的 HD Moorefor 与 Microsoft 一起努力处理了 [MS07-008](https://technet.microsoft.com/security/bulletin/ms07-008) 中描述的问题。  
+-   [FrSIRT](https://www.frsirt.com/english/security-advisories) 最初报告了 [MS07-009](https://technet.microsoft.com/security/bulletin/ms07-009) 中描述的问题  
+-   [ISS X-Force](https://technet.microsoft.com/security/bulletin/ms07-010) 的 Neel Mehta 和 Alex Wheeler 报告了 MS07-010 中描述的问题  
+-   [Immunity, Inc](https://www.immunityinc.com/) 的 Kostya Kortchinsky 报告了 [MS07-011](https://technet.microsoft.com/security/bulletin/ms07-011) 中描述的问题  
+-   [EADS Common Research Center](https://www.eads.net/) 的 Fabrice Desclaux 报告了 [MS07-012](https://technet.microsoft.com/security/bulletin/ms07-012) 中描述的问题  
+-   [Immunity, Inc](https://www.immunityinc.com/) 的 Kostya Kortchinsky 报告了 [MS07-012](https://technet.microsoft.com/security/bulletin/ms07-012) 中描述的问题  
+-   [Immunity, Inc](https://www.immunityinc.com/) 的 Kostya Kortchinsky 报告了 [MS07-013](https://technet.microsoft.com/security/bulletin/ms07-013) 中描述的问题  
+-   [Information and Communication Security Technology Center](https://www.icst.org.tw/) 的 Shih-hao Weng 报告了 [MS07-014](https://technet.microsoft.com/security/bulletin/ms07-014) 中描述的问题。  
+-   USAA 报告了 [MS07-014](https://technet.microsoft.com/security/bulletin/ms07-014) 中描述的问题  
+-   [VigilantMinds Inc.](https://www.vigilantminds.com/) 的 Chris Ries 报告了 [MS07-015](https://technet.microsoft.com/security/bulletin/ms07-014) 中描述的问题  
+-   [BreakingPoint Systems](https://www.bpointsys.com/) 的 HD Moore 报告了 [MS07-016](https://technet.microsoft.com/security/bulletin/ms07-016) 中描述的问题  
+-   [iDEFENSE](https://idefense.com/) 报告了 [MS07-016](https://technet.microsoft.com/security/bulletin/ms07-016) 中描述的问题
   
 **获取其他安全更新：**
   
 可从以下位置获得针对其他安全问题的更新：
   
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。  
--   有关客户平台的更新可从 [Microsoft Update 网站](http://go.microsoft.com/fwlink/?linkid=40747)获得。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。  
+-   有关客户平台的更新可从 [Microsoft Update 网站](https://go.microsoft.com/fwlink/?linkid=40747)获得。
   
 **支持：**
   
--   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](http://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。  
--   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持网站](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](https://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。  
+-   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持网站](https://go.microsoft.com/fwlink/?linkid=21155)。
   
 **安全资源：**
   
--   [Microsoft TechNet 安全](http://go.microsoft.com/fwlink/?linkid=21132)网站提供了有关 Microsoft 产品安全的详细信息。  
--   [Microsoft 软件更新服务](http://go.microsoft.com/fwlink/?linkid=21133)  
--   [Microsoft Windows Server 更新服务](http://go.microsoft.com/fwlink/?linkid=50120)  
--   [Microsoft 基准安全分析器](http://go.microsoft.com/fwlink/?linkid=21134) (MBSA)  
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate)  
--   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)  
--   Windows Update 目录： 有关 Windows Update 目录的详细信息，请参阅 [Microsoft 知识库文章 323166](http://support.microsoft.com/default.aspx?scid=kb;en-us;323166)。  
--   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+-   [Microsoft TechNet 安全](https://go.microsoft.com/fwlink/?linkid=21132)网站提供了有关 Microsoft 产品安全的详细信息。  
+-   [Microsoft 软件更新服务](https://go.microsoft.com/fwlink/?linkid=21133)  
+-   [Microsoft Windows Server 更新服务](https://go.microsoft.com/fwlink/?linkid=50120)  
+-   [Microsoft 基准安全分析器](https://go.microsoft.com/fwlink/?linkid=21134) (MBSA)  
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate)  
+-   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)  
+-   Windows Update 目录： 有关 Windows Update 目录的详细信息，请参阅 [Microsoft 知识库文章 323166](https://support.microsoft.com/default.aspx?scid=kb;en-us;323166)。  
+-   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
   
 **免责声明：**
   

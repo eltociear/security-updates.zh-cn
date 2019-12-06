@@ -17,18 +17,18 @@ Microsoft 安全公告摘要 (2006 年 3 月)
 
 **发布日期：** 2006年3月14日
 
-可通过访问以下[网站](http://www.microsoft.com/security/default.mspx)，获取此信息的最终用户版本。
+可通过访问以下[网站](https://www.microsoft.com/security/default.mspx)，获取此信息的最终用户版本。
 
 **保护您的 PC：** Microsoft 在以下位置中提供了关于您如何帮助保护 PC 的信息：
 
--   最终用户可以访问[保护您的 PC 网站](http://go.microsoft.com/fwlink/?linkid=21169)。
--   IT 专业人士可以访问[安全指南中心](http://go.microsoft.com/fwlink/?linkid=21171)网站。
+-   最终用户可以访问[保护您的 PC 网站](https://go.microsoft.com/fwlink/?linkid=21169)。
+-   IT 专业人士可以访问[安全指南中心](https://go.microsoft.com/fwlink/?linkid=21171)网站。
 
-**更新管理策略：**[修补程序管理、安全更新和下载网站](http://go.microsoft.com/fwlink/?linkid=21168)提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
+**更新管理策略：**[修补程序管理、安全更新和下载网站](https://go.microsoft.com/fwlink/?linkid=21168)提供了 Microsoft 有关应用安全更新的最佳做法建议的详细信息。
 
-**IT 专业人员安全区域社区：** 了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全区域网站](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+**IT 专业人员安全区域社区：** 了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全区域网站](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
-**Microsoft 安全通知服务：** 要在 Microsoft 安全公告发布时即刻接收自动的电子邮件通知，请订阅 [Microsoft 安全通知服务](http://go.microsoft.com/fwlink/?linkid=21163)。
+**Microsoft 安全通知服务：** 要在 Microsoft 安全公告发布时即刻接收自动的电子邮件通知，请订阅 [Microsoft 安全通知服务](https://go.microsoft.com/fwlink/?linkid=21163)。
 
 #### 摘要
 
@@ -39,9 +39,9 @@ Microsoft 安全公告摘要 (2006 年 3 月)
 
 | 公告标识符       | Microsoft 安全公告 MS06-012                                                                                           |
 |------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**Microsoft Office 中的漏洞可能允许远程执行代码 (905413)**](http://technet.microsoft.com/security/bulletin/ms06-012) |
+| **公告标题**     | [**Microsoft Office 中的漏洞可能允许远程执行代码 (905413)**](https://technet.microsoft.com/security/bulletin/ms06-012) |
 | **摘要**         | Microsoft Office 中存在的漏洞可能允许远程执行代码。                                                                   |
-| **最高严重等级** | [严重](http://go.microsoft.com/fwlink/?linkid=21140)                                                                  |
+| **最高严重等级** | [严重](https://go.microsoft.com/fwlink/?linkid=21140)                                                                  |
 | **漏洞的影响**   | 远程执行代码                                                                                                          |
 | **受影响的软件** | **Office。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                       |
 
@@ -50,9 +50,9 @@ Microsoft 安全公告摘要 (2006 年 3 月)
 
 | 公告标识符       | Microsoft 安全公告 MS06-011                                                                                       |
 |------------------|-------------------------------------------------------------------------------------------------------------------|
-| **公告标题**     | [**许可的 Windows 服务 DACL 可能导致特权提升 (914798)**](http://technet.microsoft.com/security/bulletin/ms06-011) |
+| **公告标题**     | [**许可的 Windows 服务 DACL 可能导致特权提升 (914798)**](https://technet.microsoft.com/security/bulletin/ms06-011) |
 | **摘要**         | 存在一个特权提升漏洞，可能允许拥有有效登录凭据的用户完全控制系统。                                                |
-| **最高严重等级** | [重要](http://go.microsoft.com/fwlink/?linkid=21140)                                                              |
+| **最高严重等级** | [重要](https://go.microsoft.com/fwlink/?linkid=21140)                                                              |
 | **漏洞的影响**   | 特权提升                                                                                                          |
 | **受影响的软件** | **Windows。** 有关详细信息，请参阅“受影响的软件和下载位置”部分。                                                  |
 
@@ -88,13 +88,13 @@ Microsoft 安全公告摘要 (2006 年 3 月)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>公告标识符</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-011"><strong>MS06-011</strong></a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms06-012"><strong>MS06-012</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-011"><strong>MS06-011</strong></a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms06-012"><strong>MS06-012</strong></a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;"><strong>最高严重等级</strong></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>重要</strong></a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140"><strong>严重</strong></a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>受影响的 Windows 软件：</strong></p></td>
@@ -259,12 +259,12 @@ Microsoft 安全公告摘要 (2006 年 3 月)
 <tr class="odd">
 <td style="border:1px solid black;">Excel X for Mac</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/mac/">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/mac/">重要</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Excel 2004 for Mac</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/mac/">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/mac/">重要</a></td>
 </tr>  
 </tbody>  
 </table>
@@ -277,86 +277,86 @@ Microsoft 安全公告摘要 (2006 年 3 月)
   
 通过使用 Microsoft 软件更新服务 (SUS)，管理员可以在基于 Windows 2000 和 Windows Server 2003 的服务器以及运行 Windows 2000 Professional 或 Windows XP Professional 的台式机系统上快速而可靠地部署最新的关键更新和安全更新。
   
-有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务网站](http://go.microsoft.com/fwlink/?linkid=21133)。
+有关如何使用软件更新服务部署此安全更新的详细信息，请访问[软件更新服务网站](https://go.microsoft.com/fwlink/?linkid=21133)。
   
 **Windows Server 更新服务：**
   
 通过使用 Windows Server 更新服务 (WSUS)，管理员可以快速而可靠地将 Windows 2000 操作系统和更高版本、Office XP 和更高版本、Exchange Server 2003 以及 SQL Server 2000 的最新关键更新和安全更新部署到 Windows 2000 和更高版本的操作系统。
   
-有关如何使用 Windows Server 更新服务部署此安全更新的详细信息，请访问 [Windows Server 更新服务网站](http://go.microsoft.com/fwlink/?linkid=50120)。
+有关如何使用 Windows Server 更新服务部署此安全更新的详细信息，请访问 [Windows Server 更新服务网站](https://go.microsoft.com/fwlink/?linkid=50120)。
   
 **Systems Management Server：**
   
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理网站](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用[软件更新服务功能包](http://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理网站](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用[软件更新服务功能包](https://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](https://go.microsoft.com/fwlink/?linkid=21158)。
   
-**注意** SMS 使用 Microsoft 基准安全分析器和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅以下[网站](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](http://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](http://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
+**注意** SMS 使用 Microsoft 基准安全分析器和 Microsoft Office 检测工具，提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅以下[网站](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](https://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](https://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
   
 **QChain.exe 和 Update.exe：**
   
-Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。 “*链接*”是指您在安装多个更新时，在两个安装之间不需要重新启动。此通报中描述的更新所使用的 Update.exe 内置了链接功能。使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。 有关 Qchain 的详细信息，请访问此[网站](http://go.microsoft.com/fwlink/?linkid=21156)。
+Microsoft 已发布了一个名为 QChain.exe 的命令行工具，系统管理员可使用它将安全更新安全地链接在一起。 “*链接*”是指您在安装多个更新时，在两个安装之间不需要重新启动。此通报中描述的更新所使用的 Update.exe 内置了链接功能。使用 Windows 2000 Service Pack 2 或更高版本、Windows XP 或 Windows Server 2003 的用户不需要使用 Qchain.exe 来链接这些更新。Qchain.exe 仍支持将这些 Windows 更新链接在一起，以使管理员在所有平台上创建一致的部署脚本。 有关 Qchain 的详细信息，请访问此[网站](https://go.microsoft.com/fwlink/?linkid=21156)。
   
 **Microsoft 基准安全分析器：**
   
-管理员可使用 Microsoft 基准安全分析器 (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft 基准安全分析器网站](http://go.microsoft.com/fwlink/?linkid=21134)。
+管理员可使用 Microsoft 基准安全分析器 (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft 基准安全分析器网站](https://go.microsoft.com/fwlink/?linkid=21134)。
   
 **检测和部署指南：**
   
-Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft 基准安全分析器 (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS)、扩展安全更新清单工具以及企业更新扫描工具 (EST)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](http://support.microsoft.com/kb/910723)。
+Microsoft 已为本月的安全更新提供了检测和部署指南。 此指南还将帮助 IT 专业人士了解如何可以使用各种工具帮助部署安全更新，例如 Windows Update、Microsoft Update、Office Update、Microsoft 基准安全分析器 (MBSA)、Office 检测工具、Microsoft Systems Management Server (SMS)、扩展安全更新清单工具以及企业更新扫描工具 (EST)。 有关详细信息，请参阅 [Microsoft 知识库文章 910723](https://support.microsoft.com/kb/910723)。
   
 #### 其他信息：
   
 **鸣谢**
   
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
   
--   [SIA Group](http://www.siainternational.com/) 的 Andres Tarasco 与我们一起处理了 [MS06-011](http://technet.microsoft.com/security/bulletin/ms06-011) 中所述的问题。  
--   [Symantec](http://symantec.com/) 的 Ollie Whitehouse 报告了 [MS06-012](http://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
--   [FelicioX](mailto:feliciox@gmail.com) 与我们一起处理了 [MS06-012](http://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
--   [NGS Software](http://www.ngssoftware.com/index.htm) 的 Peter Winter-Smith 报告了 [MS06-012](http://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
--   [Fortinet Security Response Team](http://www.fortinet.com/) 的 Dejun 报告了 [MS06-012](http://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
--   [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 报告了 [MS06-012](http://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
--   [XFOCUS Security Team](http://www.xfocus.org/) 的 Eyas 报告了 [MS06-012](http://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。
+-   [SIA Group](https://www.siainternational.com/) 的 Andres Tarasco 与我们一起处理了 [MS06-011](https://technet.microsoft.com/security/bulletin/ms06-011) 中所述的问题。  
+-   [Symantec](https://symantec.com/) 的 Ollie Whitehouse 报告了 [MS06-012](https://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
+-   [FelicioX](mailto:feliciox@gmail.com) 与我们一起处理了 [MS06-012](https://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
+-   [NGS Software](https://www.ngssoftware.com/index.htm) 的 Peter Winter-Smith 报告了 [MS06-012](https://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
+-   [Fortinet Security Response Team](https://www.fortinet.com/) 的 Dejun 报告了 [MS06-012](https://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
+-   [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 报告了 [MS06-012](https://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。  
+-   [XFOCUS Security Team](https://www.xfocus.org/) 的 Eyas 报告了 [MS06-012](https://technet.microsoft.com/security/bulletin/ms06-012) 中所述的问题。
   
 **获取其他安全更新：**
   
 可从以下位置获得针对其他安全问题的更新：
   
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。  
--   有关客户平台的更新可从 [Microsoft Update 网站](http://go.microsoft.com/fwlink/?linkid=40747)获得。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过搜索关键字“安全修补程序”，可以非常方便地找到这些更新。  
+-   有关客户平台的更新可从 [Microsoft Update 网站](https://go.microsoft.com/fwlink/?linkid=40747)获得。
   
 **支持：**
   
--   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](http://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。  
--   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持网站](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   美国和加拿大的客户可拨打电话 1-866-PCSAFETY，从 [Microsoft 产品支持服务](https://go.microsoft.com/fwlink/?linkid=21131)获得技术支持。 与安全更新有关的电话支持服务是免费的。  
+-   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 取得联系方面的详细信息，请访问[国际支持网站](https://go.microsoft.com/fwlink/?linkid=21155)。
   
 **安全资源：**
   
--   [Microsoft TechNet 安全](http://go.microsoft.com/fwlink/?linkid=21132)网站提供了有关 Microsoft 产品安全的其他信息。  
--   [Microsoft 软件更新服务](http://go.microsoft.com/fwlink/?linkid=21133)  
--   [Microsoft Windows Server 更新服务](http://go.microsoft.com/fwlink/?linkid=50120)  
--   [Microsoft 基准安全分析器](http://go.microsoft.com/fwlink/?linkid=21134) (MBSA)  
--   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)  
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate)  
--   Windows Update 目录： 有关 Windows Update 目录的详细信息，请参阅 [Microsoft 知识库文章 323166](http://support.microsoft.com/kb/323166)。  
--   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+-   [Microsoft TechNet 安全](https://go.microsoft.com/fwlink/?linkid=21132)网站提供了有关 Microsoft 产品安全的其他信息。  
+-   [Microsoft 软件更新服务](https://go.microsoft.com/fwlink/?linkid=21133)  
+-   [Microsoft Windows Server 更新服务](https://go.microsoft.com/fwlink/?linkid=50120)  
+-   [Microsoft 基准安全分析器](https://go.microsoft.com/fwlink/?linkid=21134) (MBSA)  
+-   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)  
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate)  
+-   Windows Update 目录： 有关 Windows Update 目录的详细信息，请参阅 [Microsoft 知识库文章 323166](https://support.microsoft.com/kb/323166)。  
+-   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
   
 **软件更新服务：**
   
 通过使用 Microsoft 软件更新服务 (SUS)，管理员可以在基于 Windows 2000 的服务器和基于 Windows Server 2003 的服务器以及运行 Windows 2000 Professional 或 Windows XP Professional 的台式机系统上快速而可靠地部署最新的重要更新和安全更新。
   
-有关如何使用软件更新服务部署安全更新的详细信息，请访问[软件更新服务网站](http://go.microsoft.com/fwlink/?linkid=21133)。
+有关如何使用软件更新服务部署安全更新的详细信息，请访问[软件更新服务网站](https://go.microsoft.com/fwlink/?linkid=21133)。
   
 **Windows Server 更新服务：**
   
 通过使用 Windows Server 更新服务 (WSUS)，管理员可以快速而可靠地将 Windows 2000 操作系统和更高版本、Microsoft Office XP 和更高版本、Microsoft Exchange Server 2003 以及 Microsoft SQL Server 2000 的最新关键更新和安全更新部署到 Windows 2000 和更高版本的操作系统。
   
-有关如何使用 Windows Server 更新服务部署安全更新的详细信息，请访问 [Windows Server 更新服务网站](http://go.microsoft.com/fwlink/?linkid=50120)。
+有关如何使用 Windows Server 更新服务部署安全更新的详细信息，请访问 [Windows Server 更新服务网站](https://go.microsoft.com/fwlink/?linkid=50120)。
   
 **Systems Management Server：**
   
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而只对最终用户造成最低程度的干扰。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请访问 [SMS 2003 安全修补程序管理网站](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用[软件更新服务功能包](http://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而只对最终用户造成最低程度的干扰。 有关管理员如何使用 SMS 2003 来部署安全更新的详细信息，请访问 [SMS 2003 安全修补程序管理网站](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用[软件更新服务功能包](https://go.microsoft.com/fwlink/?linkid=33340)帮助部署安全更新。 有关 SMS 的信息，请访问 [SMS 网站](https://go.microsoft.com/fwlink/?linkid=21158)。
   
-**注意** SMS 使用 Microsoft 基准安全分析器、Office 检测工具和企业更新扫描工具为安全公告更新检测和部署提供广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请访问以下[网站](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](http://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](http://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
+**注意** SMS 使用 Microsoft 基准安全分析器、Office 检测工具和企业更新扫描工具为安全公告更新检测和部署提供广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请访问以下[网站](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](https://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](https://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
   
 **免责声明：**
   

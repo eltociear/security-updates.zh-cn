@@ -17,11 +17,11 @@ Microsoft 安全公告摘要 (2009 年 10 月)
 
 本公告摘要列出了 2009 年 10 月发布的安全公告。
 
-对于 2009 年 10 月发布的安全公告，本公告摘要替代 2009 年 10 月 8 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](http://technet.microsoft.com/security/bulletin/advance)。
+对于 2009 年 10 月发布的安全公告，本公告摘要替代 2009 年 10 月 8 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](https://technet.microsoft.com/security/bulletin/advance)。
 
-有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
-Microsoft 将在 2009 年 10 月 14 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 10 月份安全公告网络广播](http://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032407488&culture=en-us)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](http://technet.microsoft.com/security/bulletin/summary)。
+Microsoft 将在 2009 年 10 月 14 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。 [立即注册申请收听 10 月份安全公告网络广播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032407488&culture=en-us)。 此日期之后，此网络广播按需提供。 有关详细信息，请参阅 [Microsoft 安全公告摘要和网络广播](https://technet.microsoft.com/security/bulletin/summary)。
 
 Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每月安全更新同日发布的任何高优先级非安全更新进行优先排序。 请参阅**其他信息**部分。
 
@@ -47,72 +47,72 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=163970">MS09-050</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=163970">MS09-050</a></td>
 <td style="border:1px solid black;"><strong>SMBv2 中的漏洞可能允许远程执行代码 (975517)</strong><br />
 <br />
 此安全更新解决服务器消息块版本 2 (SMBv2) 中一个公开披露和两个秘密报告的漏洞。 如果攻击者向运行 Server 的计算机发送特制的 SMB 数据包，则这些漏洞中最严重的漏洞可能允许远程执行代码。 采用防火墙最佳做法和标准的默认防火墙配置，有助于保护网络免受从企业外部发起的攻击。 按照最佳做法，应使连接到 Internet 的系统所暴露的端口数尽可能少。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=125438">MS09-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=125438">MS09-051</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Runtime 中的漏洞可能允许远程执行代码 (975682)</strong><br />
 <br />
 此安全更新可解决 Windows Media Runtime 中两个秘密报告的漏洞。 如果用户打开一个特制的媒体文件或从网站或提供 Web 内容的任何应用程序接收特制的流式内容，这些漏洞则可能允许远程执行代码。 成功利用这些漏洞的攻击者可以获得与本地用户相同的用户权限。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=163913">MS09-052</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=163913">MS09-052</a></td>
 <td style="border:1px solid black;"><strong>Windows Media Player 中的漏洞可能允许远程执行代码 (974112)</strong><br />
 <br />
 此安全更新可解决 Windows Media Player 中一个秘密报告的漏洞。 如果使用 Windows Media Player 6.4 播放特制的 ASF 文件，此漏洞可能允许远程执行代码。成功利用此漏洞的攻击者可以获得与本地用户相同的用户权限。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=163979">MS09-054</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=163979">MS09-054</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 的累积性安全更新 (974455)</strong><br />
 <br />
 此安全更新可解决 Internet Explorer 中三个秘密报告的漏洞和一个公开披露的漏洞。 如果用户使用 Internet Explorer 查看特制网页，则所有漏洞可能允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 正在运行 Windows Presentation Foundation (WPF) 插件并且没有禁用该插件的 Firefox 用户也应该应用此安全更新。 有关此问题的详细信息，请参阅 HTML 组件处理漏洞 (CVE-2009-2529) 的常见问题部分。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows，<br />
 Internet Explorer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms09-055">MS09-055</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms09-055">MS09-055</a></td>
 <td style="border:1px solid black;"><strong>ActiveX Kill Bit 的累积性安全更新 (973525)</strong><br />
 <br />
 此安全更新解决了当前正被利用的多个 ActiveX 控件公有的一个秘密报告的漏洞。 如果用户使用实例化 ActiveX 控件的 Internet Explorer 查看特制网页，影响使用 Microsoft 活动模板库 (ATL) 容易受攻击版本编译的 ActiveX 控件的漏洞可能允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=160633">MS09-060</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=160633">MS09-060</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码 (973965)</strong><br />
 <br />
 此安全更新可解决使用 Microsoft 活动模板库 (ATL) 的容易受攻击版本编译的 Microsoft Office ActiveX 控件中的多个秘密报告的漏洞。 如果用户加载了特制组件或控件，这些漏洞可以允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=160527">MS09-061</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=160527">MS09-061</a></td>
 <td style="border:1px solid black;"><strong>Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)</strong><br />
 <br />
 此安全更新解决 Microsoft .NET Framework 和 Microsoft Silverlight 中三个秘密报告的漏洞。 如果用户使用可以运行 XAML 浏览器应用程序 (XBAP) 或 Silverlight 应用程序的 Web 浏览器查看特制网页，或者攻击者成功地说服用户运行特制 Microsoft .NET 应用程序，这些漏洞可能允许在客户端系统上远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。 如果运行 IIS 的服务器系统允许处理 ASP.NET 页面，并且攻击者成功地将特制 ASP.NET 页面上载到该服务器并执行它，这些漏洞也可能允许在该服务器系统上远程执行代码，在 Web 主机情形中也是如此。 非恶意的 Microsoft .NET 应用程序、Silverlight 应用程序、XBAP 和 ASP.NET 页面不受此漏洞的影响。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows，<br />
@@ -120,11 +120,11 @@ Microsoft .NET Framework，<br />
 Microsoft Silverlight</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=161342">MS09-062</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=161342">MS09-062</a></td>
 <td style="border:1px solid black;"><strong>GDI+ 中的漏洞可能允许远程执行代码 (957488)</strong><br />
 <br />
 此安全更新可解决 Microsoft Windows GDI+ 中许多秘密报告的漏洞。 如果用户使用受影响的软件查看特制图像文件或浏览包含特制内容的网站，则这些漏洞可能允许远程执行代码。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">严重</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows，<br />
@@ -136,51 +136,51 @@ Microsoft 开发工具，<br />
 Microsoft Forefront</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=164004">MS09-053</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=164004">MS09-053</a></td>
 <td style="border:1px solid black;"><strong>用于 Internet 信息服务的 FTP 服务中的漏洞可能允许远程执行代码 (975254)</strong><br />
 <br />
 此安全更新可解决 Microsoft Internet Information Services (IIS) 5.0、Microsoft Internet Information Services (IIS) 5.1、Microsoft Internet Information Services (IIS) 6.0 和 Microsoft Internet Information Services (IIS) 7.0 的 FTP 服务中两个公开披露的漏洞。在 IIS 7.0 中，仅 FTP Service 6.0 受到影响。 这些漏洞可能允许对在 IIS 5.0 上运行 FTP 服务的系统远程执行代码 (RCE)，或对在 IIS 5.0、IIS 5.1、IIS 6.0 或 IIS 7.0 上运行 FTP 服务的系统拒绝服务 (DoS)。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=163830">MS09-056</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=163830">MS09-056</a></td>
 <td style="border:1px solid black;"><strong>Windows CryptoAPI 中的漏洞可能允许欺骗 (974571)</strong><br />
 <br />
 此安全更新解决了 Microsoft Windows 中两个公开披露的漏洞。 如果攻击者获得对最终用户用于身份验证的证书的访问，那么这些漏洞可能允许欺骗。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 欺骗</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=163832">MS09-057</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=163832">MS09-057</a></td>
 <td style="border:1px solid black;"><strong>索引服务中的漏洞可能允许远程执行代码 (969059)</strong><br />
 <br />
 此安全更新解决了 Microsoft Windows 中一个秘密报告的漏洞。 如果攻击者设置了一个通过调用 ActiveX 组件来调用索引服务的恶意网页，该漏洞可能允许远程执行代码。 此调用可能包括一个恶意的 URL 和利用漏洞，使攻击者凭借用户浏览网页的权限访问客户端系统。 那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 远程执行代码</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=162442">MS09-058</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=162442">MS09-058</a></td>
 <td style="border:1px solid black;"><strong>Windows 内核中的漏洞可能允许特权提升 (971486)</strong><br />
 <br />
 此安全更新可解决 Windows 内核中许多秘密报告的漏洞。 如果攻击者登录系统并运行特制应用程序，最严重的漏洞可能允许特权提升。 攻击者必须拥有有效的登录凭据并能本地登录才能利用这些漏洞。 匿名用户无法利用这些漏洞，也无法以远程方式利用这些漏洞。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=163843">MS09-059</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=163843">MS09-059</a></td>
 <td style="border:1px solid black;"><strong>本地安全机构子系统服务中的漏洞可能允许拒绝服务（975467）</strong><br />
 <br />
 此安全更新解决了 Microsoft Windows 中一个秘密报告的漏洞。 如果攻击者在 NTLM 身份验证过程中发送一个恶意制造的数据包，则此漏洞可能允许拒绝服务。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a><br />
 拒绝服务</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
@@ -196,44 +196,44 @@ Microsoft Forefront</td>
   
 **我如何使用该表呢？**
   
-使用该表了解安全公告发布 30 天内为您可能需要安装的每个安全更新发布有效漏洞检测代码的可能性。 您应该根据您的特定配置，检查下面的每个评估，从而确定部署的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/en-us/security/cc998259.aspx)。
+使用该表了解安全公告发布 30 天内为您可能需要安装的每个安全更新发布有效漏洞检测代码的可能性。 您应该根据您的特定配置，检查下面的每个评估，从而确定部署的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](https://technet.microsoft.com/en-us/security/cc998259.aspx)。
   
 | 公告 ID                                                             | 公告标题                                                                                          | CVE ID                                                                           | 利用指数评估                                                                                      | 重要注意事项                                                                                                                                                                                                                                                                                          |  
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| [MS09-050](http://go.microsoft.com/fwlink/?linkid=163970)           | SMBv2 中的漏洞可能允许远程执行代码 (975517)                                                       | [CVE-2009-2526](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2526) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个受限的拒绝服务漏洞。                                                                                                                                                                                                                                                                          |  
-| [MS09-050](http://go.microsoft.com/fwlink/?linkid=163970)           | SMBv2 中的漏洞可能允许远程执行代码 (975517)                                                       | [CVE-2009-2532](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2532) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-050](http://go.microsoft.com/fwlink/?linkid=163970)           | SMBv2 中的漏洞可能允许远程执行代码 (975517)                                                       | [CVE-2009-3103](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3103) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | 漏洞检测代码已公开发布。                                                                                                                                                                                                                                                                              |  
-| [MS09-051](http://go.microsoft.com/fwlink/?linkid=125438)           | Windows Media Runtime 中的漏洞可能允许远程执行代码 (975682)                                       | [CVE-2009-0555](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0555) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-051](http://go.microsoft.com/fwlink/?linkid=125438)           | Windows Media Runtime 中的漏洞可能允许远程执行代码 (975682)                                       | [CVE-2009-2525](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2525) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-052](http://go.microsoft.com/fwlink/?linkid=163913)           | Windows Media Player 中的漏洞可能允许远程执行代码 (974112)                                        | [CVE-2009-2527](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2527) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-053](http://go.microsoft.com/fwlink/?linkid=164004)           | 用于 Internet 信息服务的 FTP 服务中的漏洞可能允许远程执行代码 (975254)                            | [CVE-2009-2521](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2521) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个拒绝服务漏洞。 漏洞检测代码已公开发布。                                                                                                                                                                                                                                                       |  
-| [MS09-053](http://go.microsoft.com/fwlink/?linkid=164004)           | 用于 Internet 信息服务的 FTP 服务中的漏洞可能允许远程执行代码 (975254)                            | [CVE-2009-3023](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3023) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | 漏洞检测代码已公开发布。                                                                                                                                                                                                                                                                              |  
-| [MS09-054](http://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-1547](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1547) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-054](http://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-2529](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2529) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-054](http://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-2530](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2530) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | 在 Microsoft Windows 2000 系统上，缺少堆保护会使利用指数评估增大到 [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能的一致漏洞检测代码。                                                                                                                                      |  
-| [MS09-054](http://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-2531](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2531) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   |                                                                                                                                                                                                                                                                                                       |  
-| [MS09-055](http://technet.microsoft.com/security/bulletin/ms09-055) | ActiveX Kill Bit 的累积性安全更新 (973525)                                                        | [CVE-2009-2493](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 无                                                                                                | （[7 月安全公告摘要](http://technet.microsoft.com/security/bulletin/ms09-jul)中已经为此漏洞提供了利用指数评估。 这是因为此漏洞在 [MS09-035](http://go.microsoft.com/fwlink/?linkid=158131) MS09-035。另请参阅 [MS09-060](http://go.microsoft.com/fwlink/?linkid=160633) 中的相同 CVE 编号。           |  
-| [MS09-056](http://go.microsoft.com/fwlink/?linkid=163830)           | Windows CryptoAPI 中的漏洞可能允许欺骗 (974571)                                                   | [CVE-2009-2510](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2510) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是欺骗漏洞。                                                                                                                                                                                                                                                                                        |  
-| [MS09-056](http://go.microsoft.com/fwlink/?linkid=163830)           | Windows CryptoAPI 中的漏洞可能允许欺骗 (974571)                                                   | [CVE-2009-2511](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2511) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是欺骗漏洞。                                                                                                                                                                                                                                                                                        |  
-| [MS09-057](http://go.microsoft.com/fwlink/?linkid=163832)           | 索引服务中的漏洞可能允许远程执行代码 (969059)                                                     | [CVE-2009-2507](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2507) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-058](http://go.microsoft.com/fwlink/?linkid=162442)           | Windows 内核中的漏洞可能允许特权提升 (971486)                                                     | [CVE-2009-2515](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2515) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-058](http://go.microsoft.com/fwlink/?linkid=162442)           | Windows 内核中的漏洞可能允许特权提升 (971486)                                                     | [CVE-2009-2516](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2516) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 当使用网络共享作为目标时，此漏洞导致拒绝服务情形，当本地使用以本地系统为目标时，此漏洞导致特权提升情形。                                                                                                                                                                                              |  
-| [MS09-058](http://go.microsoft.com/fwlink/?linkid=162442)           | Windows 内核中的漏洞可能允许特权提升 (971486)                                                     | [CVE-2009-2517](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2517) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个拒绝服务漏洞。                                                                                                                                                                                                                                                                                |  
-| [MS09-059](http://go.microsoft.com/fwlink/?linkid=163843)           | 本地安全机构子系统服务中的漏洞可能允许拒绝服务 (975467)                                           | [CVE-2009-2524](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2524) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个受限的拒绝服务漏洞。                                                                                                                                                                                                                                                                          |  
-| [MS09-060](http://go.microsoft.com/fwlink/?linkid=160633)           | Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码（973965） | [CVE-2009-0901](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | 无                                                                                                | （[7 月安全公告摘要](http://technet.microsoft.com/security/bulletin/ms09-jul)中已经为此漏洞提供了利用指数评估。 这是因为此漏洞在 [MS09-035](http://go.microsoft.com/fwlink/?linkid=158131) 中最先解决。）                                                                                             |  
-| [MS09-060](http://go.microsoft.com/fwlink/?linkid=160633)           | Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码（973965） | [CVE-2009-2493](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 无                                                                                                | （[7 月安全公告摘要](http://technet.microsoft.com/security/bulletin/ms09-jul)中已经为此漏洞提供了利用指数评估。 这是因为此漏洞在 [MS09-035](http://go.microsoft.com/fwlink/?linkid=158131) MS09-035。另请参阅 [MS09-055](http://technet.microsoft.com/security/bulletin/ms09-055) 中的相同 CVE 编号。 |  
-| [MS09-060](http://go.microsoft.com/fwlink/?linkid=160633)           | Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码（973965） | [CVE-2009-2495](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个信息泄露漏洞。                                                                                                                                                                                                                                                                                |  
-| [MS09-061](http://go.microsoft.com/fwlink/?linkid=160527)           | Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)                                | [CVE-2009-0090](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0090) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-061](http://go.microsoft.com/fwlink/?linkid=160527)           | Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)                                | [CVE-2009-0091](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0091) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-061](http://go.microsoft.com/fwlink/?linkid=160527)           | Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)                                | [CVE-2009-2497](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2497) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | 可能存在影响 Internet 的攻击。                                                                                                                                                                                                                                                                        |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2500](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2500) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2501](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2501) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2502](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2502) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2503](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2503) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2504](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2504) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2518](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2518) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2528](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2528) | [**1**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
-| [MS09-062](http://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-3126](http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3126) | [**2**](http://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |
+| [MS09-050](https://go.microsoft.com/fwlink/?linkid=163970)           | SMBv2 中的漏洞可能允许远程执行代码 (975517)                                                       | [CVE-2009-2526](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2526) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个受限的拒绝服务漏洞。                                                                                                                                                                                                                                                                          |  
+| [MS09-050](https://go.microsoft.com/fwlink/?linkid=163970)           | SMBv2 中的漏洞可能允许远程执行代码 (975517)                                                       | [CVE-2009-2532](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2532) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-050](https://go.microsoft.com/fwlink/?linkid=163970)           | SMBv2 中的漏洞可能允许远程执行代码 (975517)                                                       | [CVE-2009-3103](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3103) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | 漏洞检测代码已公开发布。                                                                                                                                                                                                                                                                              |  
+| [MS09-051](https://go.microsoft.com/fwlink/?linkid=125438)           | Windows Media Runtime 中的漏洞可能允许远程执行代码 (975682)                                       | [CVE-2009-0555](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0555) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-051](https://go.microsoft.com/fwlink/?linkid=125438)           | Windows Media Runtime 中的漏洞可能允许远程执行代码 (975682)                                       | [CVE-2009-2525](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2525) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-052](https://go.microsoft.com/fwlink/?linkid=163913)           | Windows Media Player 中的漏洞可能允许远程执行代码 (974112)                                        | [CVE-2009-2527](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2527) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-053](https://go.microsoft.com/fwlink/?linkid=164004)           | 用于 Internet 信息服务的 FTP 服务中的漏洞可能允许远程执行代码 (975254)                            | [CVE-2009-2521](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2521) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个拒绝服务漏洞。 漏洞检测代码已公开发布。                                                                                                                                                                                                                                                       |  
+| [MS09-053](https://go.microsoft.com/fwlink/?linkid=164004)           | 用于 Internet 信息服务的 FTP 服务中的漏洞可能允许远程执行代码 (975254)                            | [CVE-2009-3023](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3023) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | 漏洞检测代码已公开发布。                                                                                                                                                                                                                                                                              |  
+| [MS09-054](https://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-1547](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-1547) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-054](https://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-2529](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2529) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-054](https://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-2530](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2530) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | 在 Microsoft Windows 2000 系统上，缺少堆保护会使利用指数评估增大到 [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 可能的一致漏洞检测代码。                                                                                                                                      |  
+| [MS09-054](https://go.microsoft.com/fwlink/?linkid=163979)           | Internet Explorer 的累积性安全更新 (974455)                                                       | [CVE-2009-2531](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2531) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   |                                                                                                                                                                                                                                                                                                       |  
+| [MS09-055](https://technet.microsoft.com/security/bulletin/ms09-055) | ActiveX Kill Bit 的累积性安全更新 (973525)                                                        | [CVE-2009-2493](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 无                                                                                                | （[7 月安全公告摘要](https://technet.microsoft.com/security/bulletin/ms09-jul)中已经为此漏洞提供了利用指数评估。 这是因为此漏洞在 [MS09-035](https://go.microsoft.com/fwlink/?linkid=158131) MS09-035。另请参阅 [MS09-060](https://go.microsoft.com/fwlink/?linkid=160633) 中的相同 CVE 编号。           |  
+| [MS09-056](https://go.microsoft.com/fwlink/?linkid=163830)           | Windows CryptoAPI 中的漏洞可能允许欺骗 (974571)                                                   | [CVE-2009-2510](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2510) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是欺骗漏洞。                                                                                                                                                                                                                                                                                        |  
+| [MS09-056](https://go.microsoft.com/fwlink/?linkid=163830)           | Windows CryptoAPI 中的漏洞可能允许欺骗 (974571)                                                   | [CVE-2009-2511](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2511) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是欺骗漏洞。                                                                                                                                                                                                                                                                                        |  
+| [MS09-057](https://go.microsoft.com/fwlink/?linkid=163832)           | 索引服务中的漏洞可能允许远程执行代码 (969059)                                                     | [CVE-2009-2507](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2507) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-058](https://go.microsoft.com/fwlink/?linkid=162442)           | Windows 内核中的漏洞可能允许特权提升 (971486)                                                     | [CVE-2009-2515](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2515) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-058](https://go.microsoft.com/fwlink/?linkid=162442)           | Windows 内核中的漏洞可能允许特权提升 (971486)                                                     | [CVE-2009-2516](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2516) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 当使用网络共享作为目标时，此漏洞导致拒绝服务情形，当本地使用以本地系统为目标时，此漏洞导致特权提升情形。                                                                                                                                                                                              |  
+| [MS09-058](https://go.microsoft.com/fwlink/?linkid=162442)           | Windows 内核中的漏洞可能允许特权提升 (971486)                                                     | [CVE-2009-2517](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2517) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个拒绝服务漏洞。                                                                                                                                                                                                                                                                                |  
+| [MS09-059](https://go.microsoft.com/fwlink/?linkid=163843)           | 本地安全机构子系统服务中的漏洞可能允许拒绝服务 (975467)                                           | [CVE-2009-2524](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2524) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个受限的拒绝服务漏洞。                                                                                                                                                                                                                                                                          |  
+| [MS09-060](https://go.microsoft.com/fwlink/?linkid=160633)           | Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码（973965） | [CVE-2009-0901](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0901) | 无                                                                                                | （[7 月安全公告摘要](https://technet.microsoft.com/security/bulletin/ms09-jul)中已经为此漏洞提供了利用指数评估。 这是因为此漏洞在 [MS09-035](https://go.microsoft.com/fwlink/?linkid=158131) 中最先解决。）                                                                                             |  
+| [MS09-060](https://go.microsoft.com/fwlink/?linkid=160633)           | Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码（973965） | [CVE-2009-2493](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2493) | 无                                                                                                | （[7 月安全公告摘要](https://technet.microsoft.com/security/bulletin/ms09-jul)中已经为此漏洞提供了利用指数评估。 这是因为此漏洞在 [MS09-035](https://go.microsoft.com/fwlink/?linkid=158131) MS09-035。另请参阅 [MS09-055](https://technet.microsoft.com/security/bulletin/ms09-055) 中的相同 CVE 编号。 |  
+| [MS09-060](https://go.microsoft.com/fwlink/?linkid=160633)           | Microsoft Office 的 Microsoft 活动模板库 (ATL) ActiveX 控件中的漏洞可能允许远程执行代码（973965） | [CVE-2009-2495](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2495) | [**3**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 功能漏洞检测代码不太可能实现 | 这是一个信息泄露漏洞。                                                                                                                                                                                                                                                                                |  
+| [MS09-061](https://go.microsoft.com/fwlink/?linkid=160527)           | Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)                                | [CVE-2009-0090](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0090) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-061](https://go.microsoft.com/fwlink/?linkid=160527)           | Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)                                | [CVE-2009-0091](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-0091) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-061](https://go.microsoft.com/fwlink/?linkid=160527)           | Microsoft .NET 公共语言运行时中的漏洞可能允许远程执行代码 (974378)                                | [CVE-2009-2497](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2497) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | 可能存在影响 Internet 的攻击。                                                                                                                                                                                                                                                                        |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2500](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2500) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2501](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2501) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2502](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2502) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2503](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2503) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2504](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2504) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2518](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2518) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-2528](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-2528) | [**1**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 一致漏洞检测代码可能实现     | （无）                                                                                                                                                                                                                                                                                                |  
+| [MS09-062](https://go.microsoft.com/fwlink/?linkid=161342)           | GDI+ 中的漏洞可能允许远程执行代码 (957488)                                                        | [CVE-2009-3126](https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2009-3126) | [**2**](https://technet.microsoft.com/en-us/security/cc998259.aspx) - 不一致漏洞检测代码可能实现   | （无）                                                                                                                                                                                                                                                                                                |
   
 受影响的软件和下载位置  
 ----------------------
@@ -289,40 +289,40 @@ Microsoft Windows 2000
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://go.microsoft.com/fwlink/?linkid=163970)
+[**MS09-050**](https://go.microsoft.com/fwlink/?linkid=163970)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://go.microsoft.com/fwlink/?linkid=125438)
+[**MS09-051**](https://go.microsoft.com/fwlink/?linkid=125438)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://go.microsoft.com/fwlink/?linkid=163913)
+[**MS09-052**](https://go.microsoft.com/fwlink/?linkid=163913)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://go.microsoft.com/fwlink/?linkid=163979)
+[**MS09-054**](https://go.microsoft.com/fwlink/?linkid=163979)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://go.microsoft.com/fwlink/?linkid=164004)
+[**MS09-053**](https://go.microsoft.com/fwlink/?linkid=164004)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://go.microsoft.com/fwlink/?linkid=163830)
+[**MS09-056**](https://go.microsoft.com/fwlink/?linkid=163830)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://go.microsoft.com/fwlink/?linkid=163832)
+[**MS09-057**](https://go.microsoft.com/fwlink/?linkid=163832)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://go.microsoft.com/fwlink/?linkid=162442)
+[**MS09-058**](https://go.microsoft.com/fwlink/?linkid=162442)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://go.microsoft.com/fwlink/?linkid=163843)
+[**MS09-059**](https://go.microsoft.com/fwlink/?linkid=163843)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -333,37 +333,37 @@ Microsoft Windows 2000
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**无**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**无**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -450,40 +450,40 @@ Windows XP
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://go.microsoft.com/fwlink/?linkid=163970)
+[**MS09-050**](https://go.microsoft.com/fwlink/?linkid=163970)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://go.microsoft.com/fwlink/?linkid=125438)
+[**MS09-051**](https://go.microsoft.com/fwlink/?linkid=125438)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://go.microsoft.com/fwlink/?linkid=163913)
+[**MS09-052**](https://go.microsoft.com/fwlink/?linkid=163913)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://go.microsoft.com/fwlink/?linkid=163979)
+[**MS09-054**](https://go.microsoft.com/fwlink/?linkid=163979)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://go.microsoft.com/fwlink/?linkid=164004)
+[**MS09-053**](https://go.microsoft.com/fwlink/?linkid=164004)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://go.microsoft.com/fwlink/?linkid=163830)
+[**MS09-056**](https://go.microsoft.com/fwlink/?linkid=163830)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://go.microsoft.com/fwlink/?linkid=163832)
+[**MS09-057**](https://go.microsoft.com/fwlink/?linkid=163832)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://go.microsoft.com/fwlink/?linkid=162442)
+[**MS09-058**](https://go.microsoft.com/fwlink/?linkid=162442)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://go.microsoft.com/fwlink/?linkid=163843)
+[**MS09-059**](https://go.microsoft.com/fwlink/?linkid=163843)
 </td>
 </tr>
 <tr>
@@ -494,37 +494,37 @@ Windows XP
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -686,40 +686,40 @@ Windows Server 2003
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://go.microsoft.com/fwlink/?linkid=163970)
+[**MS09-050**](https://go.microsoft.com/fwlink/?linkid=163970)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://go.microsoft.com/fwlink/?linkid=125438)
+[**MS09-051**](https://go.microsoft.com/fwlink/?linkid=125438)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://go.microsoft.com/fwlink/?linkid=163913)
+[**MS09-052**](https://go.microsoft.com/fwlink/?linkid=163913)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://go.microsoft.com/fwlink/?linkid=163979)
+[**MS09-054**](https://go.microsoft.com/fwlink/?linkid=163979)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://go.microsoft.com/fwlink/?linkid=164004)
+[**MS09-053**](https://go.microsoft.com/fwlink/?linkid=164004)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://go.microsoft.com/fwlink/?linkid=163830)
+[**MS09-056**](https://go.microsoft.com/fwlink/?linkid=163830)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://go.microsoft.com/fwlink/?linkid=163832)
+[**MS09-057**](https://go.microsoft.com/fwlink/?linkid=163832)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://go.microsoft.com/fwlink/?linkid=162442)
+[**MS09-058**](https://go.microsoft.com/fwlink/?linkid=162442)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://go.microsoft.com/fwlink/?linkid=163843)
+[**MS09-059**](https://go.microsoft.com/fwlink/?linkid=163843)
 </td>
 </tr>
 <tr>
@@ -730,37 +730,37 @@ Windows Server 2003
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**中等**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -966,40 +966,40 @@ Windows Vista
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://go.microsoft.com/fwlink/?linkid=163970)
+[**MS09-050**](https://go.microsoft.com/fwlink/?linkid=163970)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://go.microsoft.com/fwlink/?linkid=125438)
+[**MS09-051**](https://go.microsoft.com/fwlink/?linkid=125438)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://go.microsoft.com/fwlink/?linkid=163913)
+[**MS09-052**](https://go.microsoft.com/fwlink/?linkid=163913)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://go.microsoft.com/fwlink/?linkid=163979)
+[**MS09-054**](https://go.microsoft.com/fwlink/?linkid=163979)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://go.microsoft.com/fwlink/?linkid=164004)
+[**MS09-053**](https://go.microsoft.com/fwlink/?linkid=164004)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://go.microsoft.com/fwlink/?linkid=163830)
+[**MS09-056**](https://go.microsoft.com/fwlink/?linkid=163830)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://go.microsoft.com/fwlink/?linkid=163832)
+[**MS09-057**](https://go.microsoft.com/fwlink/?linkid=163832)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://go.microsoft.com/fwlink/?linkid=162442)
+[**MS09-058**](https://go.microsoft.com/fwlink/?linkid=162442)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://go.microsoft.com/fwlink/?linkid=163843)
+[**MS09-059**](https://go.microsoft.com/fwlink/?linkid=163843)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1007,40 +1007,40 @@ Windows Vista
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+无
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1355,40 +1355,40 @@ Windows Server 2008
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://go.microsoft.com/fwlink/?linkid=163970)
+[**MS09-050**](https://go.microsoft.com/fwlink/?linkid=163970)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://go.microsoft.com/fwlink/?linkid=125438)
+[**MS09-051**](https://go.microsoft.com/fwlink/?linkid=125438)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://go.microsoft.com/fwlink/?linkid=163913)
+[**MS09-052**](https://go.microsoft.com/fwlink/?linkid=163913)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://go.microsoft.com/fwlink/?linkid=163979)
+[**MS09-054**](https://go.microsoft.com/fwlink/?linkid=163979)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://go.microsoft.com/fwlink/?linkid=164004)
+[**MS09-053**](https://go.microsoft.com/fwlink/?linkid=164004)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://go.microsoft.com/fwlink/?linkid=163830)
+[**MS09-056**](https://go.microsoft.com/fwlink/?linkid=163830)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://go.microsoft.com/fwlink/?linkid=163832)
+[**MS09-057**](https://go.microsoft.com/fwlink/?linkid=163832)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://go.microsoft.com/fwlink/?linkid=162442)
+[**MS09-058**](https://go.microsoft.com/fwlink/?linkid=162442)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://go.microsoft.com/fwlink/?linkid=163843)
+[**MS09-059**](https://go.microsoft.com/fwlink/?linkid=163843)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1396,40 +1396,40 @@ Windows Server 2008
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**低**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**低**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+无
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1762,40 +1762,40 @@ Windows 7
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://go.microsoft.com/fwlink/?linkid=163970)
+[**MS09-050**](https://go.microsoft.com/fwlink/?linkid=163970)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://go.microsoft.com/fwlink/?linkid=125438)
+[**MS09-051**](https://go.microsoft.com/fwlink/?linkid=125438)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://go.microsoft.com/fwlink/?linkid=163913)
+[**MS09-052**](https://go.microsoft.com/fwlink/?linkid=163913)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://go.microsoft.com/fwlink/?linkid=163979)
+[**MS09-054**](https://go.microsoft.com/fwlink/?linkid=163979)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://go.microsoft.com/fwlink/?linkid=164004)
+[**MS09-053**](https://go.microsoft.com/fwlink/?linkid=164004)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://go.microsoft.com/fwlink/?linkid=163830)
+[**MS09-056**](https://go.microsoft.com/fwlink/?linkid=163830)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://go.microsoft.com/fwlink/?linkid=163832)
+[**MS09-057**](https://go.microsoft.com/fwlink/?linkid=163832)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://go.microsoft.com/fwlink/?linkid=162442)
+[**MS09-058**](https://go.microsoft.com/fwlink/?linkid=162442)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://go.microsoft.com/fwlink/?linkid=163843)
+[**MS09-059**](https://go.microsoft.com/fwlink/?linkid=163843)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1812,13 +1812,10 @@ Windows 7
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -1827,16 +1824,19 @@ Windows 7
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1939,40 +1939,40 @@ Windows Server 2008 R2
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-050**](http://go.microsoft.com/fwlink/?linkid=163970)
+[**MS09-050**](https://go.microsoft.com/fwlink/?linkid=163970)
 </td>
 <td style="border:1px solid black;">
-[**MS09-051**](http://go.microsoft.com/fwlink/?linkid=125438)
+[**MS09-051**](https://go.microsoft.com/fwlink/?linkid=125438)
 </td>
 <td style="border:1px solid black;">
-[**MS09-052**](http://go.microsoft.com/fwlink/?linkid=163913)
+[**MS09-052**](https://go.microsoft.com/fwlink/?linkid=163913)
 </td>
 <td style="border:1px solid black;">
-[**MS09-054**](http://go.microsoft.com/fwlink/?linkid=163979)
+[**MS09-054**](https://go.microsoft.com/fwlink/?linkid=163979)
 </td>
 <td style="border:1px solid black;">
-[**MS09-055**](http://technet.microsoft.com/security/bulletin/ms09-055)
+[**MS09-055**](https://technet.microsoft.com/security/bulletin/ms09-055)
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 <td style="border:1px solid black;">
-[**MS09-053**](http://go.microsoft.com/fwlink/?linkid=164004)
+[**MS09-053**](https://go.microsoft.com/fwlink/?linkid=164004)
 </td>
 <td style="border:1px solid black;">
-[**MS09-056**](http://go.microsoft.com/fwlink/?linkid=163830)
+[**MS09-056**](https://go.microsoft.com/fwlink/?linkid=163830)
 </td>
 <td style="border:1px solid black;">
-[**MS09-057**](http://go.microsoft.com/fwlink/?linkid=163832)
+[**MS09-057**](https://go.microsoft.com/fwlink/?linkid=163832)
 </td>
 <td style="border:1px solid black;">
-[**MS09-058**](http://go.microsoft.com/fwlink/?linkid=162442)
+[**MS09-058**](https://go.microsoft.com/fwlink/?linkid=162442)
 </td>
 <td style="border:1px solid black;">
-[**MS09-059**](http://go.microsoft.com/fwlink/?linkid=163843)
+[**MS09-059**](https://go.microsoft.com/fwlink/?linkid=163843)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1989,13 +1989,10 @@ Windows Server 2008 R2
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**低**](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-无
+[**低**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -2004,16 +2001,19 @@ Windows Server 2008 R2
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+无
+</td>
+<td style="border:1px solid black;">
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2110,9 +2110,9 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）
 
 **Windows Server 2008 和 Windows Server 2008 R2 的注释**
 
-**\*服务器核心安装受到影响。** 此更新适用于 Windows Server 2008 或 Windows Server 2008 R2 的受支持版本，严重等级相同，无论是否使用“服务器核心”安装选项进行了安装。 有关该安装选项的详细信息，请参阅 MSDN 文章[服务器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)和[Windows Server 2008 R2 的服务器核心](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)。注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*服务器核心安装受到影响。** 此更新适用于 Windows Server 2008 或 Windows Server 2008 R2 的受支持版本，严重等级相同，无论是否使用“服务器核心”安装选项进行了安装。 有关该安装选项的详细信息，请参阅 MSDN 文章[服务器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)和[Windows Server 2008 R2 的服务器核心](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)。注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
-**\*\*服务器核心安装不受影响。** 如果使用服务器核心安装选项安装如上所述的 Windows Server 2008 或 Windows Server 2008 R2，则此更新所解决的漏洞不会影响其的受支持版本。 有关该安装选项的详细信息，请参阅 MSDN 文章[服务器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)和[Windows Server 2008 R2 的服务器核心](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)。注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*\*服务器核心安装不受影响。** 如果使用服务器核心安装选项安装如上所述的 Windows Server 2008 或 Windows Server 2008 R2，则此更新所解决的漏洞不会影响其的受支持版本。 有关该安装选项的详细信息，请参阅 MSDN 文章[服务器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)和[Windows Server 2008 R2 的服务器核心](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)。注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
 **MS09-061 注释**
 
@@ -2124,7 +2124,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）
 
 **MS09-059 注释**
 
-<sup>[1]</sup>该操作系统仅在安装了 KB968389“对身份验证的扩展保护”（请参阅 [Microsoft 安全通报 973811](http://technet.microsoft.com/security/advisory/973811)）时才受影响。 有关详细信息，请参阅 [MS09-059](http://go.microsoft.com/fwlink/?linkid=163843) 中“与此安全更新相关的常见问题 (FAQ)”中的该条目。
+<sup>[1]</sup>该操作系统仅在安装了 KB968389“对身份验证的扩展保护”（请参阅 [Microsoft 安全通报 973811](https://technet.microsoft.com/security/advisory/973811)）时才受影响。 有关详细信息，请参阅 [MS09-059](https://go.microsoft.com/fwlink/?linkid=163843) 中“与此安全更新相关的常见问题 (FAQ)”中的该条目。
 
 #### Microsoft Office 套件和软件
 
@@ -2148,10 +2148,10 @@ Microsoft Office 套件、系统和组件
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-060**](http://go.microsoft.com/fwlink/?linkid=160633)
+[**MS09-060**](https://go.microsoft.com/fwlink/?linkid=160633)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2159,10 +2159,10 @@ Microsoft Office 套件、系统和组件
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2220,10 +2220,10 @@ Microsoft Office 2003
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-060**](http://go.microsoft.com/fwlink/?linkid=160633)
+[**MS09-060**](https://go.microsoft.com/fwlink/?linkid=160633)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 </tr>
 <tr>
@@ -2231,10 +2231,10 @@ Microsoft Office 2003
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2363,7 +2363,7 @@ Microsoft SQL Server
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2371,7 +2371,7 @@ Microsoft SQL Server
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2509,10 +2509,10 @@ Microsoft Silverlight
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2520,7 +2520,7 @@ Microsoft Silverlight
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 无
@@ -2531,7 +2531,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安装在 Mac 上时  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安装在 Mac 上时  
 (KB970363)  
 （严重）
 </td>
@@ -2544,7 +2544,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安装在 Microsoft Windows 客户端的所有版本上时  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安装在 Microsoft Windows 客户端的所有版本上时  
 (KB970363)  
 （严重）
 </td>
@@ -2557,7 +2557,7 @@ Microsoft Silverlight
 Microsoft Silverlight
 </td>
 <td style="border:1px solid black;">
-[Microsoft Silverlight 2](http://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安装在 Microsoft Windows 服务器的所有版本上时\*\*  
+[Microsoft Silverlight 2](https://www.microsoft.com/silverlight/get-started/install/default.aspx)<sup>[1]</sup> 安装在 Microsoft Windows 服务器的所有版本上时\*\*  
 (KB970363)  
 （中等）
 </td>
@@ -2575,10 +2575,10 @@ Microsoft Visual Studio
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 </tr>
 <tr>
@@ -2684,10 +2684,10 @@ Microsoft Report Viewer
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-061**](http://go.microsoft.com/fwlink/?linkid=160527)
+[**MS09-061**](https://go.microsoft.com/fwlink/?linkid=160527)
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 </tr>
 <tr>
@@ -2698,7 +2698,7 @@ Microsoft Report Viewer
 无
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2759,7 +2759,7 @@ Microsoft Platform SDK Redistributable： GDI+
 
 <sup>[1]</sup>此下载将 Microsoft Silverlight 2 升级到 Microsoft Silverlight 3，从而解决本公告中描述的漏洞。
 
-**\*\*服务器核心安装不受影响。** 如果使用服务器核心安装选项安装如上所述的 Windows Server 2008 或 Windows Server 2008 R2，则此更新所解决的漏洞不会影响其的受支持版本。 有关该安装选项的详细信息，请参阅 MSDN 文章[服务器核心](http://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)和[Windows Server 2008 R2 的服务器核心](http://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)。注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](http://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
+**\*\*服务器核心安装不受影响。** 如果使用服务器核心安装选项安装如上所述的 Windows Server 2008 或 Windows Server 2008 R2，则此更新所解决的漏洞不会影响其的受支持版本。 有关该安装选项的详细信息，请参阅 MSDN 文章[服务器核心](https://msdn.microsoft.com/en-us/library/ms723891(vs.85).aspx)和[Windows Server 2008 R2 的服务器核心](https://msdn.microsoft.com/en-us/library/ee391631(vs.85).aspx)。注意，服务器核心安装选项不适用于 Windows Server 2008 和 Windows Server 2008 R2 的某些版本；请参阅[比较服务器核心安装选项](https://www.microsoft.com/windowsserver2008/en/us/compare-core-installation.aspx)。
 
 有关相同公告标识符下的更多更新文件，另请参阅本部分“**受影响的软件和下载位置**”下的其他软件类别。 此公告涉及多个软件类别。
 
@@ -2789,7 +2789,7 @@ Microsoft Forefront Security
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS09-062**](http://go.microsoft.com/fwlink/?linkid=161342)
+[**MS09-062**](https://go.microsoft.com/fwlink/?linkid=161342)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -2797,7 +2797,7 @@ Microsoft Forefront Security
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**严重**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -2822,37 +2822,37 @@ Microsoft XML Core Services 6.0
 
 **安全中心**
 
-管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](http://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](http://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](http://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
+管理需要部署到组织中的服务器、台式机和移动计算机的软件和安全更新。 有关详细信息，请参阅 [TechNet 更新管理中心](https://go.microsoft.com/fwlink/?linkid=69903)。 [TechNet 安全中心](https://go.microsoft.com/fwlink/?linkid=21171)提供了有关 Microsoft 产品安全性的其他信息。 消费者可以访问[家庭安全](https://go.microsoft.com/fwlink/?linkid=85102)，也可以通过单击“最新的安全更新”访问此信息。
 
-安全更新可从 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 和 [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) 获得。 [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+安全更新可从 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 和 [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) 获得。 [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)也提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
 
-最后，可以从 [Microsoft Update 目录](http://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](http://go.microsoft.com/fwlink/?linkid=97900)。
+最后，可以从 [Microsoft Update 目录](https://go.microsoft.com/fwlink/?linkid=96155)下载安全更新。 Microsoft Update 目录提供通过 Windows Update 和 Microsoft Update 提供的内容的可搜索目录，包括安全更新、驱动程序和 Service Pack。 通过使用安全公告编号（例如“MS07-036”）进行搜索，您可以将所有适用的更新添加到您的篮（包括某个更新的不同语言），然后将其下载到您选择的文件夹。 有关 Microsoft Update 目录的详细信息，请参阅 [Microsoft Update 目录常见问题](https://go.microsoft.com/fwlink/?linkid=97900)。
 
-**注意** 从 2009 年 8 月 1 日起，Microsoft 将不再对 Office Update 和 Office Update 清单工具提供支持。 要继续获得 Microsoft Office 产品的最新更新，请使用 [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)。 有关详细信息，请参阅[关于 Microsoft Office Update： 常见问题](http://office.microsoft.com/en-us/downloads/fx010402221033.aspx)。
+**注意** 从 2009 年 8 月 1 日起，Microsoft 将不再对 Office Update 和 Office Update 清单工具提供支持。 要继续获得 Microsoft Office 产品的最新更新，请使用 [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)。 有关详细信息，请参阅[关于 Microsoft Office Update： 常见问题](https://office.microsoft.com/en-us/downloads/fx010402221033.aspx)。
 
 **检测和部署指南**
 
-Microsoft 提供安全更新的检测和部署指南。 该指南包含可帮助 IT 专业人员了解如何使用各种工具检测和部署安全更新的建议和信息。 有关详细信息，请参阅 [Microsoft 知识库文章 961747](http://support.microsoft.com/kb/961747)。
+Microsoft 提供安全更新的检测和部署指南。 该指南包含可帮助 IT 专业人员了解如何使用各种工具检测和部署安全更新的建议和信息。 有关详细信息，请参阅 [Microsoft 知识库文章 961747](https://support.microsoft.com/kb/961747)。
 
 **Microsoft Baseline Security Analyzer**
 
-管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](http://go.microsoft.com/fwlink/?linkid=21134)。
+管理员可使用 Microsoft Baseline Security Analyzer (MBSA)，在本地和远程系统中扫描缺少的安全更新和常见的安全配置错误。 有关 MBSA 的详细信息，请访问 [Microsoft Baseline Security Analyzer](https://go.microsoft.com/fwlink/?linkid=21134)。
 
 **Windows Server Update Services**
 
 通过使用 Windows Server Update Services (WSUS)，管理员可以快速而可靠地将 Windows 2000 操作系统和更高版本、Office XP 和更高版本、Exchange Server 2003 以及 SQL Server 2000 的最新关键更新和安全更新部署到 Windows 2000 和更高版本的操作系统。
 
-有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=50120)。
+有关如何使用 Windows Server Update Services 部署此安全更新的详细信息，请访问 [Windows Server Update Services](https://go.microsoft.com/fwlink/?linkid=50120)。
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；另请参阅 [System Center Configuration Manager 2007](http://technet.microsoft.com/en-us/library/bb735860.aspx)。有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理](http://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用安全更新清单工具 (SUIT) 来帮助部署安全更新。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server](http://go.microsoft.com/fwlink/?linkid=21158)。
+Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且可高度配置的企业解决方案。 通过使用 SMS，管理员可以确定需要安全更新的基于 Windows 的系统，并在整个企业中以可控制的方式执行这些更新的部署，而对最终用户造成的干扰最少。 SMS 的下一版本 System Center Configuration Manager 2007 现已可用；另请参阅 [System Center Configuration Manager 2007](https://technet.microsoft.com/en-us/library/bb735860.aspx)。有关管理员如何使用 SMS 2003 部署安全更新的详细信息，请参阅 [SMS 2003 安全修补程序管理](https://go.microsoft.com/fwlink/?linkid=22939)。 SMS 2.0 用户还可以使用安全更新清单工具 (SUIT) 来帮助部署安全更新。 有关 SMS 的信息，请访问 [Microsoft Systems Management Server](https://go.microsoft.com/fwlink/?linkid=21158)。
 
-**注意：**SMS 使用 Microsoft 基准安全分析器提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](http://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](http://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](http://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
+**注意：**SMS 使用 Microsoft 基准安全分析器提供对安全公告更新检测和部署的广泛支持。 这些工具可能检测不到某些软件更新。 在这些情况下，管理员可以使用 SMS 的清单功能将更新部署到特定系统上。 有关此过程的详细信息，请参阅[使用 SMS 软件分发功能部署软件更新](https://go.microsoft.com/fwlink/?linkid=33341)。 某些安全更新在重新启动系统后可能需要管理权限。 管理员可以使用提升权限部署工具（在 [SMS 2003 管理功能包](https://go.microsoft.com/fwlink/?linkid=33387)和 [SMS 2.0 管理功能包](https://go.microsoft.com/fwlink/?linkid=21161)中提供）来安装这些更新。
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 
@@ -2866,66 +2866,66 @@ Microsoft 已在 Windows Update、Microsoft Update、Windows Server Update Servi
 
 有关 Windows Update 和 Microsoft Update 上非安全发布的信息，请参阅：
 
--   [Microsoft 知识库文章 894199](http://support.microsoft.com/kb/894199)： Software Update Services 和 Windows Server Update Services 的内容更改说明。 包括所有 Windows 内容。
--   [过去几个月关于 Windows Server Update Services 的更新](http://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
+-   [Microsoft 知识库文章 894199](https://support.microsoft.com/kb/894199)： Software Update Services 和 Windows Server Update Services 的内容更改说明。 包括所有 Windows 内容。
+-   [过去几个月关于 Windows Server Update Services 的更新](https://technet.microsoft.com/en-us/wsus/bb456965.aspx)。 显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
 
 #### Microsoft Active Protections Program (MAPP)
 
-为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](http://www.microsoft.com/security/msrc/mapp/partners.mspx)中列出）提供的活动保护网站。
+为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](https://www.microsoft.com/security/msrc/mapp/partners.mspx)中列出）提供的活动保护网站。
 
 #### 安全策略和社区
 
 **更新管理策略**
 
-[更新管理安全指导](http://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
+[更新管理安全指导](https://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
 **获取其他安全更新**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
--   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](http://support.microsoft.com/kb/913086)。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+-   [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) 提供了消费者平台的更新。
+-   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/kb/913086)。
 
 **IT 专业人员安全区域社区**
 
-了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
 #### 鸣谢
 
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
 
--   [Netherlands Forensics Institute](http://www.nederlandsforensischinstituut.nl/) 的 [Matthieu Suiche](http://www.msuiche.net/) 报告了 MS09-050 中描述的问题
--   [Zero Day Initiative](http://www.zerodayinitiative.com/) 的 Ivan Fratric 和 [McAfee Avert Labs](http://www.avertlabs.com/) 的 Jun Xie 报告了 MS09-051 中描述的问题
--   [Adobe Systems, Inc.](http://www.adobe.com/) 的 Vinay Anantharaman 报告了 MS09-051 中描述的问题
--   [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS09-052 中描述的问题
--   [Google Inc.](http://www.google.com/) 的 SkyLined 报告了 MS09-054 中描述的问题
--   [IBM ISS X-Force](http://www.iss.net/) 的 Mark Dowd 报告了 MS09-054 中描述的问题
--   [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 报告了 MS09-054 中描述的问题
--   eshu.co.uk 的 Sam Thomas 与 [TippingPoint](http://www.tippingpoint.com/) 和 [Zero Day Initiative](http://www.zerodayinitiative.com/) 合作报告了 MS09-054 中描述的一个问题
--   [Citrix](http://www.citrix.com/) 的 Ian Wright 和 Jean-Luc Giraud 与我们合作解决 MS09-056 中描述的问题
--   [IOActive](http://www.ioactive.com/) 的 Dan Kaminsky 报告了 MS09-056 中描述的两个问题
--   [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS09-057 中描述的问题
--   [Google Inc.](http://www.google.com/) 的 Tavis Ormandy 和 Neel Mehta 报告了 MS09-058 中描述的两个问题
--   [NSFocus Security Team](http://www.nsfocus.com/) 报告了 MS09-058 中描述的问题。
--   [IBM ISS X-Force](http://www.iss.net/) 的 David Dewey 报告了 MS09-060 中描述的问题
--   [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Ryan Smith 报告了 MS09-060 中描述的两个问题
--   [Pavel Minaev](http://int19h.org/) 报告了 MS09-061 中描述的问题
--   [Sumatra](http://www.sumatra.nl/) 的 Jeroen Frijters 报告了 MS09-061 中描述的问题
--   [Palo Alto Networks](http://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS09-062 中描述的问题
--   [SkyRecon](http://www.skyrecon.com/) 的 Thomas Garnier 报告了 MS09-062 中描述的问题
--   [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Wushi 报告了 MS09-062 中描述的问题
--   [Zero Day Initiative](http://www.zerodayinitiative.com/) 的 Ivan Fratric 报告了 MS09-062 中描述的问题
--   [Google Inc.](http://www.google.com/) 的 Tavis Ormandy 报告了 MS09-062 中描述的两个问题
+-   [Netherlands Forensics Institute](https://www.nederlandsforensischinstituut.nl/) 的 [Matthieu Suiche](https://www.msuiche.net/) 报告了 MS09-050 中描述的问题
+-   [Zero Day Initiative](https://www.zerodayinitiative.com/) 的 Ivan Fratric 和 [McAfee Avert Labs](https://www.avertlabs.com/) 的 Jun Xie 报告了 MS09-051 中描述的问题
+-   [Adobe Systems, Inc.](https://www.adobe.com/) 的 Vinay Anantharaman 报告了 MS09-051 中描述的问题
+-   [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS09-052 中描述的问题
+-   [Google Inc.](https://www.google.com/) 的 SkyLined 报告了 MS09-054 中描述的问题
+-   [IBM ISS X-Force](https://www.iss.net/) 的 Mark Dowd 报告了 MS09-054 中描述的问题
+-   [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 报告了 MS09-054 中描述的问题
+-   eshu.co.uk 的 Sam Thomas 与 [TippingPoint](https://www.tippingpoint.com/) 和 [Zero Day Initiative](https://www.zerodayinitiative.com/) 合作报告了 MS09-054 中描述的一个问题
+-   [Citrix](https://www.citrix.com/) 的 Ian Wright 和 Jean-Luc Giraud 与我们合作解决 MS09-056 中描述的问题
+-   [IOActive](https://www.ioactive.com/) 的 Dan Kaminsky 报告了 MS09-056 中描述的两个问题
+-   [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS09-057 中描述的问题
+-   [Google Inc.](https://www.google.com/) 的 Tavis Ormandy 和 Neel Mehta 报告了 MS09-058 中描述的两个问题
+-   [NSFocus Security Team](https://www.nsfocus.com/) 报告了 MS09-058 中描述的问题。
+-   [IBM ISS X-Force](https://www.iss.net/) 的 David Dewey 报告了 MS09-060 中描述的问题
+-   [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Ryan Smith 报告了 MS09-060 中描述的两个问题
+-   [Pavel Minaev](https://int19h.org/) 报告了 MS09-061 中描述的问题
+-   [Sumatra](https://www.sumatra.nl/) 的 Jeroen Frijters 报告了 MS09-061 中描述的问题
+-   [Palo Alto Networks](https://www.paloaltonetworks.com/) 的 Yamata Li 报告了 MS09-062 中描述的问题
+-   [SkyRecon](https://www.skyrecon.com/) 的 Thomas Garnier 报告了 MS09-062 中描述的问题
+-   [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Wushi 报告了 MS09-062 中描述的问题
+-   [Zero Day Initiative](https://www.zerodayinitiative.com/) 的 Ivan Fratric 报告了 MS09-062 中描述的问题
+-   [Google Inc.](https://www.google.com/) 的 Tavis Ormandy 报告了 MS09-062 中描述的两个问题
 -   Carlo Di Dato (aka shinnai) 报告了 MS09-062 中描述的问题。
--   [VeriSign iDefense Labs](http://labs.idefense.com/) 的 Marsu Pilami 报告了 MS09-062 中描述的问题
--   [Secunia](http://secunia.com/) 的 Carsten H. Eiram 报告了 MS09-062 中描述的问题
+-   [VeriSign iDefense Labs](https://labs.idefense.com/) 的 Marsu Pilami 报告了 MS09-062 中描述的问题
+-   [Secunia](https://secunia.com/) 的 Carsten H. Eiram 报告了 MS09-062 中描述的问题
 
 #### 支持
 
--   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](http://go.microsoft.com/fwlink/?linkid=21742)。
--   美国和加拿大的客户可以通过[安全支持](http://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 获得技术支持。 与安全更新有关的电话支持服务是免费的。 有关可用支持选项的详细信息，请参阅 [Microsoft 帮助和支持](http://support.microsoft.com/)网站。
--   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](http://go.microsoft.com/fwlink/?linkid=21155)。
+-   已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   美国和加拿大的客户可以通过[安全支持](https://go.microsoft.com/fwlink/?linkid=21131)或 1-866-PCSAFETY 获得技术支持。 与安全更新有关的电话支持服务是免费的。 有关可用支持选项的详细信息，请参阅 [Microsoft 帮助和支持](https://support.microsoft.com/)网站。
+-   其他国家（或地区）的用户可从当地的 Microsoft 分公司获得支持。 与安全更新有关的支持服务不收取任何费用。 有关如何就支持问题与 Microsoft 联系方面的详细信息，请访问[国际帮助和支持](https://go.microsoft.com/fwlink/?linkid=21155)。
 
 #### 免责声明
 
