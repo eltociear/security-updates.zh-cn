@@ -17,7 +17,7 @@ Microsoft 安全公告摘要（2015 年 8 月）
 
 本公告摘要列出了 2015 年 8 月发布的安全公告。
 
-有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://technet.microsoft.com/zh-cn/security/dd252948.aspx)。
+有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](https://technet.microsoft.com/zh-cn/security/dd252948.aspx)。
 
 Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每月安全更新同日发布的任何非安全更新进行优先排序。 请参阅**其他信息**部分。
 
@@ -52,7 +52,7 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p><strong>Internet Explorer 的累积安全更新程序 (3082442)</strong> <br />
 此安全更新可解决 Internet Explorer 中的漏洞。 最严重的漏洞可能在用户使用 Internet Explorer 查看经特殊设计的网页时允许远程执行代码。 成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。 与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -63,7 +63,7 @@ Internet Explorer</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Graphics 组件中的漏洞可能允许远程执行代码 (3078662)</strong><br />
 此安全更新可修复 Microsoft Windows、Microsoft .NET Framework、Microsoft Office、Microsoft Lync 和 Microsoft Silverlight 中的漏洞。 如果用户打开经特殊设计的文档或者访问嵌入了 TrueType 或 OpenType 字体的不受信任网页，则这些漏洞中最严重的漏洞可能允许远程执行代码。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -77,7 +77,7 @@ Microsoft Silverlight</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Office 中的漏洞可能允许远程执行代码 (3080790)<br />
 </strong>此安全更新可修复 Microsoft Office 中的漏洞。 最严重的漏洞可能在用户打开经特殊设计的 Microsoft Office 文件时允许远程执行代码。 成功利用这些漏洞的攻击者可以在当前用户的上下文中运行任意代码。 与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3080790">3080790</a></p></td>
@@ -87,7 +87,7 @@ Microsoft Silverlight</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-082">MS15-082</a></p></td>
 <td style="border:1px solid black;"><p><strong>RDP 中的漏洞可能允许远程执行代码 (3080348)<br />
 </strong>此安全更新可修复 Microsoft Windows 中的漏洞。 如果攻击者先在目标用户的当前工作目录中放置经特殊设计的动态链接库 (DLL) 文件，然后诱使用户打开远程桌面协议 (RDP) 文件或启动旨在加载受信任的 DLL 文件的程序加载攻击者经特殊设计的 DLL 文件，其中最严重的漏洞可能会允许远程执行代码。 成功利用这些漏洞的攻击者可以完全控制受影响的系统。 攻击者可随后安装程序；查看、更改或删除数据；或者创建拥有完全用户权限的新帐户。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3080348">3080348</a></p></td>
@@ -97,7 +97,7 @@ Microsoft Silverlight</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-083">MS15-083</a></p></td>
 <td style="border:1px solid black;"><p><strong>服务器消息块中的漏洞可能允许远程执行代码 (3073921)<br />
 </strong>此安全更新可修复 Microsoft Windows 中的漏洞。 如果攻击者向 SMB 服务器错误记录发送特殊设计的数据包，此漏洞可能允许远程执行代码。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -107,7 +107,7 @@ Microsoft Silverlight</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-084">MS15-084</a></p></td>
 <td style="border:1px solid black;"><p><strong>XML Core Services 中的漏洞可能允许信息泄露 (3080129)</strong><br />
 此安全更新可修复 Microsoft Windows 和 Microsoft Office 中的漏洞。 如果用户单击经特殊设计的链接公开内存地址或以显式方式允许使用安全套接字层 (SSL) 2.0，则这些漏洞可能导致信息泄露。 但是，在所有情况下，攻击者无法强制用户单击经特殊设计的链接。 攻击者必须说服用户单击此链接，通常方式为通过电子邮件或 Instant Messenger 消息进行诱骗。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 信息泄漏</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3076895">3076895</a></p></td>
@@ -118,7 +118,7 @@ Microsoft Office</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-085">MS15-085</a></p></td>
 <td style="border:1px solid black;"><p><strong>Mount Manager 中的漏洞可能允许特权提升 (3082487)</strong><br />
 此安全更新可修复 Microsoft Windows 中的漏洞。 如果攻击者将恶意 USB 设备插入目标系统，则该漏洞可能会允许特权提升。 然后，攻击者会将恶意二进制文件写入磁盘并执行。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3071756">3071756</a></p></td>
@@ -128,7 +128,7 @@ Microsoft Office</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-086">MS15-086</a></p></td>
 <td style="border:1px solid black;"><p><strong>System Center Operations Manager 中的漏洞可能允许特权提升 (3075158)</strong><br />
 此安全更新可解决 Microsoft System Center Configuration Manager 中的一个漏洞。 如果用户通过特制 URL 访问受影响的网站，则该漏洞可能允许特权提升。 但是，攻击者无法强迫用户访问这样的网站。 相反，攻击者必须诱使用户访问该网站，方法通常是让用户单击电子邮件或 Instant Messenger 消息中的链接以使用户链接到受影响的网站。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>无需重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -138,7 +138,7 @@ Microsoft Office</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-087">MS15-087</a></p></td>
 <td style="border:1px solid black;"><p><strong>UDDI Services 中的漏洞可能允许特权提升 (3082459)<br />
 </strong>此安全更新可修复 Microsoft Windows 中的漏洞。 如果攻击者通过将恶意脚本插入网页搜索参数以执行跨站点脚本 (XSS)，则该漏洞可能允许特权提升。 用户必须访问随后会在其中执行恶意脚本的经特殊设计的网页。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>无需重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -149,7 +149,7 @@ Microsoft Server 软件</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-088">MS15-088</a></p></td>
 <td style="border:1px solid black;"><p><strong>不安全的命令行参数传递可能会导致信息泄露 (3082458) </strong><br />
 此安全更新还有助于解决 Microsoft Windows、Internet Explorer 和 Microsoft Office 中的信息泄露漏洞。 为了利用此漏洞，攻击者首先必须使用 Internet Explorer 中的另一个漏洞以在沙盒进程中执行代码。 然后，攻击者通过不安全的命令行参数执行 Notepad、Visio、PowerPoint、Excel 或 Word 以引起信息泄露。 为了免受此漏洞影响，客户必须应用此公告中提供的更新，以及 <a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a> 中针对 Internet Explorer 提供的更新。 同样，运行受影响 Microsoft Office 产品的客户必须还要安装 <a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a> 中提供的适用更新。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 信息泄漏</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -159,7 +159,7 @@ Microsoft Server 软件</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-089">MS15-089</a></p></td>
 <td style="border:1px solid black;"><p><strong>WebDAV 中的漏洞可能导致信息泄露 (3076949)<br />
 </strong>此安全更新可修复 Microsoft Windows 中的漏洞。 如果攻击者通过启用了安全套接字层 (SSL) 2.0 的 WebDAV 服务器强制执行加密的 SSL 2.0 会话并使用中间人 (MiTM) 攻击解密部分加密流量，则该漏洞可能导致信息泄露。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 信息泄漏</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -169,7 +169,7 @@ Microsoft Server 软件</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-090">MS15-090</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Windows 中的漏洞可能允许特权提升 (3060716)</strong> <br />
 此安全更新可修复 Microsoft Windows 中的漏洞。 如果攻击者登录受影响系统并运行经特殊设计的应用程序，或说服用户打开经特殊设计的文件以调用容易受攻击的沙盒应用程序，从而允许攻击者逃离沙盒，则该漏洞可能允许特权提升。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p><a href="https://support.microsoft.com/zh-cn/kb/3060716">3060716</a></p></td>
@@ -179,7 +179,7 @@ Microsoft Server 软件</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-091">MS15-091</a></p></td>
 <td style="border:1px solid black;"><p><strong>Microsoft Edge 的累积安全更新 (3084525)<br />
 </strong>此安全更新可修复 Microsoft Edge 中的漏洞。 最严重的漏洞可能在用户使用 Microsoft Edge 查看经特殊设计的网页时允许远程执行代码。 成功利用这些漏洞的攻击者可以获得与当前用户相同的用户权限。 与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -190,7 +190,7 @@ Microsoft Edge</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-092">MS15-092</a></p></td>
 <td style="border:1px solid black;"><p><strong>.NET Framework 中的漏洞可能允许特权提升 (3086251)<br />
 </strong>此安全更新可解决 Microsoft .NET Framework 中的漏洞。 如果用户运行经特殊设计的 .NET 应用程序，则该漏洞可能允许特权提升。 但是，在所有情况下，攻击者无法强迫用户运行应用程序，攻击者必须说服用户执行此类操作。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">重要</a><br />
 特权提升</p></td>
 <td style="border:1px solid black;"><p>可能要求重新启动</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -201,7 +201,7 @@ Microsoft .NET Framework</p></td>
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-093">MS15-093</a></p></td>
 <td style="border:1px solid black;"><p><strong>Internet Explorer 的安全更新 (3088903)</strong><br />
 此安全更新可解决 Internet Explorer 中的漏洞。 如果用户使用 Internet Explorer 查看经特殊设计的网页，则该漏洞可能允许远程执行代码。 成功利用此漏洞的攻击者可以获得与当前用户相同的用户权限。 与拥有管理用户权限的客户相比，帐户被配置为拥有较少系统用户权限的客户受到的影响更小。</p></td>
-<td style="border:1px solid black;"><p><a href="http://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/security/gg309177.aspx">严重</a> <br />
 远程执行代码</p></td>
 <td style="border:1px solid black;"><p>需要重启</p></td>
 <td style="border:1px solid black;"><p>---------</p></td>
@@ -219,7 +219,7 @@ Internet Explorer</p></td>
 
 **如何使用该表？**
 
-对于您可能需要安装的每个安全更新，使用该表了解安全公告发布 30 天内发生代码执行和拒绝服务漏洞的可能性。 根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/zh-cn/security/cc998259)。
+对于您可能需要安装的每个安全更新，使用该表了解安全公告发布 30 天内发生代码执行和拒绝服务漏洞的可能性。 根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。 有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](https://technet.microsoft.com/zh-cn/security/cc998259)。
 
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新软件版本”是指主题软件，“较旧软件版本”是指主题软件的所有较旧的受支持版本。
 
@@ -247,7 +247,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>不安全的命令行参数传递漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2423">CVE-2015-2423</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2423">CVE-2015-2423</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -255,7 +255,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2441">CVE-2015-2441</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2441">CVE-2015-2441</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -263,7 +263,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2442">CVE-2015-2442</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2442">CVE-2015-2442</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -271,7 +271,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2443">CVE-2015-2443</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2443">CVE-2015-2443</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -279,47 +279,47 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2444">CVE-2015-2444</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2444">CVE-2015-2444</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>不适用</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
+<td style="border:1px solid black;"><p>ASLR 绕过</p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2445">CVE-2015-2445</a></p></td>
+<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
+<td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
+<td style="border:1px solid black;"><p>不适用</p></td>
+</tr>  
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
+<td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2446">CVE-2015-2446</a></p></td>
+<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>不适用</p></td>
+</tr>  
+<tr class="odd">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
+<td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2447">CVE-2015-2447</a></p></td>
+<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
+<td style="border:1px solid black;"><p>不适用</p></td>
+</tr>  
+<tr class="even">
+<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
+<td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2448">CVE-2015-2448</a></p></td>
+<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
+<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>ASLR 绕过</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2445">CVE-2015-2445</a></p></td>
-<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
-<td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
-<td style="border:1px solid black;"><p>不适用</p></td>
-</tr>  
-<tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
-<td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2446">CVE-2015-2446</a></p></td>
-<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
-<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
-<td style="border:1px solid black;"><p>不适用</p></td>
-</tr>  
-<tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
-<td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2447">CVE-2015-2447</a></p></td>
-<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
-<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
-<td style="border:1px solid black;"><p>不适用</p></td>
-</tr>  
-<tr class="even">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
-<td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2448">CVE-2015-2448</a></p></td>
-<td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
-<td style="border:1px solid black;"><p>4 - 不受影响</p></td>
-<td style="border:1px solid black;"><p>不适用</p></td>
-</tr>  
-<tr class="odd">
-<td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
-<td style="border:1px solid black;"><p>ASLR 绕过</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2449">CVE-2015-2449</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2449">CVE-2015-2449</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -327,7 +327,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2450">CVE-2015-2450</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2450">CVE-2015-2450</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -335,7 +335,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2451">CVE-2015-2451</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2451">CVE-2015-2451</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -343,7 +343,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-079">MS15-079</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2452">CVE-2015-2452</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2452">CVE-2015-2452</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -351,7 +351,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 图形组件远程执行代码漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2431">CVE-2015-2431</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2431">CVE-2015-2431</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -359,7 +359,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>OpenType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2432">CVE-2015-2432</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2432">CVE-2015-2432</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -367,7 +367,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>内核 ASLR 绕过漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2433">CVE-2015-2433</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2433">CVE-2015-2433</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -375,7 +375,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>TrueType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2435">CVE-2015-2435</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2435">CVE-2015-2435</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -383,7 +383,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>Windows CSRSS 特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2453">CVE-2015-2453</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2453">CVE-2015-2453</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -391,7 +391,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>Windows KMD 安全功能绕过漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2454">CVE-2015-2454</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2454">CVE-2015-2454</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -399,7 +399,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>TrueType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2455">CVE-2015-2455</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2455">CVE-2015-2455</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -407,7 +407,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>TrueType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2456">CVE-2015-2456</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2456">CVE-2015-2456</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -415,7 +415,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>OpenType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2458">CVE-2015-2458</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2458">CVE-2015-2458</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -423,7 +423,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>OpenType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2459">CVE-2015-2459</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2459">CVE-2015-2459</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -431,7 +431,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>OpenType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2460">CVE-2015-2460</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2460">CVE-2015-2460</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -439,7 +439,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>OpenType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2461">CVE-2015-2461</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2461">CVE-2015-2461</a></p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -447,7 +447,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>OpenType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2462">CVE-2015-2462</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2462">CVE-2015-2462</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -455,7 +455,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>TrueType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2463">CVE-2015-2463</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2463">CVE-2015-2463</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -463,7 +463,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>TrueType 字体分析漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2464">CVE-2015-2464</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2464">CVE-2015-2464</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>永久</p></td>
@@ -471,7 +471,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-080">MS15-080</a></p></td>
 <td style="border:1px solid black;"><p>Windows Shell 安全功能绕过漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2465">CVE-2015-2465</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2465">CVE-2015-2465</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -479,7 +479,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1642">CVE-2015-1642</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1642">CVE-2015-1642</a></p></td>
 <td style="border:1px solid black;"><p>0 - 检测利用情形</p></td>
 <td style="border:1px solid black;"><p>0 - 检测利用情形</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -487,7 +487,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>不安全的命令行参数传递漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2423">CVE-2015-2423</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2423">CVE-2015-2423</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -495,7 +495,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 远程执行代码漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2466">CVE-2015-2466</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2466">CVE-2015-2466</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -503,7 +503,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2467">CVE-2015-2467</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2467">CVE-2015-2467</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -511,7 +511,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2468">CVE-2015-2468</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2468">CVE-2015-2468</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -519,7 +519,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2469">CVE-2015-2469</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2469">CVE-2015-2469</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -527,7 +527,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 整数下溢漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2470">CVE-2015-2470</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2470">CVE-2015-2470</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -535,7 +535,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-081">MS15-081</a></p></td>
 <td style="border:1px solid black;"><p>Microsoft Office 内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2477">CVE-2015-2477</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2477">CVE-2015-2477</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -543,7 +543,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-082">MS15-082</a></p></td>
 <td style="border:1px solid black;"><p>远程桌面会话主机欺骗漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2472">CVE-2015-2472</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2472">CVE-2015-2472</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -551,7 +551,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-082">MS15-082</a></p></td>
 <td style="border:1px solid black;"><p>远程桌面协议 DLL 种植远程执行代码漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2473">CVE-2015-2473</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2473">CVE-2015-2473</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -559,7 +559,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-083">MS15-083</a></p></td>
 <td style="border:1px solid black;"><p>服务器消息块内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2474">CVE-2015-2474</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2474">CVE-2015-2474</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -567,7 +567,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-084">MS15-084</a></p></td>
 <td style="border:1px solid black;"><p>MSXML 信息泄露漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2434">CVE-2015-2434</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2434">CVE-2015-2434</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -575,7 +575,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-084">MS15-084</a></p></td>
 <td style="border:1px solid black;"><p>MSXML 信息泄露漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2440">CVE-2015-2440</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2440">CVE-2015-2440</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -583,7 +583,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-084">MS15-084</a></p></td>
 <td style="border:1px solid black;"><p>MSXML 信息泄露漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2471">CVE-2015-2471</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2471">CVE-2015-2471</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -591,7 +591,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-085">MS15-085</a></p></td>
 <td style="border:1px solid black;"><p>Mount Manager 中的特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1769">CVE-2015-1769</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1769">CVE-2015-1769</a></p></td>
 <td style="border:1px solid black;"><p>0 - 检测利用情形</p></td>
 <td style="border:1px solid black;"><p>0 - 检测利用情形</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -599,7 +599,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-086">MS15-086</a></p></td>
 <td style="border:1px solid black;"><p>System Center Operations Manager Web 控制台 XSS 漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2420">CVE-2015-2420</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2420">CVE-2015-2420</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -607,7 +607,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-087">MS15-087</a></p></td>
 <td style="border:1px solid black;"><p>UDDI 服务特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2475">CVE-2015-2475</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2475">CVE-2015-2475</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -615,15 +615,15 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-088">MS15-088</a></p></td>
 <td style="border:1px solid black;"><p>不安全的命令行参数传递漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2423">CVE-2015-2423</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2423">CVE-2015-2423</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=619309">MS15-089</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://go.microsoft.com/fwlink/?linkid=619309">MS15-089</a></p></td>
 <td style="border:1px solid black;"><p>WebDAV 客户端信息泄露漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2476">CVE-2015-2476</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2476">CVE-2015-2476</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -631,7 +631,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-090">MS15-090</a></p></td>
 <td style="border:1px solid black;"><p>Windows 对象管理器特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2428">CVE-2015-2428</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2428">CVE-2015-2428</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -639,7 +639,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-090">MS15-090</a></p></td>
 <td style="border:1px solid black;"><p>Windows 注册表特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2429">CVE-2015-2429</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2429">CVE-2015-2429</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -647,7 +647,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-090">MS15-090</a></p></td>
 <td style="border:1px solid black;"><p>Windows 文件系统特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2430">CVE-2015-2430</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2430">CVE-2015-2430</a></p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -655,7 +655,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-091">MS15-091</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2441">CVE-2015-2441</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2441">CVE-2015-2441</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -663,7 +663,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-091">MS15-091</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2442">CVE-2015-2442</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2442">CVE-2015-2442</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -671,7 +671,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-091">MS15-091</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2446">CVE-2015-2446</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2446">CVE-2015-2446</a></p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>1 - 可能被利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -679,7 +679,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-091">MS15-091</a></p></td>
 <td style="border:1px solid black;"><p>ASLR 绕过</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2449">CVE-2015-2449</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2449">CVE-2015-2449</a></p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>2 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -687,7 +687,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-092">MS15-092</a></p></td>
 <td style="border:1px solid black;"><p>RyuJIT 优化特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2479">CVE-2015-2479</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2479">CVE-2015-2479</a></p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -695,7 +695,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-092">MS15-092</a></p></td>
 <td style="border:1px solid black;"><p>RyuJIT 优化特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2480">CVE-2015-2480</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2480">CVE-2015-2480</a></p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -703,7 +703,7 @@ Internet Explorer</p></td>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-092">MS15-092</a></p></td>
 <td style="border:1px solid black;"><p>RyuJIT 优化特权提升漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2481">CVE-2015-2481</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2481">CVE-2015-2481</a></p></td>
 <td style="border:1px solid black;"><p>3 - 不太可能利用</p></td>
 <td style="border:1px solid black;"><p>4 - 不受影响</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -711,7 +711,7 @@ Internet Explorer</p></td>
 <tr class="even">
 <td style="border:1px solid black;"><p><a href="https://technet.microsoft.com/zh-cn/library/security/ms15-093">MS15-093</a></p></td>
 <td style="border:1px solid black;"><p>内存损坏漏洞</p></td>
-<td style="border:1px solid black;"><p><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2502">CVE-2015-2502</a></p></td>
+<td style="border:1px solid black;"><p><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-2502">CVE-2015-2502</a></p></td>
 <td style="border:1px solid black;"><p>0 - 检测利用情形</p></td>
 <td style="border:1px solid black;"><p>0 - 检测利用情形</p></td>
 <td style="border:1px solid black;"><p>不适用</p></td>
@@ -771,23 +771,23 @@ Internet Explorer</p></td>
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -943,23 +943,23 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1145,15 +1145,15 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1161,7 +1161,7 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1307,15 +1307,15 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1323,7 +1323,7 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1451,15 +1451,15 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1467,7 +1467,7 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1657,15 +1657,15 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1673,7 +1673,7 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1789,15 +1789,15 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -1805,7 +1805,7 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -1915,11 +1915,11 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2043,19 +2043,19 @@ Microsoft .NET Framework 3.5
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2280,7 +2280,7 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2288,15 +2288,15 @@ Microsoft XML Core Services 3.0 和 MSXML Core Services 6.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2412,23 +2412,23 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2583,7 +2583,7 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2591,15 +2591,15 @@ Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2715,7 +2715,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2723,15 +2723,15 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -2845,7 +2845,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -2853,15 +2853,15 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3039,7 +3039,7 @@ Windows 8.1（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3047,15 +3047,15 @@ Windows 8.1（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3165,7 +3165,7 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3173,15 +3173,15 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3291,7 +3291,7 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3299,7 +3299,7 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3409,15 +3409,15 @@ Windows 10（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -3425,7 +3425,7 @@ Windows 10（用于基于 x64 的系统）
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3646,11 +3646,11 @@ Windows Server 2012 R2（服务器核心安装）
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3744,11 +3744,11 @@ Internet Explorer 9
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3862,11 +3862,11 @@ Internet Explorer 7
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -3966,11 +3966,11 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4059,11 +4059,11 @@ Internet Explorer 8
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4189,11 +4189,11 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**中等**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**中等**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4275,11 +4275,11 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4357,15 +4357,15 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4451,7 +4451,7 @@ Internet Explorer 11
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4591,7 +4591,7 @@ Microsoft .NET Framework 4.6
 
 </td>
 <td style="border:1px solid black;" colspan="2">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4659,7 +4659,7 @@ Microsoft System Center 2012 Operations Manager Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -4714,7 +4714,7 @@ Microsoft System Center 2012 Operations Manager R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4806,15 +4806,15 @@ Microsoft BizTalk Server 2013 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -4893,11 +4893,11 @@ Microsoft XML Core Services 5.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -5025,7 +5025,7 @@ Microsoft Word 2010 Service Pack 2（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -5143,7 +5143,7 @@ Microsoft Word 2013 Service Pack 1（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -5220,7 +5220,7 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -5314,7 +5314,7 @@ Microsoft Word 2016（64 位版本）
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
@@ -5396,11 +5396,11 @@ Microsoft Office for Mac 2016
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5499,7 +5499,7 @@ Microsoft XML Core Services 5.0
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5537,7 +5537,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5575,7 +5575,7 @@ Word Automation Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5613,7 +5613,7 @@ Microsoft Office Web Apps 2010 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**重要**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5661,7 +5661,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5699,7 +5699,7 @@ Microsoft Live Meeting 2007 Console
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5777,7 +5777,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5865,7 +5865,7 @@ Microsoft Lync Basic 2013 Service Pack 1（64 位）
 
 </td>
 <td style="border:1px solid black;">
-[**严重**](http://technet.microsoft.com/zh-cn/security/gg309177.aspx)
+[**严重**](https://technet.microsoft.com/zh-cn/security/gg309177.aspx)
 
 </td>
 </tr>
@@ -5913,7 +5913,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 Syst
 
 Application Compatibility Toolkit 随附的更新兼容性评估程序组件针对安装的应用程序协助简化 Windows 更新的测试和验证。
 
-有关这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](http://technet.microsoft.com/zh-cn/security/cc297183)。
+有关这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](https://technet.microsoft.com/zh-cn/security/cc297183)。
 
 鸣谢
 ----
@@ -5932,39 +5932,39 @@ Microsoft 通过可靠的漏洞披露渠道认可在安全社区中帮助我们�
 有关 Windows 更新和 Microsoft 更新上非安全发布的信息，请参阅：
 
 -   [Microsoft 知识库文章 894199](https://support.microsoft.com/zh-cn/kb/894199)： Software Update Services 和 Windows Server Update Services 的内容更改说明。 包括所有 Windows 内容。
--   [过去几个月关于 Windows Server Update Services 的更新](http://technet.microsoft.com/zh-cn/windowsserver/bb332157.aspx)。 显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
+-   [过去几个月关于 Windows Server Update Services 的更新](https://technet.microsoft.com/zh-cn/windowsserver/bb332157.aspx)。 显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
 
 ### Microsoft Active Protections Program (MAPP)
 
-为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](http://technet.microsoft.com/zh-cn/security/dn467918)中列出）提供的活动保护网站。
+为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。 然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。 要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](https://technet.microsoft.com/zh-cn/security/dn467918)中列出）提供的活动保护网站。
 
 ### 安全策略和社区
 
 **更新管理策略**
 
-[更新管理安全指导](http://technet.microsoft.com/zh-cn/library/bb466251.aspx)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
+[更新管理安全指导](https://technet.microsoft.com/zh-cn/library/bb466251.aspx)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
 **获取其他安全更新**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-cn) 提供了消费者平台的更新。
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)提供了安全更新。 通过输入关键字“安全更新”可以非常方便地找到些更新。
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate/v6/vistadefault.aspx?ln=zh-cn) 提供了消费者平台的更新。
 -   您可以从下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows 更新上提供的安全更新。 有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/zh-cn/kb/913086)。
 
 **IT 专业人员安全社区**
 
-了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](http://technet.microsoft.com/zh-cn/security/cc136632.aspx)中就安全主题与其他 IT 专业人员展开讨论。
+了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](https://technet.microsoft.com/zh-cn/security/cc136632.aspx)中就安全主题与其他 IT 专业人员展开讨论。
 
 ### 支持
 
 已对列出的受影响的软件进行测试，以确定受到影响的版本。 其他版本的支持生命周期已结束。 要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://support.microsoft.com/zh-cn/lifecycle)。
 
-IT 专业人员安全解决方案： [TechNet 安全故障排除和支持](http://technet.microsoft.com/zh-cn/security/bb980617)
+IT 专业人员安全解决方案： [TechNet 安全故障排除和支持](https://technet.microsoft.com/zh-cn/security/bb980617)
 
-帮助保护您运行 Windows 的计算机不受病毒和恶意软件危害： [病毒解决方案和安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-cn)
+帮助保护您运行 Windows 的计算机不受病毒和恶意软件危害： [病毒解决方案和安全中心](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=zh-cn)
 
-根据国家/地区进行本地支持： [国际支持](http://support.microsoft.com/common/international.aspx?ln=zh-cn)
+根据国家/地区进行本地支持： [国际支持](https://support.microsoft.com/common/international.aspx?ln=zh-cn)
 
 ### 免责声明
 

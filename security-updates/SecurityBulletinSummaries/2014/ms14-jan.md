@@ -17,9 +17,9 @@ Microsoft 安全公告摘要 (2014 年 1 月)
 
 本公告摘要列出了 2014 年 1 月发布的安全公告。
 
-对于 2014 年 1 月发布的安全公告，本公告摘要替代 2014 年 1 月 9 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](http://go.microsoft.com/fwlink/?linkid=217213)。
+对于 2014 年 1 月发布的安全公告，本公告摘要替代 2014 年 1 月 9 日最初发布的公告预先通知。有关公告预先通知服务的详细信息，请参阅 [Microsoft 安全公告预先通知](https://go.microsoft.com/fwlink/?linkid=217213)。
 
-有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](http://go.microsoft.com/fwlink/?linkid=21163)。
+有关在 Microsoft 安全公告发布时如何收到自动通知的信息，请访问 [Microsoft 技术安全通知](https://go.microsoft.com/fwlink/?linkid=21163)。
 
 Microsoft 将在 2014 年 1 月 15 日上午 11 点（美国和加拿大太平洋时间）进行网络广播，以解答客户关于这些公告的疑问。[立即注册申请收听 1 月份安全公告网络广播](https://msevents.microsoft.com/cui/eventdetail.aspx?eventid=1032572876&culture=en-us)。
 
@@ -46,42 +46,42 @@ Microsoft 还会提供相关信息，帮助客户对每月安全更新和与每�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Word</strong> <strong>和</strong> <strong>Office Web App</strong> <strong>中的漏洞可能允许远程执行代码</strong> <strong>(2916605)<br />
 <br />
 </strong>此安全更新可解决 Microsoft Office 中3 个秘密报告的漏洞。如果特制文件在 Microsoft Word 的受影响版本或其他受影响的 Microsoft Office 软件中打开，则这些漏洞可能允许远程执行代码。成功利用该漏洞的攻击者可以获得与当前用户相同的用户权限。那些帐户被配置为拥有较少系统用户权限的用户比具有管理用户权限的用户受到的影响要小。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 远程执行代码</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Office，<br />
 Microsoft Server 软件</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=389579">MS14-002</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=389579">MS14-002</a></td>
 <td style="border:1px solid black;"><strong>Windows</strong> <strong>内核中的漏洞可能允许特权提升</strong> <strong>(2914368)<br />
 <br />
 </strong>此安全更新可解决 Microsoft Windows 中一个公开披露的漏洞。此漏洞在攻击者登录系统并运行特制应用程序时允许提升特权。攻击者必须拥有有效的登录凭据并能本地登录才能利用此漏洞。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=389578">MS14-003</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=389578">MS14-003</a></td>
 <td style="border:1px solid black;"><strong>Windows</strong> <strong>内核模式驱动程序中的漏洞可能允许特权提升</strong> <strong>(2913602)<br />
 <br />
 </strong>此安全更新可解决 Microsoft Windows 中一个秘密报告的漏洞。该漏洞在用户登录系统并运行特制应用程序时允许提升特权。攻击者必须拥有有效的登录凭据并能本地登录才能利用此漏洞。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 特权提升</td>
 <td style="border:1px solid black;">需要重启动</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=386402">MS14-004</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=386402">MS14-004</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Dynamics AX</strong> <strong>中的漏洞可能允许拒绝服务</strong> <strong>(2880826)<br />
 <br />
 </strong>此安全更新可解决 Microsoft Dynamics AX 中一个秘密报告的漏洞。如果经过身份验证的攻击者向受影响的 Microsoft Dynamics AX 应用程序对象服务器 (AOS) 实例提交特制数据，该漏洞可能允许拒绝服务。成功利用此漏洞的攻击者可能导致目标 AOS 实例停止响应客户端请求。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 拒绝服务</td>
 <td style="border:1px solid black;">可能要求重新启动</td>
 <td style="border:1px solid black;">Microsoft Dynamics AX</td>
@@ -97,7 +97,7 @@ Microsoft Server 软件</td>
   
 **如何使用该表？**
   
-使用该表了解对于您可能需要安装的每个安全更新，安全公告发布 30 天内发生代码执行和拒绝服务利用的可能性。根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](http://technet.microsoft.com/security/cc998259)。
+使用该表了解对于您可能需要安装的每个安全更新，安全公告发布 30 天内发生代码执行和拒绝服务利用的可能性。根据您的特定配置，检查下面的每个评估，从而确定部署本月更新的优先次序。有关这些等级的含义以及如何确定这些等级的详细信息，请参阅 [Microsoft 利用指数](https://technet.microsoft.com/security/cc998259)。
   
 在本公告中“受影响的软件”和“不受影响的软件”表的下面几列中，“最新版本的软件发布”是指主题软件，“较旧版本的软件发布”是指主题软件的所有较旧的受支持版本。
 
@@ -116,58 +116,58 @@ Microsoft Server 软件</td>
 </thead>  
 <tbody>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
 <td style="border:1px solid black;">Word 内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0258">CVE-2014-0258</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0258">CVE-2014-0258</a></td>
 <td style="border:1px solid black;">不受影响</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
 <td style="border:1px solid black;">不适用</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
 <td style="border:1px solid black;">Word 内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0259">CVE-2014-0259</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0259">CVE-2014-0259</a></td>
 <td style="border:1px solid black;">不受影响</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
 <td style="border:1px solid black;">不适用</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=386452">MS14-001</a></td>
 <td style="border:1px solid black;">Word 内存损坏漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0260">CVE-2014-0260</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0260">CVE-2014-0260</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
 <td style="border:1px solid black;">不适用</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=389579">MS14-002</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=389579">MS14-002</a></td>
 <td style="border:1px solid black;">内核 NDProxy 漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-5065">CVE-2013-5065</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2013-5065">CVE-2013-5065</a></td>
 <td style="border:1px solid black;">不受影响</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
 <td style="border:1px solid black;">不适用</td>
 <td style="border:1px solid black;">此漏洞已公开披露。<br />
 <br />
 Microsoft 获悉尝试使用此漏洞的有限目标攻击。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=389578">MS14-003</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=389578">MS14-003</a></td>
 <td style="border:1px solid black;">Win32k 窗口句柄漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0262">CVE-2014-0262</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0262">CVE-2014-0262</a></td>
 <td style="border:1px solid black;">不受影响</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">1</a> - 可能被利用的漏洞检测代码</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">（无）</td>
 </tr>  
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=386402">MS14-004</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=386402">MS14-004</a></td>
 <td style="border:1px solid black;">查询筛选器 DoS 漏洞</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0261">CVE-2014-0261</a></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能被利用的漏洞检测代码</td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/cc998259">3</a> - 不太可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2014-0261">CVE-2014-0261</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能被利用的漏洞检测代码</td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/cc998259">3</a> - 不太可能被利用的漏洞检测代码</td>
 <td style="border:1px solid black;">永久</td>
 <td style="border:1px solid black;">这是一个拒绝服务漏洞。</td>
 </tr>  
@@ -200,10 +200,10 @@ Windows XP
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -211,10 +211,10 @@ Windows XP
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -253,10 +253,10 @@ Windows Server 2003
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -264,10 +264,10 @@ Windows Server 2003
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -319,10 +319,10 @@ Windows Vista
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr>
@@ -330,10 +330,10 @@ Windows Vista
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -368,10 +368,10 @@ Windows Server 2008
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr>
@@ -379,10 +379,10 @@ Windows Server 2008
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -428,10 +428,10 @@ Windows 7
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -439,10 +439,10 @@ Windows 7
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -481,10 +481,10 @@ Windows Server 2008 R2
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -492,10 +492,10 @@ Windows Server 2008 R2
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -534,10 +534,10 @@ Windows 8 和 Windows 8.1
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -545,10 +545,10 @@ Windows 8 和 Windows 8.1
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -605,10 +605,10 @@ Windows Server 2012 和 Windows Server 2012 R2
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -616,10 +616,10 @@ Windows Server 2012 和 Windows Server 2012 R2
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -654,10 +654,10 @@ Windows RT 和 Windows RT 8.1
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -665,10 +665,10 @@ Windows RT 和 Windows RT 8.1
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -703,10 +703,10 @@ Windows RT 8.1
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-002**](http://go.microsoft.com/fwlink/?linkid=389579)
+[**MS14-002**](https://go.microsoft.com/fwlink/?linkid=389579)
 </td>
 <td style="border:1px solid black;">
-[**MS14-003**](http://go.microsoft.com/fwlink/?linkid=389578)
+[**MS14-003**](https://go.microsoft.com/fwlink/?linkid=389578)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -714,10 +714,10 @@ Windows RT 8.1
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-**无**[](http://go.microsoft.com/fwlink/?linkid=21140)
+**无**[](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -794,7 +794,7 @@ Microsoft Office 2003
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -802,7 +802,7 @@ Microsoft Office 2003
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -825,7 +825,7 @@ Microsoft Office 2007
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr>
@@ -833,7 +833,7 @@ Microsoft Office 2007
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -856,7 +856,7 @@ Microsoft Office 2010
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -864,7 +864,7 @@ Microsoft Office 2010
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -957,7 +957,7 @@ Microsoft Office 2013 和 Microsoft Office 2013 RT
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -965,7 +965,7 @@ Microsoft Office 2013 和 Microsoft Office 2013 RT
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1030,7 +1030,7 @@ Microsoft Word 2013 RT
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr>
@@ -1038,7 +1038,7 @@ Microsoft Word 2013 RT
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1081,7 +1081,7 @@ Microsoft SharePoint Server 2010
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1089,7 +1089,7 @@ Microsoft SharePoint Server 2010
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1122,7 +1122,7 @@ Microsoft SharePoint Server 2013
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1130,7 +1130,7 @@ Microsoft SharePoint Server 2013
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1153,7 +1153,7 @@ Microsoft Office Web Apps 2010
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr>
@@ -1161,7 +1161,7 @@ Microsoft Office Web Apps 2010
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1194,7 +1194,7 @@ Microsoft Office Web Apps 2013
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-001**](http://go.microsoft.com/fwlink/?linkid=386452)
+[**MS14-001**](https://go.microsoft.com/fwlink/?linkid=386452)
 </td>
 </tr>
 <tr>
@@ -1202,7 +1202,7 @@ Microsoft Office Web Apps 2013
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1235,7 +1235,7 @@ Microsoft Dynamics AX 4.0
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-004**](http://go.microsoft.com/fwlink/?linkid=386402)
+[**MS14-004**](https://go.microsoft.com/fwlink/?linkid=386402)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1243,7 +1243,7 @@ Microsoft Dynamics AX 4.0
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1266,7 +1266,7 @@ Microsoft Dynamics AX 2009
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-004**](http://go.microsoft.com/fwlink/?linkid=386402)
+[**MS14-004**](https://go.microsoft.com/fwlink/?linkid=386402)
 </td>
 </tr>
 <tr>
@@ -1274,7 +1274,7 @@ Microsoft Dynamics AX 2009
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1297,7 +1297,7 @@ Microsoft Dynamics AX 2012 和 Microsoft Dynamics AX 2012 R2
 **公告标识符**
 </td>
 <td style="border:1px solid black;">
-[**MS14-004**](http://go.microsoft.com/fwlink/?linkid=386402)
+[**MS14-004**](https://go.microsoft.com/fwlink/?linkid=386402)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1305,7 +1305,7 @@ Microsoft Dynamics AX 2012 和 Microsoft Dynamics AX 2012 R2
 **综合严重等级**
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1340,7 +1340,7 @@ Microsoft Dynamics AX 2012 R2
 -   Windows Server Update Services (WSUS)、Systems Management Server (SMS) 和 System Center Configuration Manager 帮助管理员分发安全更新。
 -   Application Compatibility Toolkit 随附的更新兼容性评估程序组件针对安装的应用程序协助简化 Windows 更新的测试和验证。
 
-有关的这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](http://technet.microsoft.com/security/cc297183)。
+有关的这些和其他可用工具的信息，请参阅 [IT 专业人员安全工具](https://technet.microsoft.com/security/cc297183)。
 
 ### 其他信息
 
@@ -1354,67 +1354,67 @@ Microsoft Dynamics AX 2012 R2
 
 -   [Microsoft 知识库文章 894199](https://support.microsoft.com/kb/894199)
 -   ： Software Update Services 和 Windows Server Update Services 的内容更改说明。包括所有 Windows 内容。
--   [过去几个月关于 Windows Server Update Services 的更新](http://technet.microsoft.com/wsus/bb456965)
+-   [过去几个月关于 Windows Server Update Services 的更新](https://technet.microsoft.com/wsus/bb456965)
 -   。显示除 Microsoft Windows 之外的 Microsoft 产品的所有新的、修订的和重新发布的更新。
 
 #### Microsoft Active Protections Program (MAPP)
 
-为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](http://go.microsoft.com/fwlink/?linkid=215201)中列出）提供的活动保护网站。
+为改进客户的安全保护，Microsoft 在发布每月安全更新之前将向主要的安全软件供应商提供漏洞信息。然后，安全软件供应商可以使用该漏洞信息通过其安全软件或者设备向客户提供更新的保护，例如防病毒、基于网络的入侵检测系统或者基于主机的入侵防止系统。要确定是否可从安全软件供应商处得到活动保护，请访问计划合作伙伴（在 [Microsoft Active Protections Program (MAPP) 合作伙伴](https://go.microsoft.com/fwlink/?linkid=215201)中列出）提供的活动保护网站。
 
 #### 安全策略和社区
 
 **更新管理策略**
 
-[更新管理安全指导](http://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
+[更新管理安全指导](https://go.microsoft.com/fwlink/?linkid=21168)提供 Microsoft 关于应用安全更新的最佳方案建议的其他信息。
 
 **获取其他安全更新**
 
 可从以下位置获得针对其他安全问题的更新：
 
--   [Microsoft 下载中心](http://go.microsoft.com/fwlink/?linkid=21129)
+-   [Microsoft 下载中心](https://go.microsoft.com/fwlink/?linkid=21129)
 -   提供了安全更新。通过输入关键字“安全更新”可以非常方便地找到些更新。
--   [Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747)
+-   [Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747)
 -   提供了消费者平台的更新。
 -   您可以从 Microsoft 下载中心的“安全和关键发布 ISO CD 映像文件”获得本月 Windows Update 上提供的安全更新。有关详细信息，请参阅 [Microsoft 知识库文章 913086](https://support.microsoft.com/kb/913086)。
 
 **IT** **专业人员安全区域社区**
 
-了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](http://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
+了解如何提高安全性和优化 IT 基础结构，并在 [IT 专业人员安全社区](https://go.microsoft.com/fwlink/?linkid=21164)中就安全主题与其他 IT 专业人员展开讨论。
 
 #### 鸣谢
 
-Microsoft [感谢](http://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
+Microsoft [感谢](https://go.microsoft.com/fwlink/?linkid=21127)下列人员或组织与我们一起致力于保护客户的利益：
 
 **MS14-001**
 
--   [Google Security Team](http://www.google.com/)
+-   [Google Security Team](https://www.google.com/)
 -   的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 报告了 Word 内存损坏漏洞 (CVE-2014-0258)
--   [Google Security Team](http://www.google.com/)
+-   [Google Security Team](https://www.google.com/)
 -   的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 报告了 Word 内存损坏漏洞 (CVE-2014-0259)
--   [Google Security Team](http://www.google.com/)
+-   [Google Security Team](https://www.google.com/)
 -   的 Mateusz Jurczyk、Ivan Fratric 和 Ben Hawkes 报告了 Word 内存损坏漏洞 (CVE-2014-0260)
 
 **MS14-002**
 
--   [FireEye, Inc.](http://www2.fireeye.com/)
+-   [FireEye, Inc.](https://www2.fireeye.com/)
 -   帮助我们处理内核 NDProxy 漏洞 (CVE-2013-5065)
 
 **MS14-003**
 
--   [Qihoo](http://www.360.cn/)
+-   [Qihoo](https://www.360.cn/)
 -   的温玉杰和袁仁广报告了 Win32k 窗口处理漏洞 (CVE-2014-0262)
 
 **MS14-004**
 
--   [FTO Project](http://www.fto.com.ru/)
+-   [FTO Project](https://www.fto.com.ru/)
 -   首席开发人员 Andrey Maykov报告了查询筛选器 DoS 漏洞 (CVE-2014-0261)
 
 #### 支持
 
--   已对列出的受影响的软件进行测试，以确定受到影响的版本。其他版本的支持生命周期已结束。要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](http://go.microsoft.com/fwlink/?linkid=21742)。
--   面向 IT 专业人员的安全解决方案： [TechNet 安全故障排除和支持](http://technet.microsoft.com/security/bb980617)
--   帮助保护运行 Windows 的计算机免遭病毒和恶意软件攻击： [病毒解决方案和安全中心](http://support.microsoft.com/contactus/cu_sc_virsec_master)
--   本地支持（根据您的国家/地区）： [国际支持](http://support.microsoft.com/common/international.aspx)
+-   已对列出的受影响的软件进行测试，以确定受到影响的版本。其他版本的支持生命周期已结束。要确定软件版本的技术支持生命周期，请访问 [Microsoft 技术支持生命周期](https://go.microsoft.com/fwlink/?linkid=21742)。
+-   面向 IT 专业人员的安全解决方案： [TechNet 安全故障排除和支持](https://technet.microsoft.com/security/bb980617)
+-   帮助保护运行 Windows 的计算机免遭病毒和恶意软件攻击： [病毒解决方案和安全中心](https://support.microsoft.com/contactus/cu_sc_virsec_master)
+-   本地支持（根据您的国家/地区）： [国际支持](https://support.microsoft.com/common/international.aspx)
 
 #### 免责声明
 
