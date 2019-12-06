@@ -171,9 +171,9 @@ Microsoft Windows 2000 Service Pack 4
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 5.01 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=389da7a9-e0a3-4b5d-801e-0a38fc55dcec)  
+[Internet Explorer 5.01 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=389da7a9-e0a3-4b5d-801e-0a38fc55dcec)  
 （严重）  
-[Internet Explorer 6 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=daf199c4-da56-4a7f-80e6-3936ce5c267b)  
+[Internet Explorer 6 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=daf199c4-da56-4a7f-80e6-3936ce5c267b)  
 （严重）
 </td>
 </tr>
@@ -209,15 +209,15 @@ Windows XP
 Windows XP Service Pack 2 和 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 2.1](http://www.microsoft.com/downloads/details.aspx?familyid=6301e462-02be-4b9a-bae9-7c4821b42d2d)<sup>[1]</sup>  
+[Movie Maker 2.1](https://www.microsoft.com/download/details.aspx?familyid=6301e462-02be-4b9a-bae9-7c4821b42d2d)<sup>[1]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=2f2caa01-5cd1-45cb-9995-e34d933920d4)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=2f2caa01-5cd1-45cb-9995-e34d933920d4)  
 （严重）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=167ed896-d383-4dc0-9183-cd4cb73e17e7)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=167ed896-d383-4dc0-9183-cd4cb73e17e7)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=46172617-293a-44c7-95b6-18202ab06a41)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=46172617-293a-44c7-95b6-18202ab06a41)  
 （严重）
 </td>
 </tr>
@@ -226,15 +226,15 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 2.1](http://www.microsoft.com/downloads/details.aspx?familyid=cae81585-d0df-41b8-9277-ca02f1265056)<sup>[1]</sup>  
+[Movie Maker 2.1](https://www.microsoft.com/download/details.aspx?familyid=cae81585-d0df-41b8-9277-ca02f1265056)<sup>[1]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=6c711387-6853-477c-917e-820a97613cf9)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=6c711387-6853-477c-917e-820a97613cf9)  
 （严重）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=aadb1d97-5cec-45ed-9967-aaf41a0bcdac)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=aadb1d97-5cec-45ed-9967-aaf41a0bcdac)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=284d70ea-24a3-4e67-a2a8-e9f272f728db)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=284d70ea-24a3-4e67-a2a8-e9f272f728db)  
 （严重）
 </td>
 </tr>
@@ -273,11 +273,11 @@ Windows Server 2003 Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=dc77f1c9-8240-42d9-aee9-30ac4f33bde7)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=dc77f1c9-8240-42d9-aee9-30ac4f33bde7)  
 （重要）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e957a7cf-e5ca-454d-b199-ec8fe6a6a2bf)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e957a7cf-e5ca-454d-b199-ec8fe6a6a2bf)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=53fc3285-63c4-487f-ad9a-7e1673aeffc7)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=53fc3285-63c4-487f-ad9a-7e1673aeffc7)  
 （中等）
 </td>
 </tr>
@@ -289,11 +289,11 @@ Windows Server 2003 x64 Edition Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=2be85462-28ec-4184-a326-0459554b7213)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=2be85462-28ec-4184-a326-0459554b7213)  
 （重要）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=cb0e39f8-9730-4454-a0e3-479b610b1591)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=cb0e39f8-9730-4454-a0e3-479b610b1591)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=5201a0c5-8162-4809-b9d1-0e972b0f0066)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=5201a0c5-8162-4809-b9d1-0e972b0f0066)  
 （中等）
 </td>
 </tr>
@@ -305,9 +305,9 @@ Windows Server 2003 SP2（用于基于 Itanium 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=04abea55-ea2f-423f-b410-5536ea184ea3)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=04abea55-ea2f-423f-b410-5536ea184ea3)  
 （重要）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=7ebd99b4-da6b-4dff-9f89-6a86d275a3da)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=7ebd99b4-da6b-4dff-9f89-6a86d275a3da)  
 （严重）
 </td>
 </tr>
@@ -343,15 +343,15 @@ Windows Vista
 Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=ae2e9b75-1616-4fe3-91bb-e2e28252ff1c)<sup>[1]</sup>  
+[Movie Maker 6.0](https://www.microsoft.com/download/details.aspx?familyid=ae2e9b75-1616-4fe3-91bb-e2e28252ff1c)<sup>[1]</sup>  
 （重要）  
-[Movie Maker 2.6](http://www.microsoft.com/downloads/details.aspx?familyid=ca2d1118-ca64-419d-86af-9396e61b90b0)<sup>[2]</sup>  
+[Movie Maker 2.6](https://www.microsoft.com/download/details.aspx?familyid=ca2d1118-ca64-419d-86af-9396e61b90b0)<sup>[2]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=511aba0e-6f15-42cf-9c5d-b2f3e215b5a8)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=511aba0e-6f15-42cf-9c5d-b2f3e215b5a8)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c9584689-5196-4840-927c-23c8038f3382)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c9584689-5196-4840-927c-23c8038f3382)  
 （严重）
 </td>
 </tr>
@@ -360,15 +360,15 @@ Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=e27f353e-deb6-4d61-8808-c751d20a42a1)<sup>[1]</sup>  
+[Movie Maker 6.0](https://www.microsoft.com/download/details.aspx?familyid=e27f353e-deb6-4d61-8808-c751d20a42a1)<sup>[1]</sup>  
 （重要）  
-[Movie Maker 2.6](http://www.microsoft.com/downloads/details.aspx?familyid=6a1f4126-97f2-4aee-bfe1-05bd13a0667b)<sup>[2]</sup>  
+[Movie Maker 2.6](https://www.microsoft.com/download/details.aspx?familyid=6a1f4126-97f2-4aee-bfe1-05bd13a0667b)<sup>[2]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=c8933a45-62a7-4c19-be30-02e3a461f081)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=c8933a45-62a7-4c19-be30-02e3a461f081)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=50809cc3-6baa-41b4-ba0a-596a1dd846ed)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=50809cc3-6baa-41b4-ba0a-596a1dd846ed)  
 （严重）
 </td>
 </tr>
@@ -407,9 +407,9 @@ Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=42f8c1f2-ee55-47af-b113-8d9f4bd40c8f)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=42f8c1f2-ee55-47af-b113-8d9f4bd40c8f)\*\*  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c69a6dfe-66b1-4426-96a5-d64000296e76)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c69a6dfe-66b1-4426-96a5-d64000296e76)\*\*  
 （中等）
 </td>
 </tr>
@@ -421,9 +421,9 @@ Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=769043b5-df52-4446-9bd8-dc37d9fa00df)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=769043b5-df52-4446-9bd8-dc37d9fa00df)\*\*  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e16c10d2-896d-48f3-bc76-5fa70881396a)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e16c10d2-896d-48f3-bc76-5fa70881396a)\*\*  
 （中等）
 </td>
 </tr>
@@ -435,7 +435,7 @@ Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008�
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=c1c2309d-22db-4dbf-ad95-3219847cd42d)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=c1c2309d-22db-4dbf-ad95-3219847cd42d)  
 （严重）
 </td>
 </tr>
@@ -474,7 +474,7 @@ Windows 7（用于 32 位系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=c0145563-428e-47b6-b245-b59dce88ac0e)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=c0145563-428e-47b6-b245-b59dce88ac0e)  
 （严重）
 </td>
 </tr>
@@ -486,7 +486,7 @@ Windows 7（用于基于 x64 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=6172dbec-6bfc-40bd-a0d4-67c39fb41b87)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=6172dbec-6bfc-40bd-a0d4-67c39fb41b87)  
 （严重）
 </td>
 </tr>
@@ -525,7 +525,7 @@ Windows Server 2008 R2（用于基于 x64 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=8b7c664b-8612-458f-bd0a-cf28b67f8374)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=8b7c664b-8612-458f-bd0a-cf28b67f8374)\*\*  
 （中等）
 </td>
 </tr>
@@ -537,7 +537,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=82fa6f47-002f-4943-888c-2e852675e76e)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=82fa6f47-002f-4943-888c-2e852675e76e)  
 （中等）
 </td>
 </tr>
@@ -599,7 +599,7 @@ Microsoft Office 套件、系统和组件
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=e0136f62-60ce-4ebd-8660-be81eba29ae8)  
+[Microsoft Office Excel 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=e0136f62-60ce-4ebd-8660-be81eba29ae8)  
 (KB978471)  
 （重要）
 </td>
@@ -612,7 +612,7 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=7e42793e-747b-48da-968a-1ec29ea37151)  
+[Microsoft Office Excel 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=7e42793e-747b-48da-968a-1ec29ea37151)  
 (KB978474)  
 （重要）
 </td>
@@ -625,7 +625,7 @@ Microsoft Office 2003
 2007 Microsoft Office System
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=03429f8a-8aab-4a59-97e4-7ce047f100a5)<sup>[1]</sup>  
+[Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=03429f8a-8aab-4a59-97e4-7ce047f100a5)<sup>[1]</sup>  
 (KB978382)  
 （重要）
 </td>
@@ -665,7 +665,7 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=ae5936f8-fe3f-4d23-a37c-d80f228e475e)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=ae5936f8-fe3f-4d23-a37c-d80f228e475e)  
 (KB980837)  
 （重要）
 </td>
@@ -678,7 +678,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=e0ed1569-ab2f-407c-b728-4eddc463c385)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=e0ed1569-ab2f-407c-b728-4eddc463c385)  
 (KB980839)  
 （重要）
 </td>
@@ -691,7 +691,7 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=4c5487d5-c912-4087-8c83-769e3fb78ea9)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=4c5487d5-c912-4087-8c83-769e3fb78ea9)  
 (KB980840)  
 （重要）
 </td>
@@ -731,7 +731,7 @@ Open XML File Format Converter for Mac
 Microsoft Office Excel Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer Service Pack 1 和 Microsoft Office Excel Viewer Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=010d0a4d-02a4-4142-963b-a38cd06cc897)  
+[Microsoft Office Excel Viewer Service Pack 1 和 Microsoft Office Excel Viewer Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=010d0a4d-02a4-4142-963b-a38cd06cc897)  
 (KB978383)  
 （重要）
 </td>
@@ -744,7 +744,7 @@ Microsoft Office Excel Viewer
 用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包
 </td>
 <td style="border:1px solid black;">
-[用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 1 的 Microsoft Office 兼容包以及用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 2 的 Microsoft Office 兼容包](http://www.microsoft.com/downloads/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15)  
+[用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 1 的 Microsoft Office 兼容包以及用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 2 的 Microsoft Office 兼容包](https://www.microsoft.com/download/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15)  
 (KB978380)  
 （重要）
 </td>
@@ -757,7 +757,7 @@ Microsoft Office Excel Viewer
 Microsoft Office SharePoint Server 2007（32 位版本）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 Service Pack 1 和 Microsoft Office SharePoint Server 2007 Service Pack 2（32 位版本）](http://www.microsoft.com/downloads/details.aspx?familyid=94ddf6ef-3392-4d77-a02b-3bc0470721cd)<sup>[2]</sup>  
+[Microsoft Office SharePoint Server 2007 Service Pack 1 和 Microsoft Office SharePoint Server 2007 Service Pack 2（32 位版本）](https://www.microsoft.com/download/details.aspx?familyid=94ddf6ef-3392-4d77-a02b-3bc0470721cd)<sup>[2]</sup>  
 (KB979439)  
 （重要）
 </td>
@@ -770,7 +770,7 @@ Microsoft Office SharePoint Server 2007（32 位版本）
 Microsoft Office SharePoint Server 2007（64 位版本）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007 Service Pack 1 和 Microsoft Office SharePoint Server 2007 Service Pack 2（64 位版本）](http://www.microsoft.com/downloads/details.aspx?familyid=06f6bffb-3fad-4fb5-878b-39550812e9b5)<sup>[2]</sup>  
+[Microsoft Office SharePoint Server 2007 Service Pack 1 和 Microsoft Office SharePoint Server 2007 Service Pack 2（64 位版本）](https://www.microsoft.com/download/details.aspx?familyid=06f6bffb-3fad-4fb5-878b-39550812e9b5)<sup>[2]</sup>  
 (KB979439)  
 （重要）
 </td>
@@ -786,7 +786,7 @@ Microsoft Producer 2003
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Producer 2003](http://www.microsoft.com/downloads/details.aspx?familyid=1b3c76d5-fc75-4f99-94bc-784919468e73)<sup>[3]</sup>  
+[Microsoft Producer 2003](https://www.microsoft.com/download/details.aspx?familyid=1b3c76d5-fc75-4f99-94bc-784919468e73)<sup>[3]</sup>  
 （重要）
 </td>
 </tr>
@@ -794,7 +794,7 @@ Microsoft Producer 2003
 
 **MS10-017 注释**
 
-<sup>[1]</sup>对于 Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2，除了安全更新程序包 KB978382 之外，客户还需要安装[用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包 Service Pack 1 和用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15) 的安全更新 (KB978380)，以免受本公告中所描述的漏洞影响。
+<sup>[1]</sup>对于 Microsoft Office Excel 2007 Service Pack 1 和 Microsoft Office Excel 2007 Service Pack 2，除了安全更新程序包 KB978382 之外，客户还需要安装[用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包 Service Pack 1 和用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=314f076e-8f9d-46c2-b666-86599a02bf15) 的安全更新 (KB978380)，以免受本公告中所描述的漏洞影响。
 
 <sup>[2]</sup>此更新适用于安装了 Excel Services 的服务器，例如 Microsoft Office SharePoint Server 2007 Enterprise 和 Microsoft Office SharePoint Server 2007 For Internet Sites 的默认配置。 Microsoft Office SharePoint Server 2007 Standard 不包含 Excel Services。
 
@@ -839,7 +839,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

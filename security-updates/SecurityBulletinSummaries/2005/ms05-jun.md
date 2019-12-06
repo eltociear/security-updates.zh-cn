@@ -183,96 +183,96 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=a19eee21-7df2-4b95-a4c5-44c6caa5af9a">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=3ea61158-e7c5-49a8-a701-b16aaf83a188">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=b7097610-8aab-4a2f-94c9-18d32e1c297c">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=a19eee21-7df2-4b95-a4c5-44c6caa5af9a">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=3ea61158-e7c5-49a8-a701-b16aaf83a188">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=b7097610-8aab-4a2f-94c9-18d32e1c297c">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 Service Pack 1</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=a19eee21-7df2-4b95-a4c5-44c6caa5af9a">重要</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=3ea61158-e7c5-49a8-a701-b16aaf83a188">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=a19eee21-7df2-4b95-a4c5-44c6caa5af9a">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=3ea61158-e7c5-49a8-a701-b16aaf83a188">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows Server 2003（用于基于 Itanium 的系统）</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ee8ba26d-cfda-428f-9f9b-16908db88c80">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7d97522f-f322-44d4-9e60-bdfed4a7a079">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2024382a-14a9-4231-8835-e2720c562190">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ee8ba26d-cfda-428f-9f9b-16908db88c80">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7d97522f-f322-44d4-9e60-bdfed4a7a079">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2024382a-14a9-4231-8835-e2720c562190">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows Server 2003 Service Pack 1（用于基于 Itanium 的系统）</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ee8ba26d-cfda-428f-9f9b-16908db88c80">重要</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7d97522f-f322-44d4-9e60-bdfed4a7a079">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ee8ba26d-cfda-428f-9f9b-16908db88c80">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7d97522f-f322-44d4-9e60-bdfed4a7a079">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows Server 2003 x64 Edition</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2e8716f7-3a81-4482-8c92-2a2dc3c2f782">重要</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b455a686-eff2-44d7-bafa-ac73f0f68fb1">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2e8716f7-3a81-4482-8c92-2a2dc3c2f782">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b455a686-eff2-44d7-bafa-ac73f0f68fb1">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=17833b94-af70-47bd-872c-033a3f0e982a">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=9cc719ad-5e57-4aef-9fb3-9f7ab7bb5d32">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=91488ddd-1d7e-4277-916a-d5f2ee0b6327">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=17833b94-af70-47bd-872c-033a3f0e982a">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=9cc719ad-5e57-4aef-9fb3-9f7ab7bb5d32">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=91488ddd-1d7e-4277-916a-d5f2ee0b6327">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=17833b94-af70-47bd-872c-033a3f0e982a">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=9cc719ad-5e57-4aef-9fb3-9f7ab7bb5d32">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=17833b94-af70-47bd-872c-033a3f0e982a">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=9cc719ad-5e57-4aef-9fb3-9f7ab7bb5d32">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows XP 64-Bit Edition Service Pack 1 (Itanium)</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a6a807f2-ad02-4d15-a198-cf8a728b3a25">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b3a61221-0dac-452c-87e9-3362dd97273a">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1dc37a74-bf1e-4afe-8198-d5ca460a3872">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=a6a807f2-ad02-4d15-a198-cf8a728b3a25">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b3a61221-0dac-452c-87e9-3362dd97273a">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=1dc37a74-bf1e-4afe-8198-d5ca460a3872">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows XP 64-Bit Edition Version 2003 (Itanium)</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ee8ba26d-cfda-428f-9f9b-16908db88c80">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7d97522f-f322-44d4-9e60-bdfed4a7a079">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2024382a-14a9-4231-8835-e2720c562190">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ee8ba26d-cfda-428f-9f9b-16908db88c80">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7d97522f-f322-44d4-9e60-bdfed4a7a079">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2024382a-14a9-4231-8835-e2720c562190">重要</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows XP Professional x64 Edition</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=ce81ae3b-4fa4-4576-8539-ab49e575a98f">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=716b9cde-5ef1-4005-903f-fc720863f03c">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=ce81ae3b-4fa4-4576-8539-ab49e575a98f">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=716b9cde-5ef1-4005-903f-fc720863f03c">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=9af346ae-4807-42f4-95e2-8f5fae321102">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=1e83f120-01fb-4029-a524-f3ae08f8bb28">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=9af346ae-4807-42f4-95e2-8f5fae321102">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=1e83f120-01fb-4029-a524-f3ae08f8bb28">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=9af346ae-4807-42f4-95e2-8f5fae321102">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=1e83f120-01fb-4029-a524-f3ae08f8bb28">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=9af346ae-4807-42f4-95e2-8f5fae321102">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=1e83f120-01fb-4029-a524-f3ae08f8bb28">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -318,7 +318,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 3 上的 Internet Explorer 5.01 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=5f577a83-67c6-45ae-b5c5-10d7c7ffa3d3">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=5f577a83-67c6-45ae-b5c5-10d7c7ffa3d3">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -326,7 +326,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 4 上的 Internet Explorer 5.01 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=703859af-cdd5-4348-8916-472a3fdf8667">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=703859af-cdd5-4348-8916-472a3fdf8667">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -342,7 +342,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows 2000 Service Pack 3、Microsoft Windows 2000 Service Pack 4 或 Microsoft Windows XP Service Pack 1 中的 Internet Explorer 6 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=a1809b9b-9b0f-4a9c-84a5-56b774920313">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=a1809b9b-9b0f-4a9c-84a5-56b774920313">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -358,7 +358,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP 64-Bit Edition Service Pack 1 中的 Internet Explorer 6 Service Pack 1 (Itanium)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=6aae593c-8ffd-443f-b9ac-3f9f0f20a2eb">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=6aae593c-8ffd-443f-b9ac-3f9f0f20a2eb">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -366,7 +366,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Internet Explorer 6 for Windows XP Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=36ec67ca-94f6-4e55-adcd-4406a3d6aade">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=36ec67ca-94f6-4e55-adcd-4406a3d6aade">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -374,7 +374,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">用于 Windows Server 2003 和 Windows Server 2003 Service Pack 1 的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=2c58b8f7-4f2d-44da-80ef-b83667b5afd7">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=2c58b8f7-4f2d-44da-80ef-b83667b5afd7">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -382,7 +382,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">用于 Microsoft Windows XP 64-Bit Edition Version 2003 (Itanium)、Microsoft Windows Server 2003（用于基于 Itanium 的系统）以及 Microsoft Windows Server 2003 SP1（用于基于 Itanium 的系统）的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=77e601e9-4eed-4671-8f3e-ad58a1e88041">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=77e601e9-4eed-4671-8f3e-ad58a1e88041">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -390,7 +390,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">用于 Microsoft Windows Server 2003 x64 Edition 和 Microsoft Windows XP Professional x64 Edition 的 Internet Explorer 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1a7087f1-3af2-4b33-9f04-6159faa34c31">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=1a7087f1-3af2-4b33-9f04-6159faa34c31">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -418,7 +418,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=08435b77-9f3a-40f5-b13a-a7019cb1c244">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=08435b77-9f3a-40f5-b13a-a7019cb1c244">重要</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;"></td>
@@ -481,7 +481,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;">Windows Server 2003</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=5b38af7a-3054-4efd-9007-e4eb3b57179e">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=5b38af7a-3054-4efd-9007-e4eb3b57179e">低</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -489,7 +489,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;">Windows Server 2003 Service Pack 1</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=5b38af7a-3054-4efd-9007-e4eb3b57179e">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=5b38af7a-3054-4efd-9007-e4eb3b57179e">低</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -497,7 +497,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;">Microsoft Windows Server 2003（用于基于 Itanium 的系统）</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">低</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -505,7 +505,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;">Microsoft Windows Server 2003 Service Pack 1（用于基于 Itanium 的系统）</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">低</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -513,7 +513,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;">Microsoft Windows Server 2003 x64 Edition</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">低</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -521,47 +521,47 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=f2247275-25f9-4937-97cd-9334135d6d79">中等</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=b8ba775e-e9a7-47e9-81a9-a68a71b9faac">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=f2247275-25f9-4937-97cd-9334135d6d79">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=b8ba775e-e9a7-47e9-81a9-a68a71b9faac">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=f2247275-25f9-4937-97cd-9334135d6d79">中等</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=b8ba775e-e9a7-47e9-81a9-a68a71b9faac">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=f2247275-25f9-4937-97cd-9334135d6d79">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=b8ba775e-e9a7-47e9-81a9-a68a71b9faac">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows XP 64-Bit Edition Service Pack 1 (Itanium)</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=33e0a62d-395b-402c-a0a4-82e892e9b7ae">中等</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c6161d9e-1672-479e-8baf-754a64dfab47">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=33e0a62d-395b-402c-a0a4-82e892e9b7ae">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c6161d9e-1672-479e-8baf-754a64dfab47">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows XP 64-Bit Edition Version 2003 (Itanium)</td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">中等</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c23a4e16-e228-4a80-a4cb-9dcef462b97a">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=bb35f2a8-b1d2-4b8e-ba94-dcd480dcd662">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c23a4e16-e228-4a80-a4cb-9dcef462b97a">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Microsoft Windows XP Professional x64 Edition</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9ba306dc-9c31-432b-91e0-b057c9c1eeae">中等</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b281550b-8fae-4ff3-9bb7-e4ba325779b9">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9ba306dc-9c31-432b-91e0-b057c9c1eeae">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b281550b-8fae-4ff3-9bb7-e4ba325779b9">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=6a7dee96-f693-4c50-896d-2365873245a9">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=6a7dee96-f693-4c50-896d-2365873245a9">中等</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -569,7 +569,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"><strong>[1]</strong></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=6a7dee96-f693-4c50-896d-2365873245a9">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=6a7dee96-f693-4c50-896d-2365873245a9">中等</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -615,7 +615,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">在 Microsoft Windows 2000 Service Pack 3 和 Microsoft Windows 2000 Service Pack 4 上的 Outlook Express 5.5 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=a6932151-2ae2-4c6e-861a-6ff5bde61191">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=a6932151-2ae2-4c6e-861a-6ff5bde61191">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -623,7 +623,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">在 Microsoft Windows 2000 Service Pack 3、Microsoft Windows 2000 Service Pack 4 或 Microsoft Windows XP Service Pack 1 上的 Outlook Express 6 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=89e4d8ee-4d8e-4660-a53d-28502b3d2518">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=89e4d8ee-4d8e-4660-a53d-28502b3d2518">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -631,7 +631,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">用于 Microsoft Windows XP 64-Bit Edition Service Pack 1 (Itanium) 的 Outlook Express 6 Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b765c0e1-f4e2-495b-aae5-2db3eeaf71bb">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b765c0e1-f4e2-495b-aae5-2db3eeaf71bb">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -639,7 +639,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Outlook Express 6 for Windows Server 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=d439eee9-05eb-4ecb-9e86-6259f1acaabb">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=d439eee9-05eb-4ecb-9e86-6259f1acaabb">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -647,7 +647,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">用于 Microsoft Windows XP 64-Bit Edition Version 2003 (Itanium) 的 Outlook Express 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=69901ec1-a11f-4135-9874-3698bcf7c760">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=69901ec1-a11f-4135-9874-3698bcf7c760">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -655,7 +655,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Windows Server 2003（用于基于 Itanium 的系统）</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=5fc7d68b-92a6-4c03-8d88-b2501aea8da6">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=5fc7d68b-92a6-4c03-8d88-b2501aea8da6">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -664,7 +664,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <tr class="odd">
 <td style="border:1px solid black;">Step-by-Step Interactive Training</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -672,7 +672,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <tr class="even">
 <td style="border:1px solid black;">Itanium 系统上的 Step-by-Step Interactive Training</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -680,7 +680,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <tr class="odd">
 <td style="border:1px solid black;">x64 系统上的 Step-by-Step Interactive Training</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=a0e59d77-8ac1-4ac0-9572-a7e1c2e4a66a">重要</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
@@ -706,7 +706,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=32c4e286-2c4d-491a-9e05-4ca0b055d5dc">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=32c4e286-2c4d-491a-9e05-4ca0b055d5dc">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
@@ -714,7 +714,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=32c4e286-2c4d-491a-9e05-4ca0b055d5dc">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=32c4e286-2c4d-491a-9e05-4ca0b055d5dc">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
@@ -722,7 +722,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=32c4e286-2c4d-491a-9e05-4ca0b055d5dc">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=32c4e286-2c4d-491a-9e05-4ca0b055d5dc">中等</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
@@ -731,7 +731,7 @@ Microsoft 安全公告摘要 (2005 年 6 月)
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=e579813b-0372-45be-8070-3f4d7d4cb89c">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=e579813b-0372-45be-8070-3f4d7d4cb89c">中等</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;"></td>

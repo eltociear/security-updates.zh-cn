@@ -185,7 +185,7 @@ Windows XP Service Pack 3
 不适用
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=8c7c21c5-677d-4a5d-8f2b-8ca7691b6b00)  
 (KB2616310)  
 （重要）
 </td>
@@ -204,7 +204,7 @@ Windows XP Professional x64 Edition Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=989cca2d-cce1-4f52-b50e-43152693f240)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=989cca2d-cce1-4f52-b50e-43152693f240)  
 (KB2616310)  
 （重要）
 </td>
@@ -262,10 +262,10 @@ Windows Server 2003 Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=08b27ce7-c32e-41e4-ad04-481c5eab17a7)  
 (KB2601626)  
 （重要）  
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=f116824e-ea48-422d-b284-c9ffa7604bf5)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=f116824e-ea48-422d-b284-c9ffa7604bf5)  
 (KB2616310)  
 （重要）
 </td>
@@ -284,10 +284,10 @@ Windows Server 2003 x64 Edition Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=de5a74f2-2cc8-4677-b495-3a40fe3d6b9e)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=de5a74f2-2cc8-4677-b495-3a40fe3d6b9e)  
 (KB2601626)  
 （重要）  
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=1af1b734-62c7-4e08-91c8-90b6d026da84)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=1af1b734-62c7-4e08-91c8-90b6d026da84)  
 (KB2616310)  
 （重要）
 </td>
@@ -306,7 +306,7 @@ Windows Server 2003 SP2（用于基于 Itanium 的系统）
 不适用
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=6168bc67-3d59-450f-bd8a-02d61dabe16b)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=6168bc67-3d59-450f-bd8a-02d61dabe16b)  
 (KB2601626)  
 （重要）
 </td>
@@ -358,15 +358,15 @@ Windows Vista
 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fc3fe87c-2493-431d-a904-dec9310f6042)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fc3fe87c-2493-431d-a904-dec9310f6042)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e08266d8-fffa-40bf-b8f6-10a65ee27524)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e08266d8-fffa-40bf-b8f6-10a65ee27524)  
 （重要）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=2bd602cf-ae0d-4790-a5d0-6133fd7d01a0)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=2bd602cf-ae0d-4790-a5d0-6133fd7d01a0)  
 (KB2601626)  
 （重要）
 </td>
@@ -379,15 +379,15 @@ Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=042c1a8f-834d-4eed-8a59-9e030ccc6d39)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=042c1a8f-834d-4eed-8a59-9e030ccc6d39)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4f2365ed-d50e-44d9-b859-1ec54d3b4d38)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4f2365ed-d50e-44d9-b859-1ec54d3b4d38)  
 （重要）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=783521ad-5c50-4194-a582-4e5a1c9999e7)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=783521ad-5c50-4194-a582-4e5a1c9999e7)  
 (KB2601626)  
 （重要）
 </td>
@@ -439,15 +439,15 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=79382bf2-d2cb-42ea-92dc-64f949353521)\*  
+[Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=79382bf2-d2cb-42ea-92dc-64f949353521)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f82dc413-668c-4ca8-a8c8-db74f05346bc)\*\*  
+[Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f82dc413-668c-4ca8-a8c8-db74f05346bc)\*\*  
 （中等）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=b5688923-3914-4f6c-8bc9-036fb4870cc6)\*  
+[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=b5688923-3914-4f6c-8bc9-036fb4870cc6)\*  
 (KB2601626)  
 （重要）
 </td>
@@ -460,15 +460,15 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=71ff3a89-d7ad-4dda-9e59-fab54b21bd5d)\*  
+[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=71ff3a89-d7ad-4dda-9e59-fab54b21bd5d)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=06ad5637-56a1-4478-aaa0-063e877503c9)\*\*  
+[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=06ad5637-56a1-4478-aaa0-063e877503c9)\*\*  
 （中等）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=51f47181-08f6-4de1-80e5-253355675965)\*  
+[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=51f47181-08f6-4de1-80e5-253355675965)\*  
 (KB2601626)  
 （重要）
 </td>
@@ -481,11 +481,11 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b1c0cb05-c284-49b1-ae4f-92813fdf520f)  
+[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b1c0cb05-c284-49b1-ae4f-92813fdf520f)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2de5de74-e643-4045-9c22-ff95b0dbcafc)  
+[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2de5de74-e643-4045-9c22-ff95b0dbcafc)  
 （中等）
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -539,20 +539,20 @@ Windows 7
 Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=4ddb4c2a-bada-49b0-ad78-e07e7e11ced7)  
+[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=4ddb4c2a-bada-49b0-ad78-e07e7e11ced7)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=2307fa93-8e45-4841-a5a9-7e89960712f9)  
+[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=2307fa93-8e45-4841-a5a9-7e89960712f9)  
 （低）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=b06f9f55-e3b2-4705-83d0-1b9f5de9d378)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=b06f9f55-e3b2-4705-83d0-1b9f5de9d378)  
 (KB2601626)  
 （重要）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=156c1bd9-55bc-482c-874b-61998d1ef153)  
+[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=156c1bd9-55bc-482c-874b-61998d1ef153)  
 （中等）
 </td>
 </tr>
@@ -561,20 +561,20 @@ Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service 
 Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=05eef5d7-acf6-46e4-abfc-dc83f0a7cae5)  
+[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=05eef5d7-acf6-46e4-abfc-dc83f0a7cae5)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=62603d18-1b21-400c-8eba-202193182960)  
+[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=62603d18-1b21-400c-8eba-202193182960)  
 （低）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=790f1d99-96a5-438d-b433-895b692912ce)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=790f1d99-96a5-438d-b433-895b692912ce)  
 (KB2601626)  
 （重要）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=5c7db930-5495-43f0-928c-d586ac9e80d0)  
+[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=5c7db930-5495-43f0-928c-d586ac9e80d0)  
 （中等）
 </td>
 </tr>
@@ -622,20 +622,20 @@ Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3f9f74a6-e984-4aab-837c-ef7286e7305f)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3f9f74a6-e984-4aab-837c-ef7286e7305f)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=c9cf6a22-f9ab-427a-9b16-33c60baaabb5)\*\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=c9cf6a22-f9ab-427a-9b16-33c60baaabb5)\*\*  
 （低）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=cc1e99af-fc67-400b-a82c-171f8c4d1ac9)\*  
+[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=cc1e99af-fc67-400b-a82c-171f8c4d1ac9)\*  
 (KB2601626)  
 （重要）
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=5d810dae-5c52-4155-b5c2-163d27be6e78)\*\*\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=5d810dae-5c52-4155-b5c2-163d27be6e78)\*\*\*  
 （中等）
 </td>
 </tr>
@@ -644,18 +644,18 @@ Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=b20bfcbd-a515-4074-b56e-b82539fe5bad)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=b20bfcbd-a515-4074-b56e-b82539fe5bad)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=012777f5-51f2-4944-91af-a9c79b8081a1)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=012777f5-51f2-4944-91af-a9c79b8081a1)  
 （低）
 </td>
 <td style="border:1px solid black;" colspan="2">
 不适用
 </td>
 <td style="border:1px solid black;" colspan="2">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=395819e2-1028-44b7-ace4-ca754b1a7543)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=395819e2-1028-44b7-ace4-ca754b1a7543)  
 （中等）
 </td>
 </tr>
@@ -714,7 +714,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。这可触发不兼容并使安全更新的部署占用更多的时间。通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。这可触发不兼容并使安全更新的部署占用更多的时间。通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

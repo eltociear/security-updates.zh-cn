@@ -110,10 +110,10 @@ Windows 操作系统
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[中等](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=980f5457-c7b5-421c-8643-0e57429ec156)
+[中等](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=980f5457-c7b5-421c-8643-0e57429ec156)
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=7956632e-17d9-4876-8340-84fe3e43e5cc)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=7956632e-17d9-4876-8340-84fe3e43e5cc)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -121,10 +121,10 @@ Microsoft Windows 2000 Service Pack 4
 Windows XP Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[严重](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=0a766242-2342-4fa0-9b66-8953c54a2211)
+[严重](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=0a766242-2342-4fa0-9b66-8953c54a2211)
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=6a4cf182-8e36-490e-aefe-edb7b3a0df9c)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=6a4cf182-8e36-490e-aefe-edb7b3a0df9c)
 </td>
 </tr>
 <tr>
@@ -132,10 +132,10 @@ Windows XP Service Pack 2
 Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[严重](http://www.microsoft.com/downloads/details.aspx?familyid=2e8bc7d5-fe81-4ed5-9efa-360738d160ee)
+[严重](https://www.microsoft.com/download/details.aspx?familyid=2e8bc7d5-fe81-4ed5-9efa-360738d160ee)
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=51fc657b-2b4a-4725-a744-d279e027c4a5)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=51fc657b-2b4a-4725-a744-d279e027c4a5)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -143,10 +143,10 @@ Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Serv
 Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=fda060a5-9a1e-4036-9899-13eb61fdd8be)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=fda060a5-9a1e-4036-9899-13eb61fdd8be)
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=12397b47-b18f-4d4d-b8d7-adec8ff310d5)
+[重要](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=12397b47-b18f-4d4d-b8d7-adec8ff310d5)
 </td>
 </tr>
 <tr>
@@ -154,10 +154,10 @@ Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=19d993f9-06dd-4dc4-b0cc-c59e822eb8fa)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=19d993f9-06dd-4dc4-b0cc-c59e822eb8fa)
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=f19fd790-a4e6-4a8a-8077-d1bbfe37ecca)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=f19fd790-a4e6-4a8a-8077-d1bbfe37ecca)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -165,10 +165,10 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
 Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=2c2264f7-ebbb-40ab-9dbf-9b4e313665a7)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=2c2264f7-ebbb-40ab-9dbf-9b4e313665a7)
 </td>
 <td style="border:1px solid black;">
-[重要](http://www.microsoft.com/downloads/details.aspx?familyid=0382a195-aa3d-409b-8a79-9fe61588d8a9)
+[重要](https://www.microsoft.com/download/details.aspx?familyid=0382a195-aa3d-409b-8a79-9fe61588d8a9)
 </td>
 </tr>
 <tr>
@@ -176,7 +176,7 @@ Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server
 Windows Vista
 </td>
 <td style="border:1px solid black;">
-[严重](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=23c0e03a-db66-4618-bce0-af55e5c1b067)
+[严重](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=23c0e03a-db66-4618-bce0-af55e5c1b067)
 </td>
 <td style="border:1px solid black;">
 </td>
@@ -186,7 +186,7 @@ Windows Vista
 Windows Vista x64 Edition
 </td>
 <td style="border:1px solid black;">
-[严重](http://www.microsoft.com/downloads/details.aspx?familyid=5f6a37b1-c604-47c9-932f-485db2eda133)
+[严重](https://www.microsoft.com/download/details.aspx?familyid=5f6a37b1-c604-47c9-932f-485db2eda133)
 </td>
 <td style="border:1px solid black;">
 </td>

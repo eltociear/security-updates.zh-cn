@@ -103,47 +103,47 @@ Microsoft 安全公告摘要 (2004 年 6 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows Server™ 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=eba8bd7d-033b-460d-9088-4bfe7be22b73">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=eba8bd7d-033b-460d-9088-4bfe7be22b73">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 64-Bit Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&amp;displaylang=en">下载更新 [英文]</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&amp;displaylang=en">下载更新 [英文]</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=1bef9c9d-b317-4575-90e6-e89779469d37">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=1bef9c9d-b317-4575-90e6-e89779469d37">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=1bef9c9d-b317-4575-90e6-e89779469d37">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=1bef9c9d-b317-4575-90e6-e89779469d37">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP 64-Bit Edition Version 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&amp;displaylang=en">下载更新 [英文]</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&amp;displaylang=en">下载更新 [英文]</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP 64-Bit Edition Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=b99445c7-3070-4cfa-9cce-225b92e90698&amp;displaylang=en">下载更新 [英文]</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=b99445c7-3070-4cfa-9cce-225b92e90698&amp;displaylang=en">下载更新 [英文]</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
@@ -188,22 +188,22 @@ Microsoft 安全公告摘要 (2004 年 6 月)
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">DirectX 8.0, 8.0a - (For Windows 2000)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=5595043a-ad55-47e3-a5ce-778dcde13820">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=5595043a-ad55-47e3-a5ce-778dcde13820">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">DirectX 8.1, 8.1a, 8.1b - (For Windows 2000)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=52139fdd-7926-4dae-a872-f67b1b55f2d0">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=52139fdd-7926-4dae-a872-f67b1b55f2d0">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">DirectX 8.2 - (For Windows 2000 and Windows XP)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=ac8325fa-db1b-4a77-9800-716c5c74ac74">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=ac8325fa-db1b-4a77-9800-716c5c74ac74">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">DirectX 9.0, 9.0a, 9.0b - (For Windows 2000 or later)</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=bf58ac23-62d5-4650-aeef-b79551d5f778">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=bf58ac23-62d5-4650-aeef-b79551d5f778">下载更新</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
@@ -214,7 +214,7 @@ Microsoft 安全公告摘要 (2004 年 6 月)
 <tr class="even">
 <td style="border:1px solid black;">Outlook 2003 with Business Contact Manager</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=9016b9f3-ba86-4a95-9d89-e120ef2e85e3&amp;displaylang=en">下载更新 [英文]</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=9016b9f3-ba86-4a95-9d89-e120ef2e85e3&amp;displaylang=en">下载更新 [英文]</a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;"><strong></strong>
@@ -225,7 +225,7 @@ Microsoft 安全公告摘要 (2004 年 6 月)
 <tr class="even">
 <td style="border:1px solid black;">Visual Studio .NET 2003</td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=659ca40e-808d-431d-a7d3-33bc3ace922d">下载更新</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=659ca40e-808d-431d-a7d3-33bc3ace922d">下载更新</a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>受影响的其他 Microsoft 软件：</strong></p></td>

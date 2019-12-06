@@ -132,10 +132,10 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 5.5 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=661f5de3-a593-4961-8e8d-2777797eb5c5)  
+[Microsoft Outlook Express 5.5 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=661f5de3-a593-4961-8e8d-2777797eb5c5)  
 (KB978542)  
 （严重）  
-[Microsoft Outlook Express 6 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=cda75174-b535-4559-a52d-b5ec3a1df349)  
+[Microsoft Outlook Express 6 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=cda75174-b535-4559-a52d-b5ec3a1df349)  
 (KB978542)  
 （严重）
 </td>
@@ -166,10 +166,10 @@ Windows XP
 Windows XP Service Pack 2 和 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703)  
 (KB978542)  
 （严重）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=99707c3d-a3cb-47da-b38e-8ae0227fd703)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -179,10 +179,10 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)  
 (KB978542)  
 （严重）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=44bc97bb-6f76-4c96-af72-69daaea80fff)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -213,7 +213,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=eb9742fc-0934-4b38-9ec4-3597fc71ec00)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=eb9742fc-0934-4b38-9ec4-3597fc71ec00)  
 (KB978542)  
 （严重）
 </td>
@@ -223,7 +223,7 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=5678515a-97ea-4e00-8700-d3f2fcdc0efc)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=5678515a-97ea-4e00-8700-d3f2fcdc0efc)  
 (KB978542)  
 （严重）
 </td>
@@ -233,7 +233,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](http://www.microsoft.com/downloads/details.aspx?familyid=60ef635b-cb6d-402f-b904-e69b519d797f)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/details.aspx?familyid=60ef635b-cb6d-402f-b904-e69b519d797f)  
 (KB978542)  
 （严重）
 </td>
@@ -264,10 +264,10 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1)  
 (KB978542)  
 （严重）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=a970c869-24fe-4ef4-b189-7a6bac2411f1)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -277,10 +277,10 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5)  
 (KB978542)  
 （严重）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=9a7853b5-4f9f-4467-9530-eea2efd504a5)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -311,10 +311,10 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c)\*\*  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c)\*\*  
 (KB978542)  
 （严重）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c)\*\*<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=5f77a640-247c-4ed2-9fca-4b7344f4dc7c)\*\*<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -324,10 +324,10 @@ Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 
 Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0)\*\*  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0)\*\*  
 (KB978542)  
 （严重）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0)\*\*<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=b0eab011-5847-44e4-bc0d-5c5355e1e8d0)\*\*<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -337,10 +337,10 @@ Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用
 Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)  
 (KB978542)  
 （严重）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=da01ae82-895e-4739-916f-a63b9095a076)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -371,10 +371,10 @@ Windows 7
 Windows 7（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=1f0c17be-ba4c-4a1c-b9c3-8ac368800947)<sup>[2]</sup>  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=1f0c17be-ba4c-4a1c-b9c3-8ac368800947)<sup>[2]</sup>  
 (KB978542)  
 （重要）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=1f0c17be-ba4c-4a1c-b9c3-8ac368800947)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=1f0c17be-ba4c-4a1c-b9c3-8ac368800947)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -384,10 +384,10 @@ Windows 7（用于 32 位系统）
 Windows 7（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=a70f15e1-512c-44ca-a308-928e237ac0ce)<sup>[2]</sup>  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=a70f15e1-512c-44ca-a308-928e237ac0ce)<sup>[2]</sup>  
 (KB978542)  
 （重要）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=a70f15e1-512c-44ca-a308-928e237ac0ce)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=a70f15e1-512c-44ca-a308-928e237ac0ce)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -418,10 +418,10 @@ Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=e2e25c02-38ce-4868-a01a-39fc7d2a4150)\*\* <sup>[2]</sup>  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=e2e25c02-38ce-4868-a01a-39fc7d2a4150)\*\* <sup>[2]</sup>  
 (KB978542)  
 （重要）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=e2e25c02-38ce-4868-a01a-39fc7d2a4150)\*\* <sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=e2e25c02-38ce-4868-a01a-39fc7d2a4150)\*\* <sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -431,10 +431,10 @@ Windows Server 2008 R2（用于基于 x64 的系统）
 Windows Server 2008 R2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Mail](http://www.microsoft.com/downloads/details.aspx?familyid=53ed1055-b5ee-4fde-9550-f8b401916467)<sup>[2]</sup>  
+[Windows Mail](https://www.microsoft.com/download/details.aspx?familyid=53ed1055-b5ee-4fde-9550-f8b401916467)<sup>[2]</sup>  
 (KB978542)  
 （重要）  
-[Windows Live Mail](http://www.microsoft.com/downloads/details.aspx?familyid=53ed1055-b5ee-4fde-9550-f8b401916467)<sup>[1]</sup>  
+[Windows Live Mail](https://www.microsoft.com/download/details.aspx?familyid=53ed1055-b5ee-4fde-9550-f8b401916467)<sup>[1]</sup>  
 (KB978542)  
 （重要）
 </td>
@@ -485,7 +485,7 @@ Microsoft Office 套件、系统和组件
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=72c23b0f-4e24-4334-bc8a-334adc8bc42b)   
+[Microsoft Office XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=72c23b0f-4e24-4334-bc8a-334adc8bc42b)   
 (KB976380)  
 （重要）
 </td>
@@ -495,7 +495,7 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=f8eac9bc-8389-4ac8-8b29-9a8180d9fd34)   
+[Microsoft Office 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=f8eac9bc-8389-4ac8-8b29-9a8180d9fd34)   
 (KB976382)  
 （重要）
 </td>
@@ -505,7 +505,7 @@ Microsoft Office 2003
 2007 Microsoft Office System
 </td>
 <td style="border:1px solid black;">
-[2007 Microsoft Office System Service Pack 1 和 2007 Microsoft Office System Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=160ad53e-6475-4550-90c2-444e4abea730)   
+[2007 Microsoft Office System Service Pack 1 和 2007 Microsoft Office System Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=160ad53e-6475-4550-90c2-444e4abea730)   
 (KB976321)  
 （重要）
 </td>
@@ -552,7 +552,7 @@ Microsoft Visual Basic for Applications
 Microsoft Visual Basic for Applications
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Basic for Applications](http://www.microsoft.com/downloads/details.aspx?familyid=436a8a66-352e-44d1-a610-c825083ad24a)<sup>[1]</sup>  
+[Microsoft Visual Basic for Applications](https://www.microsoft.com/download/details.aspx?familyid=436a8a66-352e-44d1-a610-c825083ad24a)<sup>[1]</sup>  
 (KB974945)  
 （严重）
 </td>
@@ -613,7 +613,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

@@ -152,21 +152,21 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d8284bfa-ed6c-4647-9fb0-588e53173775)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d8284bfa-ed6c-4647-9fb0-588e53173775)  
 (KB2479943)  
 （严重）  
-[Windows XP Media Center Edition 2005 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=b1be30de-7e88-467d-aee2-68f88e6a7355)  
+[Windows XP Media Center Edition 2005 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=b1be30de-7e88-467d-aee2-68f88e6a7355)  
 (KB2502898)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 5.2 Client](http://www.microsoft.com/downloads/details.aspx?familyid=1aed6080-feab-4b5e-9d26-6a3f4b92434d)  
+[Remote Desktop Connection 5.2 Client](https://www.microsoft.com/download/details.aspx?familyid=1aed6080-feab-4b5e-9d26-6a3f4b92434d)  
 (KB2483618)  
 （重要）  
-[Remote Desktop Connection 6.1 Client](http://www.microsoft.com/downloads/details.aspx?familyid=d67e4d8c-aeb9-45e6-9555-7456c5540475)  
+[Remote Desktop Connection 6.1 Client](https://www.microsoft.com/download/details.aspx?familyid=d67e4d8c-aeb9-45e6-9555-7456c5540475)  
 (KB2481109)  
 （重要）  
-[Remote Desktop Connection 7.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=6a01992e-c9a1-4dc9-a3ef-7410b81f17e6)  
+[Remote Desktop Connection 7.0 Client](https://www.microsoft.com/download/details.aspx?familyid=6a01992e-c9a1-4dc9-a3ef-7410b81f17e6)  
 (KB2483614)  
 （重要）
 </td>
@@ -176,12 +176,12 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5270b5d3-3720-42a2-a8cf-67089c0cc658)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5270b5d3-3720-42a2-a8cf-67089c0cc658)  
 (KB2479943)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=6d4539ef-4a05-4c7d-9489-436f7b7a3ebe)<sup>[1]</sup>  
+[Remote Desktop Connection 6.0 Client](https://www.microsoft.com/download/details.aspx?familyid=6d4539ef-4a05-4c7d-9489-436f7b7a3ebe)<sup>[1]</sup>  
 (KB2481109)  
 （重要）
 </td>
@@ -221,10 +221,10 @@ Windows Server 2003 Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=641d5d12-0790-4551-831a-e78febad17a7)<sup>[1]</sup>  
+[Remote Desktop Connection 6.0 Client](https://www.microsoft.com/download/details.aspx?familyid=641d5d12-0790-4551-831a-e78febad17a7)<sup>[1]</sup>  
 (KB2481109)  
 （重要）  
-[Remote Desktop Connection 6.0 Client Multilingual User Interface (MUI)](http://www.microsoft.com/downloads/details.aspx?familyid=6fec0d06-042d-4e55-9843-009edd7d26ce)<sup>[2]</sup>  
+[Remote Desktop Connection 6.0 Client Multilingual User Interface (MUI)](https://www.microsoft.com/download/details.aspx?familyid=6fec0d06-042d-4e55-9843-009edd7d26ce)<sup>[2]</sup>  
 (KB2483619)  
 （重要）
 </td>
@@ -237,7 +237,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=78dbb9cf-8a18-4f0a-8edf-f1ce0c993c63)<sup>[1]</sup>  
+[Remote Desktop Connection 6.0 Client](https://www.microsoft.com/download/details.aspx?familyid=78dbb9cf-8a18-4f0a-8edf-f1ce0c993c63)<sup>[1]</sup>  
 (KB2481109)  
 （重要）
 </td>
@@ -274,18 +274,18 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f9f1dde2-2219-4bf1-a497-edd011577b96)<sup>[1]</sup>  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f9f1dde2-2219-4bf1-a497-edd011577b96)<sup>[1]</sup>  
 (KB2479943)  
 （严重）  
-[Windows Vista 的 Windows Media Center TV Pack（32 位版本](http://www.microsoft.com/downloads/details.aspx?familyid=1bc240b3-1938-4350-b26f-67b81a79f8a0)）<sup>[2]</sup>  
+[Windows Vista 的 Windows Media Center TV Pack（32 位版本](https://www.microsoft.com/download/details.aspx?familyid=1bc240b3-1938-4350-b26f-67b81a79f8a0)）<sup>[2]</sup>  
 (KB2494132)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.1 Client](http://www.microsoft.com/downloads/details.aspx?familyid=e3ea7690-386b-4cdf-889f-b3914921c56f)  
+[Remote Desktop Connection 6.1 Client](https://www.microsoft.com/download/details.aspx?familyid=e3ea7690-386b-4cdf-889f-b3914921c56f)  
 (KB2481109)  
 （重要）  
-[Remote Desktop Connection 7.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=3c30f67e-7c31-4553-ba3e-e056df1bf8eb)  
+[Remote Desktop Connection 7.0 Client](https://www.microsoft.com/download/details.aspx?familyid=3c30f67e-7c31-4553-ba3e-e056df1bf8eb)  
 (KB2483614)  
 （重要）
 </td>
@@ -295,18 +295,18 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e11d00df-d1cf-4a33-a1be-6721cdff5995)<sup>[1]</sup>  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e11d00df-d1cf-4a33-a1be-6721cdff5995)<sup>[1]</sup>  
 (KB2479943)  
 （严重）  
-[Windows Vista 的 Windows Media Center TV Pack（64 位版本](http://www.microsoft.com/downloads/details.aspx?familyid=cd4c5a80-db24-4696-a248-1286c3b9f550)）<sup>[2]</sup>  
+[Windows Vista 的 Windows Media Center TV Pack（64 位版本](https://www.microsoft.com/download/details.aspx?familyid=cd4c5a80-db24-4696-a248-1286c3b9f550)）<sup>[2]</sup>  
 (KB2494132)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.1 Client](http://www.microsoft.com/downloads/details.aspx?familyid=5735bed6-0e3d-46a4-85d0-14ec34a82edd)  
+[Remote Desktop Connection 6.1 Client](https://www.microsoft.com/download/details.aspx?familyid=5735bed6-0e3d-46a4-85d0-14ec34a82edd)  
 (KB2481109)  
 （重要）  
-[Remote Desktop Connection 7.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=8025482b-f58f-4f5a-a133-5563c65b21f6)  
+[Remote Desktop Connection 7.0 Client](https://www.microsoft.com/download/details.aspx?familyid=8025482b-f58f-4f5a-a133-5563c65b21f6)  
 (KB2483614)  
 （重要）
 </td>
@@ -346,7 +346,7 @@ Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 
 不适用
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.1 Client](http://www.microsoft.com/downloads/details.aspx?familyid=31d790c9-92f9-4a2b-800b-8e8d2b570bb9)\*\*  
+[Remote Desktop Connection 6.1 Client](https://www.microsoft.com/download/details.aspx?familyid=31d790c9-92f9-4a2b-800b-8e8d2b570bb9)\*\*  
 (KB2481109)  
 （重要）
 </td>
@@ -359,7 +359,7 @@ Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用
 不适用
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.1 Client](http://www.microsoft.com/downloads/details.aspx?familyid=5b0a8eb5-4bc2-4054-b952-58aa645afcf5)\*\*  
+[Remote Desktop Connection 6.1 Client](https://www.microsoft.com/download/details.aspx?familyid=5b0a8eb5-4bc2-4054-b952-58aa645afcf5)\*\*  
 (KB2481109)  
 （重要）
 </td>
@@ -372,7 +372,7 @@ Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008�
 不适用
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 6.1 Client](http://www.microsoft.com/downloads/details.aspx?familyid=25da7e00-745d-4d98-9dd8-52a8a4340404)  
+[Remote Desktop Connection 6.1 Client](https://www.microsoft.com/download/details.aspx?familyid=25da7e00-745d-4d98-9dd8-52a8a4340404)  
 (KB2481109)  
 （重要）
 </td>
@@ -409,13 +409,13 @@ Windows 7
 Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1be77daa-29b1-4dae-a87f-2cb8f7e6a305)  
+[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1be77daa-29b1-4dae-a87f-2cb8f7e6a305)  
 (KB2479943)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 仅限 Windows 7（用于 32 位系统）：  
-[Remote Desktop Connection 7.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=0768a5f4-da28-4b2e-8aff-d68f890df3e6)  
+[Remote Desktop Connection 7.0 Client](https://www.microsoft.com/download/details.aspx?familyid=0768a5f4-da28-4b2e-8aff-d68f890df3e6)  
 (KB2483614)  
 （重要）
 </td>
@@ -425,13 +425,13 @@ Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service 
 Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=56fb24ce-65c7-4573-b613-e424ccc1a3a6)  
+[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=56fb24ce-65c7-4573-b613-e424ccc1a3a6)  
 (KB2479943)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 仅限 Windows 7（用于基于 x64 的系统）：  
-[Remote Desktop Connection 7.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=935adb10-1e7e-4501-b543-8247b88f6d18)  
+[Remote Desktop Connection 7.0 Client](https://www.microsoft.com/download/details.aspx?familyid=935adb10-1e7e-4501-b543-8247b88f6d18)  
 (KB2483614)  
 （重要）
 </td>
@@ -468,13 +468,13 @@ Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=6f45658a-1db8-4ef5-b840-4d0180d4d90e)\*\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=6f45658a-1db8-4ef5-b840-4d0180d4d90e)\*\*  
 (KB2479943)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Server 2008 R2（用于基于 x64 的系统）：  
-[Remote Desktop Connection 7.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=3fcb2e11-591e-484a-a992-2f1d563e6d17)\*\*  
+[Remote Desktop Connection 7.0 Client](https://www.microsoft.com/download/details.aspx?familyid=3fcb2e11-591e-484a-a992-2f1d563e6d17)\*\*  
 (KB2483614)  
 （重要）
 </td>
@@ -487,7 +487,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection 7.0 Client](http://www.microsoft.com/downloads/details.aspx?familyid=c29b6487-78f0-421c-810c-c5e45d6a2352)  
+[Remote Desktop Connection 7.0 Client](https://www.microsoft.com/download/details.aspx?familyid=c29b6487-78f0-421c-810c-c5e45d6a2352)  
 (KB2483614)  
 （重要）
 </td>
@@ -546,7 +546,7 @@ Microsoft Office 程序
 Microsoft Groove 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Groove 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3981ab53-1082-4155-9000-11d8a976ff33)  
+[Microsoft Groove 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3981ab53-1082-4155-9000-11d8a976ff33)  
 (KB2494047)  
 （重要）
 </td>
@@ -599,7 +599,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

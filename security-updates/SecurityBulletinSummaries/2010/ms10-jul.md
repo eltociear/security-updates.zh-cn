@@ -163,7 +163,7 @@ Windows XP
 Windows XP Service Pack 2 和 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 和 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=7c2122bb-0ecf-4467-a3ba-6fb862f603c5)  
+[Windows XP Service Pack 2 和 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=7c2122bb-0ecf-4467-a3ba-6fb862f603c5)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -175,7 +175,7 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9232a336-9ded-4820-bac4-2d68877ee76c)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9232a336-9ded-4820-bac4-2d68877ee76c)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -214,7 +214,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=cd4363b2-d7a7-4fff-8bcd-6fd02bd1ac07)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=cd4363b2-d7a7-4fff-8bcd-6fd02bd1ac07)  
 （低）
 </td>
 <td style="border:1px solid black;">
@@ -226,7 +226,7 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a6bafd3b-c921-466d-bee0-59a3fe126712)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a6bafd3b-c921-466d-bee0-59a3fe126712)  
 （低）
 </td>
 <td style="border:1px solid black;">
@@ -238,7 +238,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=b61cc2d5-8432-4681-aa2c-a8807ec1fcf4)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=b61cc2d5-8432-4681-aa2c-a8807ec1fcf4)  
 （低）
 </td>
 <td style="border:1px solid black;">
@@ -291,7 +291,7 @@ Windows 7（用于基于 x64 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=33ec8c0e-1617-46bf-bd7f-2ce750f89d7f)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=33ec8c0e-1617-46bf-bd7f-2ce750f89d7f)  
 （严重）
 </td>
 </tr>
@@ -330,7 +330,7 @@ Windows Server 2008 R2（用于基于 x64 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=2a9998fc-beac-4ccf-aa61-4232106adae1)\*\*\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=2a9998fc-beac-4ccf-aa61-4232106adae1)\*\*\*  
 （重要）
 </td>
 </tr>
@@ -398,7 +398,7 @@ Microsoft Office XP Service Pack 3
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Outlook 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=daacf400-4aa3-4479-a60f-b8863ba1e16d)  
+[Microsoft Office Outlook 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=daacf400-4aa3-4479-a60f-b8863ba1e16d)  
 （KB980371）  
 （重要）
 </td>
@@ -408,12 +408,12 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=93768ac6-e6d7-4175-a6e3-666210494678)  
+[Microsoft Office Access 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=93768ac6-e6d7-4175-a6e3-666210494678)  
 (KB981716)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Outlook 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=ef5b0048-96f1-43a6-9848-7f6adccd10b3)  
+[Microsoft Office Outlook 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=ef5b0048-96f1-43a6-9848-7f6adccd10b3)  
 (KB980373)  
 （重要）
 </td>
@@ -423,12 +423,12 @@ Microsoft Office 2003 Service Pack 3
 2007 Microsoft Office System Service Pack 1 和 2007 Microsoft Office System Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Access 2007 Service Pack 1 和 Microsoft Office Access 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=af2862e2-da37-4cbe-8974-e517eb666f14)  
+[Microsoft Office Access 2007 Service Pack 1 和 Microsoft Office Access 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=af2862e2-da37-4cbe-8974-e517eb666f14)  
 （KB979440）  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Outlook 2007 Service Pack 1 和 Microsoft Office Outlook 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4e2e7c49-6665-4135-adbb-8e831a91d0fe)  
+[Microsoft Office Outlook 2007 Service Pack 1 和 Microsoft Office Outlook 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4e2e7c49-6665-4135-adbb-8e831a91d0fe)  
 (KB980376)  
 （重要）
 </td>
@@ -471,7 +471,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

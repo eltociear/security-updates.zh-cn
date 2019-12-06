@@ -134,7 +134,7 @@ Microsoft Office 套件、系统和组件
 Microsoft Office 2000 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2000 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=f443312a-ac74-4ebc-a4ac-7a756aa67894)  
+[Microsoft Office PowerPoint 2000 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=f443312a-ac74-4ebc-a4ac-7a756aa67894)  
 (KB957790)  
 （严重）
 </td>
@@ -144,7 +144,7 @@ Microsoft Office 2000 Service Pack 3
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=a24ec7ab-c1c7-4ddb-8b6e-107f1af67f49)  
+[Microsoft Office PowerPoint 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=a24ec7ab-c1c7-4ddb-8b6e-107f1af67f49)  
 (KB957781)  
 （重要）
 </td>
@@ -154,7 +154,7 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=ccfa978b-3340-40db-a45d-c880ba36b106)  
+[Microsoft Office PowerPoint 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=ccfa978b-3340-40db-a45d-c880ba36b106)  
 (KB957784)  
 （重要）
 </td>
@@ -164,7 +164,7 @@ Microsoft Office 2003 Service Pack 3
 2007 Microsoft Office System Service Pack 1 和 2007 Microsoft Office System Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office PowerPoint 2007 Service Pack 1 和 Microsoft Office PowerPoint 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=11f8380f-ffb6-4c22-a89c-3dc55d0f9834)\*  
+[Microsoft Office PowerPoint 2007 Service Pack 1 和 Microsoft Office PowerPoint 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=11f8380f-ffb6-4c22-a89c-3dc55d0f9834)\*  
 (KB957789)  
 （重要）
 </td>
@@ -243,10 +243,10 @@ Open XML File Format Converter for Mac\*\*
 PowerPoint Viewer
 </td>
 <td style="border:1px solid black;">
-[PowerPoint Viewer 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=6a57e6ed-bd24-406f-87bb-117391e083e0)  
+[PowerPoint Viewer 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=6a57e6ed-bd24-406f-87bb-117391e083e0)  
 (KB969615)  
 （重要）  
-[PowerPoint Viewer 2007 Service Pack 1 和 PowerPoint Viewer 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=141b8338-5c52-4326-a9e4-d2f2d8940d9c)  
+[PowerPoint Viewer 2007 Service Pack 1 和 PowerPoint Viewer 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=141b8338-5c52-4326-a9e4-d2f2d8940d9c)  
 (KB970059)  
 （重要）
 </td>
@@ -256,7 +256,7 @@ PowerPoint Viewer
 用于 Word、Excel 和 PowerPoint 2007 文件格式的 Microsoft Office 兼容包
 </td>
 <td style="border:1px solid black;">
-[用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 1 的 Microsoft Office 兼容包以及用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 2 的 Microsoft Office 兼容包](http://www.microsoft.com/downloads/details.aspx?familyid=e1d3a4c3-538a-4f98-8d60-250803a80e2a)  
+[用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 1 的 Microsoft Office 兼容包以及用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 2 的 Microsoft Office 兼容包](https://www.microsoft.com/download/details.aspx?familyid=e1d3a4c3-538a-4f98-8d60-250803a80e2a)  
 (KB969618)  
 （重要）
 </td>
@@ -322,7 +322,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

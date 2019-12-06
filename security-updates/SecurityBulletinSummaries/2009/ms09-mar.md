@@ -164,17 +164,17 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=98bb7d40-89a0-470a-8eb7-06f15072a635)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=98bb7d40-89a0-470a-8eb7-06f15072a635)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=bf7065bc-c183-4a78-8d46-72fe7385c07c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server Service Pack 4 上的 DNS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=110354f7-5ece-4c4d-b563-3adba6ac0116)  
+[Microsoft Windows 2000 Server Service Pack 4 上的 DNS 服务器](https://www.microsoft.com/download/details.aspx?familyid=110354f7-5ece-4c4d-b563-3adba6ac0116)  
 （重要）  
-[Microsoft Windows 2000 Server Service Pack 4 上的 WINS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=4319abb3-1ea2-466a-a815-c0b3b86b4462)  
+[Microsoft Windows 2000 Server Service Pack 4 上的 WINS 服务器](https://www.microsoft.com/download/details.aspx?familyid=4319abb3-1ea2-466a-a815-c0b3b86b4462)  
 （重要）
 </td>
 </tr>
@@ -216,11 +216,11 @@ Windows XP
 Windows XP Service Pack 2 和 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 和 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=e09641ba-6cbe-4095-82b5-703d3a7dc33b)  
+[Windows XP Service Pack 2 和 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=e09641ba-6cbe-4095-82b5-703d3a7dc33b)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 和 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=942d87f6-3cb1-4d36-a70a-70d9c34488f3)  
+[Windows XP Service Pack 2 和 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=942d87f6-3cb1-4d36-a70a-70d9c34488f3)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -232,11 +232,11 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=d0d704c6-48c2-4907-b6c3-2455d7cf21c8)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=d0d704c6-48c2-4907-b6c3-2455d7cf21c8)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6d02306e-9e2e-4ae8-bd21-8a2c1a229472)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6d02306e-9e2e-4ae8-bd21-8a2c1a229472)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -281,17 +281,17 @@ Windows Server 2003
 Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f5cfb8da-e7cc-4183-8631-507c2a406500)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f5cfb8da-e7cc-4183-8631-507c2a406500)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0b3f6fdd-276e-4267-99d8-8f00d91ad6a2)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 DNS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 DNS 服务器](https://www.microsoft.com/download/details.aspx?familyid=6cc42c9e-c34e-4577-8b23-9e07e2369878)  
 （重要）  
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 WINS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=049e5db5-7315-4188-99fd-4a54833e6bf2)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2 上的 WINS 服务器](https://www.microsoft.com/download/details.aspx?familyid=049e5db5-7315-4188-99fd-4a54833e6bf2)  
 （重要）
 </td>
 </tr>
@@ -300,17 +300,17 @@ Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ecf75c70-8489-41ad-9759-3a07e13957be)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ecf75c70-8489-41ad-9759-3a07e13957be)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ce98ff55-f565-469d-bbd2-32b681faf908)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ce98ff55-f565-469d-bbd2-32b681faf908)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 DNS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=b1f81fd2-0099-4450-8543-0459561d22d0)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 DNS 服务器](https://www.microsoft.com/download/details.aspx?familyid=b1f81fd2-0099-4450-8543-0459561d22d0)  
 （重要）  
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 WINS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=4a393c63-eff5-4c8c-9c3f-33ce45c32428)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2 上的 WINS 服务器](https://www.microsoft.com/download/details.aspx?familyid=4a393c63-eff5-4c8c-9c3f-33ce45c32428)  
 （重要）
 </td>
 </tr>
@@ -319,17 +319,17 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
 Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=04be3d7e-7dda-4dca-887a-e7a8156ede1c)  
+[Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=04be3d7e-7dda-4dca-887a-e7a8156ede1c)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=5ca3c72c-cadb-4b0a-b3a3-fb81d0bfd7b3)  
+[Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=5ca3c72c-cadb-4b0a-b3a3-fb81d0bfd7b3)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1（用于基于 Itanium 的系统）和 Windows Server 2003 SP2（用于基于 Itanium 的系统）上的 DNS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=d3ed7d9a-d652-4bd0-aecc-5a415bec6c59)  
+[Windows Server 2003 SP1（用于基于 Itanium 的系统）和 Windows Server 2003 SP2（用于基于 Itanium 的系统）上的 DNS 服务器](https://www.microsoft.com/download/details.aspx?familyid=d3ed7d9a-d652-4bd0-aecc-5a415bec6c59)  
 （重要）  
-[Windows Server 2003 SP1（用于基于 Itanium 的系统）和 Windows Server 2003 SP2（用于基于 Itanium 的系统）上的 WINS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=37e3a75e-0a5d-4df0-881f-cdb87efa4dcf)  
+[Windows Server 2003 SP1（用于基于 Itanium 的系统）和 Windows Server 2003 SP2（用于基于 Itanium 的系统）上的 WINS 服务器](https://www.microsoft.com/download/details.aspx?familyid=37e3a75e-0a5d-4df0-881f-cdb87efa4dcf)  
 （重要）
 </td>
 </tr>
@@ -371,11 +371,11 @@ Windows Vista
 Windows Vista 和 Windows Vista Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=4b1aaaba-f355-4265-83c0-50b901856ced)  
+[Windows Vista 和 Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=4b1aaaba-f355-4265-83c0-50b901856ced)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=21086a04-402a-4940-8358-7fa63508102b)  
+[Windows Vista 和 Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=21086a04-402a-4940-8358-7fa63508102b)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -387,11 +387,11 @@ Windows Vista 和 Windows Vista Service Pack 1
 Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0fcac480-d6db-4a94-8c7d-b7319282cf56)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0fcac480-d6db-4a94-8c7d-b7319282cf56)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=c75a2ea9-b42f-457b-be09-5c8fa0339388)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=c75a2ea9-b42f-457b-be09-5c8fa0339388)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -436,15 +436,15 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf)\*  
+[Windows Server 2008（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=38851df2-4fb5-4d28-9d15-181c260cf8cf)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=47b361ce-624b-466c-b5c5-8703f6532615)\*  
+[Windows Server 2008（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=47b361ce-624b-466c-b5c5-8703f6532615)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）上的 DNS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=92e89882-d656-4b61-a05c-3afb44895f08)\*  
+[Windows Server 2008（用于 32 位系统）上的 DNS 服务器](https://www.microsoft.com/download/details.aspx?familyid=92e89882-d656-4b61-a05c-3afb44895f08)\*  
 （重要）
 </td>
 </tr>
@@ -453,15 +453,15 @@ Windows Server 2008（用于 32 位系统）
 Windows Server 2008（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=ec15acc4-3e0f-4414-9383-61c122ff1382)\*  
+[Windows Server 2008（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=ec15acc4-3e0f-4414-9383-61c122ff1382)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4)\*  
+[Windows Server 2008（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=5c81ac45-60e6-4121-ab6b-d3b3179aacc4)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）上的 DNS 服务器](http://www.microsoft.com/downloads/details.aspx?familyid=be068d06-5939-4ad8-8191-e85931ed610f)\*  
+[Windows Server 2008（用于基于 x64 的系统）上的 DNS 服务器](https://www.microsoft.com/download/details.aspx?familyid=be068d06-5939-4ad8-8191-e85931ed610f)\*  
 （重要）
 </td>
 </tr>
@@ -470,11 +470,11 @@ Windows Server 2008（用于基于 x64 的系统）
 Windows Server 2008（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=eead6f93-10fd-4492-8137-481d9876a5fe)  
+[Windows Server 2008（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=eead6f93-10fd-4492-8137-481d9876a5fe)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=bf8f5a86-1757-4f9b-b632-d4aa7005a9f8)  
+[Windows Server 2008（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=bf8f5a86-1757-4f9b-b632-d4aa7005a9f8)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -520,7 +520,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

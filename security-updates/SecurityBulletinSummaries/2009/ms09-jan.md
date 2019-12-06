@@ -123,7 +123,7 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=e0678d14-c1b5-457a-8222-8e7682760ed4)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=e0678d14-c1b5-457a-8222-8e7682760ed4)  
 （严重）
 </td>
 </tr>
@@ -153,7 +153,7 @@ Windows XP
 Windows XP Service Pack 2 和 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 和 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=eeafcdc5-df39-4b29-b6f1-7d32b64761e1)  
+[Windows XP Service Pack 2 和 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=eeafcdc5-df39-4b29-b6f1-7d32b64761e1)  
 （严重）
 </td>
 </tr>
@@ -162,7 +162,7 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=26898401-f669-4542-ad93-199ed1fe9a2a)  
+[Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=26898401-f669-4542-ad93-199ed1fe9a2a)  
 （严重）
 </td>
 </tr>
@@ -192,7 +192,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=588ca8e8-38a9-47ed-9c41-09aaf1022e49)  
+[Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=588ca8e8-38a9-47ed-9c41-09aaf1022e49)  
 （严重）
 </td>
 </tr>
@@ -201,7 +201,7 @@ Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ee59441c-1e8f-4425-ae8d-dec14e7f13fb)  
+[Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ee59441c-1e8f-4425-ae8d-dec14e7f13fb)  
 （严重）
 </td>
 </tr>
@@ -210,7 +210,7 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
 Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=caec9321-fa5b-42f0-9f26-61f673fe6eef)  
+[Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=caec9321-fa5b-42f0-9f26-61f673fe6eef)  
 （严重）
 </td>
 </tr>
@@ -240,7 +240,7 @@ Windows Vista
 Windows Vista 和 Windows Vista Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 和 Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&familyid=9179c463-c10a-452a-990f-b7e37cdd889b)  
+[Windows Vista 和 Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&familyid=9179c463-c10a-452a-990f-b7e37cdd889b)  
 （中等）
 </td>
 </tr>
@@ -249,7 +249,7 @@ Windows Vista 和 Windows Vista Service Pack 1
 Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=6b26952e-b59d-4b0f-a52d-025e45ecd233)  
+[Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=6b26952e-b59d-4b0f-a52d-025e45ecd233)  
 （中等）
 </td>
 </tr>
@@ -279,7 +279,7 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=7245b411-7c9e-41e5-9841-4c586336086c)\*  
+[Windows Server 2008（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=7245b411-7c9e-41e5-9841-4c586336086c)\*  
 （中等）
 </td>
 </tr>
@@ -288,7 +288,7 @@ Windows Server 2008（用于 32 位系统）
 Windows Server 2008（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=a241eaad-95a0-442b-978f-f21a6f0c7db4)\*  
+[Windows Server 2008（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=a241eaad-95a0-442b-978f-f21a6f0c7db4)\*  
 （中等）
 </td>
 </tr>
@@ -297,7 +297,7 @@ Windows Server 2008（用于基于 x64 的系统）
 Windows Server 2008（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=ab7c7015-20bb-4a0c-977a-969f4e2a5189)  
+[Windows Server 2008（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=ab7c7015-20bb-4a0c-977a-969f4e2a5189)  
 （中等）
 </td>
 </tr>
@@ -340,7 +340,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

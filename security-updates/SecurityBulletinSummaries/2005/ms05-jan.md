@@ -115,62 +115,62 @@ Microsoft 安全公告摘要 (2005 年 1 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows Server™ 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=23e619fe-f6db-4666-a247-339f55b059cc">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=cbccadf6-449a-4d74-937d-4087a6e6c1c2">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=50f72dc5-5dd6-4d12-a91c-6815ec8203ef">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=23e619fe-f6db-4666-a247-339f55b059cc">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=cbccadf6-449a-4d74-937d-4087a6e6c1c2">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=50f72dc5-5dd6-4d12-a91c-6815ec8203ef">重要</a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003 64-Bit Edition</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3b3878c9-57fb-45a9-b5c2-234ad538d6cc">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=16a52196-0bd0-4355-9f29-2b26cb0961af">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c3474e75-1fe2-4215-8a8d-a9244ff93419">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=3b3878c9-57fb-45a9-b5c2-234ad538d6cc">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=16a52196-0bd0-4355-9f29-2b26cb0961af">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c3474e75-1fe2-4215-8a8d-a9244ff93419">重要</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=43201b00-298d-4c0c-a26f-aaedf163feb7">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=8850954d-57d9-4d23-9aa1-1ccf6085a057">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=fb8a7622-94ab-44e7-85c3-163bac4602e2">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=43201b00-298d-4c0c-a26f-aaedf163feb7">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=8850954d-57d9-4d23-9aa1-1ccf6085a057">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=fb8a7622-94ab-44e7-85c3-163bac4602e2">重要</a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=43201b00-298d-4c0c-a26f-aaedf163feb7">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=43201b00-298d-4c0c-a26f-aaedf163feb7">严重</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP 64-Bit Edition Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=1fc58c5f-3a97-4b89-96c3-aaeffce28535">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=2325700f-7931-4b0c-a978-bcff469b8061">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=30a83f1d-87e9-4720-8316-191ae509f094">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=1fc58c5f-3a97-4b89-96c3-aaeffce28535">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=2325700f-7931-4b0c-a978-bcff469b8061">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=30a83f1d-87e9-4720-8316-191ae509f094">重要</a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP 64-Bit Edition Version 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3b3878c9-57fb-45a9-b5c2-234ad538d6cc">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=16a52196-0bd0-4355-9f29-2b26cb0961af">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=c3474e75-1fe2-4215-8a8d-a9244ff93419">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=3b3878c9-57fb-45a9-b5c2-234ad538d6cc">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=16a52196-0bd0-4355-9f29-2b26cb0961af">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=c3474e75-1fe2-4215-8a8d-a9244ff93419">重要</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 3</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=be1b11c0-ef09-4295-8fb2-0ff17ba65460">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=722c6c65-3f6c-4029-8eb7-d4612a785e78">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=cfa4f3da-0c2b-44b3-83db-eb4d8c5b3b13">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=be1b11c0-ef09-4295-8fb2-0ff17ba65460">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=722c6c65-3f6c-4029-8eb7-d4612a785e78">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=cfa4f3da-0c2b-44b3-83db-eb4d8c5b3b13">重要</a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=be1b11c0-ef09-4295-8fb2-0ff17ba65460">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=722c6c65-3f6c-4029-8eb7-d4612a785e78">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=cfa4f3da-0c2b-44b3-83db-eb4d8c5b3b13">重要</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=be1b11c0-ef09-4295-8fb2-0ff17ba65460">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=722c6c65-3f6c-4029-8eb7-d4612a785e78">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=cfa4f3da-0c2b-44b3-83db-eb4d8c5b3b13">重要</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows NT Server 4.0 Service Pack 6a</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=7b2c22a9-98c6-4661-9b8d-6c59c8812071">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=4604400a-287e-48cc-91b1-bee44eea588c">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=7b2c22a9-98c6-4661-9b8d-6c59c8812071">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=4604400a-287e-48cc-91b1-bee44eea588c">严重</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows NT Server 4.0 Terminal Server Edition Service Pack 6</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=7b2c22a9-98c6-4661-9b8d-6c59c8812071">严重</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=94a0b521-4c39-4d15-aa80-068c30476e6f">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=7b2c22a9-98c6-4661-9b8d-6c59c8812071">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=94a0b521-4c39-4d15-aa80-068c30476e6f">严重</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
@@ -197,7 +197,7 @@ Microsoft 安全公告摘要 (2005 年 1 月)
 **注**
   
 **<sup>[1]</sup>** 目前已经发布这些平台的关键安全更新，而且本安全公告中也已提供，您可以从 [Windows Update 网站](http://go.microsoft.com/fwlink/?linkid=21130)下载。  
-**注：**Windows Update 不支持适用于 Microsoft Windows 98 和 Microsoft Windows 98 Second Edition 的斯洛文尼亚语、斯洛伐克语和 泰国语版本的更新。 可在以下[下载位置](http://www.microsoft.com/downloads/details.aspx?familyid=89f5412e-b7a6-4346-b7b6-5ae7095ac6bf)下载更新
+**注：**Windows Update 不支持适用于 Microsoft Windows 98 和 Microsoft Windows 98 Second Edition 的斯洛文尼亚语、斯洛伐克语和 泰国语版本的更新。 可在以下[下载位置](https://www.microsoft.com/download/details.aspx?familyid=89f5412e-b7a6-4346-b7b6-5ae7095ac6bf)下载更新
   
 **<sup>[2]</sup>** 这些平台的严重安全更新与本安全公告中提供的其他安全更新并不是同时提供的。 在此次发布后，将尽早提供这些安全更新。 在这些安全更新发布时，您只能从 [Windows Update 网站](http://go.microsoft.com/fwlink/?linkid=21130)下载它们。
   

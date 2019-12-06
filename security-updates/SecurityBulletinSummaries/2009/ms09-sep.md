@@ -200,14 +200,14 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[JScript 5.1 和 JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=2bb3af8d-f36c-4497-9f48-fc59bcff2583)  
+[JScript 5.1 和 JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=2bb3af8d-f36c-4497-9f48-fc59bcff2583)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.0](http://www.microsoft.com/downloads/details.aspx?familyid=02b9dc42-38c2-44b1-a77c-34854f4a86c4)  
+[Windows Media Format Runtime 9.0](https://www.microsoft.com/download/details.aspx?familyid=02b9dc42-38c2-44b1-a77c-34854f4a86c4)  
 (KB968816)  
 （严重）
 </td>
@@ -216,7 +216,7 @@ Microsoft Windows 2000 Service Pack 4<sup>[3]</sup>
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=6dd4b0f8-6b54-49a6-a6df-9420f9fd3333)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=6dd4b0f8-6b54-49a6-a6df-9420f9fd3333)  
 （严重）
 </td>
 </tr>
@@ -270,24 +270,24 @@ Windows XP
 Windows XP Service Pack 2 和 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 上的 JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=0af373b2-2240-4079-a748-a38d1bc06f39)  
+[Windows XP Service Pack 2 上的 JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=0af373b2-2240-4079-a748-a38d1bc06f39)  
 （严重）  
-[Windows XP Service Pack 2 上的 JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a)<sup>[1]</sup>  
+[Windows XP Service Pack 2 上的 JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a)<sup>[1]</sup>  
 （严重）  
-[Windows XP Service Pack 3 上的 JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a)  
+[Windows XP Service Pack 3 上的 JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=c933377d-e0bc-4334-bc75-029045d7a62a)  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=992602d8-d857-41cf-b7b1-527afdc1dc0f)<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=992602d8-d857-41cf-b7b1-527afdc1dc0f)<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.0、Windows Media Format Runtime 9.5 和 Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=6ffc081e-f892-4818-acb9-6d79e15d473c)  
+[Windows Media Format Runtime 9.0、Windows Media Format Runtime 9.5 和 Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=6ffc081e-f892-4818-acb9-6d79e15d473c)  
 (KB968816)  
 （严重）  
 （仅限 Windows XP Service Pack 2）  
-[Windows Media Format Runtime 9.0、Windows Media Format Runtime 9.5 和 Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=31585f5a-9aaa-40da-b15a-11284b4b800c)  
+[Windows Media Format Runtime 9.0、Windows Media Format Runtime 9.5 和 Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=31585f5a-9aaa-40da-b15a-11284b4b800c)  
 (KB968816)  
 （严重）  
 （仅限 Windows XP Service Pack 3）
@@ -296,7 +296,7 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 和 Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=8523d5be-88a2-4124-9b02-660f612e2a12)  
+[Windows XP Service Pack 2 和 Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=8523d5be-88a2-4124-9b02-660f612e2a12)  
 （严重）
 </td>
 </tr>
@@ -305,24 +305,24 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=0d671004-da4e-4dbd-a066-861b53b0c59c)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=0d671004-da4e-4dbd-a066-861b53b0c59c)  
 （严重）  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=9aae426d-ee9a-4736-b0a2-e0f8890a6895)<sup>[1]</sup>  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=9aae426d-ee9a-4736-b0a2-e0f8890a6895)<sup>[1]</sup>  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=00bae02a-64eb-4b91-965f-da2dc987a2ff)<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=00bae02a-64eb-4b91-965f-da2dc987a2ff)<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.5](http://www.microsoft.com/downloads/details.aspx?familyid=3780d565-d027-4f54-8fc0-05f5c3c6ba1a)  
+[Windows Media Format Runtime 9.5](https://www.microsoft.com/download/details.aspx?familyid=3780d565-d027-4f54-8fc0-05f5c3c6ba1a)  
 (KB968816)  
 （严重）  
-[Windows Media Format Runtime 9.5 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c)  
+[Windows Media Format Runtime 9.5 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c)  
 (KB968816)  
 （严重）  
-[Windows Media Format Runtime 11](http://www.microsoft.com/downloads/details.aspx?familyid=9a465f92-3067-4a5a-9882-1fc2cf796c99)  
+[Windows Media Format Runtime 11](https://www.microsoft.com/download/details.aspx?familyid=9a465f92-3067-4a5a-9882-1fc2cf796c99)  
 (KB968816)  
 （严重）
 </td>
@@ -330,7 +330,7 @@ Windows XP Professional x64 Edition Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=dbc33f6b-61bf-409a-89b5-60002192e0e0)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=dbc33f6b-61bf-409a-89b5-60002192e0e0)  
 （严重）
 </td>
 </tr>
@@ -384,30 +384,30 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=6acc9d2d-b71f-4b5c-9aea-b217b6ae240b)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=6acc9d2d-b71f-4b5c-9aea-b217b6ae240b)  
 （严重）  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=6af5d034-fd89-42e2-bc18-d44b7a6b0a85)<sup>[1]</sup>  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=6af5d034-fd89-42e2-bc18-d44b7a6b0a85)<sup>[1]</sup>  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=ecf9f7e2-3104-4de2-8b3d-99dcdcae6e62)<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=ecf9f7e2-3104-4de2-8b3d-99dcdcae6e62)<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.5](http://www.microsoft.com/downloads/details.aspx?familyid=4ab34e3d-34cb-4e35-a2da-b348ace8a8f7)  
+[Windows Media Format Runtime 9.5](https://www.microsoft.com/download/details.aspx?familyid=4ab34e3d-34cb-4e35-a2da-b348ace8a8f7)  
 (KB968816)  
 （严重）  
-[Windows Media Services 9.1](http://www.microsoft.com/downloads/details.aspx?familyid=61cd0581-c36e-4da6-ae95-41609adbe922)  
+[Windows Media Services 9.1](https://www.microsoft.com/download/details.aspx?familyid=61cd0581-c36e-4da6-ae95-41609adbe922)  
 (KB972554)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=48d82036-2fde-4bb0-a60e-92eed83ddc3f)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=48d82036-2fde-4bb0-a60e-92eed83ddc3f)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7478f73f-dd20-4cfa-a650-4c84f37ada2f)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7478f73f-dd20-4cfa-a650-4c84f37ada2f)  
 （中等）
 </td>
 </tr>
@@ -416,33 +416,33 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=d0de3ab1-73e9-4a09-841f-81ade41a8c81)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=d0de3ab1-73e9-4a09-841f-81ade41a8c81)  
 （严重）  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=8f48bc05-ffac-4a21-8d21-dd20355cda8a)<sup>[1]</sup>  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=8f48bc05-ffac-4a21-8d21-dd20355cda8a)<sup>[1]</sup>  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=643f9e2f-2e5b-48dd-b1a0-22ccb633ed18)<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=643f9e2f-2e5b-48dd-b1a0-22ccb633ed18)<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 9.5](http://www.microsoft.com/downloads/details.aspx?familyid=8654ee33-6083-447f-ae5b-43ef8d8b613d)  
+[Windows Media Format Runtime 9.5](https://www.microsoft.com/download/details.aspx?familyid=8654ee33-6083-447f-ae5b-43ef8d8b613d)  
 (KB968816)  
 （严重）  
-[Windows Media Format Runtime 9.5 x64 Edition](http://www.microsoft.com/downloads/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c)  
+[Windows Media Format Runtime 9.5 x64 Edition](https://www.microsoft.com/download/details.aspx?familyid=ce515188-db3c-4694-85da-177c8f76b68c)  
 (KB968816)  
 （严重）  
-[Windows Media Services 9.1](http://www.microsoft.com/downloads/details.aspx?familyid=67c46f26-e6df-4ba2-9c03-1590b31e454c)  
+[Windows Media Services 9.1](https://www.microsoft.com/download/details.aspx?familyid=67c46f26-e6df-4ba2-9c03-1590b31e454c)  
 (KB972554)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e0298ddf-026e-4137-8197-ed9d9b889825)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e0298ddf-026e-4137-8197-ed9d9b889825)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=88bf502d-1a7c-447a-ac4c-401e1698669b)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=88bf502d-1a7c-447a-ac4c-401e1698669b)  
 （中等）
 </td>
 </tr>
@@ -451,9 +451,9 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[JScript 5.6](http://www.microsoft.com/downloads/details.aspx?familyid=e78cf021-54f5-4526-b5f0-f781aebf9d72)  
+[JScript 5.6](https://www.microsoft.com/download/details.aspx?familyid=e78cf021-54f5-4526-b5f0-f781aebf9d72)  
 （严重）  
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=fb1ca290-cea4-49c0-a37e-613a654bff3c)<sup>[1]</sup>  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=fb1ca290-cea4-49c0-a37e-613a654bff3c)<sup>[1]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -463,11 +463,11 @@ Windows Server 2003 SP2（用于基于 Itanium 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=c948c4d8-5788-4c1a-9fb6-a969b06a888d)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=c948c4d8-5788-4c1a-9fb6-a969b06a888d)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=8d881ff8-f51f-4476-8cb6-2bebd5b2047f)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=8d881ff8-f51f-4476-8cb6-2bebd5b2047f)  
 （中等）
 </td>
 </tr>
@@ -521,22 +521,22 @@ Windows Vista
 Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=bcb12e57-f5d6-4b4e-88ab-13c28137f11a)  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=bcb12e57-f5d6-4b4e-88ab-13c28137f11a)  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=80e7390f-df39-4d99-b2e1-01c7f6a951bb)<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=80e7390f-df39-4d99-b2e1-01c7f6a951bb)<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e9fe967f-d78d-43c2-bbcc-5098bd20267e)  
+[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e9fe967f-d78d-43c2-bbcc-5098bd20267e)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11 和 Microsoft Media Foundation](http://www.microsoft.com/downloads/details.aspx?familyid=d2bdefcc-f6b9-47c3-a55d-a4f33f967828)  
+[Windows Media Format Runtime 11 和 Microsoft Media Foundation](https://www.microsoft.com/download/details.aspx?familyid=d2bdefcc-f6b9-47c3-a55d-a4f33f967828)  
 (KB968816)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d72f845-9feb-4685-a669-f9d6ab54f9ed)  
+[Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7d72f845-9feb-4685-a669-f9d6ab54f9ed)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -548,22 +548,22 @@ Windows Vista、Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=8b1b76d5-a6b0-4c2f-8768-e55e82c2c118)  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=8b1b76d5-a6b0-4c2f-8768-e55e82c2c118)  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=24457cdd-1973-40c9-9c2d-c1a75fdfa7fa)<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=24457cdd-1973-40c9-9c2d-c1a75fdfa7fa)<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f93470bd-2e6d-4340-88c6-bb212baf750a)  
+[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f93470bd-2e6d-4340-88c6-bb212baf750a)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11 和 Microsoft Media Foundation](http://www.microsoft.com/downloads/details.aspx?familyid=97f00b25-fb8f-4300-80c0-c63179f32182)  
+[Windows Media Format Runtime 11 和 Microsoft Media Foundation](https://www.microsoft.com/download/details.aspx?familyid=97f00b25-fb8f-4300-80c0-c63179f32182)  
 (KB968816)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b2930ff1-5f0a-4a5d-bf2a-9fb76dd8da63)  
+[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b2930ff1-5f0a-4a5d-bf2a-9fb76dd8da63)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -620,25 +620,25 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=df88e6e5-78d3-4fa6-858d-b935d812cada)\*  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=df88e6e5-78d3-4fa6-858d-b935d812cada)\*  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=e7b07be6-a4f8-4847-9c55-9b3d2965fa77)\*,<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=e7b07be6-a4f8-4847-9c55-9b3d2965fa77)\*,<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ac3f6800-bc3e-4b35-a482-54e1a2da1ab5)\*\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ac3f6800-bc3e-4b35-a482-54e1a2da1ab5)\*\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11 和 Microsoft Media Foundation](http://www.microsoft.com/downloads/details.aspx?familyid=9c111bff-aff6-4ff7-81f6-e736cfcbe3ed)\*\*  
+[Windows Media Format Runtime 11 和 Microsoft Media Foundation](https://www.microsoft.com/download/details.aspx?familyid=9c111bff-aff6-4ff7-81f6-e736cfcbe3ed)\*\*  
 (KB968816)  
 （严重）  
-[Windows Media Services 2008](http://www.microsoft.com/downloads/details.aspx?familyid=2801f69b-37d0-4d0f-9632-31382b824d36)\*  
+[Windows Media Services 2008](https://www.microsoft.com/download/details.aspx?familyid=2801f69b-37d0-4d0f-9632-31382b824d36)\*  
 (KB972554)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=35c1d5a9-a953-4fc6-90c0-d2358c7b89e6)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=35c1d5a9-a953-4fc6-90c0-d2358c7b89e6)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -650,25 +650,25 @@ Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 
 Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=f584f8ca-f6b1-4285-a44c-3df5e51e75de)\*  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=f584f8ca-f6b1-4285-a44c-3df5e51e75de)\*  
 （严重）  
-[JScript 5.8](http://www.microsoft.com/downloads/details.aspx?familyid=9eddbb89-4178-49c2-836a-2d292fe50936)\*,<sup>[2]</sup>  
+[JScript 5.8](https://www.microsoft.com/download/details.aspx?familyid=9eddbb89-4178-49c2-836a-2d292fe50936)\*,<sup>[2]</sup>  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7d1b9b4f-bf35-44aa-a660-afb2ef2c9e30)\*\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7d1b9b4f-bf35-44aa-a660-afb2ef2c9e30)\*\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Media Format Runtime 11 和 Microsoft Media Foundation](http://www.microsoft.com/downloads/details.aspx?familyid=59615c8b-a07f-4326-836d-f17b2fcc4695)\*\*  
+[Windows Media Format Runtime 11 和 Microsoft Media Foundation](https://www.microsoft.com/download/details.aspx?familyid=59615c8b-a07f-4326-836d-f17b2fcc4695)\*\*  
 (KB968816)  
 （严重）  
-[Windows Media Services 2008](http://www.microsoft.com/downloads/details.aspx?familyid=7fad3793-174f-46db-9d0a-873a0ea8be65)\*  
+[Windows Media Services 2008](https://www.microsoft.com/download/details.aspx?familyid=7fad3793-174f-46db-9d0a-873a0ea8be65)\*  
 (KB972554)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6e46822e-f79d-492d-ad01-ee680ad324f5)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6e46822e-f79d-492d-ad01-ee680ad324f5)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -680,7 +680,7 @@ Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用
 Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[JScript 5.7](http://www.microsoft.com/downloads/details.aspx?familyid=b84fca1d-914d-45af-a48c-d9bc5d20c6b7)  
+[JScript 5.7](https://www.microsoft.com/download/details.aspx?familyid=b84fca1d-914d-45af-a48c-d9bc5d20c6b7)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -690,7 +690,7 @@ Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008�
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2ac76ee2-b1b6-4300-9cba-af33d9dd54eb)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2ac76ee2-b1b6-4300-9cba-af33d9dd54eb)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -750,7 +750,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

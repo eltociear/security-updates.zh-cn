@@ -294,62 +294,62 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=93faba6b-0a85-4acc-b527-a012bbf56b13)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=93faba6b-0a85-4acc-b527-a012bbf56b13)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=2084a01c-2a91-4650-8665-7053015f2083)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=2084a01c-2a91-4650-8665-7053015f2083)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=a1d47f30-c1fc-4b9d-8829-3bad1224006a)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=a1d47f30-c1fc-4b9d-8829-3bad1224006a)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=555864c3-9114-4988-8526-7bf545a27706)  
+[Internet Information Services 5.1](https://www.microsoft.com/download/details.aspx?familyid=555864c3-9114-4988-8526-7bf545a27706)  
 (KB2124261)  
 （重要）  
 IIS 身份验证：  
-[Internet Information Services 5.1](http://www.microsoft.com/downloads/details.aspx?familyid=ae55787e-4a5c-48d5-aedf-0abada514938)  
+[Internet Information Services 5.1](https://www.microsoft.com/download/details.aspx?familyid=ae55787e-4a5c-48d5-aedf-0abada514938)  
 (KB2290570)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=7ad0f2cf-03dc-49a0-a16e-17fed0c01cc6)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=7ad0f2cf-03dc-49a0-a16e-17fed0c01cc6)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=fc4369ec-864a-42ae-a850-b006872241fe)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=fc4369ec-864a-42ae-a850-b006872241fe)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=6554f98f-4dc5-4784-b92c-b0aae1fa22ca)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=6554f98f-4dc5-4784-b92c-b0aae1fa22ca)  
 (KB982000)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=20091358-7127-4ace-bf96-4319461ad305)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=20091358-7127-4ace-bf96-4319461ad305)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
 (KB2418241)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
 (KB2416468)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -359,58 +359,58 @@ IIS 身份验证：
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9f7f3737-056d-44bd-b644-51093b5b501b)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9f7f3737-056d-44bd-b644-51093b5b501b)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b27f310f-6ecc-4abb-8944-9fc24c66e077)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b27f310f-6ecc-4abb-8944-9fc24c66e077)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=0b28bfac-783d-4c89-988b-4123c0343855)  
+[Internet Information Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=0b28bfac-783d-4c89-988b-4123c0343855)  
 (KB2124261)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3349b12b-621e-48bc-9c57-489c7a56920d)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3349b12b-621e-48bc-9c57-489c7a56920d)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7567986a-261d-4def-9fa5-c667994c7844)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7567986a-261d-4def-9fa5-c667994c7844)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=5bc00f9a-3028-4c9d-be06-f2b78fa444c4)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=5bc00f9a-3028-4c9d-be06-f2b78fa444c4)  
 (KB982000)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=107eb958-b60f-40ae-a785-5d5b4d13d8c6)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=107eb958-b60f-40ae-a785-5d5b4d13d8c6)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
 (KB2418241)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
 (KB2416468)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -489,61 +489,61 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3d79680b-c071-462f-9cea-551fbd42edf0)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3d79680b-c071-462f-9cea-551fbd42edf0)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0a942985-081f-455c-bf9d-4345392c91b0)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0a942985-081f-455c-bf9d-4345392c91b0)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=7ff7de2f-3e37-4aff-a8e4-5ed21b83575c)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=7ff7de2f-3e37-4aff-a8e4-5ed21b83575c)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=29e6cf4f-446b-461c-82f7-cfa8478cf739)  
+[Internet Information Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=29e6cf4f-446b-461c-82f7-cfa8478cf739)  
 (KB2124261)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f8b3004b-07db-4638-a9b7-224ff829081c)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f8b3004b-07db-4638-a9b7-224ff829081c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3290e7ee-1e4a-464c-abfd-17fc4108601e)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3290e7ee-1e4a-464c-abfd-17fc4108601e)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=3fe6e78c-c60a-4903-9273-27b37e129f0a)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=3fe6e78c-c60a-4903-9273-27b37e129f0a)  
 (KB981550)  
 （重要）  
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=c42731f1-6393-42ed-b59f-5310c832fdc4)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=c42731f1-6393-42ed-b59f-5310c832fdc4)  
 (KB982000)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fd46ba66-8ca1-4aa2-b91b-9e5861a173f7)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fd46ba66-8ca1-4aa2-b91b-9e5861a173f7)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=71f0daad-e2df-421c-9818-58e1e40cdb65)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=71f0daad-e2df-421c-9818-58e1e40cdb65)  
 (KB2416451)  
 （重要）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
 (KB2418241)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
 (KB2416468)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -553,61 +553,61 @@ IIS ASP:
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=073b3305-4a81-4ef8-b6aa-e53b31a936b4)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=073b3305-4a81-4ef8-b6aa-e53b31a936b4)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=284a0e80-fd03-4909-b354-0478f04585a1)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=8382c1f2-e16d-475c-a8a0-e378696808f1)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=8382c1f2-e16d-475c-a8a0-e378696808f1)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=750e4a79-11bf-4726-9eb4-5dd3d029a717)  
+[Internet Information Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=750e4a79-11bf-4726-9eb4-5dd3d029a717)  
 (KB2124261)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=612b2096-bd82-47ca-8b99-454c2f158d39)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=612b2096-bd82-47ca-8b99-454c2f158d39)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b21570cc-4f90-4ed8-b901-a34584d44a63)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b21570cc-4f90-4ed8-b901-a34584d44a63)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=22412eed-33cd-4dfc-8ef7-b74dcd7c5faf)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=22412eed-33cd-4dfc-8ef7-b74dcd7c5faf)  
 (KB981550)  
 （重要）  
-[Active Directory 应用程序模式 (ADAM)](http://www.microsoft.com/downloads/details.aspx?familyid=79fb639d-2cc1-4bea-9df6-c67ed95890e3)  
+[Active Directory 应用程序模式 (ADAM)](https://www.microsoft.com/download/details.aspx?familyid=79fb639d-2cc1-4bea-9df6-c67ed95890e3)  
 (KB982000)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ff5976e0-579c-4e6e-a225-c0d3913cdc85)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ff5976e0-579c-4e6e-a225-c0d3913cdc85)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
 (KB2418241)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
 (KB2416468)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -617,57 +617,57 @@ IIS ASP:
 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=ca35a520-c4da-41bb-abcc-d5bc534ff19a)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=ca35a520-c4da-41bb-abcc-d5bc534ff19a)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=be7b3310-ffb7-4528-9c9e-aebe14d264d6)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=be7b3310-ffb7-4528-9c9e-aebe14d264d6)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=f6841057-1745-44e9-a16a-c180dd941ddf)  
+[Internet Information Services 6.0](https://www.microsoft.com/download/details.aspx?familyid=f6841057-1745-44e9-a16a-c180dd941ddf)  
 (KB2124261)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=1f04f151-330a-4b6c-826e-76def35daa73)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=1f04f151-330a-4b6c-826e-76def35daa73)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=c9c4427d-54c8-4f3c-9a94-818196cd5180)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=c9c4427d-54c8-4f3c-9a94-818196cd5180)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Active Directory](http://www.microsoft.com/downloads/details.aspx?familyid=cab75c8a-0d12-4a91-82b2-9f9b70610f67)  
+[Active Directory](https://www.microsoft.com/download/details.aspx?familyid=cab75c8a-0d12-4a91-82b2-9f9b70610f67)  
 (KB981550)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=e450ca08-1d75-4419-ad9f-c5e5efb55cd5)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=e450ca08-1d75-4419-ad9f-c5e5efb55cd5)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=3d31fd37-eb58-4169-b6b9-4cf854524e46)  
 (KB2418241)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=d284237b-e4d9-460a-98f0-7a18252f5780)  
 (KB2416468)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -746,21 +746,21 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=028977fd-0f39-42d4-9fee-0d90a2931cfd)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=028977fd-0f39-42d4-9fee-0d90a2931cfd)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=84629c25-7827-40c1-86fb-7ffa247202a0)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=84629c25-7827-40c1-86fb-7ffa247202a0)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ac1b0260-3802-45d4-985e-ac827d784e4f)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ac1b0260-3802-45d4-985e-ac827d784e4f)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=75059175-9c59-45d5-81ce-09b964640e5f)  
+[Internet Information Services 7.0](https://www.microsoft.com/download/details.aspx?familyid=75059175-9c59-45d5-81ce-09b964640e5f)  
 (KB2124261)  
 （重要）
 </td>
@@ -772,7 +772,7 @@ IIS ASP:
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Vista Service Pack 2：  
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=853a71f3-fb0d-43af-a2b8-45bf8ca1a588)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=853a71f3-fb0d-43af-a2b8-45bf8ca1a588)  
 (KB981550)  
 （重要）
 </td>
@@ -780,28 +780,28 @@ IIS ASP:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）  
 仅限 Windows Vista Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
 (KB2416469)  
 （重要）  
 仅限 Windows Vista Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
 (KB2416474)  
 （重要）  
 仅限 Windows Vista Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
+[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
 (KB2416470)  
 （重要）
 </td>
@@ -811,21 +811,21 @@ IIS ASP:
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=c68b9337-883d-4e98-ba0a-90b5cad46184)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=c68b9337-883d-4e98-ba0a-90b5cad46184)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=36e2a74b-e5c6-47d5-9cd9-b9171be63c7d)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=36e2a74b-e5c6-47d5-9cd9-b9171be63c7d)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ebfdcd6d-413e-4359-8863-e992327a607f)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ebfdcd6d-413e-4359-8863-e992327a607f)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=9864c590-10a7-4971-a717-924ed0d6cace)  
+[Internet Information Services 7.0](https://www.microsoft.com/download/details.aspx?familyid=9864c590-10a7-4971-a717-924ed0d6cace)  
 (KB2124261)  
 （重要）
 </td>
@@ -837,7 +837,7 @@ IIS ASP:
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Vista x64 Edition Service Pack 2：  
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=566f468b-22b6-400a-a656-ae64cfcb52df)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=566f468b-22b6-400a-a656-ae64cfcb52df)  
 (KB981550)  
 （重要）
 </td>
@@ -845,28 +845,28 @@ IIS ASP:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）  
 仅限 Windows Vista x64 Edition Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
 (KB2416469)  
 （重要）  
 仅限 Windows Vista x64 Edition Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
 (KB2416474)  
 （重要）  
 仅限 Windows Vista x64 Edition Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
+[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
 (KB2416470)  
 （重要）
 </td>
@@ -945,21 +945,21 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e2e788de-8400-4bf6-b96b-a915154aa20a)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e2e788de-8400-4bf6-b96b-a915154aa20a)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fdfc393e-a54d-44dd-ba45-c2a550ffd2a1)\*\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fdfc393e-a54d-44dd-ba45-c2a550ffd2a1)\*\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b679fe0c-5498-4fc5-84c8-0cd24b625907)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b679fe0c-5498-4fc5-84c8-0cd24b625907)\*  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=d798dc8e-ae64-4a1d-abda-f58cf69779d8)\*  
+[Internet Information Services 7.0](https://www.microsoft.com/download/details.aspx?familyid=d798dc8e-ae64-4a1d-abda-f58cf69779d8)\*  
 (KB2124261)  
 （重要）
 </td>
@@ -970,7 +970,7 @@ IIS ASP:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=1452befe-b7b8-4131-b36f-dded2bd16d5e)\*  
+[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=1452befe-b7b8-4131-b36f-dded2bd16d5e)\*  
 (KB981550)  
 （重要）
 </td>
@@ -978,28 +978,28 @@ IIS ASP:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>  
 (KB2416472)  
 （重要）  
 仅限 Windows Server 2008（用于 32 位系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
 (KB2416469)  
 （重要）  
 仅限 Windows Server 2008（用于 32 位系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
 (KB2416474)  
 （重要）  
 仅限 Windows Server 2008（用于 32 位系统）Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
 (KB2416470)  
 （重要）
 </td>
@@ -1009,21 +1009,21 @@ IIS ASP:
 Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e08d4f49-5a13-4e1d-b0a7-27b314c2edb5)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e08d4f49-5a13-4e1d-b0a7-27b314c2edb5)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1b7af424-6286-4a80-827c-c4df4f92fe43)\*\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1b7af424-6286-4a80-827c-c4df4f92fe43)\*\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e1b38b87-24f6-4aaa-afa9-40f4015d6694)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e1b38b87-24f6-4aaa-afa9-40f4015d6694)\*  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=e29f01dc-b00d-4c12-a13e-63aa0b09d919)\*  
+[Internet Information Services 7.0](https://www.microsoft.com/download/details.aspx?familyid=e29f01dc-b00d-4c12-a13e-63aa0b09d919)\*  
 (KB2124261)  
 （重要）
 </td>
@@ -1034,7 +1034,7 @@ IIS ASP:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=38eb875f-1869-401b-b7d3-9f18f4ba4f24)\*  
+[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=38eb875f-1869-401b-b7d3-9f18f4ba4f24)\*  
 (KB981550)  
 （重要）
 </td>
@@ -1042,32 +1042,32 @@ IIS ASP:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)\*\*  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
 (KB2418240)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)\*\*  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*\*<sup>[1]</sup>  
 (KB2416472)  
 （重要）  
 仅限 Windows Server 2008（用于基于 x64 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)\*\*  
 (KB2416469)  
 （重要）  
 仅限 Windows Server 2008（用于基于 x64 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)\*\*  
 (KB2416474)  
 （重要）  
 仅限 Windows Server 2008（用于基于 x64 的系统）Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)\*\*  
 (KB2416470)  
 （重要）  
 仅限 Windows Server 2008（用于基于 x64 的系统）Service Pack 2：  
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=00d95a85-f3e8-464d-a10c-85c6d91b4aae)\*\*  
 (KB2418240)  
 （重要）
 </td>
@@ -1077,20 +1077,20 @@ IIS ASP:
 Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=098537d5-bf6e-4e04-ad33-1cde697e062f)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=098537d5-bf6e-4e04-ad33-1cde697e062f)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ceb856e8-f4a6-4229-bd26-b1a763d7d443)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ceb856e8-f4a6-4229-bd26-b1a763d7d443)  
 (KB981322)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.0](http://www.microsoft.com/downloads/details.aspx?familyid=d595c8d2-90b1-46e4-bb9f-60efd0bf3a02)  
+[Internet Information Services 7.0](https://www.microsoft.com/download/details.aspx?familyid=d595c8d2-90b1-46e4-bb9f-60efd0bf3a02)  
 (KB2124261)  
 （重要）
 </td>
@@ -1107,25 +1107,25 @@ IIS ASP:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=a7990e61-21fd-4942-9dfe-af7961cb0282)  
 (KB2416447)  
 （重要）  
-[Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ae42d6cc-6d4e-425a-9b4f-379f66fc506a)  
 (KB2416473)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）  
 仅限 Windows Server 2008（用于基于 Itanium 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=7ad59265-9dca-4731-ac09-46c162c1832a)  
 (KB2416469)  
 （重要）  
 仅限 Windows Server 2008（用于基于 Itanium 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=ac1c77df-34d5-48d4-9a9d-33dc017ffe93)  
 (KB2416474)  
 （重要）  
 仅限 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
+[Microsoft .NET Framework 2.0 Service Pack 2、Microsoft .NET Framework 3.5 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=45aa5666-3454-443c-a224-2076215fef04)  
 (KB2416470)  
 （重要）
 </td>
@@ -1204,7 +1204,7 @@ Windows 7
 Windows 7（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=34619e9e-1f00-40e4-be6f-5bbf5e3c801b)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=34619e9e-1f00-40e4-be6f-5bbf5e3c801b)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -1215,11 +1215,11 @@ Windows 7（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=5b2d42da-4dbc-4fbb-be22-09ca7dec5aa3)  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=5b2d42da-4dbc-4fbb-be22-09ca7dec5aa3)  
 (KB2124261)  
 （重要）  
 IIS FastCGI:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=c843afd9-b6f2-48de-91cc-1c0d481c2be4)  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=c843afd9-b6f2-48de-91cc-1c0d481c2be4)  
 (KB2271195)  
 （重要）
 </td>
@@ -1230,7 +1230,7 @@ IIS FastCGI:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=454fc025-bfa2-4552-9522-3585f523ecb2)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=454fc025-bfa2-4552-9522-3585f523ecb2)  
 (KB981550)  
 （重要）
 </td>
@@ -1238,10 +1238,10 @@ IIS FastCGI:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
 (KB2416471)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -1275,7 +1275,7 @@ Windows 7（用于 32 位系统）Service Pack 1
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -1285,7 +1285,7 @@ Windows 7（用于 32 位系统）Service Pack 1
 Windows 7（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=dbb747a5-658d-44cf-bd49-425d1700157f)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=dbb747a5-658d-44cf-bd49-425d1700157f)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -1296,11 +1296,11 @@ Windows 7（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=66b64374-95e4-4b99-80e6-98dc63cd272b)  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=66b64374-95e4-4b99-80e6-98dc63cd272b)  
 (KB2124261)  
 （重要）  
 IIS FastCGI:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=5f0c0454-cbb6-47ed-9227-98aa45b8cbdb)  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=5f0c0454-cbb6-47ed-9227-98aa45b8cbdb)  
 (KB2271195)  
 （重要）
 </td>
@@ -1311,7 +1311,7 @@ IIS FastCGI:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=b15ad533-3cf1-4dcf-847c-05ebffb84e26)  
+[Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=b15ad533-3cf1-4dcf-847c-05ebffb84e26)  
 (KB981550)  
 （重要）
 </td>
@@ -1319,10 +1319,10 @@ IIS FastCGI:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
 (KB2416471)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)（重要）
 </td>
 </tr>
@@ -1355,7 +1355,7 @@ Windows 7（用于基于 x64 的系统）Service Pack 1
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)（重要）
 </td>
 </tr>
@@ -1433,7 +1433,7 @@ Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=11e20088-1be2-4166-9c97-234b7e9f1c4f)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=11e20088-1be2-4166-9c97-234b7e9f1c4f)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -1444,11 +1444,11 @@ Windows Server 2008 R2（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=21458cce-f67e-4e95-a067-8311afefc261)\*  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=21458cce-f67e-4e95-a067-8311afefc261)\*  
 (KB2124261)  
 （重要）  
 IIS FastCGI:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=9578b1de-f2c1-4b37-9d82-69e929cab6f3)\*  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=9578b1de-f2c1-4b37-9d82-69e929cab6f3)\*  
 (KB2271195)  
 （重要）
 </td>
@@ -1459,7 +1459,7 @@ IIS FastCGI:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](http://www.microsoft.com/downloads/details.aspx?familyid=54f36389-8be4-4a0c-9640-dc32addac9d7)\*  
+[Active Directory 和 Active Directory 轻型目录服务 (AD LDS)](https://www.microsoft.com/download/details.aspx?familyid=54f36389-8be4-4a0c-9640-dc32addac9d7)\*  
 (KB981550)  
 （重要）
 </td>
@@ -1467,10 +1467,10 @@ IIS FastCGI:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)\*  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)\*  
 (KB2416471)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -1504,7 +1504,7 @@ Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)\*<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -1514,7 +1514,7 @@ Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 Windows Server 2008 R2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=d8c635f8-8978-44bf-b457-e07368f08ef4)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=d8c635f8-8978-44bf-b457-e07368f08ef4)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -1525,11 +1525,11 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
 IIS ASP:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=3b8f3fd1-1ef4-4e9f-9bce-0c68f10519d1)  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=3b8f3fd1-1ef4-4e9f-9bce-0c68f10519d1)  
 (KB2124261)  
 （重要）  
 IIS FastCGI:  
-[Internet Information Services 7.5](http://www.microsoft.com/downloads/details.aspx?familyid=21adf80d-267f-47cd-9c03-4b4854ba159f)  
+[Internet Information Services 7.5](https://www.microsoft.com/download/details.aspx?familyid=21adf80d-267f-47cd-9c03-4b4854ba159f)  
 (KB2271195)  
 （重要）
 </td>
@@ -1546,10 +1546,10 @@ IIS FastCGI:
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=5e7dcf51-74f1-43cc-aece-0cd5df05ddb7)  
 (KB2416471)  
 （重要）  
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -1583,7 +1583,7 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 4.0](http://www.microsoft.com/downloads/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
+[Microsoft .NET Framework 4.0](https://www.microsoft.com/download/details.aspx?familyid=6ce703b7-08a5-4eff-a062-d5dc720908f6)<sup>[1]</sup>  
 (KB2416472)  
 （重要）
 </td>
@@ -1648,12 +1648,12 @@ Microsoft Office 套件、系统和组件
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=0b56f85f-d39b-410a-857a-799a5d714de7)  
+[Microsoft Office XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=0b56f85f-d39b-410a-857a-799a5d714de7)  
 (KB2288608)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=d5e85841-9dea-4776-9e0e-3cd272066f37)  
+[Microsoft Outlook 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=d5e85841-9dea-4776-9e0e-3cd272066f37)  
 (KB2293422)  
 （严重）
 </td>
@@ -1663,12 +1663,12 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=bb7783b1-b396-4254-b317-f2292b305cfc)  
+[Microsoft Office 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=bb7783b1-b396-4254-b317-f2292b305cfc)  
 (KB2288613)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=ec8ed81e-05d0-4c20-b5fb-ebc72230a8bd)  
+[Microsoft Outlook 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=ec8ed81e-05d0-4c20-b5fb-ebc72230a8bd)  
 (KB2293428)  
 （重要）
 </td>
@@ -1678,12 +1678,12 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=44c5bccf-66dd-4796-9089-e6171d8c9785)  
+[Microsoft Office 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=44c5bccf-66dd-4796-9089-e6171d8c9785)  
 (KB2288621)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6009d507-135c-4ce8-a830-925134f214dc)  
+[Microsoft Outlook 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6009d507-135c-4ce8-a830-925134f214dc)  
 (KB2288953)  
 （重要）
 </td>
@@ -1727,7 +1727,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。这可触发不兼容并使安全更新的部署占用更多的时间。通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。这可触发不兼容并使安全更新的部署占用更多的时间。通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

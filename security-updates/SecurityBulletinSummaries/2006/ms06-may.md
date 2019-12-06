@@ -112,31 +112,31 @@ Microsoft 安全公告摘要 (2006 年 5 月)
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows Server 2003</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=e70515c7-8924-46da-8573-457957eea0d7">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=e70515c7-8924-46da-8573-457957eea0d7">低</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2003（用于基于 Itanium 的系统）</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=7bd81335-79ea-46ce-8d3c-0aa91eefff02">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=7bd81335-79ea-46ce-8d3c-0aa91eefff02">低</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows XP Service Pack 1</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">低</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">严重</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">Windows XP Service Pack 2</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">低</a></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=d80b43b2-727b-46b6-82d1-f2cbd916fe32">低</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=b2b8f9a8-4874-405a-9f0c-768b2631673a">严重</a></td>
 <td style="border:1px solid black;"></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Windows 2000 Service Pack 4</td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=zh-cn&amp;familyid=8b98f380-0e5c-4b80-9710-95e1b35afd83">中等</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?displaylang=zh-cn&amp;familyid=8b98f380-0e5c-4b80-9710-95e1b35afd83">中等</a></td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
 </tr>  
@@ -156,19 +156,19 @@ Microsoft 安全公告摘要 (2006 年 5 月)
 <td style="border:1px solid black;">Microsoft Exchange Server 2003 Service Pack 1</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">严重</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;">Microsoft Exchange Server 2003 Service Pack 2</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">严重</a></td>
 </tr>  
 <tr class="odd">
 <td style="border:1px solid black;">带有 2004 年 8 月的 Exchange 2000 Post-Service Pack 3 更新汇总的 Microsoft Exchange Server 2000</td>
 <td style="border:1px solid black;"></td>
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><a href="http://www.microsoft.com/downloads/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">严重</a></td>
+<td style="border:1px solid black;"><a href="https://www.microsoft.com/download/details.aspx?familyid=0a8df1c3-abf9-4a21-9b49-81fa362b251f">严重</a></td>
 </tr>  
 <tr class="even">
 <td style="border:1px solid black;"></td>

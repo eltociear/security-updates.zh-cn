@@ -216,14 +216,14 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=a142f7ba-4268-4453-a8eb-470213c028ac)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=a142f7ba-4268-4453-a8eb-470213c028ac)  
 (KB2598479)  
 （严重）  
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=89b23d72-410f-4133-9c14-24eb01e5a732)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=89b23d72-410f-4133-9c14-24eb01e5a732)  
 (KB2628259)  
 （仅限 Windows XP Media Center Edition 2005 Service Pack 3）  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=4b168ee8-eb15-4c2c-afb0-e63d62b4a6dc)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=4b168ee8-eb15-4c2c-afb0-e63d62b4a6dc)  
 (KB2631813)  
 （严重）
 </td>
@@ -231,19 +231,19 @@ Windows XP Service Pack 3
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=feaeda8c-84ee-47be-8c68-736f0e5b1fc7)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=feaeda8c-84ee-47be-8c68-736f0e5b1fc7)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=cfc38dc2-c4c7-4a44-8e5a-b98bb9bc0396)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=cfc38dc2-c4c7-4a44-8e5a-b98bb9bc0396)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=1bcb1d1e-9261-4a36-9256-90d3df9bd4fb)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=1bcb1d1e-9261-4a36-9256-90d3df9bd4fb)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=fb0360b1-254c-4ecb-a36a-807cabfec1ab)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=fb0360b1-254c-4ecb-a36a-807cabfec1ab)  
 (KB2585542)  
 （重要）
 </td>
@@ -253,34 +253,34 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=0928d720-ae88-40d6-b76f-636d67da8526)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=0928d720-ae88-40d6-b76f-636d67da8526)  
 (KB2598479)  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=13d74cc6-8d8e-45ea-8cdc-c15782f6626b)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=13d74cc6-8d8e-45ea-8cdc-c15782f6626b)  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=46386269-6e37-4710-bfef-cedfe60d881c)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=46386269-6e37-4710-bfef-cedfe60d881c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=211827f2-fe6a-4e16-a90c-0cc3b60a722d)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=211827f2-fe6a-4e16-a90c-0cc3b60a722d)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3956db98-88d9-49fc-be51-247b40bfc272)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3956db98-88d9-49fc-be51-247b40bfc272)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2c687796-4c41-4d17-b738-511d2fbfc126)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2c687796-4c41-4d17-b738-511d2fbfc126)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=afe6b34d-21b1-4dfa-afa6-2c5c2a678e9e)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=afe6b34d-21b1-4dfa-afa6-2c5c2a678e9e)  
 (KB2585542)  
 （重要）  
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=986f1156-0190-48c2-9f39-29cacb91f0f9)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=986f1156-0190-48c2-9f39-29cacb91f0f9)  
 (KB2638806)  
 （重要）
 </td>
@@ -341,34 +341,34 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=3c266dfb-630d-4f32-b2ca-63955279b6a9)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=3c266dfb-630d-4f32-b2ca-63955279b6a9)  
 (KB2598479)  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=89ae6ed0-537f-421c-b755-ef28691abd88)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=89ae6ed0-537f-421c-b755-ef28691abd88)  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9cdfc0fe-8f43-4e13-8a1f-2b48ff9ff472)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9cdfc0fe-8f43-4e13-8a1f-2b48ff9ff472)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b8e46267-7988-4fbe-ae94-68b6fdb2e7d9)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b8e46267-7988-4fbe-ae94-68b6fdb2e7d9)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=39f5f8fb-ee4d-4b7a-9cd7-3d1e9c8abd8c)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=39f5f8fb-ee4d-4b7a-9cd7-3d1e9c8abd8c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2c39be84-1eab-4794-b3ed-e529643aca21)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2c39be84-1eab-4794-b3ed-e529643aca21)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e2c503a5-3f15-4a77-9a05-9ea0fbaf4503)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e2c503a5-3f15-4a77-9a05-9ea0fbaf4503)  
 (KB2585542)  
 （重要）  
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=c23e7604-d489-4836-8b54-3b2b3d6a365c)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=c23e7604-d489-4836-8b54-3b2b3d6a365c)  
 (KB2638806)  
 （重要）
 </td>
@@ -378,34 +378,34 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=8dd1c882-4ed1-4e47-a017-7d162bd94194)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=8dd1c882-4ed1-4e47-a017-7d162bd94194)  
 (KB2598479)  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=08be569c-e9d1-4fc5-8670-ebe9da0a2072)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=08be569c-e9d1-4fc5-8670-ebe9da0a2072)  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4e5783aa-6847-404c-9b75-621fa14ebbb8)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4e5783aa-6847-404c-9b75-621fa14ebbb8)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5975b01e-139b-4b9d-a0d5-a87a279bfea1)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5975b01e-139b-4b9d-a0d5-a87a279bfea1)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e27d85f8-a285-4e95-85a0-0868286cc2b9)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e27d85f8-a285-4e95-85a0-0868286cc2b9)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3cf29dfd-239e-4707-92e6-952133c1c1c2)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3cf29dfd-239e-4707-92e6-952133c1c1c2)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2ad34496-40af-40cb-9f85-5d3c31543211)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2ad34496-40af-40cb-9f85-5d3c31543211)  
 (KB2585542)  
 （重要）  
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2f36e991-4e1a-4b8c-8cfb-e7f20d97cf0b)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2f36e991-4e1a-4b8c-8cfb-e7f20d97cf0b)  
 (KB2638806)  
 （重要）
 </td>
@@ -415,34 +415,34 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=3a9b09d6-7060-47ab-9f76-c3c5acb024e6)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=3a9b09d6-7060-47ab-9f76-c3c5acb024e6)  
 (KB2598479)  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=3401ac20-3701-471f-9757-097a9402d761)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=3401ac20-3701-471f-9757-097a9402d761)  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=cdf8208c-d55b-428f-bdd3-26e291dfb08d)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=cdf8208c-d55b-428f-bdd3-26e291dfb08d)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=26079c35-4b96-42fc-ad47-138be25a6bf0)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=26079c35-4b96-42fc-ad47-138be25a6bf0)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=b69bd01d-9925-4ff1-bfeb-b4473631578c)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=b69bd01d-9925-4ff1-bfeb-b4473631578c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=623c1c7d-6902-4876-9614-1b6e1ef80831)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=623c1c7d-6902-4876-9614-1b6e1ef80831)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=56deb935-9226-49f8-b705-edb3d662d8aa)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=56deb935-9226-49f8-b705-edb3d662d8aa)  
 (KB2585542)  
 （重要）  
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=2d72cf5a-cca7-4341-b862-017e3f34a3c9)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=2d72cf5a-cca7-4341-b862-017e3f34a3c9)  
 (KB2638806)  
 （重要）
 </td>
@@ -503,33 +503,33 @@ Windows Vista
 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=99d9b9fc-ed37-4a32-a20d-6604a1b9c4ca)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=99d9b9fc-ed37-4a32-a20d-6604a1b9c4ca)  
 (KB2598479)  
 （严重）  
-[Windows Vista 的 Windows Media Center TV Pack（32 位版本）](http://www.microsoft.com/downloads/details.aspx?familyid=f345e093-336d-4464-b7f8-a14398b62ebf)<sup>[1]</sup>  
+[Windows Vista 的 Windows Media Center TV Pack（32 位版本）](https://www.microsoft.com/download/details.aspx?familyid=f345e093-336d-4464-b7f8-a14398b62ebf)<sup>[1]</sup>  
 (KB2628642)  
 （重要）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=4818059a-52ad-4c2e-9605-4e0f5d9da5ba)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=4818059a-52ad-4c2e-9605-4e0f5d9da5ba)  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=44eeb0a2-ae17-4971-8a7e-e25b260c582c)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=44eeb0a2-ae17-4971-8a7e-e25b260c582c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=73682d4b-3179-4488-8ba9-94ed68c4896b)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=73682d4b-3179-4488-8ba9-94ed68c4896b)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=038970b6-aeec-4e18-8dfe-887b260a7c87)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=038970b6-aeec-4e18-8dfe-887b260a7c87)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f9269bd6-8c4f-476e-8481-fc0de52a22e6)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f9269bd6-8c4f-476e-8481-fc0de52a22e6)  
 (KB2585542)  
 （重要）
 </td>
@@ -539,33 +539,33 @@ Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=44aa8d91-2b30-4191-8965-8aee2b860d50)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=44aa8d91-2b30-4191-8965-8aee2b860d50)  
 (KB2598479)  
 （严重）  
-[Windows Vista 的 Windows Media Center TV Pack（64 位版本）](http://www.microsoft.com/downloads/details.aspx?familyid=559d028f-9810-4c50-b65d-f567cbb15427)<sup>[1]</sup>  
+[Windows Vista 的 Windows Media Center TV Pack（64 位版本）](https://www.microsoft.com/download/details.aspx?familyid=559d028f-9810-4c50-b65d-f567cbb15427)<sup>[1]</sup>  
 (KB2628642)  
 （重要）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=13cc2519-860d-4c64-b7f8-8f9c0bdaefcf)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=13cc2519-860d-4c64-b7f8-8f9c0bdaefcf)  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=79ceba86-59a1-4138-a5de-8df20ad81b02)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=79ceba86-59a1-4138-a5de-8df20ad81b02)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b5c33025-13d9-43d2-a415-a8a4d683a821)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b5c33025-13d9-43d2-a415-a8a4d683a821)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=23abeb12-f2fe-43fd-9c4a-4d3d244832f8)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=23abeb12-f2fe-43fd-9c4a-4d3d244832f8)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0403c753-d4fa-4e3d-a61b-7f816f5c352b)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0403c753-d4fa-4e3d-a61b-7f816f5c352b)  
 (KB2585542)  
 （重要）
 </td>
@@ -626,30 +626,30 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=787e6285-3ba5-4aae-9d8d-e3c1eca3b35d)\*  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=787e6285-3ba5-4aae-9d8d-e3c1eca3b35d)\*  
 (KB2598479)  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=92df13c1-fdf6-4602-acb2-e634a1bcd9da)\*\*  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=92df13c1-fdf6-4602-acb2-e634a1bcd9da)\*\*  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5ab87c6c-5802-4454-bce4-12501e5b816d)\*  
+[Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5ab87c6c-5802-4454-bce4-12501e5b816d)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fbf119cf-a8ed-4266-a673-442149992f7c)\*  
+[Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fbf119cf-a8ed-4266-a673-442149992f7c)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=d089d9cb-382c-4e64-94c5-69b9864010b1)\*\*  
+[Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=d089d9cb-382c-4e64-94c5-69b9864010b1)\*\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=2fe2f398-433f-4338-a273-813185b43ea8)\*  
+[Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=2fe2f398-433f-4338-a273-813185b43ea8)\*  
 (KB2585542)  
 （重要）
 </td>
@@ -659,30 +659,30 @@ Windows Server 2008（用于 32 位系统）Service Pack 2
 Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=9eff12b2-70a4-452b-b6bc-0d83f2edcf6c)\*  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=9eff12b2-70a4-452b-b6bc-0d83f2edcf6c)\*  
 (KB2598479)  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=7ff10d7f-26a6-403a-a4b7-7aff55e2fa16)\*\*  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=7ff10d7f-26a6-403a-a4b7-7aff55e2fa16)\*\*  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=726ff17e-ac90-4832-91e7-46f71ad2f868)\*  
+[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=726ff17e-ac90-4832-91e7-46f71ad2f868)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e8e68f89-27f4-4142-94ca-58f086a98157)\*  
+[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e8e68f89-27f4-4142-94ca-58f086a98157)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1ac8a368-4298-4c1d-9cfd-924d6df563af)\*\*  
+[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1ac8a368-4298-4c1d-9cfd-924d6df563af)\*\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f54ac30d-8e41-4df9-bd43-db6742a24d4c)\*  
+[Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f54ac30d-8e41-4df9-bd43-db6742a24d4c)\*  
 (KB2585542)  
 （重要）
 </td>
@@ -692,30 +692,30 @@ Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows 多媒体库](http://www.microsoft.com/downloads/details.aspx?familyid=4e2edb23-7f4e-4fe4-848c-1d744e0dce9f)  
+[Windows 多媒体库](https://www.microsoft.com/download/details.aspx?familyid=4e2edb23-7f4e-4fe4-848c-1d744e0dce9f)  
 (KB2598479)  
 （严重）  
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=5e0394c9-3de4-46f6-ae7f-18d5a555532e)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=5e0394c9-3de4-46f6-ae7f-18d5a555532e)  
 (KB2631813)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=ba2c3d57-1bdd-44f2-9233-86c7ea6f0ddb)  
+[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=ba2c3d57-1bdd-44f2-9233-86c7ea6f0ddb)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fc6491e8-6c3e-43a1-bc56-16c9a2fd2749)  
+[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fc6491e8-6c3e-43a1-bc56-16c9a2fd2749)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3e08b242-2516-4cf6-b38e-35ec2b8b788d)  
+[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3e08b242-2516-4cf6-b38e-35ec2b8b788d)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3979db3b-4961-4df8-84a4-1f26672b127c)  
+[Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3979db3b-4961-4df8-84a4-1f26672b127c)  
 (KB2585542)  
 （重要）
 </td>
@@ -776,12 +776,12 @@ Windows 7
 Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=d736daf8-db6d-485f-b0cb-7f2d8c86f9a2)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=d736daf8-db6d-485f-b0cb-7f2d8c86f9a2)  
 (KB2631813)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0ee22036-b7f4-40f5-8f40-a77e8faf48b2)  
+[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0ee22036-b7f4-40f5-8f40-a77e8faf48b2)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -791,11 +791,11 @@ Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service 
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7422605b-7a02-4161-b7f8-92b3ccffef64)  
+[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7422605b-7a02-4161-b7f8-92b3ccffef64)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0f433f2c-c61d-461d-af9c-0145af4b72ab)  
+[Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0f433f2c-c61d-461d-af9c-0145af4b72ab)  
 (KB2585542)  
 （重要）
 </td>
@@ -805,12 +805,12 @@ Windows 7（用于 32 位系统）和 Windows 7（用于 32 位系统）Service 
 Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=21b37775-3e7b-462d-8234-7c47d52daef9)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=21b37775-3e7b-462d-8234-7c47d52daef9)  
 (KB2631813)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7444e20c-9821-4c91-9779-2728c537dd6a)  
+[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7444e20c-9821-4c91-9779-2728c537dd6a)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -820,11 +820,11 @@ Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=4ba46bc7-af7a-445a-84f2-b0c13674409b)  
+[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=4ba46bc7-af7a-445a-84f2-b0c13674409b)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=0839fec0-b6a7-4e47-9da3-2caef44a7df4)  
+[Windows 7（用于基于 x64 的系统）和 Windows 7（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=0839fec0-b6a7-4e47-9da3-2caef44a7df4)  
 (KB2585542)  
 （重要）
 </td>
@@ -885,12 +885,12 @@ Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=355c980d-ec2e-4b2d-a7d4-2e3dbd3a0dde)\*\*  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=355c980d-ec2e-4b2d-a7d4-2e3dbd3a0dde)\*\*  
 (KB2631813)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=4c73a16d-e9fa-48de-9dca-a6360ce3d029)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=4c73a16d-e9fa-48de-9dca-a6360ce3d029)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -900,11 +900,11 @@ Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=db3a4814-a409-4def-944d-4eaa540b83b0)\*\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=db3a4814-a409-4def-944d-4eaa540b83b0)\*\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=34542a5a-88df-4a07-b1ed-d4c845502cd8)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2（用于基于 x64 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=34542a5a-88df-4a07-b1ed-d4c845502cd8)\*  
 (KB2585542)  
 （重要）
 </td>
@@ -914,12 +914,12 @@ Windows Server 2008 R2（用于基于 x64 的系统）和 Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[DirectShow](http://www.microsoft.com/downloads/details.aspx?familyid=d4b2389e-fd9f-47c7-9afd-4077f5632c21)  
+[DirectShow](https://www.microsoft.com/download/details.aspx?familyid=d4b2389e-fd9f-47c7-9afd-4077f5632c21)  
 (KB2631813)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1cc14ee8-f035-4bfc-bf38-33c6b9a2e776)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1cc14ee8-f035-4bfc-bf38-33c6b9a2e776)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -929,11 +929,11 @@ Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 200
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=2101663a-ed3d-4850-b79a-16960ab56b45)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=2101663a-ed3d-4850-b79a-16960ab56b45)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=fe661936-06e1-45d3-89f6-1093504496a7)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）和 Windows Server 2008 R2（用于基于 Itanium 的系统）Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=fe661936-06e1-45d3-89f6-1093504496a7)  
 (KB2585542)  
 （重要）
 </td>
@@ -980,7 +980,7 @@ Microsoft 防跨站点脚本库
 Microsoft 防跨站点脚本库 V3.x 和 Microsoft 防跨站点脚本库 V4.0
 </td>
 <td style="border:1px solid black;">
-[Microsoft 防跨站点脚本库 V3.x 和 Microsoft 防跨站点脚本库 V4.0](http://www.microsoft.com/downloads/details.aspx?familyid=b3ef05ce-70fe-4f25-9aee-cb7a42a53d11)<sup>[1]</sup><sup>[2]</sup>
+[Microsoft 防跨站点脚本库 V3.x 和 Microsoft 防跨站点脚本库 V4.0](https://www.microsoft.com/download/details.aspx?familyid=b3ef05ce-70fe-4f25-9aee-cb7a42a53d11)<sup>[1]</sup><sup>[2]</sup>
 </td>
 </tr>
 </table>
@@ -1036,7 +1036,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。这可触发不兼容并使安全更新的部署占用更多的时间。通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。这可触发不兼容并使安全更新的部署占用更多的时间。通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

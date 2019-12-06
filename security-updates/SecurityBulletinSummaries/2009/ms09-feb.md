@@ -169,7 +169,7 @@ Microsoft Windows 2000 Service Pack 4
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](http://www.microsoft.com/downloads/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
+[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](https://www.microsoft.com/download/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
 (KB960082)  
 （重要）
 </td>
@@ -206,7 +206,7 @@ Windows XP
 Windows XP Service Pack 2 和 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=8cd902ec-e018-4b61-80f9-825d973f998e)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=8cd902ec-e018-4b61-80f9-825d973f998e)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -218,7 +218,7 @@ Windows XP Service Pack 2 和 Windows XP Service Pack 3
 Windows XP Professional x64 Edition 和 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=dd3e2236-9cc0-478e-a46c-981ef685c0e3)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=dd3e2236-9cc0-478e-a46c-981ef685c0e3)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -257,14 +257,14 @@ Windows Server 2003
 Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e52aa1fd-e694-4322-b3ff-6abc1b4a16fe)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e52aa1fd-e694-4322-b3ff-6abc1b4a16fe)  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](http://www.microsoft.com/downloads/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
+[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](https://www.microsoft.com/download/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
 (KB960082)  
 （重要）  
-[Windows Internal Database (WYukon) Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e)  
+[Windows Internal Database (WYukon) Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e)  
 (KB960089)  
 （重要）
 </td>
@@ -274,14 +274,14 @@ Windows Server 2003 Service Pack 1 和 Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=edbf1566-b96b-4c7d-98fe-b15f8e766792)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=edbf1566-b96b-4c7d-98fe-b15f8e766792)  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](http://www.microsoft.com/downloads/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
+[Microsoft SQL Server 2000 Desktop Engine (WMSDE)](https://www.microsoft.com/download/details.aspx?familyid=218809d6-a9fb-408b-a34d-ab2ac786994c)  
 (KB960082)  
 （重要）  
-[Windows Internal Database (WYukon) x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67)  
+[Windows Internal Database (WYukon) x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67)  
 (KB960089)  
 （重要）
 </td>
@@ -291,7 +291,7 @@ Windows Server 2003 x64 Edition 和 Windows Server 2003 x64 Edition Service Pack
 Windows Server 2003 SP1（用于基于 Itanium 的系统）以及 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5ce78797-d1c0-40d4-84e1-1004389833be)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5ce78797-d1c0-40d4-84e1-1004389833be)  
 （中等）
 </td>
 <td style="border:1px solid black;">
@@ -330,7 +330,7 @@ Windows Vista
 Windows Vista 和 Windows Vista Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5f9fa4b6-85a4-43bc-b84f-6bd847799650)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5f9fa4b6-85a4-43bc-b84f-6bd847799650)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -342,7 +342,7 @@ Windows Vista 和 Windows Vista Service Pack 1
 Windows Vista x64 Edition 和 Windows Vista x64 Edition Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=e9a8c94b-b9d2-4d64-855f-b5f02ce3dfb5)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=e9a8c94b-b9d2-4d64-855f-b5f02ce3dfb5)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -381,11 +381,11 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=2491dbf2-7cd3-44f1-bfad-77e6f760a25c)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=2491dbf2-7cd3-44f1-bfad-77e6f760a25c)\*\*  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database (WYukon) Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e)\*  
+[Windows Internal Database (WYukon) Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=16925be5-98d0-446b-9bbc-d9a2d335c69e)\*  
 (KB960089)  
 （重要）
 </td>
@@ -395,11 +395,11 @@ Windows Server 2008（用于 32 位系统）
 Windows Server 2008（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=794373cc-2dce-4ef5-af50-7804c622c230)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=794373cc-2dce-4ef5-af50-7804c622c230)\*\*  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows Internal Database (WYukon) x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67)\*  
+[Windows Internal Database (WYukon) x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=05c5c265-cfd7-4364-b323-77650b7f1e67)\*  
 (KB960089)  
 （重要）
 </td>
@@ -409,7 +409,7 @@ Windows Server 2008（用于基于 x64 的系统）
 Windows Server 2008（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=11985325-4b33-4077-82cf-6afc7a71c510)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=11985325-4b33-4077-82cf-6afc7a71c510)  
 （中等）
 </td>
 <td style="border:1px solid black;">
@@ -464,7 +464,7 @@ Microsoft Exchange Server
 Microsoft Exchange 2000 Server
 </td>
 <td style="border:1px solid black;">
-[带 2004 年 8 月更新汇总的 Microsoft Exchange 2000 Server Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=805dc856-ea60-477d-be40-6ac535a7e7e5)  
+[带 2004 年 8 月更新汇总的 Microsoft Exchange 2000 Server Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=805dc856-ea60-477d-be40-6ac535a7e7e5)  
 (KB959897)  
 （严重）
 </td>
@@ -474,7 +474,7 @@ Microsoft Exchange 2000 Server
 Microsoft Exchange Server 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1d9f0956-88bd-4e13-a86b-b1c8d4782f71)  
+[Microsoft Exchange Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1d9f0956-88bd-4e13-a86b-b1c8d4782f71)  
 (KB959897)  
 （严重）
 </td>
@@ -484,7 +484,7 @@ Microsoft Exchange Server 2003
 Microsoft Exchange Server 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Exchange Server 2007 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=93cb3f66-ae72-4356-bdbf-35029cff6df1)\*  
+[Microsoft Exchange Server 2007 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=93cb3f66-ae72-4356-bdbf-35029cff6df1)\*  
 (KB959241)  
 （严重）
 </td>
@@ -530,11 +530,11 @@ SQL Server 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
+[SQL Server 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
 (KB960082)  
 （重要）  
 QFE 更新：  
-[SQL Server 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
+[SQL Server 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
 (KB960083)  
 （重要）
 </td>
@@ -545,11 +545,11 @@ SQL Server 2000 Itanium-based Edition Service Pack 4
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2000 Itanium-based Edition Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
+[SQL Server 2000 Itanium-based Edition Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
 (KB960082)  
 （重要）  
 QFE 更新：  
-[SQL Server 2000 Itanium-based Edition Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
+[SQL Server 2000 Itanium-based Edition Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
 (KB960083)  
 （重要）
 </td>
@@ -560,11 +560,11 @@ SQL Server 2005 Service Pack 2
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
+[SQL Server 2005 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
 (KB960089)  
 （重要）  
 QFE 更新：  
-[SQL Server 2005 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
+[SQL Server 2005 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
 (KB960090)  
 （重要）
 </td>
@@ -575,11 +575,11 @@ SQL Server 2005 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
+[SQL Server 2005 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
 (KB960089)  
 （重要）  
 QFE 更新：  
-[SQL Server 2005 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
+[SQL Server 2005 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
 (KB960090)  
 （重要）
 </td>
@@ -590,11 +590,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[用于基于 Itanium 的系统的 SQL Server 2005 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
+[用于基于 Itanium 的系统的 SQL Server 2005 SP2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
 (KB960089)  
 （重要）  
 QFE 更新：  
-[用于基于 Itanium 的系统的 SQL Server 2005 SP2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
+[用于基于 Itanium 的系统的 SQL Server 2005 SP2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
 (KB960090)  
 （重要）
 </td>
@@ -605,11 +605,11 @@ Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
+[Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=d5bb816a-6e1a-47cb-92be-51c565ee184c)  
 (KB960082)  
 （重要）  
 QFE 更新：  
-[Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4](http://www.microsoft.com/downloads/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
+[Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) Service Pack 4](https://www.microsoft.com/download/details.aspx?familyid=a93f3cfe-18c9-4218-a551-13bf415e418a)  
 (KB960083)  
 （重要）
 </td>
@@ -620,11 +620,11 @@ SQL Server 2005 Express Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[SQL Server 2005 Express Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
+[SQL Server 2005 Express Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
 (KB960089)  
 （重要）  
 QFE 更新：  
-[SQL Server 2005 Express Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
+[SQL Server 2005 Express Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
 (KB960090)  
 （重要）
 </td>
@@ -635,11 +635,11 @@ QFE 更新：
 </td>
 <td style="border:1px solid black;">
 GDR 更新：  
-[带 Advanced Services Service Pack 2 的 SQL Server 2005 Express Edition](http://www.microsoft.com/downloads/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
+[带 Advanced Services Service Pack 2 的 SQL Server 2005 Express Edition](https://www.microsoft.com/download/details.aspx?familyid=5dfb7998-0316-40e5-9fc5-7a1afc18e15e)  
 (KB960089)  
 （重要）  
 QFE 更新：  
-[带 Advanced Services Service Pack 2 的 SQL Server 2005 Express Edition](http://www.microsoft.com/downloads/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
+[带 Advanced Services Service Pack 2 的 SQL Server 2005 Express Edition](https://www.microsoft.com/download/details.aspx?familyid=aa2b82ca-e94e-4491-8639-f0749b1a0f3a)  
 (KB960090)  
 （重要）
 </td>
@@ -686,7 +686,7 @@ Microsoft Office Visio
 Microsoft Office Visio 2002
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2002 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a30cef3f-9eaf-45bd-9a25-4b65302362cb)  
+[Microsoft Office Visio 2002 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a30cef3f-9eaf-45bd-9a25-4b65302362cb)  
 (KB955654)  
 （重要）
 </td>
@@ -696,7 +696,7 @@ Microsoft Office Visio 2002
 Microsoft Office Visio 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=c9cb589e-1a37-485d-8402-7f42bcd7a1a9)  
+[Microsoft Office Visio 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=c9cb589e-1a37-485d-8402-7f42bcd7a1a9)  
 (KB955655)  
 （重要）
 </td>
@@ -706,7 +706,7 @@ Microsoft Office Visio 2003
 Microsoft Office Visio 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Visio 2007 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=4b711e89-8de2-4f17-8afc-691e0604ff82)  
+[Microsoft Office Visio 2007 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=4b711e89-8de2-4f17-8afc-691e0604ff82)  
 (KB957831)  
 （重要）
 </td>
@@ -747,7 +747,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包 5.0](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) 中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 

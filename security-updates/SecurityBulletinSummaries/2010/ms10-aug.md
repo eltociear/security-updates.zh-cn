@@ -390,55 +390,55 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=12361875-b453-45e8-852b-90f2727894fd)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=12361875-b453-45e8-852b-90f2727894fd)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=ff00381c-e74b-48e5-9dd9-34dbedd906a2)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=ff00381c-e74b-48e5-9dd9-34dbedd906a2)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=dbdbbe5e-2ef9-4704-80c4-27ef28fd95ef)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=dbdbbe5e-2ef9-4704-80c4-27ef28fd95ef)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=08159149-17de-4640-8818-cb7bd4811531)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=08159149-17de-4640-8818-cb7bd4811531)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=bc949915-4e16-4897-a295-2f99102548ab)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=bc949915-4e16-4897-a295-2f99102548ab)  
 （严重）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=4b489f8c-ada0-4051-8284-0a941c04d2ed)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=4b489f8c-ada0-4051-8284-0a941c04d2ed)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=1662780f-370a-425b-9917-c601eb54a375)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=1662780f-370a-425b-9917-c601eb54a375)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=6e5e16f8-c140-4a1d-b898-8417a6bfd4d8)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=6e5e16f8-c140-4a1d-b898-8417a6bfd4d8)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=5ddb5e34-f97a-47c6-96c8-ba2ed06ccb77)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=5ddb5e34-f97a-47c6-96c8-ba2ed06ccb77)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
 (KB983582)  
 （严重）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
 (KB983583)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=e3574047-5ce5-4461-94aa-4eb3258d5e71)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=e3574047-5ce5-4461-94aa-4eb3258d5e71)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=deeac521-d3a2-4019-8176-c9228e733cf4)  
+[Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=deeac521-d3a2-4019-8176-c9228e733cf4)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 2.1](http://www.microsoft.com/downloads/details.aspx?familyid=b211664b-434d-4626-816f-c77510cfd44d)<sup>[1]</sup>  
+[Movie Maker 2.1](https://www.microsoft.com/download/details.aspx?familyid=b211664b-434d-4626-816f-c77510cfd44d)<sup>[1]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -453,31 +453,31 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3b44bd67-48e2-497f-9165-42a702e2cc0d)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3b44bd67-48e2-497f-9165-42a702e2cc0d)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=eaffa70c-6f2b-4e66-b1bc-64bdbbbcd34f)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=eaffa70c-6f2b-4e66-b1bc-64bdbbbcd34f)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=4d4e8eeb-a0b2-41c6-9ee4-3f4beb44195e)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=4d4e8eeb-a0b2-41c6-9ee4-3f4beb44195e)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b7f28d7a-6b27-4059-865b-5fd55edb6299)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b7f28d7a-6b27-4059-865b-5fd55edb6299)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=96b7a562-af16-4f0d-840c-838fb12e7419)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=96b7a562-af16-4f0d-840c-838fb12e7419)  
 （严重）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5296fb82-c446-4681-a9a0-0f80a2e248be)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5296fb82-c446-4681-a9a0-0f80a2e248be)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=f8ae3978-bad6-4201-8357-2d212ab703ef)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=f8ae3978-bad6-4201-8357-2d212ab703ef)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fd6cc359-e72e-46ec-a08b-763934e3e115)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fd6cc359-e72e-46ec-a08b-763934e3e115)  
 （严重）
 </td>
 <td style="border:1px solid black;">
@@ -485,10 +485,10 @@ Windows XP Professional x64 Edition Service Pack 2
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
 (KB983582)  
 （严重）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
 (KB983583)  
 （严重）
 </td>
@@ -496,11 +496,11 @@ Windows XP Professional x64 Edition Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=d6c5455e-bc31-4842-aef4-ebff92324323)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=d6c5455e-bc31-4842-aef4-ebff92324323)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 2.1](http://www.microsoft.com/downloads/details.aspx?familyid=decb1fe6-adc8-44f7-89c5-f25767f0cefe)<sup>[1]</sup>  
+[Movie Maker 2.1](https://www.microsoft.com/download/details.aspx?familyid=decb1fe6-adc8-44f7-89c5-f25767f0cefe)<sup>[1]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -608,41 +608,41 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=32fe91ef-5a8d-4095-90ee-2ca216696b09)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=32fe91ef-5a8d-4095-90ee-2ca216696b09)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=f76d68df-97e5-489c-a5f6-0c378c1f62ae)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=f76d68df-97e5-489c-a5f6-0c378c1f62ae)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=31ce233e-4d2d-404b-84a8-683319ba8ef7)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=31ce233e-4d2d-404b-84a8-683319ba8ef7)  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9c2110ec-7e6c-4e73-9785-0a8196095ea0)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9c2110ec-7e6c-4e73-9785-0a8196095ea0)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=b0370e1e-dedf-4fe8-a06c-0e0f0a674205)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=b0370e1e-dedf-4fe8-a06c-0e0f0a674205)  
 （严重）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=8753ae27-60a4-475a-b8bc-6a7764480295)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=8753ae27-60a4-475a-b8bc-6a7764480295)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=772e765d-0502-4b0b-bde8-d4f62b96db64)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=772e765d-0502-4b0b-bde8-d4f62b96db64)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=230e8559-e6df-49d5-acb5-b0cd4bde0bf4)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=230e8559-e6df-49d5-acb5-b0cd4bde0bf4)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
 (KB983582)  
 （严重）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
 (KB983583)  
 （严重）
 </td>
@@ -650,7 +650,7 @@ Windows Server 2003 Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=59395f00-90f4-4b68-8dd3-03ff611c1bc8)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=59395f00-90f4-4b68-8dd3-03ff611c1bc8)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -668,41 +668,41 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=923de214-c4fa-41e6-8307-2c5a37f13e8e)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=923de214-c4fa-41e6-8307-2c5a37f13e8e)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4543bcf0-3505-407b-a5a9-6250ece6fbac)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4543bcf0-3505-407b-a5a9-6250ece6fbac)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=4d784b57-8564-4e7e-8f61-f897398e7ea5)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=4d784b57-8564-4e7e-8f61-f897398e7ea5)  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fdfad4ca-37c4-4ac5-bebc-a5ad61299503)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fdfad4ca-37c4-4ac5-bebc-a5ad61299503)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=d92f5e69-43cf-4615-aa3b-41f9f40bb57b)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=d92f5e69-43cf-4615-aa3b-41f9f40bb57b)  
 （严重）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=fd3e9d06-1f8b-4ef7-84f6-61e85a1767b8)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=fd3e9d06-1f8b-4ef7-84f6-61e85a1767b8)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=863edf45-0d3b-4408-a47c-258dc4a4fd94)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=863edf45-0d3b-4408-a47c-258dc4a4fd94)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=03804f59-748e-4832-98e4-2d88564bd10a)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=03804f59-748e-4832-98e4-2d88564bd10a)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
 (KB983582)  
 （严重）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
 (KB983583)  
 （严重）
 </td>
@@ -710,7 +710,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9ef1c600-bb93-4800-81b8-8c64b369c194)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9ef1c600-bb93-4800-81b8-8c64b369c194)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -728,38 +728,38 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 SP2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=63aa5f8a-fe47-4892-b905-b54e4f3b6580)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=63aa5f8a-fe47-4892-b905-b54e4f3b6580)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=9ef992c3-96e9-4533-b844-07424a6054b3)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=9ef992c3-96e9-4533-b844-07424a6054b3)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=d87ac8b3-41fb-4cdd-b305-181a0024d85c)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=d87ac8b3-41fb-4cdd-b305-181a0024d85c)  
 （中等）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?familyid=782e2963-4a52-4a1d-b99a-34ba841038a7)  
+[Internet Explorer 6](https://www.microsoft.com/download/details.aspx?familyid=782e2963-4a52-4a1d-b99a-34ba841038a7)  
 （严重）  
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5e730064-8270-4d63-b497-c5ebeddea1fc)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5e730064-8270-4d63-b497-c5ebeddea1fc)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=e4f4f8b3-7a39-4d77-a46b-02c86ad159c3)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=e4f4f8b3-7a39-4d77-a46b-02c86ad159c3)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=648cfca5-19eb-4658-a6ad-fe546c4c44b9)  
 (KB983582)  
 （严重）  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=1e53f250-2d4b-4f61-86ee-9f9f3a9c0b48)  
 (KB983583)  
 （严重）
 </td>
@@ -767,7 +767,7 @@ Windows Server 2003 SP2（用于基于 Itanium 的系统）
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 SP2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=f96b8154-9976-41b0-b9d7-d79887fe9364)  
+[Windows Server 2003 SP2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=f96b8154-9976-41b0-b9d7-d79887fe9364)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -878,68 +878,68 @@ Windows Vista
 Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=52748886-6280-4247-8cbd-f64db229ee66)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=52748886-6280-4247-8cbd-f64db229ee66)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=aca69406-f795-4398-968f-959fe3a74e89)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=aca69406-f795-4398-968f-959fe3a74e89)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=bbfaadf8-ab38-456c-956a-ea18c64236c9)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=bbfaadf8-ab38-456c-956a-ea18c64236c9)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=535c563e-cdac-4e3d-96b0-9947ea22deca)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=535c563e-cdac-4e3d-96b0-9947ea22deca)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=2062566b-8b81-43c2-875d-9c06d4e3fa82)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=2062566b-8b81-43c2-875d-9c06d4e3fa82)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=9087a3aa-aa55-41f6-8c4c-f322e4aa8681)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=9087a3aa-aa55-41f6-8c4c-f322e4aa8681)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=60c81415-b61e-44a4-8dd9-cedec99eb70f)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=60c81415-b61e-44a4-8dd9-cedec99eb70f)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Vista Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)  
 (KB983587)  
 （严重）  
 仅限 Windows Vista Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)  
 (KB983588)  
 （严重）  
 仅限 Windows Vista Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)  
 (KB983589)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4486f97c-4cf8-4236-bfc3-b50e72e2a5c1)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4486f97c-4cf8-4236-bfc3-b50e72e2a5c1)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=c9345207-7242-4b71-bf80-b52031e08f8c)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=c9345207-7242-4b71-bf80-b52031e08f8c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=8aded9dd-08d6-4b19-955f-0d8414868cf9)<sup>[1]</sup>  
+[Movie Maker 6.0](https://www.microsoft.com/download/details.aspx?familyid=8aded9dd-08d6-4b19-955f-0d8414868cf9)<sup>[1]</sup>  
 （重要）  
-[Movie Maker 2.6](http://www.microsoft.com/downloads/details.aspx?familyid=a1d8ed0d-a3b5-416a-ab8b-77501da62132)<sup>[2]</sup>  
+[Movie Maker 2.6](https://www.microsoft.com/download/details.aspx?familyid=a1d8ed0d-a3b5-416a-ab8b-77501da62132)<sup>[2]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4684c4df-0a5c-4dba-82e5-059378737118)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4684c4df-0a5c-4dba-82e5-059378737118)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=dfb31aa2-7457-4581-9e28-7984a360edf4)  
+[Windows Vista Service Pack 1 和 Windows Vista Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=dfb31aa2-7457-4581-9e28-7984a360edf4)  
 （重要）
 </td>
 </tr>
@@ -948,68 +948,68 @@ Windows Vista Service Pack 1 和 Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=37648e95-05c2-4802-9a0f-660200baa229)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=37648e95-05c2-4802-9a0f-660200baa229)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=e2835ed1-5ca6-4347-8ff1-e694b1ac49ff)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=e2835ed1-5ca6-4347-8ff1-e694b1ac49ff)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=577131cd-1229-4746-89d7-84d75f29e1f0)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=577131cd-1229-4746-89d7-84d75f29e1f0)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=cd1185e3-ca22-4197-a53b-e7a2806ac352)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=cd1185e3-ca22-4197-a53b-e7a2806ac352)  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=65b04e29-8e39-46de-94e8-b653969b1ffd)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=65b04e29-8e39-46de-94e8-b653969b1ffd)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=10c9d5f1-53ed-459b-a663-e69bdb845a6b)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=10c9d5f1-53ed-459b-a663-e69bdb845a6b)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=469b732d-ca62-4a48-bb55-99f2ae4ddcf5)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=469b732d-ca62-4a48-bb55-99f2ae4ddcf5)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Vista x64 Edition Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)  
 (KB983587)  
 （严重）  
 仅限 Windows Vista x64 Edition Service Pack 1：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)  
 (KB983588)  
 （严重）  
 仅限 Windows Vista x64 Edition Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)  
 (KB983589)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=b547898e-f8a9-49dc-b49d-cffec5a001bc)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=b547898e-f8a9-49dc-b49d-cffec5a001bc)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=1620e7ac-3913-478d-8120-e9f46d98f453)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=1620e7ac-3913-478d-8120-e9f46d98f453)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Movie Maker 6.0](http://www.microsoft.com/downloads/details.aspx?familyid=4baff9ae-dd25-4942-b45e-f281d0e1f4ac)<sup>[1]</sup>  
+[Movie Maker 6.0](https://www.microsoft.com/download/details.aspx?familyid=4baff9ae-dd25-4942-b45e-f281d0e1f4ac)<sup>[1]</sup>  
 （重要）  
-[Movie Maker 2.6](http://www.microsoft.com/downloads/details.aspx?familyid=0a226592-8f98-4f67-ac60-1d00cbc56598)<sup>[2]</sup>  
+[Movie Maker 2.6](https://www.microsoft.com/download/details.aspx?familyid=0a226592-8f98-4f67-ac60-1d00cbc56598)<sup>[2]</sup>  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=18152cd4-815f-425f-8694-fbabcbe80609)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=18152cd4-815f-425f-8694-fbabcbe80609)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=110f932f-d13c-4486-a295-e6068d5d8d7a)  
+[Windows Vista x64 Edition Service Pack 1 和 Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=110f932f-d13c-4486-a295-e6068d5d8d7a)  
 （重要）
 </td>
 </tr>
@@ -1111,28 +1111,28 @@ Windows Server 2008
 Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3aabd189-7d4c-4c9f-8854-f33127b1c309)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3aabd189-7d4c-4c9f-8854-f33127b1c309)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=6e0253d4-f0c0-4f28-ba08-6907c2fcb339)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=6e0253d4-f0c0-4f28-ba08-6907c2fcb339)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=73b5f45c-c9d6-491f-8483-98838b2a7c04)\*  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=73b5f45c-c9d6-491f-8483-98838b2a7c04)\*  
 （中等）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=8239cb9e-bb5a-4157-8038-33d0b329eaee)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=8239cb9e-bb5a-4157-8038-33d0b329eaee)\*\*  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=409b9298-1e7d-48cf-9872-ffbdc56ebe53)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=409b9298-1e7d-48cf-9872-ffbdc56ebe53)\*\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a94e2e38-116a-4b63-9328-6c33e63bbbfe)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a94e2e38-116a-4b63-9328-6c33e63bbbfe)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -1140,35 +1140,35 @@ Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Server 2008（用于 32 位系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)\*\*  
 (KB983587)  
 （严重）  
 仅限 Windows Server 2008（用于 32 位系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)\*\*  
 (KB983588)  
 （严重）  
 仅限 Windows Server 2008（用于 32 位系统）Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)\*\*  
 (KB983589)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=611765ab-b3f3-45db-92b2-ee040b9cfd27)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=611765ab-b3f3-45db-92b2-ee040b9cfd27)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a8b1a3f7-7147-494e-bfc0-b1979b9578e6)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a8b1a3f7-7147-494e-bfc0-b1979b9578e6)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=844404be-f2e8-47bc-9650-9e2bbe383814)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=844404be-f2e8-47bc-9650-9e2bbe383814)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=4c9b3e60-e166-40c9-8938-3cba0a399c47)\*  
+[Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 位系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=4c9b3e60-e166-40c9-8938-3cba0a399c47)\*  
 （重要）
 </td>
 </tr>
@@ -1177,28 +1177,28 @@ Windows Server 2008（用于 32 位系统）和 Windows Server 2008（用于 32 
 Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=29c6fc2d-d318-4a63-9ab2-82e84272aaf2)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=29c6fc2d-d318-4a63-9ab2-82e84272aaf2)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=a96891ff-8771-47b3-81bb-8640adb6c098)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=a96891ff-8771-47b3-81bb-8640adb6c098)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=43ece408-4aa7-4819-b3f6-7f0719ed3213)\*  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=43ece408-4aa7-4819-b3f6-7f0719ed3213)\*  
 （中等）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=5ef8abf0-c89e-4911-8d77-42400d9a398f)\*\*  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=5ef8abf0-c89e-4911-8d77-42400d9a398f)\*\*  
 （严重）  
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=9b869bab-0797-4f83-8c64-23dda9983c8d)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=9b869bab-0797-4f83-8c64-23dda9983c8d)\*\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=602dd3f6-0d09-4546-b1db-d7b6b04edb66)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=602dd3f6-0d09-4546-b1db-d7b6b04edb66)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -1206,35 +1206,35 @@ Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Server 2008（用于基于 x64 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)\*\*  
 (KB983587)  
 （严重）  
 仅限 Windows Server 2008（用于基于 x64 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)\*\*  
 (KB983588)  
 （严重）  
 仅限 Windows Server 2008（用于基于 x64 的系统）Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)\*\*  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)\*\*  
 (KB983589)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=131f3512-1585-462e-a4f1-3f359aac44bd)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=131f3512-1585-462e-a4f1-3f359aac44bd)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=c1c25cb7-7e82-4c14-9666-aff52dd308b4)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=c1c25cb7-7e82-4c14-9666-aff52dd308b4)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=08491c73-66b1-4c4c-8740-ea596a730fc1)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=08491c73-66b1-4c4c-8740-ea596a730fc1)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=fa84e547-2190-402f-9467-2450deeff565)\*  
+[Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用于基于 x64 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=fa84e547-2190-402f-9467-2450deeff565)\*  
 （重要）
 </td>
 </tr>
@@ -1243,26 +1243,26 @@ Windows Server 2008（用于基于 x64 的系统）和 Windows Server 2008（用
 Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=cfe227b5-6660-49f8-9d71-a997dd83de0b)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=cfe227b5-6660-49f8-9d71-a997dd83de0b)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=3b16a422-0ee9-4eab-9cfe-e7688ffa0d76)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=3b16a422-0ee9-4eab-9cfe-e7688ffa0d76)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=b6faee94-e821-432d-bfa2-9008664566af)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=b6faee94-e821-432d-bfa2-9008664566af)  
 （中等）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?familyid=2f1eee63-2cca-4ec5-b196-36de3c0054cf)  
+[Internet Explorer 7](https://www.microsoft.com/download/details.aspx?familyid=2f1eee63-2cca-4ec5-b196-36de3c0054cf)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=24d8f0a3-51a9-46c1-b870-a2239bf600e4)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=24d8f0a3-51a9-46c1-b870-a2239bf600e4)  
 （重要）
 </td>
 <td style="border:1px solid black;">
@@ -1270,35 +1270,35 @@ Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008�
 </td>
 <td style="border:1px solid black;">
 仅限 Windows Server 2008（用于基于 Itanium 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](http://www.microsoft.com/downloads/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)  
+[Microsoft .NET Framework 2.0 Service Pack 1 和 Microsoft .NET Framework 3.5](https://www.microsoft.com/download/details.aspx?familyid=616c39f7-137a-40b9-b691-bc33c0aef7e1)  
 (KB983587)  
 （严重）  
 仅限 Windows Server 2008（用于基于 Itanium 的系统）：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=155bbb5c-247e-4bed-a287-527d978b7967)  
 (KB983588)  
 （严重）  
 仅限 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2：  
-[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)  
+[Microsoft .NET Framework 2.0 Service Pack 2 和 Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=7712e8ad-dea4-4a43-8a7b-dc154510c104)  
 (KB983589)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=972efd3a-ec1e-49b2-835e-76f4b21b5b79)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=972efd3a-ec1e-49b2-835e-76f4b21b5b79)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=45fe5135-aa89-4f60-8cdb-ec0edc9a7e77)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=45fe5135-aa89-4f60-8cdb-ec0edc9a7e77)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=8aa12902-c234-4fd9-bba3-6767eafc38fc)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=8aa12902-c234-4fd9-bba3-6767eafc38fc)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=84f89dca-108c-4956-9aa2-866e17a872fc)  
+[Windows Server 2008（用于基于 Itanium 的系统）和 Windows Server 2008（用于基于 Itanium 的系统）Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=84f89dca-108c-4956-9aa2-866e17a872fc)  
 （重要）
 </td>
 </tr>
@@ -1400,54 +1400,54 @@ Windows 7
 Windows 7（用于 32 位系统）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=22e62b5c-e4c1-47d0-ae4a-8bd2d70d0a0a)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=22e62b5c-e4c1-47d0-ae4a-8bd2d70d0a0a)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=71716507-7080-4102-991e-6afc7cc377d5)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=71716507-7080-4102-991e-6afc7cc377d5)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=31d0f5ac-2cff-42a1-8f18-128bbfc4e57d)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=31d0f5ac-2cff-42a1-8f18-128bbfc4e57d)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ecaf42e0-a288-40c1-8602-21e967a87408)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ecaf42e0-a288-40c1-8602-21e967a87408)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=8d58ebc4-a5f9-4318-a6f1-168c1bcdae3c)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=8d58ebc4-a5f9-4318-a6f1-168c1bcdae3c)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=2e782ac9-b5d5-490e-a01a-7d4481eab224)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=2e782ac9-b5d5-490e-a01a-7d4481eab224)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)  
 (KB983590)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=a7d60864-5942-47ed-a6f3-1c07b4833a14)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=a7d60864-5942-47ed-a6f3-1c07b4833a14)  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=68bddf4b-b597-477e-80e4-9293d7160496)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=68bddf4b-b597-477e-80e4-9293d7160496)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=3a5a088e-644a-4a0e-9a09-0370bcd97688)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=3a5a088e-644a-4a0e-9a09-0370bcd97688)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于 32 位系统）](http://www.microsoft.com/downloads/details.aspx?familyid=ce6233f3-2ee5-4329-908d-ba9b28ecc553)  
+[Windows 7（用于 32 位系统）](https://www.microsoft.com/download/details.aspx?familyid=ce6233f3-2ee5-4329-908d-ba9b28ecc553)  
 （重要）
 </td>
 </tr>
@@ -1456,54 +1456,54 @@ Windows 7（用于 32 位系统）
 Windows 7（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=9499f771-c388-4de3-a5c7-8cc8b00b4395)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=9499f771-c388-4de3-a5c7-8cc8b00b4395)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=c457d8ec-83b7-446f-b77c-e47d4187e616)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=c457d8ec-83b7-446f-b77c-e47d4187e616)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=a4f6d7c2-b475-4900-82f0-75f5be0b7b63)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=a4f6d7c2-b475-4900-82f0-75f5be0b7b63)  
 （严重）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=ca57a47a-9111-4abe-9356-4962ca2c1d65)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=ca57a47a-9111-4abe-9356-4962ca2c1d65)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=ad1ddf94-d714-4b36-8256-42bf79d03a90)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=ad1ddf94-d714-4b36-8256-42bf79d03a90)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=24751193-592f-4c44-a8d6-f4112d4f011b)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=24751193-592f-4c44-a8d6-f4112d4f011b)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)  
 (KB983590)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=b00ec47c-402e-4207-a4c9-6c1900f254f8)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=b00ec47c-402e-4207-a4c9-6c1900f254f8)  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=5ff09e03-d662-4b23-ab26-d25ca2ba58df)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=5ff09e03-d662-4b23-ab26-d25ca2ba58df)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=163fe2bd-f999-47c1-9a35-c4fc868bda51)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=163fe2bd-f999-47c1-9a35-c4fc868bda51)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows 7（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=146270fa-cd6f-440a-aa3e-e93af0bff447)  
+[Windows 7（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=146270fa-cd6f-440a-aa3e-e93af0bff447)  
 （重要）
 </td>
 </tr>
@@ -1605,53 +1605,53 @@ Windows Server 2008 R2
 Windows Server 2008 R2（用于基于 x64 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=0d9dd09b-db40-462b-88b0-4dbb8180e81f)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=0d9dd09b-db40-462b-88b0-4dbb8180e81f)\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=c9aeea25-ca14-4b42-9018-a27c9d8899c4)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=c9aeea25-ca14-4b42-9018-a27c9d8899c4)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=a48cdac5-4d78-49b5-a6d8-ecf6c58cace2)\*  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=a48cdac5-4d78-49b5-a6d8-ecf6c58cace2)\*  
 （中等）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=e7757bbc-3ef0-421d-ab57-0083a302c77b)\*\*  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=e7757bbc-3ef0-421d-ab57-0083a302c77b)\*\*  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=52642a8d-1081-4496-848e-9b03baf3fdac)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=52642a8d-1081-4496-848e-9b03baf3fdac)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)\*  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)\*  
 (KB983590)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=c1ad1248-07f1-42d4-baa4-8a20837ec7b4)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=c1ad1248-07f1-42d4-baa4-8a20837ec7b4)\*  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=6bbc9cb1-0b59-4473-adf9-2ce2f0f94c0a)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=6bbc9cb1-0b59-4473-adf9-2ce2f0f94c0a)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=a1f95600-34e5-44b3-b2cb-b2b2cbf645cb)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=a1f95600-34e5-44b3-b2cb-b2b2cbf645cb)\*  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 x64 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=333fb6e4-f867-4dcb-beb3-2d88e428ca2e)\*  
+[Windows Server 2008 R2（用于基于 x64 的系统）](https://www.microsoft.com/download/details.aspx?familyid=333fb6e4-f867-4dcb-beb3-2d88e428ca2e)\*  
 （重要）
 </td>
 </tr>
@@ -1660,53 +1660,53 @@ Windows Server 2008 R2（用于基于 x64 的系统）
 Windows Server 2008 R2（用于基于 Itanium 的系统）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=ce2bb5d4-f661-44e3-ac28-0b81f7b72670)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=ce2bb5d4-f661-44e3-ac28-0b81f7b72670)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=b7c2e91f-ca8a-4237-99c8-ca53c91cf73e)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=b7c2e91f-ca8a-4237-99c8-ca53c91cf73e)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML Core Services 3.0](http://www.microsoft.com/downloads/details.aspx?familyid=b4d3210e-f3ad-4dbb-9390-6e98eeb99eaa)  
+[Microsoft XML Core Services 3.0](https://www.microsoft.com/download/details.aspx?familyid=b4d3210e-f3ad-4dbb-9390-6e98eeb99eaa)  
 （中等）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](http://www.microsoft.com/downloads/details.aspx?familyid=7b457d04-03a9-4eb0-ba6a-ab45267e4f74)  
+[Internet Explorer 8](https://www.microsoft.com/download/details.aspx?familyid=7b457d04-03a9-4eb0-ba6a-ab45267e4f74)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=783fb42c-3698-4b1d-a692-3ff319578931)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=783fb42c-3698-4b1d-a692-3ff319578931)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](http://www.microsoft.com/downloads/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/details.aspx?familyid=77d0c428-237c-4dab-9645-6400dd9e65f8)  
 (KB983590)  
 （严重）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=f23dec0f-a33b-4d8c-a86d-0e9368ae7ff5)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=f23dec0f-a33b-4d8c-a86d-0e9368ae7ff5)  
 （中等）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=2543191a-09cb-4417-bbb2-aac4d9a2a756)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=2543191a-09cb-4417-bbb2-aac4d9a2a756)  
 （重要）
 </td>
 <td style="border:1px solid black;">
 不适用
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=c3cd7f2f-e198-4fbd-a65d-21a1bf51eb61)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=c3cd7f2f-e198-4fbd-a65d-21a1bf51eb61)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2（用于基于 Itanium 的系统）](http://www.microsoft.com/downloads/details.aspx?familyid=62034ecb-a6bd-46c5-a03d-9642880bc2d6)  
+[Windows Server 2008 R2（用于基于 Itanium 的系统）](https://www.microsoft.com/download/details.aspx?familyid=62034ecb-a6bd-46c5-a03d-9642880bc2d6)  
 （重要）
 </td>
 </tr>
@@ -1772,12 +1772,12 @@ Microsoft Office 套件、系统和组件
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=978eb887-25b6-4dde-a2ec-d2d1e7f1a434)  
+[Microsoft Office Word 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=978eb887-25b6-4dde-a2ec-d2d1e7f1a434)  
 (KB2251389)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=032e1530-8736-4e1c-a704-967679227619)  
+[Microsoft Office Excel 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=032e1530-8736-4e1c-a704-967679227619)  
 (KB2264397)  
 （重要）
 </td>
@@ -1787,12 +1787,12 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=4360bcec-0731-4d4a-89eb-7d28a4607f06)  
+[Microsoft Office Word 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=4360bcec-0731-4d4a-89eb-7d28a4607f06)  
 (KB2251399)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?familyid=7cecbce3-bbb7-47d1-bda3-64d7e0f69f62)  
+[Microsoft Office Excel 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?familyid=7cecbce3-bbb7-47d1-bda3-64d7e0f69f62)  
 (KB2264403)  
 （重要）
 </td>
@@ -1802,7 +1802,7 @@ Microsoft Office 2003 Service Pack 3
 2007 Microsoft Office System Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word 2007 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?familyid=0d7210a3-662e-41e7-affc-ae94f9d89388)<sup>[1]</sup>  
+[Microsoft Office Word 2007 Service Pack 2](https://www.microsoft.com/download/details.aspx?familyid=0d7210a3-662e-41e7-affc-ae94f9d89388)<sup>[1]</sup>  
 (KB2251419)  
 （严重）
 </td>
@@ -1842,12 +1842,12 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=d2f44d4a-7cd8-4514-b3ff-1770bc47d595)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=d2f44d4a-7cd8-4514-b3ff-1770bc47d595)  
 (KB2284171)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=d2f44d4a-7cd8-4514-b3ff-1770bc47d595)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?familyid=d2f44d4a-7cd8-4514-b3ff-1770bc47d595)  
 (KB2284171)  
 （重要）
 </td>
@@ -1857,12 +1857,12 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=6ece112f-0ca7-4b1f-ad20-603950edee66)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=6ece112f-0ca7-4b1f-ad20-603950edee66)  
 (KB2284162)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=6ece112f-0ca7-4b1f-ad20-603950edee66)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?familyid=6ece112f-0ca7-4b1f-ad20-603950edee66)  
 (KB2284162)  
 （重要）
 </td>
@@ -1872,12 +1872,12 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=a7b834a3-5a44-42d4-afe9-6ef207333834)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=a7b834a3-5a44-42d4-afe9-6ef207333834)  
 (KB2284179)  
 （重要）
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?familyid=a7b834a3-5a44-42d4-afe9-6ef207333834)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?familyid=a7b834a3-5a44-42d4-afe9-6ef207333834)  
 (KB2284179)  
 （重要）
 </td>
@@ -1914,7 +1914,7 @@ Open XML File Format Converter for Mac
 Microsoft Office Word Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Word Viewer](http://www.microsoft.com/downloads/details.aspx?familyid=39fe2229-9201-4270-bdc1-20bc8e30a766)  
+[Microsoft Office Word Viewer](https://www.microsoft.com/download/details.aspx?familyid=39fe2229-9201-4270-bdc1-20bc8e30a766)  
 (KB2251437)  
 （重要）
 </td>
@@ -1927,7 +1927,7 @@ Microsoft Office Word Viewer
 用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 2 的 Microsoft Office 兼容包
 </td>
 <td style="border:1px solid black;">
-[用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 2 的 Microsoft Office 兼容包](http://www.microsoft.com/downloads/details.aspx?familyid=ed5b9671-651d-41f3-aed3-93ee8a28657f)  
+[用于 Word、Excel 和 PowerPoint 2007 文件格式 Service Pack 2 的 Microsoft Office 兼容包](https://www.microsoft.com/download/details.aspx?familyid=ed5b9671-651d-41f3-aed3-93ee8a28657f)  
 (KB2277947)  
 （重要）
 </td>
@@ -1940,7 +1940,7 @@ Microsoft Office Word Viewer
 Microsoft Works 9
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 9](http://www.microsoft.com/downloads/details.aspx?familyid=feb121ad-e5f6-40e2-bf12-045ae5c2a754)  
+[Microsoft Works 9](https://www.microsoft.com/download/details.aspx?familyid=feb121ad-e5f6-40e2-bf12-045ae5c2a754)  
 (KB2092914)  
 （重要）
 </td>
@@ -2006,13 +2006,13 @@ Microsoft Silverlight 2
 Microsoft Silverlight 3
 </td>
 <td style="border:1px solid black;">
-安装在 Mac 上的 [Microsoft Silverlight 3](http://www.microsoft.com/downloads/details.aspx?familyid=7e3f6c16-1339-49bc-a60c-ddc6c3a54850)<sup>[2]</sup>  
+安装在 Mac 上的 [Microsoft Silverlight 3](https://www.microsoft.com/download/details.aspx?familyid=7e3f6c16-1339-49bc-a60c-ddc6c3a54850)<sup>[2]</sup>  
 (KB978464)  
 （严重）  
-安装在 Microsoft Windows 客户端的所有版本上的 [Microsoft Silverlight 3](http://www.microsoft.com/downloads/details.aspx?familyid=7e3f6c16-1339-49bc-a60c-ddc6c3a54850)<sup>[2]</sup>  
+安装在 Microsoft Windows 客户端的所有版本上的 [Microsoft Silverlight 3](https://www.microsoft.com/download/details.aspx?familyid=7e3f6c16-1339-49bc-a60c-ddc6c3a54850)<sup>[2]</sup>  
 (KB978464)  
 （严重）  
-安装在 Microsoft Windows 服务器的所有版本上的 [Microsoft Silverlight 3](http://www.microsoft.com/downloads/details.aspx?familyid=7e3f6c16-1339-49bc-a60c-ddc6c3a54850)<sup>[2]</sup>  
+安装在 Microsoft Windows 服务器的所有版本上的 [Microsoft Silverlight 3](https://www.microsoft.com/download/details.aspx?familyid=7e3f6c16-1339-49bc-a60c-ddc6c3a54850)<sup>[2]</sup>  
 (KB978464)  
 （严重）
 </td>
@@ -2062,7 +2062,7 @@ Microsoft Systems Management Server (SMS) 提供了一个用于管理更新且�
 
 **更新兼容性评估程序和应用程序兼容性工具箱**
 
-此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](http://www.microsoft.com/downloads/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
+此更新通常写入运行应用程序所必需的相同文件和注册表设置。 这可触发不兼容并使安全更新的部署占用更多的时间。 通过使用[应用程序兼容性工具包](https://www.microsoft.com/download/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en)中包含的[更新兼容性评估程序](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true)组件，您可以简化测试和验证对已安装程序进行的 Windows 更新。
 
 应用程序兼容性工具包 (ACT) 包含必要的工具和文档，以便在您的环境中部署 Microsoft Windows Vista、Windows Update、Microsoft Security Update 或新版本的 Windows Internet Explorer 之前评估和缓减应用程序的兼容性问题。
 
